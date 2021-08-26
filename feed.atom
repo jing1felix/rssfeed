@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-25T16:12:07.329Z</id>
+    <id>urn:2021-08-26T01:25:13.238Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-25T16:12:07.329Z</updated>
+    <updated>2021-08-26T01:25:13.238Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[最适合程序员的笔记软件]]></title>
+        <id>http://www.ruanyifeng.com/blog/2021/08/best-note-taking-software-for-programmers.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2021/08/best-note-taking-software-for-programmers.html"/>
+        <updated>2021-08-26T00:42:33.000Z</updated>
+        <summary type="html"><![CDATA[程序员的笔记软件，应该满足下面几个条件。
+
+（1）跨平台，同时支持桌面电脑（Windows，Mac，Linux）和手机（Android，iOS）。
+（2）随时同步，打开任何一台机器，都能接着上一次的工作继续写。
+（3）实时存储，如果软件突然关闭，也不会丢失内容。
+（4）支持 Markdown 格式，便于后期直接发布。
+（5）支持推送到远程 Git 仓库，产生历史版本，同时作为远程备份。
+我一直在寻找符合这些条件的工具，但是市场上大部分的笔记软件，都不支持上面的第5点，Git 集成要么没有，要么很弱。
+我用过 Stackedit.io 和 HackMD.io，都不是很理想。
+
+最近，我终于找到了最佳方案，那就是 GitHub 官方推出的 github.dev。
+只要访问下面的网址，你就能在浏览器里面，使用 VS Code 编辑指定仓库。可以点击这里体验一下。
+
+https://github.dev/[用户名]/[仓库名]
+
+它实际上就是 VS Code 编辑器的 Web 版，并且与 Git 高度集成。这种组合，还有什么笔记软件会比它更强！
+
+使用时，首先在 GitHub 上面新建一个笔记仓库，公开或私密都可以。然后使用 github.dev 编辑完，再推送回仓库。换到其它机器时，就先从仓库获取文档的最新版本，简直是完美的解决方案。
+更棒的是，GitHub 提供了一个快捷入口。 打开 GitHub 仓库主页，按一下小数点（.）这个键， 页面就会自动跳转到 VS Code 编辑环境，真是太方便了。
+
+另外，还有一个非官方的 github1s.com，也提供类似功能。只要在仓库域名的里面，加上"1s"就可以了。但毕竟是非官方工具，这里就不推荐了。
+
+https://github1s.com/[用户名]/[仓库名]
+
+github.dev 针对的是桌面的"键盘 + 鼠标"环境，手机触摸屏可以使用，但终归很笨拙。
+如果你更希望使用手机原生 App，我推荐 Obsidian。它有全平台的客户端，并且可以参考这篇文章设置 Git 集成。
+
+另外，FSNotes 也不错，可惜只支持苹果设备。
+
+如果你不需要 Git 集成和 Markdown 支持，那就最简单了，几大软件巨头的官方笔记 App，就非常好用：Google keep、Apple Notes（只支持苹果设备）和微软 OneNote。
+
+它们都是自动多端同步，缺点是不便于编写大型文档，以及导出数据很麻烦。
+（完）
+文档信息
+版权声明：自由转载-非商用-非衍生-保持署名（创意共享3.0许可证）
+发表日期： 2021年8月26日]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One Way to Convert Code Indentation]]></title>
+        <id>https://css-tricks.com/?p=350311</id>
+        <link href="https://css-tricks.com/one-way-to-convert-code-indentation/"/>
+        <updated>2021-08-25T22:34:04.000Z</updated>
+        <summary type="html"><![CDATA[A question:
+If you copy a code sample that uses two-space indentation and you want to convert it to four-space indentation, what’s the *fastest* and easiest option?
+Matt Stauffer, Twitter
+
+I wrote about doing this in Sublime Text a …
+The post One Way to Convert Code Indentation appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data Science Interview Questions for Beginners]]></title>
+        <id>612114773bccf807612a5084</id>
+        <link href="https://www.freecodecamp.org/news/23-common-data-science-interview-questions-for-beginners/"/>
+        <updated>2021-08-25T21:39:37.000Z</updated>
+        <summary type="html"><![CDATA[In 2012, Harvard Business Review named data science the sexiest job of the 21st century. But if you want to get a job as a data scientist, you'll need to go through a tough interview process. During data science job interviews, the interviewer will likely ask questions from different data]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a JSON File? Example JavaScript Code]]></title>
+        <id>612633433bccf807612a7bf4</id>
+        <link href="https://www.freecodecamp.org/news/what-is-a-json-file-example-javascript-code/"/>
+        <updated>2021-08-25T20:04:19.000Z</updated>
+        <summary type="html"><![CDATA[JSON stands for JavaScript Object Notation. A JSON file has .json as its extension and the data inside are represented in a key:value pair, just like a traditional JavaScript object.  JSON and objects aren't exactly the same, though. The core difference is that the key in JSON must be]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Raspberry Pi? Specs and Models (2021 Guide)]]></title>
+        <id>611e7d553bccf807612a33ec</id>
+        <link href="https://www.freecodecamp.org/news/what-is-raspberry-pi-specs-and-models-2021-guide/"/>
+        <updated>2021-08-25T16:17:20.000Z</updated>
+        <summary type="html"><![CDATA[IntroductionAre you curious about the IoT (Internet of Things?) Have you always wanted to try to make your own robot, smart mirror, or bird feeder camera? What about building a computer for a fraction of the cost of a commercially available machine? If you said yes to any of these]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is JavaScript? JavaScript Code Explained in Plain English]]></title>
         <id>61064a8d3306a507d1bfbff9</id>
@@ -122,36 +212,6 @@ The post Architecting With Next.js appeared first on CSS-Tricks. You can support
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dictionary Comprehension in Python – Explained with Examples]]></title>
-        <id>61225b3f3bccf807612a5aae</id>
-        <link href="https://www.freecodecamp.org/news/dictionary-comprehension-in-python-explained-with-examples/"/>
-        <updated>2021-08-24T17:34:03.000Z</updated>
-        <summary type="html"><![CDATA[Dictionaries are powerful built-in data structures in Python that store data as key-value pairs. Dictionary Comprehension can be super helpful in creating new dictionaries from existing dictionaries and iterables. In this tutorial, we'll learn how dictionary comprehensions work in Python by coding some simple examples. What is a Dictionary in]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Array.forEach() Tutorial – How to Iterate Through Elements in an Array]]></title>
-        <id>612116513bccf807612a50db</id>
-        <link href="https://www.freecodecamp.org/news/javascript-array-foreach-tutorial-how-to-iterate-through-elements-in-an-array-with-map/"/>
-        <updated>2021-08-24T17:16:41.000Z</updated>
-        <summary type="html"><![CDATA[In JavaScript, you'll often need to iterate through an array collection and execute a callback method for each iteration. And there's a helpful method JS devs typically use to do this: the forEach() method. The forEach() method calls a specified callback function once for every element it iterates over inside]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is HTML – Definition and Meaning of Hypertext Markup Language]]></title>
-        <id>6124d7c33bccf807612a70b0</id>
-        <link href="https://www.freecodecamp.org/news/what-is-html-definition-and-meaning/"/>
-        <updated>2021-08-24T16:38:12.000Z</updated>
-        <summary type="html"><![CDATA[HTML, or Hypertext Markup Language, is a markup language for the web that defines the structure of web pages.  It is one of the most basic building blocks of every website, so it's crucial to learn if you want to have a career in web development.  In this article, I]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Introduction to the Solid JavaScript Library]]></title>
         <id>https://css-tricks.com/?p=346597</id>
         <link href="https://css-tricks.com/introduction-to-the-solid-javascript-library/"/>
@@ -246,6 +306,36 @@ The post Creating a Headless WordPress Site With Frontity appeared first on CSS-
         <summary type="html"><![CDATA[The story of Jamstack CMSs goes all the way back to the 90s. In this article, we take a trip down memory lane to see how we got to the modern Jamstack CMSs we have today, and where they’re heading in the next decade.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Mike Neumegen)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 172 期）：我们会死于气候灾难吗？]]></title>
+        <id>http://www.ruanyifeng.com/blog/2021/08/weekly-issue-172.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2021/08/weekly-issue-172.html"/>
+        <updated>2021-08-20T00:36:06.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。
+本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。
+周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。
+封面图
+
+今年4月，西宁野生动物园成功地人工孵化了一个高山兀鹫的鸟蛋。目前，这只雏鸟已经达到了四月龄，生长得非常良好，成为中国首只人工养活的高山兀鹫雏鸟。（via）
+本周话题：我们会死于气候灾难吗？
+上周，联合国发布了一份《气候问题评估报告》，供各国政府参考。
+
+国内媒体没怎么报道这件事，但在国际上，它都是各国的头版新闻。
+一般来说，政府单位的报告都写得四平八稳、滴水不漏。但是，这份报告是罕见的例外，它写得非常明确尖锐，结论就是四个字："大难临头"。
+报告认为，根据各种科学研究和观测结果，可以认定 气候灾难已经发生了，并将继续加剧。 人类现在所做的种种减碳努力，并不能避免灾难，只是为了不让最糟糕的结果发生。
+
+报告描绘了非常可怕的全球变暖进程，地球的平均气温，目前比工业革命前上升了1.2度，估计未来一两年内就会上升1.5度。如果温室气体排放量继续增加，2050年前将会上升2度，本世纪末之前达到3度。
+
+有的朋友可能觉得，两三度不算什么。但这是全球平均气温，包括海洋和陆地，由于海洋的温度波动远远小于陆地，这意味着陆地的温度上升，可能是四五度。
+以上海为例，七月的平均气温，现在是28度到35度。如果到了2050年上升三度，就变成31度到38度，如果更高，最高气温的平均值就会达到40度。这住起来就太痛苦了。
+
+我们会遭遇什么样的灾难？联合国报告是这样描述的：
+"地球将变得干燥许多，整个生态系统被破坏，导致大规模物种灭绝，并使全球的粮食保障面临巨大风险。
+以下五种灾难现象将会越来越严重：（1）高温，（2）干旱，（3）洪水，（4）飓风，（5）海平面上升。…]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
         </author>
     </entry>
     <entry>
@@ -348,17 +438,6 @@ The post DX, to Whom? appeared first on CSS-Tricks. You can support CSS-Tricks b
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[From a Single Repo, to Multi-Repos, to Monorepo, to Multi-Monorepo]]></title>
-        <id>https://css-tricks.com/?p=346449</id>
-        <link href="https://css-tricks.com/from-a-single-repo-to-multi-repos-to-monorepo-to-multi-monorepo/"/>
-        <updated>2021-08-17T14:53:41.000Z</updated>
-        <summary type="html"><![CDATA[I’ve been working on the same project for several years. Its initial version was a huge monolithic app containing thousands of files. It was poorly architected and non-reusable, but was hosted in a single repo making it easy to work …
-The post From a Single Repo, to Multi-Repos, to Monorepo, to Multi-Monorepo appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Leonardo Losoviz</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Free Open-Source Icons]]></title>
         <id>https://smashingmagazine.com/2021/08/open-source-icons/</id>
         <link href="https://smashingmagazine.com/2021/08/open-source-icons/"/>
@@ -376,6 +455,38 @@ The post From a Single Repo, to Multi-Repos, to Monorepo, to Multi-Monorepo appe
         <summary type="html"><![CDATA[Software development without a roadmap is akin to driving off a cliff — an undertaking that seriously jeopardizes your product’s life. Here’s how to develop a business technology roadmap that ensures your project safely reaches its final destination.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cache Merril)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 171 期）：云服务流量有多贵？]]></title>
+        <id>http://www.ruanyifeng.com/blog/2021/08/weekly-issue-171.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2021/08/weekly-issue-171.html"/>
+        <updated>2021-08-13T00:34:48.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。
+本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。
+周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。
+封面图
+
+风力发电机叶片，江西萍乡。（via）
+本周话题：云服务流量有多贵？
+上月，Cloudflare 的官网发表了一篇罕见的文章，它的 CEO 抨击亚马逊网络服务，流量收费太贵。
+今天就来谈谈，云服务流量到底贵到什么程度。
+
+亚马逊是全世界最大的云服务商，提供各种网络基础设施。用过的人都知道，它的收费里面，硬件费用（CPU、内存、硬盘等）是小头，流量费用才是大头。
+
+流量费有多贵？Cloudflare 根据自己从机房拿到的批发价推算，亚马逊在北美和欧洲，向用户收取的流量费，是批发价的80倍！
+机房的带宽批发价是 1Mbps 收费0.08美元，亚马逊转手卖给开发者，价格就是6.37美元！（带宽与流量的换算关系，放到后面解释。）
+
+
+我给大家算一笔账，按照这种流量费用，在亚马逊托管一个小网站要多少钱。
+假设网站每天的浏览量是2500个页面，每个页面的大小是 2MB，那么一天的流量就是 5GB，一个月下来就是 150GB。
+亚马逊有一个官方的价格计算器，我们去那里选择硬件，这里一律选择最低配置，然后填写需要的流量是150GB，页面会自动给出价格。
+
+算出来的价格就是16.31美元/月（大约110元人民币），其中流量费要占到13.41美元。可以看到，这么小的网站，一年下来需要1000多元人民币。如果访问量增大10倍，每月达到1500GB，其实还是属于小网站，但是收取的费用会增加到每年1万多元人民币。
+一个真实的案例是，一个开发者平时的账单是每月23.00美元，某天一觉醒来，收到了一张2,657.68美元的账单。
+需要指出的是，不仅是亚马逊，其它云服…]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
         </author>
     </entry>
     <entry>
@@ -449,6 +560,37 @@ The post From a Single Repo, to Multi-Repos, to Monorepo, to Multi-Monorepo appe
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 170 期）：软件订阅制的胜利]]></title>
+        <id>http://www.ruanyifeng.com/blog/2021/08/weekly-issue-170.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2021/08/weekly-issue-170.html"/>
+        <updated>2021-08-06T00:23:21.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。
+本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。
+周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。
+封面图
+
+一个摄影师在荷兰拍到了一只倒着飞的鹅。（via）
+本周话题：软件订阅制的胜利
+上周，苹果公司最新一季的财报，披露了一个惊人的数据：它有 7亿 付费订阅用户。
+
+这太可怕了。世界总人口目前大约是78亿，里面包含了小孩、老人、文盲、穷人。即使把他们都算在内，全世界每11个人里面，就有一个人购买苹果公司的软件服务。软件生意还能做得比这更大吗？
+注意，这是付费用户，不是免费用户。作为比较，阿里巴巴上周也宣布，它有10亿活跃用户，但那是免费用户。如果每月付费才能使用淘宝，不知还有多少能留下来。
+苹果的付费订阅服务，目前主要有六项。
+iCloud：存储服务
+Apple Music：音乐服务
+Apple TV：视频服务
+Apple News：新闻服务
+Apple Fitness：健身服务
+Apple Arcade：游戏服务
+苹果把它们打包在一起，做成了一个 Apple One 订阅包。7亿订阅用户应该就是购买这些服务的人数。至于硬件质保的 Apple Care 服务，可能不包括在里面，因为它属于硬件销售收入，而不是软件收入。
+
+今天我想谈的，并不是这些服务本身，而是想提醒大家注意。 世界最大的一些软件公司，正在改变软件销售模式，不再销售软件本体了，而是收取软件服务的订阅费。 苹果只是其中一个典型的例子。
+除了苹果，世界最大的桌面软件商----微软公司也正在改成订阅制。它的 Office 已经变成了 Office365 服务，都在云端使用，个人版的价格是每年398元人民币。它还有计划在今年下半年，推出 Windows365 服务，把 Windows …]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Frustrating Design Patterns: Disabled Buttons]]></title>
         <id>https://smashingmagazine.com/2021/08/frustrating-design-patterns-disabled-buttons/</id>
         <link href="https://smashingmagazine.com/2021/08/frustrating-design-patterns-disabled-buttons/"/>
@@ -509,6 +651,42 @@ The post From a Single Repo, to Multi-Repos, to Monorepo, to Multi-Monorepo appe
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 169 期）：五菱汽车的产品设计]]></title>
+        <id>http://www.ruanyifeng.com/blog/2021/07/weekly-issue-169.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2021/07/weekly-issue-169.html"/>
+        <updated>2021-07-30T00:30:01.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。
+本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。
+周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。
+封面图
+
+上海中环的一根高架柱子上面，画着一匹巨大的斑马。（via）
+本周话题：五菱汽车的产品设计
+很多年前，我就知道五菱汽车。大学时，一个广西同学去了那里就业，从此我就记住了，柳州有一家汽车厂。
+当年，它很不起眼，主要生产面包车。据说，模仿的是日本三菱面包车，连牌子和名字都模仿了人家。
+
+但是后来，这家公司逐渐摆脱了模仿，开始生产原创的家用轿车，发展得越来越好，成了全国知名品牌。尤其是近两年的几个车型，简直令人刮目相看。
+宝骏 E300。
+
+宏光 Mini EV。
+
+皮卡和房车。
+
+
+这些车的造型和外观设计，十分新颖和别致，完全原创，明显有一套自己的设计语言，非常吸引眼球。
+要知道，它们都是低价车，定价几乎是同类车的下限，房车十几万，其他车几万块，配置都很低端。这就是我觉得不简单的地方， 明明是廉价货，可是看上去一点都不廉价，反而有点气派。
+举例来说，很多年轻人，尤其是女性，购买五菱宏光 Mini EV，作为代步车。但它的配置和价格，跟有一些四轮的老年代步车差不多。那些老年代步车让人觉得很简陋，年轻人几乎不可能购买，但是五菱重新设计和包装以后，就打开了市场。这就是厉害的产品设计。
+
+把廉价的东西做得很廉价，那不叫本事； 把廉价的东西做得很轻盈，那才叫本事。  
+所谓"轻盈"，就是简单优雅，在物质上节省材料和能源，在精神上追求自由。廉价的东西，原来只能吸引低端的顾客；做得轻盈以后，就能吸引到高收入的顾客。
+我觉得，五菱汽车是一个好例子，值得软件开发者学习，怎么把产品做得简单而不简陋，轻盈而不笨重。
+Vue 3 和 React 17 的源码比较
+…]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[There Is No Such Thing As A CSS Absolute Unit]]></title>
         <id>https://smashingmagazine.com/2021/07/css-absolute-units/</id>
         <link href="https://smashingmagazine.com/2021/07/css-absolute-units/"/>
@@ -526,16 +704,6 @@ The post From a Single Repo, to Multi-Repos, to Monorepo, to Multi-Monorepo appe
         <summary type="html"><![CDATA[Dialogs are everywhere in modern interface design (for good or for bad), and yet many of them are not accessible to assistive technologies. In this article, we will dig into how to create a short script to create accessible dialogs.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Kitty Giraudel)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Global vs. Local Styling In Next.js]]></title>
-        <id>https://smashingmagazine.com/2021/07/global-local-styling-nextjs/</id>
-        <link href="https://smashingmagazine.com/2021/07/global-local-styling-nextjs/"/>
-        <updated>2021-07-27T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Next.js has strong opinions about how to organize JavaScript but not CSS. How can we develop patterns that encourage best CSS practices while also following the framework’s logic? The answer is surprisingly simple — to write well-structured CSS that balances global and local styling concerns.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Alexander Dubovoy)</name>
         </author>
     </entry>
 </feed>
