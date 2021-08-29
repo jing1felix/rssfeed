@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-28T00:47:20.639Z</id>
+    <id>urn:2021-08-29T00:53:01.033Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-28T00:47:20.639Z</updated>
+    <updated>2021-08-29T00:53:01.033Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -684,52 +684,6 @@ Apple Arcade：游戏服务
         <summary type="html"><![CDATA[New month, new wallpapers! In this post, you’ll find unique and inspiring wallpapers for August 2021. Created with love by the community for the community, they come in versions with and without a calendar for the month.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Build An E-Commerce Site With Angular 11, Commerce Layer And Paypal]]></title>
-        <id>https://smashingmagazine.com/2021/07/ecommerce-angular11-headless-paypal/</id>
-        <link href="https://smashingmagazine.com/2021/07/ecommerce-angular11-headless-paypal/"/>
-        <updated>2021-07-30T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Having an e-commerce store is crucial for any store owner as more and more customers are turning to online shopping. In this tutorial, we shall go through how to create an e-commerce site with Angular 11. The site will use the Commerce Layer as a headless e-commerce API and use Paypal to process payments.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Zara Cooper)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 169 期）：五菱汽车的产品设计]]></title>
-        <id>http://www.ruanyifeng.com/blog/2021/07/weekly-issue-169.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2021/07/weekly-issue-169.html"/>
-        <updated>2021-07-30T00:30:01.000Z</updated>
-        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。
-本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。
-周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。
-封面图
-
-上海中环的一根高架柱子上面，画着一匹巨大的斑马。（via）
-本周话题：五菱汽车的产品设计
-很多年前，我就知道五菱汽车。大学时，一个广西同学去了那里就业，从此我就记住了，柳州有一家汽车厂。
-当年，它很不起眼，主要生产面包车。据说，模仿的是日本三菱面包车，连牌子和名字都模仿了人家。
-
-但是后来，这家公司逐渐摆脱了模仿，开始生产原创的家用轿车，发展得越来越好，成了全国知名品牌。尤其是近两年的几个车型，简直令人刮目相看。
-宝骏 E300。
-
-宏光 Mini EV。
-
-皮卡和房车。
-
-
-这些车的造型和外观设计，十分新颖和别致，完全原创，明显有一套自己的设计语言，非常吸引眼球。
-要知道，它们都是低价车，定价几乎是同类车的下限，房车十几万，其他车几万块，配置都很低端。这就是我觉得不简单的地方， 明明是廉价货，可是看上去一点都不廉价，反而有点气派。
-举例来说，很多年轻人，尤其是女性，购买五菱宏光 Mini EV，作为代步车。但它的配置和价格，跟有一些四轮的老年代步车差不多。那些老年代步车让人觉得很简陋，年轻人几乎不可能购买，但是五菱重新设计和包装以后，就打开了市场。这就是厉害的产品设计。
-
-把廉价的东西做得很廉价，那不叫本事； 把廉价的东西做得很轻盈，那才叫本事。  
-所谓"轻盈"，就是简单优雅，在物质上节省材料和能源，在精神上追求自由。廉价的东西，原来只能吸引低端的顾客；做得轻盈以后，就能吸引到高收入的顾客。
-我觉得，五菱汽车是一个好例子，值得软件开发者学习，怎么把产品做得简单而不简陋，轻盈而不笨重。
-Vue 3 和 React 17 的源码比较
-…]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
         </author>
     </entry>
 </feed>
