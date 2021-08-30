@@ -17,7 +17,7 @@
           "description": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。\n周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。\n封面图\n\n上海的很多老小区，由于历史原因，有很多密密麻麻的架空电线，非常影响美观。江阴路今年的社区更新，尝试将架空线包裹进入人造的绿色藤蔓。（via）\n本周话题：网络收音机的设计\n最近，我为家里的老人买了一台网络收音机。\n老人的年纪很大（超过85岁），完全不懂互联网，操作智能手机会经常点错地方，不知道怎么恢复。平时唯一的消遣就是看电视，其实根本不爱看，但没有别的娱乐。这样的老人家在互联网时代非常弱势，但是人数还不少，我们国家搞不好有一两个亿。\n\n我希望，找到一台网络收音机，能够接收网络节目，帮老人丰富生活、了解外界。我的要求是，操作越简单越好，不懂互联网的人也可以毫无困难地上手。\n大家不妨想一想，如果你是设计师，会怎么设计这个产品？下面这样全触摸式的网络收音机，适合老人吗？\n\n我在网上还真的找到这样一个产品，立刻下单。前几天收到实物以后，发现比我想像的更好，基本上完全满足了我的需求，忍不住要在这里谈一谈。\n下面不是为它做广告，纯粹只是以它为例，讨论针对老年用户的电子产品，应该怎么设计。\n\n\n我觉得，这个网络收音机真的是为老年人设计的，设计师用心了，把老年人不需要的功能都砍掉了，让产品变得尽量简单。\n我特别赞赏的有三个地方。\n（1）它直接连接喜马拉雅的节目库，不需要任何登陆或认证，打开就直接播放，用户感知不到喜马拉雅的存在。\n设想一下，如果需要切换网址或者节目源，老人能理解这种操作吗？\n（2）音量控制是旋钮，而不是手机常用的按键。\n这一点特别赞。旋钮是机械装置，容易坏，但是手感好、体积大、容易操作，符合直觉。如果能把电源开关也做进旋钮，就更好了。…",
           "link": "http://www.ruanyifeng.com/blog/2021/08/weekly-issue-173.html",
           "publishedOn": "2021-08-27T00:36:29.000Z",
-          "wordCount": 852,
+          "wordCount": 865,
           "title": "科技爱好者周刊（第 173 期）：网络收音机的设计"
         },
         {
@@ -63,6 +63,60 @@
       "feedUrl": "https://api.feeddd.org/feeds/6110783449ef7514d0b91ae1",
       "siteUrl": "https://mp.weixin.qq.com",
       "articles": [
+        {
+          "id": "https://mp.weixin.qq.com/s/xm1deDHWPjCMphDUL6ah8A",
+          "author": null,
+          "description": "被可口百事压了20年后，国产汽水开始大反攻了。",
+          "link": "https://mp.weixin.qq.com/s/xm1deDHWPjCMphDUL6ah8A",
+          "publishedOn": "2021-08-29T22:06:22.000Z",
+          "wordCount": 261,
+          "title": "被可口百事压了20年后，国产汽水开始大反攻了。"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/Wj1P7zzUKpsRFzMqr0PH7Q",
+          "author": null,
+          "description": "网易云音乐下明星榜，丰田为自动驾驶车辆撞人道歉，快递公司全面涨价，字节跳动收购Pico，这就是今天的其他大新闻！",
+          "link": "https://mp.weixin.qq.com/s/Wj1P7zzUKpsRFzMqr0PH7Q",
+          "publishedOn": "2021-08-29T16:34:32.000Z",
+          "wordCount": 113,
+          "title": "网易云音乐下明星榜，丰田为自动驾驶车辆撞人道歉，快递公司全面涨价，字节跳动收购Pico，这就是今天的其他大新闻！"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/z2ifYZ_ZMCNApq3ev-qDwQ",
+          "author": null,
+          "description": "聊一聊：未来的VR达到什么水平你会购买？",
+          "link": "https://mp.weixin.qq.com/s/z2ifYZ_ZMCNApq3ev-qDwQ",
+          "publishedOn": "2021-08-29T16:34:32.000Z",
+          "wordCount": 54,
+          "title": "聊一聊：未来的VR达到什么水平你会购买？"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/6cEnK_0NaZ2fvWtpfsJF2A",
+          "author": null,
+          "description": "今日最佳：请勿模仿。",
+          "link": "https://mp.weixin.qq.com/s/6cEnK_0NaZ2fvWtpfsJF2A",
+          "publishedOn": "2021-08-29T16:34:32.000Z",
+          "wordCount": 55,
+          "title": "今日最佳：请勿模仿。"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/2AVThdYngRnI6BOx-H8NLQ",
+          "author": null,
+          "description": "看整蛊节目开外放，女朋友差点把刀拎起来。",
+          "link": "https://mp.weixin.qq.com/s/2AVThdYngRnI6BOx-H8NLQ",
+          "publishedOn": "2021-08-29T16:34:32.000Z",
+          "wordCount": 87,
+          "title": "看整蛊节目开外放，女朋友差点把刀拎起来。"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/H-uwxEwaR6ixSc8UBVhxog",
+          "author": null,
+          "description": "用了这个网站，我把《游戏王》的人物做成了真人版。",
+          "link": "https://mp.weixin.qq.com/s/H-uwxEwaR6ixSc8UBVhxog",
+          "publishedOn": "2021-08-29T16:34:32.000Z",
+          "wordCount": 148,
+          "title": "用了这个网站，我把《游戏王》的人物做成了真人版。"
+        },
         {
           "id": "https://mp.weixin.qq.com/s/4GUh2JpG0gfOL2WFdNYwTw",
           "author": null,
