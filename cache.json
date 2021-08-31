@@ -17,7 +17,7 @@
           "description": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。\n周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。\n封面图\n\n上海的很多老小区，由于历史原因，有很多密密麻麻的架空电线，非常影响美观。江阴路今年的社区更新，尝试将架空线包裹进入人造的绿色藤蔓。（via）\n本周话题：网络收音机的设计\n最近，我为家里的老人买了一台网络收音机。\n老人的年纪很大（超过85岁），完全不懂互联网，操作智能手机会经常点错地方，不知道怎么恢复。平时唯一的消遣就是看电视，其实根本不爱看，但没有别的娱乐。这样的老人家在互联网时代非常弱势，但是人数还不少，我们国家搞不好有一两个亿。\n\n我希望，找到一台网络收音机，能够接收网络节目，帮老人丰富生活、了解外界。我的要求是，操作越简单越好，不懂互联网的人也可以毫无困难地上手。\n大家不妨想一想，如果你是设计师，会怎么设计这个产品？下面这样全触摸式的网络收音机，适合老人吗？\n\n我在网上还真的找到这样一个产品，立刻下单。前几天收到实物以后，发现比我想像的更好，基本上完全满足了我的需求，忍不住要在这里谈一谈。\n下面不是为它做广告，纯粹只是以它为例，讨论针对老年用户的电子产品，应该怎么设计。\n\n\n我觉得，这个网络收音机真的是为老年人设计的，设计师用心了，把老年人不需要的功能都砍掉了，让产品变得尽量简单。\n我特别赞赏的有三个地方。\n（1）它直接连接喜马拉雅的节目库，不需要任何登陆或认证，打开就直接播放，用户感知不到喜马拉雅的存在。\n设想一下，如果需要切换网址或者节目源，老人能理解这种操作吗？\n（2）音量控制是旋钮，而不是手机常用的按键。\n这一点特别赞。旋钮是机械装置，容易坏，但是手感好、体积大、容易操作，符合直觉。如果能把电源开关也做进旋钮，就更好了。…",
           "link": "http://www.ruanyifeng.com/blog/2021/08/weekly-issue-173.html",
           "publishedOn": "2021-08-27T00:36:29.000Z",
-          "wordCount": 874,
+          "wordCount": 894,
           "title": "科技爱好者周刊（第 173 期）：网络收音机的设计"
         },
         {
@@ -26,7 +26,7 @@
           "description": "程序员的笔记软件，应该满足下面几个条件。\n\n（1）跨平台，同时支持桌面电脑（Windows，Mac，Linux）和手机（Android，iOS）。\n（2）随时同步，打开任何一台机器，都能接着上一次的工作继续写。\n（3）实时存储，如果软件突然关闭，也不会丢失内容。\n（4）支持 Markdown 格式，便于后期直接发布。\n（5）支持推送到远程 Git 仓库，产生历史版本，同时作为远程备份。\n我一直在寻找符合这些条件的工具，但是市场上大部分的笔记软件，都不支持上面的第5点，Git 集成要么没有，要么很弱。\n我用过 Stackedit.io 和 HackMD.io，都不是很理想。\n\n最近，我终于找到了最佳方案，那就是 GitHub 官方推出的 github.dev。\n只要访问下面的网址，你就能在浏览器里面，使用 VS Code 编辑指定仓库。可以点击这里体验一下。\n\nhttps://github.dev/[用户名]/[仓库名]\n\n它实际上就是 VS Code 编辑器的 Web 版，并且与 Git 高度集成。这种组合，还有什么笔记软件会比它更强！\n\n使用时，首先在 GitHub 上面新建一个笔记仓库，公开或私密都可以。然后使用 github.dev 编辑完，再推送回仓库。换到其它机器时，就先从仓库获取文档的最新版本，简直是完美的解决方案。\n更棒的是，GitHub 提供了一个快捷入口。 打开 GitHub 仓库主页，按一下小数点（.）这个键， 页面就会自动跳转到 VS Code 编辑环境，真是太方便了。\n\n另外，还有一个非官方的 github1s.com，也提供类似功能。只要在仓库域名的里面，加上\"1s\"就可以了。但毕竟是非官方工具，这里就不推荐了。\n\nhttps://github1s.com/[用户名]/[仓库名]\n\ngithub.dev 针对的是桌面的\"键盘 + 鼠标\"环境，手机触摸屏可以使用，但终归很笨拙。\n如果你更希望使用手机原生 App，我推荐 Obsidian。它有全平台的客户端，并且可以参考这篇文章设置 Git 集成。\n\n另外，FSNotes 也不错，可惜只支持苹果设备。\n\n如果你不需要 Git 集成和 Markdown 支持，那就最简单了，几大软件巨头的官方笔记 App，就非常好用：Google keep、Apple Notes（只支持苹果设备）和微软 OneNote。\n\n它们都是自动多端同步，缺点是不便于编写大型文档，以及导出数据很麻烦。\n（完）\n文档信息\n版权声明：自由转载-非商用-非衍生-保持署名（创意共享3.0许可证）\n发表日期： 2021年8月26日",
           "link": "http://www.ruanyifeng.com/blog/2021/08/best-note-taking-software-for-programmers.html",
           "publishedOn": "2021-08-26T00:42:33.000Z",
-          "wordCount": 613,
+          "wordCount": 675,
           "title": "最适合程序员的笔记软件"
         },
         {
@@ -35,7 +35,7 @@
           "description": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。\n周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。\n封面图\n\n今年4月，西宁野生动物园成功地人工孵化了一个高山兀鹫的鸟蛋。目前，这只雏鸟已经达到了四月龄，生长得非常良好，成为中国首只人工养活的高山兀鹫雏鸟。（via）\n本周话题：我们会死于气候灾难吗？\n上周，联合国发布了一份《气候问题评估报告》，供各国政府参考。\n\n国内媒体没怎么报道这件事，但在国际上，它都是各国的头版新闻。\n一般来说，政府单位的报告都写得四平八稳、滴水不漏。但是，这份报告是罕见的例外，它写得非常明确尖锐，结论就是四个字：\"大难临头\"。\n报告认为，根据各种科学研究和观测结果，可以认定 气候灾难已经发生了，并将继续加剧。 人类现在所做的种种减碳努力，并不能避免灾难，只是为了不让最糟糕的结果发生。\n\n报告描绘了非常可怕的全球变暖进程，地球的平均气温，目前比工业革命前上升了1.2度，估计未来一两年内就会上升1.5度。如果温室气体排放量继续增加，2050年前将会上升2度，本世纪末之前达到3度。\n\n有的朋友可能觉得，两三度不算什么。但这是全球平均气温，包括海洋和陆地，由于海洋的温度波动远远小于陆地，这意味着陆地的温度上升，可能是四五度。\n以上海为例，七月的平均气温，现在是28度到35度。如果到了2050年上升三度，就变成31度到38度，如果更高，最高气温的平均值就会达到40度。这住起来就太痛苦了。\n\n我们会遭遇什么样的灾难？联合国报告是这样描述的：\n\"地球将变得干燥许多，整个生态系统被破坏，导致大规模物种灭绝，并使全球的粮食保障面临巨大风险。\n以下五种灾难现象将会越来越严重：（1）高温，（2）干旱，（3）洪水，（4）飓风，（5）海平面上升。…",
           "link": "http://www.ruanyifeng.com/blog/2021/08/weekly-issue-172.html",
           "publishedOn": "2021-08-20T00:36:06.000Z",
-          "wordCount": 1246,
+          "wordCount": 1264,
           "title": "科技爱好者周刊（第 172 期）：我们会死于气候灾难吗？"
         },
         {
@@ -69,7 +69,7 @@
           "description": "未成年人网游时间被严格限制，美团或被处高额罚款，恒大汽车上半年亏损47.9亿元，立讯辟谣裁员传闻，这就是今天的其他大新闻！",
           "link": "https://mp.weixin.qq.com/s/25n81CkfN8c6SwZg4dfKyA",
           "publishedOn": "2021-08-30T16:32:51.000Z",
-          "wordCount": 124,
+          "wordCount": 123,
           "title": "未成年人网游时间被严格限制，美团或被处高额罚款，恒大汽车上半年亏损47.9亿元，立讯辟谣裁员传闻，这就是今天的其他大新闻！"
         },
         {
@@ -78,7 +78,7 @@
           "description": "聊一聊：有哪些兴趣班，你后悔小时候没好好学？",
           "link": "https://mp.weixin.qq.com/s/5aGRkWgvOn0Urj5H_yLgXw",
           "publishedOn": "2021-08-30T16:32:51.000Z",
-          "wordCount": 54,
+          "wordCount": 53,
           "title": "聊一聊：有哪些兴趣班，你后悔小时候没好好学？"
         },
         {
@@ -87,7 +87,7 @@
           "description": "今日最佳：最真实的互联网用户画像。",
           "link": "https://mp.weixin.qq.com/s/4YUVvQGgB4xvorb2fXwrcg",
           "publishedOn": "2021-08-30T16:32:51.000Z",
-          "wordCount": 55,
+          "wordCount": 54,
           "title": "今日最佳：最真实的互联网用户画像。"
         },
         {
@@ -96,7 +96,7 @@
           "description": "猪这一生，活得好像比我更有价值。。。",
           "link": "https://mp.weixin.qq.com/s/IWQyaQ-fWEc6ck8zVhQsLA",
           "publishedOn": "2021-08-30T16:32:51.000Z",
-          "wordCount": 102,
+          "wordCount": 101,
           "title": "猪这一生，活得好像比我更有价值。。。"
         },
         {
@@ -105,7 +105,7 @@
           "description": "对胖子的新一轮暴击：瘦子们的锻炼效果比胖子好多了。",
           "link": "https://mp.weixin.qq.com/s/N60d69vyFpQT-L0LOm6mqA",
           "publishedOn": "2021-08-30T16:32:51.000Z",
-          "wordCount": 143,
+          "wordCount": 142,
           "title": "对胖子的新一轮暴击：瘦子们的锻炼效果比胖子好多了。"
         },
         {
@@ -114,7 +114,7 @@
           "description": "看了《失控玩家》后，我决定带你们找找里面有多少彩蛋（无剧透）",
           "link": "https://mp.weixin.qq.com/s/bmR8Pm9vGDI8YaepHoZaiw",
           "publishedOn": "2021-08-30T16:32:51.000Z",
-          "wordCount": 342,
+          "wordCount": 341,
           "title": "看了《失控玩家》后，我决定带你们找找里面有多少彩蛋（无剧透）"
         },
         {
@@ -123,7 +123,7 @@
           "description": "变天了，以后手机摄影都要这么玩了？！",
           "link": "https://mp.weixin.qq.com/s/M4sa2XuMad8HypuzWkWNQw",
           "publishedOn": "2021-08-30T16:32:51.000Z",
-          "wordCount": 165,
+          "wordCount": 164,
           "title": "变天了，以后手机摄影都要这么玩了？！"
         },
         {
@@ -141,7 +141,7 @@
           "description": "被可口百事压了20年后，国产汽水开始大反攻了。",
           "link": "https://mp.weixin.qq.com/s/xm1deDHWPjCMphDUL6ah8A",
           "publishedOn": "2021-08-29T22:06:22.000Z",
-          "wordCount": 261,
+          "wordCount": 260,
           "title": "被可口百事压了20年后，国产汽水开始大反攻了。"
         },
         {
@@ -150,7 +150,7 @@
           "description": "网易云音乐下明星榜，丰田为自动驾驶车辆撞人道歉，快递公司全面涨价，字节跳动收购Pico，这就是今天的其他大新闻！",
           "link": "https://mp.weixin.qq.com/s/Wj1P7zzUKpsRFzMqr0PH7Q",
           "publishedOn": "2021-08-29T16:34:32.000Z",
-          "wordCount": 113,
+          "wordCount": 112,
           "title": "网易云音乐下明星榜，丰田为自动驾驶车辆撞人道歉，快递公司全面涨价，字节跳动收购Pico，这就是今天的其他大新闻！"
         },
         {
@@ -159,7 +159,7 @@
           "description": "聊一聊：未来的VR达到什么水平你会购买？",
           "link": "https://mp.weixin.qq.com/s/z2ifYZ_ZMCNApq3ev-qDwQ",
           "publishedOn": "2021-08-29T16:34:32.000Z",
-          "wordCount": 54,
+          "wordCount": 53,
           "title": "聊一聊：未来的VR达到什么水平你会购买？"
         },
         {
@@ -168,7 +168,7 @@
           "description": "今日最佳：请勿模仿。",
           "link": "https://mp.weixin.qq.com/s/6cEnK_0NaZ2fvWtpfsJF2A",
           "publishedOn": "2021-08-29T16:34:32.000Z",
-          "wordCount": 55,
+          "wordCount": 54,
           "title": "今日最佳：请勿模仿。"
         },
         {
@@ -177,7 +177,7 @@
           "description": "看整蛊节目开外放，女朋友差点把刀拎起来。",
           "link": "https://mp.weixin.qq.com/s/2AVThdYngRnI6BOx-H8NLQ",
           "publishedOn": "2021-08-29T16:34:32.000Z",
-          "wordCount": 87,
+          "wordCount": 86,
           "title": "看整蛊节目开外放，女朋友差点把刀拎起来。"
         },
         {
@@ -186,7 +186,7 @@
           "description": "用了这个网站，我把《游戏王》的人物做成了真人版。",
           "link": "https://mp.weixin.qq.com/s/H-uwxEwaR6ixSc8UBVhxog",
           "publishedOn": "2021-08-29T16:34:32.000Z",
-          "wordCount": 148,
+          "wordCount": 147,
           "title": "用了这个网站，我把《游戏王》的人物做成了真人版。"
         },
         {
@@ -195,7 +195,7 @@
           "description": "QQ音乐禁止专辑重复购买，vivo取消大小周，被刷脸贷款银行全责，西数回应用料缩水，这就是今天的其他大新闻！",
           "link": "https://mp.weixin.qq.com/s/4GUh2JpG0gfOL2WFdNYwTw",
           "publishedOn": "2021-08-28T16:48:00.000Z",
-          "wordCount": 156,
+          "wordCount": 155,
           "title": "QQ音乐禁止专辑重复购买，vivo取消大小周，被刷脸贷款银行全责，西数回应用料缩水，这就是今天的其他大新闻！"
         },
         {
@@ -204,7 +204,7 @@
           "description": "聊一聊：你还在买 QQ 会员吗？",
           "link": "https://mp.weixin.qq.com/s/20cJSdSpLRxqUSe_Urd1Dw",
           "publishedOn": "2021-08-28T16:48:00.000Z",
-          "wordCount": 58,
+          "wordCount": 57,
           "title": "聊一聊：你还在买 QQ 会员吗？"
         },
         {
@@ -213,7 +213,7 @@
           "description": "今日最佳：阴 间 食 堂",
           "link": "https://mp.weixin.qq.com/s/d5e7CZWnMLQL0t_PY0smNQ",
           "publishedOn": "2021-08-28T16:48:00.000Z",
-          "wordCount": 61,
+          "wordCount": 60,
           "title": "今日最佳：阴 间 食 堂"
         },
         {
@@ -222,7 +222,7 @@
           "description": "想排队喝生椰拿铁，APP通知「别去」直接给我打懵了。",
           "link": "https://mp.weixin.qq.com/s/EW0zSko4b2M2BpkFf1H6iA",
           "publishedOn": "2021-08-28T16:48:00.000Z",
-          "wordCount": 93,
+          "wordCount": 92,
           "title": "想排队喝生椰拿铁，APP通知「别去」直接给我打懵了。"
         },
         {
@@ -231,7 +231,7 @@
           "description": "当抽象文化遇到虚拟主播，评论区成了文豪的聚集地。",
           "link": "https://mp.weixin.qq.com/s/gJTuYyFjm_R5Iav5qSxajg",
           "publishedOn": "2021-08-28T16:48:00.000Z",
-          "wordCount": 226,
+          "wordCount": 225,
           "title": "当抽象文化遇到虚拟主播，评论区成了文豪的聚集地。"
         },
         {
@@ -240,7 +240,7 @@
           "description": "造出你手机屏幕的这家公司不仅170岁了，当年还帮过爱迪生。。。",
           "link": "https://mp.weixin.qq.com/s/P6cid8eWJROkX8ov2MgsVw",
           "publishedOn": "2021-08-28T16:48:00.000Z",
-          "wordCount": 297,
+          "wordCount": 296,
           "title": "造出你手机屏幕的这家公司不仅170岁了，当年还帮过爱迪生。。。"
         },
         {
@@ -249,7 +249,7 @@
           "description": "微博抖音下架明星榜单，网信办整治八卦弹窗，微信公众号推出商店功能，蔚来总监回应油门踏板断裂，这就是今天的其他大新闻！",
           "link": "https://mp.weixin.qq.com/s/Ql--D5iiJN4Z5Io-pVT9Ow",
           "publishedOn": "2021-08-27T22:02:40.000Z",
-          "wordCount": 108,
+          "wordCount": 107,
           "title": "微博抖音下架明星榜单，网信办整治八卦弹窗，微信公众号推出商店功能，蔚来总监回应油门踏板断裂，这就是今天的其他大新闻！"
         },
         {
@@ -258,7 +258,7 @@
           "description": "聊一聊：什么东西充满了工业设计的美感？",
           "link": "https://mp.weixin.qq.com/s/WLqkPM7RxlAyiJ02ZWP9WA",
           "publishedOn": "2021-08-27T22:02:40.000Z",
-          "wordCount": 54,
+          "wordCount": 53,
           "title": "聊一聊：什么东西充满了工业设计的美感？"
         },
         {
@@ -267,7 +267,7 @@
           "description": "今日最佳：如何模仿鸡的叫声？",
           "link": "https://mp.weixin.qq.com/s/IW-36O5yhMBBejcJ98HaHA",
           "publishedOn": "2021-08-27T22:02:40.000Z",
-          "wordCount": 55,
+          "wordCount": 54,
           "title": "今日最佳：如何模仿鸡的叫声？"
         },
         {
@@ -276,7 +276,7 @@
           "description": "在黑市，35块买啥能让差友直呼「捡到宝」？",
           "link": "https://mp.weixin.qq.com/s/ErVftJJTSKvvpoBIq6d-DA",
           "publishedOn": "2021-08-27T22:02:40.000Z",
-          "wordCount": 79,
+          "wordCount": 78,
           "title": "在黑市，35块买啥能让差友直呼「捡到宝」？"
         },
         {
@@ -285,7 +285,7 @@
           "description": "为什么有几百万人在油管上看一颗钢珠？",
           "link": "https://mp.weixin.qq.com/s/L85XAHE8zF31vMAvodE2PA",
           "publishedOn": "2021-08-27T22:02:40.000Z",
-          "wordCount": 160,
+          "wordCount": 159,
           "title": "为什么有几百万人在油管上看一颗钢珠？"
         },
         {
@@ -294,7 +294,7 @@
           "description": "你真的很应该看看这届残奥会。",
           "link": "https://mp.weixin.qq.com/s/XJa3JO65Z74FIqsBNGheeA",
           "publishedOn": "2021-08-27T22:02:40.000Z",
-          "wordCount": 147,
+          "wordCount": 146,
           "title": "你真的很应该看看这届残奥会。"
         },
         {
@@ -303,7 +303,7 @@
           "description": "支付宝里的钱危险了？这种节奏就别瞎带了吧。",
           "link": "https://mp.weixin.qq.com/s/DNUqIJCbtPXMbWsrffC4Iw",
           "publishedOn": "2021-08-27T22:02:40.000Z",
-          "wordCount": 131,
+          "wordCount": 130,
           "title": "支付宝里的钱危险了？这种节奏就别瞎带了吧。"
         },
         {
@@ -312,7 +312,7 @@
           "description": "爱奇艺取消偶像选秀，吴谢宇弑母案公开一审宣判，两部称996严重违反法规，消保委批腾讯超前点播，这就是今天的其他大新闻！",
           "link": "https://mp.weixin.qq.com/s/mOlK6A99bs3kUXqLa1BiKg",
           "publishedOn": "2021-08-26T22:02:45.000Z",
-          "wordCount": 141,
+          "wordCount": 140,
           "title": "爱奇艺取消偶像选秀，吴谢宇弑母案公开一审宣判，两部称996严重违反法规，消保委批腾讯超前点播，这就是今天的其他大新闻！"
         },
         {
@@ -321,7 +321,7 @@
           "description": "聊一聊：你买过什么很贵，但不后悔的东西？",
           "link": "https://mp.weixin.qq.com/s/8JGUqGcZPOJHik7ZbynCbQ",
           "publishedOn": "2021-08-26T22:02:45.000Z",
-          "wordCount": 54,
+          "wordCount": 53,
           "title": "聊一聊：你买过什么很贵，但不后悔的东西？"
         },
         {
@@ -330,7 +330,7 @@
           "description": "今日最佳：农学可能是最容易突然挂科的专业。",
           "link": "https://mp.weixin.qq.com/s/Ez269bUeSndhwcGTzbBd3A",
           "publishedOn": "2021-08-26T22:02:45.000Z",
-          "wordCount": 55,
+          "wordCount": 54,
           "title": "今日最佳：农学可能是最容易突然挂科的专业。"
         },
         {
@@ -339,7 +339,7 @@
           "description": "￥300一碗的抖音“天价”蟹黄面，究竟值不值得吃？",
           "link": "https://mp.weixin.qq.com/s/kaZgh4ecs3okvPrpY00f_Q",
           "publishedOn": "2021-08-26T22:02:45.000Z",
-          "wordCount": 114,
+          "wordCount": 113,
           "title": "￥300一碗的抖音“天价”蟹黄面，究竟值不值得吃？"
         },
         {
@@ -348,7 +348,7 @@
           "description": "这个浏览器，满足了我对手机浏览器的所有想象！",
           "link": "https://mp.weixin.qq.com/s/Qfmtp1TRtZs7DRrqWQeHVA",
           "publishedOn": "2021-08-26T22:02:45.000Z",
-          "wordCount": 92,
+          "wordCount": 91,
           "title": "这个浏览器，满足了我对手机浏览器的所有想象！"
         },
         {
@@ -357,7 +357,7 @@
           "description": "iPhone 13的爆料太多？我给大家做了个一次性总结！",
           "link": "https://mp.weixin.qq.com/s/d2HHwZ5kUwWqDJOos-7xVw",
           "publishedOn": "2021-08-26T22:02:45.000Z",
-          "wordCount": 492,
+          "wordCount": 491,
           "title": "iPhone 13的爆料太多？我给大家做了个一次性总结！"
         },
         {
@@ -366,7 +366,7 @@
           "description": "腾讯把这游戏搞成了18+，但我赌他不会做18+的内容。。。",
           "link": "https://mp.weixin.qq.com/s/JRiVIa3etZkP_dfuMIDB6Q",
           "publishedOn": "2021-08-26T22:02:45.000Z",
-          "wordCount": 123,
+          "wordCount": 122,
           "title": "腾讯把这游戏搞成了18+，但我赌他不会做18+的内容。。。"
         },
         {
@@ -375,7 +375,7 @@
           "description": "阿里案一名嫌犯被捕，小米辟谣停用MI品牌，美国或批准向华为出售汽车零部件芯片，统一移动基础服务平台发布，这就是今天的其他大新闻！",
           "link": "https://mp.weixin.qq.com/s/lLdRnaoB2UzMqynKVLuqaQ",
           "publishedOn": "2021-08-25T18:01:52.000Z",
-          "wordCount": 134,
+          "wordCount": 133,
           "title": "阿里案一名嫌犯被捕，小米辟谣停用MI品牌，美国或批准向华为出售汽车零部件芯片，统一移动基础服务平台发布，这就是今天的其他大新闻！"
         },
         {
@@ -384,7 +384,7 @@
           "description": "聊一聊：你的智能音箱都做过哪些智障操作？",
           "link": "https://mp.weixin.qq.com/s/F1W-VzFUu9pYT5BiJzCmTA",
           "publishedOn": "2021-08-25T18:01:52.000Z",
-          "wordCount": 54,
+          "wordCount": 53,
           "title": "聊一聊：你的智能音箱都做过哪些智障操作？"
         },
         {
@@ -393,7 +393,7 @@
           "description": "今日最佳：全广州最大的蟑螂。",
           "link": "https://mp.weixin.qq.com/s/OEjdT45Ltb95kBpwdmKjCA",
           "publishedOn": "2021-08-25T18:01:52.000Z",
-          "wordCount": 55,
+          "wordCount": 54,
           "title": "今日最佳：全广州最大的蟑螂。"
         },
         {
@@ -402,7 +402,7 @@
           "description": "玩现实版《狂野飙车》是一种什么体验？",
           "link": "https://mp.weixin.qq.com/s/iOZv5wpFi2Zv9yxfI4ppfg",
           "publishedOn": "2021-08-25T18:01:52.000Z",
-          "wordCount": 89,
+          "wordCount": 88,
           "title": "玩现实版《狂野飙车》是一种什么体验？"
         },
         {
@@ -411,7 +411,7 @@
           "description": "把小米铁蛋爆改成钢铁加鲁鲁的大佬，还曾把手机改造成北京城。",
           "link": "https://mp.weixin.qq.com/s/KFRGGj3abRq6X_YfvuxEpg",
           "publishedOn": "2021-08-25T18:01:52.000Z",
-          "wordCount": 126,
+          "wordCount": 125,
           "title": "把小米铁蛋爆改成钢铁加鲁鲁的大佬，还曾把手机改造成北京城。"
         },
         {
@@ -420,7 +420,7 @@
           "description": "有人用核技术辐射蚊子的牛子，还顺手发了篇Nature。",
           "link": "https://mp.weixin.qq.com/s/GO5Aa1TnyQaHHJFVaMfRZA",
           "publishedOn": "2021-08-25T18:01:52.000Z",
-          "wordCount": 258,
+          "wordCount": 257,
           "title": "有人用核技术辐射蚊子的牛子，还顺手发了篇Nature。"
         },
         {
@@ -429,7 +429,7 @@
           "description": "中国科技部来了波@所有人，我有机会搞黑客帝国了？！",
           "link": "https://mp.weixin.qq.com/s/1tIKSo0FiBDmhivSalYQbA",
           "publishedOn": "2021-08-25T18:01:52.000Z",
-          "wordCount": 236,
+          "wordCount": 235,
           "title": "中国科技部来了波@所有人，我有机会搞黑客帝国了？！"
         },
         {
@@ -438,7 +438,7 @@
           "description": "微博上线定制热搜，赵丽颖粉群被大规模禁言，中国电信回应连吃跌停，全球首款mRNA新冠疫苗获得FDA批准，这就是今天的其他大新闻！",
           "link": "https://mp.weixin.qq.com/s/F5LYVNfTfLVoz3e2fllBdg",
           "publishedOn": "2021-08-25T00:03:27.000Z",
-          "wordCount": 163,
+          "wordCount": 162,
           "title": "微博上线定制热搜，赵丽颖粉群被大规模禁言，中国电信回应连吃跌停，全球首款mRNA新冠疫苗获得FDA批准，这就是今天的其他大新闻！"
         },
         {
@@ -447,7 +447,7 @@
           "description": "聊一聊：你会在家里装摄像头吗？",
           "link": "https://mp.weixin.qq.com/s/IQLmFdH2ZZOVbQI3HNAx1A",
           "publishedOn": "2021-08-25T00:03:27.000Z",
-          "wordCount": 54,
+          "wordCount": 53,
           "title": "聊一聊：你会在家里装摄像头吗？"
         },
         {
@@ -456,7 +456,7 @@
           "description": "今日最佳：好优美的英文翻译。",
           "link": "https://mp.weixin.qq.com/s/ISDl6huTwQKNVtqMWqx70g",
           "publishedOn": "2021-08-25T00:03:27.000Z",
-          "wordCount": 56,
+          "wordCount": 55,
           "title": "今日最佳：好优美的英文翻译。"
         },
         {
@@ -465,7 +465,7 @@
           "description": "半夜看《向往的生活》，直接把我馋哭了。。",
           "link": "https://mp.weixin.qq.com/s/YiqSjVz_zVI7z2bpKkaicA",
           "publishedOn": "2021-08-25T00:03:27.000Z",
-          "wordCount": 132,
+          "wordCount": 131,
           "title": "半夜看《向往的生活》，直接把我馋哭了。。"
         },
         {
@@ -474,7 +474,7 @@
           "description": "在闲鱼上有多少人，靠卖Steam库存截图秀优越？",
           "link": "https://mp.weixin.qq.com/s/44TIQntiPlHcFxVXAO4g9w",
           "publishedOn": "2021-08-25T00:03:27.000Z",
-          "wordCount": 156,
+          "wordCount": 155,
           "title": "在闲鱼上有多少人，靠卖Steam库存截图秀优越？"
         },
         {
@@ -483,7 +483,7 @@
           "description": "大厂还会动这种手脚？现在买硬盘都要抽奖了。。。",
           "link": "https://mp.weixin.qq.com/s/p76pUPvhPvPUkFGA_RPlkw",
           "publishedOn": "2021-08-25T00:03:27.000Z",
-          "wordCount": 209,
+          "wordCount": 208,
           "title": "大厂还会动这种手脚？现在买硬盘都要抽奖了。。。"
         },
         {
@@ -492,7 +492,7 @@
           "description": "每天下班都错过的日落，却在游戏里整哭了无数网友？",
           "link": "https://mp.weixin.qq.com/s/1zJqXXrTCyff1L9q2TlKHA",
           "publishedOn": "2021-08-25T00:03:27.000Z",
-          "wordCount": 173,
+          "wordCount": 172,
           "title": "每天下班都错过的日落，却在游戏里整哭了无数网友？"
         },
         {
@@ -501,7 +501,7 @@
           "description": "复旦公布张文宏调查结果，新浪公布微博热搜管理规则，阿里云回应信息泄露，云闪付微信条码支付正式互通，这就是今天的其他大新闻！",
           "link": "https://mp.weixin.qq.com/s/MjxdKQyu7ECraclr2hmj3Q",
           "publishedOn": "2021-08-23T16:39:25.000Z",
-          "wordCount": 134,
+          "wordCount": 133,
           "title": "复旦公布张文宏调查结果，新浪公布微博热搜管理规则，阿里云回应信息泄露，云闪付微信条码支付正式互通，这就是今天的其他大新闻！"
         },
         {
@@ -510,7 +510,7 @@
           "description": "聊一聊：你买过哪些昂贵的二手产品？",
           "link": "https://mp.weixin.qq.com/s/JhJJoRb_5WaZ6IIyDe17gA",
           "publishedOn": "2021-08-23T16:39:25.000Z",
-          "wordCount": 54,
+          "wordCount": 53,
           "title": "聊一聊：你买过哪些昂贵的二手产品？"
         },
         {
@@ -519,7 +519,7 @@
           "description": "今日最佳：歇后语大赏。",
           "link": "https://mp.weixin.qq.com/s/v2Mwi1mi2q86VQgJ8vCCNA",
           "publishedOn": "2021-08-23T16:39:25.000Z",
-          "wordCount": 55,
+          "wordCount": 54,
           "title": "今日最佳：歇后语大赏。"
         },
         {
@@ -528,7 +528,7 @@
           "description": "去健身房，可真长见识啊。。。",
           "link": "https://mp.weixin.qq.com/s/5YA2fiMd3ANHuUVNWrGASw",
           "publishedOn": "2021-08-23T16:39:25.000Z",
-          "wordCount": 111,
+          "wordCount": 110,
           "title": "去健身房，可真长见识啊。。。"
         },
         {
@@ -537,7 +537,7 @@
           "description": "iPhone 只要改个地区就会变快，这是什么操作？！",
           "link": "https://mp.weixin.qq.com/s/r2on8IuJXZMMDh5YIDWWsA",
           "publishedOn": "2021-08-23T16:39:25.000Z",
-          "wordCount": 184,
+          "wordCount": 183,
           "title": "iPhone 只要改个地区就会变快，这是什么操作？！"
         },
         {
@@ -546,7 +546,7 @@
           "description": "今年竟然换了管牙膏？！我感觉英特尔这波要Yes了。",
           "link": "https://mp.weixin.qq.com/s/zMGw_COeqQSXABmRYd-yZQ",
           "publishedOn": "2021-08-23T16:39:25.000Z",
-          "wordCount": 289,
+          "wordCount": 288,
           "title": "今年竟然换了管牙膏？！我感觉英特尔这波要Yes了。"
         },
         {
@@ -555,7 +555,7 @@
           "description": "聊一聊：你被什么样的骗局骗过？",
           "link": "https://mp.weixin.qq.com/s/jS8YEQnO3TQJ8_lIjDm_wA",
           "publishedOn": "2021-08-23T00:02:24.000Z",
-          "wordCount": 54,
+          "wordCount": 53,
           "title": "聊一聊：你被什么样的骗局骗过？"
         },
         {
@@ -564,7 +564,7 @@
           "description": "今日最佳：理发就是一场赌博。",
           "link": "https://mp.weixin.qq.com/s/r4NDwPnhR5VfKCmvUSw9Cg",
           "publishedOn": "2021-08-23T00:02:24.000Z",
-          "wordCount": 55,
+          "wordCount": 54,
           "title": "今日最佳：理发就是一场赌博。"
         },
         {
@@ -573,7 +573,7 @@
           "description": "我的天，现在连猪肉脯都开始卷了？",
           "link": "https://mp.weixin.qq.com/s/JpDBo6XpZLj0XMGs3wQfMg",
           "publishedOn": "2021-08-23T00:02:24.000Z",
-          "wordCount": 73,
+          "wordCount": 72,
           "title": "我的天，现在连猪肉脯都开始卷了？"
         },
         {
@@ -582,7 +582,7 @@
           "description": "这老哥居然用屁声演奏音乐？别说，还挺带感。",
           "link": "https://mp.weixin.qq.com/s/xR5Es5kX2iwGVazGppdp-Q",
           "publishedOn": "2021-08-23T00:02:24.000Z",
-          "wordCount": 113,
+          "wordCount": 112,
           "title": "这老哥居然用屁声演奏音乐？别说，还挺带感。"
         },
         {
@@ -591,7 +591,7 @@
           "description": "虽然还是打不过iPad，但我感觉这次安卓平板方向对了。",
           "link": "https://mp.weixin.qq.com/s/Bp3D1dFyXIF5jgUX0ToboA",
           "publishedOn": "2021-08-23T00:02:24.000Z",
-          "wordCount": 244,
+          "wordCount": 243,
           "title": "虽然还是打不过iPad，但我感觉这次安卓平板方向对了。"
         },
         {
@@ -600,7 +600,7 @@
           "description": "蚂蚁发布辟谣声明，多益网络悬赏百万征集腐败证据，十荟团被曝大批裁员，中山大学研究用核技术灭蚊，这就是今天的其他大新闻！",
           "link": "https://mp.weixin.qq.com/s/b1mM9MG-rVPkMIPuDjXkgA",
           "publishedOn": "2021-08-23T00:02:24.000Z",
-          "wordCount": 102,
+          "wordCount": 101,
           "title": "蚂蚁发布辟谣声明，多益网络悬赏百万征集腐败证据，十荟团被曝大批裁员，中山大学研究用核技术灭蚊，这就是今天的其他大新闻！"
         },
         {
@@ -609,7 +609,7 @@
           "description": "抖音回应腾讯投诉，比亚迪半导体被中止上市审核，阿里案嫌疑人已被监视居住，这就是今天的其他大新闻！",
           "link": "https://mp.weixin.qq.com/s/XBUfyPqQf5P_K9o0432dgg",
           "publishedOn": "2021-08-21T16:42:26.000Z",
-          "wordCount": 149,
+          "wordCount": 148,
           "title": "抖音回应腾讯投诉，比亚迪半导体被中止上市审核，阿里案嫌疑人已被监视居住，这就是今天的其他大新闻！"
         },
         {
@@ -618,7 +618,7 @@
           "description": "聊一聊：你见过什么样的网络暴力？",
           "link": "https://mp.weixin.qq.com/s/FlMRofcdza4j8H3oM1_NUA",
           "publishedOn": "2021-08-21T16:42:26.000Z",
-          "wordCount": 54,
+          "wordCount": 53,
           "title": "聊一聊：你见过什么样的网络暴力？"
         },
         {
@@ -627,7 +627,7 @@
           "description": "今日最佳：这鞋下次别穿了。。。",
           "link": "https://mp.weixin.qq.com/s/JIoZYBf-DdMCOuPsH7mrbA",
           "publishedOn": "2021-08-21T16:42:26.000Z",
-          "wordCount": 55,
+          "wordCount": 54,
           "title": "今日最佳：这鞋下次别穿了。。。"
         },
         {
@@ -636,7 +636,7 @@
           "description": "这个黑科技，直接颠覆了我对饮水机的所有幻想！",
           "link": "https://mp.weixin.qq.com/s/NpCFQzMr3w61X7_OxtNRsw",
           "publishedOn": "2021-08-21T16:42:26.000Z",
-          "wordCount": 131,
+          "wordCount": 130,
           "title": "这个黑科技，直接颠覆了我对饮水机的所有幻想！"
         },
         {
@@ -645,7 +645,7 @@
           "description": "蛋炒饭是把鸡蛋放到饭里煮？看完这个视频我血压都高了。",
           "link": "https://mp.weixin.qq.com/s/H3bo2LAH3k282e4-0FAyvA",
           "publishedOn": "2021-08-21T16:42:26.000Z",
-          "wordCount": 132,
+          "wordCount": 131,
           "title": "蛋炒饭是把鸡蛋放到饭里煮？看完这个视频我血压都高了。"
         },
         {
@@ -654,7 +654,7 @@
           "description": "在20年前的网游里花了648之后，我只觉得空虚。",
           "link": "https://mp.weixin.qq.com/s/I4knCJX8Uwy872WQtsQmsg",
           "publishedOn": "2021-08-21T16:42:26.000Z",
-          "wordCount": 267,
+          "wordCount": 266,
           "title": "在20年前的网游里花了648之后，我只觉得空虚。"
         },
         {
@@ -663,7 +663,7 @@
           "description": "淘宝测试云闪付支付，江南百景图就岳飞形象致歉，恒大声明出售股份仅初步交流，个人信息保护法11月施行，这就是今天的其他大新闻！",
           "link": "https://mp.weixin.qq.com/s/Wdks3h0iUHA_Ssz_9UhKRw",
           "publishedOn": "2021-08-21T01:02:50.000Z",
-          "wordCount": 127,
+          "wordCount": 126,
           "title": "淘宝测试云闪付支付，江南百景图就岳飞形象致歉，恒大声明出售股份仅初步交流，个人信息保护法11月施行，这就是今天的其他大新闻！"
         },
         {
@@ -672,7 +672,7 @@
           "description": "聊一聊：你觉得手头正在用的手机有哪些优点？",
           "link": "https://mp.weixin.qq.com/s/l5Fqg3MhxKxoHGOp1LRUsQ",
           "publishedOn": "2021-08-21T01:02:50.000Z",
-          "wordCount": 54,
+          "wordCount": 53,
           "title": "聊一聊：你觉得手头正在用的手机有哪些优点？"
         },
         {
@@ -681,7 +681,7 @@
           "description": "今日最佳：如何让人为你失眠。",
           "link": "https://mp.weixin.qq.com/s/C9Dbh0VNgC2mG7pP45YI7w",
           "publishedOn": "2021-08-21T01:02:50.000Z",
-          "wordCount": 55,
+          "wordCount": 54,
           "title": "今日最佳：如何让人为你失眠。"
         },
         {
@@ -690,7 +690,7 @@
           "description": "除了月饼，中秋节还能送爸妈哪些实用好物？",
           "link": "https://mp.weixin.qq.com/s/v_afSiMYNqISnqM_gDnTrQ",
           "publishedOn": "2021-08-21T01:02:50.000Z",
-          "wordCount": 86,
+          "wordCount": 85,
           "title": "除了月饼，中秋节还能送爸妈哪些实用好物？"
         },
         {
@@ -699,7 +699,7 @@
           "description": "马斯克昨天发了个芯片，还想造世界第一超算。",
           "link": "https://mp.weixin.qq.com/s/wcW_8yL2VaATqgY10Ms0jQ",
           "publishedOn": "2021-08-21T01:02:50.000Z",
-          "wordCount": 223,
+          "wordCount": 222,
           "title": "马斯克昨天发了个芯片，还想造世界第一超算。"
         },
         {
@@ -708,7 +708,7 @@
           "description": "时隔一年，国产之光《黑神话：悟空》又把全网炸了。",
           "link": "https://mp.weixin.qq.com/s/3rtlXp_iuUbn7QYdYQGjEA",
           "publishedOn": "2021-08-21T01:02:50.000Z",
-          "wordCount": 189,
+          "wordCount": 188,
           "title": "时隔一年，国产之光《黑神话：悟空》又把全网炸了。"
         },
         {
@@ -717,7 +717,7 @@
           "description": "上千块的台灯和普通台灯有啥区别？我特地买来测了一波！",
           "link": "https://mp.weixin.qq.com/s/2XnS5YClVWlU7NO0Eajf_Q",
           "publishedOn": "2021-08-21T01:02:50.000Z",
-          "wordCount": 166,
+          "wordCount": 165,
           "title": "上千块的台灯和普通台灯有啥区别？我特地买来测了一波！"
         },
         {
@@ -726,7 +726,7 @@
           "description": "多款追星应用下架，超千名蔚来车主参与反对联合声明，王自如卸任ZEALER职务，人民银行银保监会约谈恒大，这就是今天的其他大新闻！",
           "link": "https://mp.weixin.qq.com/s/HE3xGJGssCgVa9xaSAoGuw",
           "publishedOn": "2021-08-20T02:35:47.000Z",
-          "wordCount": 142,
+          "wordCount": 141,
           "title": "多款追星应用下架，超千名蔚来车主参与反对联合声明，王自如卸任ZEALER职务，人民银行银保监会约谈恒大，这就是今天的其他大新闻！"
         },
         {
@@ -735,7 +735,7 @@
           "description": "聊一聊：有哪些作品的世界观让你惊为天人？",
           "link": "https://mp.weixin.qq.com/s/N0_VBEwGsATyBCssqPuvRg",
           "publishedOn": "2021-08-20T02:35:47.000Z",
-          "wordCount": 54,
+          "wordCount": 53,
           "title": "聊一聊：有哪些作品的世界观让你惊为天人？"
         },
         {
@@ -744,7 +744,7 @@
           "description": "今日最佳：山鸡哥秒杀全场。",
           "link": "https://mp.weixin.qq.com/s/zV3-hNNGQRarmVSRuBYsfg",
           "publishedOn": "2021-08-20T02:35:47.000Z",
-          "wordCount": 55,
+          "wordCount": 54,
           "title": "今日最佳：山鸡哥秒杀全场。"
         },
         {
@@ -753,7 +753,7 @@
           "description": "早餐吃肉补身体，宵夜吃肉补灵魂。",
           "link": "https://mp.weixin.qq.com/s/ozfLFJDS-g-tltyi7vPVDQ",
           "publishedOn": "2021-08-20T02:35:47.000Z",
-          "wordCount": 108,
+          "wordCount": 107,
           "title": "早餐吃肉补身体，宵夜吃肉补灵魂。"
         },
         {
@@ -762,7 +762,7 @@
           "description": "把显卡价格炒上去之后，矿老板竟然把主机价格给打下来了？！",
           "link": "https://mp.weixin.qq.com/s/sIhcQrj1gTOWaU1eMu4pdg",
           "publishedOn": "2021-08-20T02:35:47.000Z",
-          "wordCount": 201,
+          "wordCount": 200,
           "title": "把显卡价格炒上去之后，矿老板竟然把主机价格给打下来了？！"
         },
         {
@@ -771,7 +771,7 @@
           "description": "工作5年了，我买个豆浆机还要征求爸妈的意见？",
           "link": "https://mp.weixin.qq.com/s/Bwdy2wmRxQEMr0y7ATzgWg",
           "publishedOn": "2021-08-20T02:35:47.000Z",
-          "wordCount": 158,
+          "wordCount": 157,
           "title": "工作5年了，我买个豆浆机还要征求爸妈的意见？"
         },
         {
@@ -780,7 +780,7 @@
           "description": "为了抵制盗版，几十家游戏厂商给淘宝发了联名信。",
           "link": "https://mp.weixin.qq.com/s/PvVXb8Q1HOdd-eksGSjZww",
           "publishedOn": "2021-08-20T02:35:47.000Z",
-          "wordCount": 133,
+          "wordCount": 132,
           "title": "为了抵制盗版，几十家游戏厂商给淘宝发了联名信。"
         },
         {
@@ -789,7 +789,7 @@
           "description": "警方辟谣蔚来删改数据，交通运输部要求规定网约车抽成上限，朋友圈封面支持视频，百度开办世界大会2021，这就是今天的其他大新闻！",
           "link": "https://mp.weixin.qq.com/s/35qHgKZuT3CdcZS8AVp2Bg",
           "publishedOn": "2021-08-19T00:57:22.000Z",
-          "wordCount": 162,
+          "wordCount": 161,
           "title": "警方辟谣蔚来删改数据，交通运输部要求规定网约车抽成上限，朋友圈封面支持视频，百度开办世界大会2021，这就是今天的其他大新闻！"
         },
         {
@@ -798,7 +798,7 @@
           "description": "聊一聊：你在身边听过哪些受骗经历？",
           "link": "https://mp.weixin.qq.com/s/DoQJWfmBWNf-VFZBmXN7oQ",
           "publishedOn": "2021-08-19T00:57:22.000Z",
-          "wordCount": 55,
+          "wordCount": 54,
           "title": "聊一聊：你在身边听过哪些受骗经历？"
         },
         {
@@ -807,7 +807,7 @@
           "description": "今日最佳：最反人类的设计。",
           "link": "https://mp.weixin.qq.com/s/WjYf5vY5DLVylap5rgIWCA",
           "publishedOn": "2021-08-19T00:57:22.000Z",
-          "wordCount": 55,
+          "wordCount": 54,
           "title": "今日最佳：最反人类的设计。"
         },
         {
@@ -816,7 +816,7 @@
           "description": "400倍显微镜下，戴了2天的口罩里有什么？",
           "link": "https://mp.weixin.qq.com/s/r8XX0_WpCjRju3dKGbNDsw",
           "publishedOn": "2021-08-19T00:57:22.000Z",
-          "wordCount": 97,
+          "wordCount": 96,
           "title": "400倍显微镜下，戴了2天的口罩里有什么？"
         },
         {
@@ -825,7 +825,7 @@
           "description": "我当了三天狱警，打了一个rapper，还顺便平息了一场暴动。",
           "link": "https://mp.weixin.qq.com/s/jFMcf0IRDaaxG2YqkXeSyw",
           "publishedOn": "2021-08-19T00:57:22.000Z",
-          "wordCount": 101,
+          "wordCount": 100,
           "title": "我当了三天狱警，打了一个rapper，还顺便平息了一场暴动。"
         },
         {
@@ -834,7 +834,7 @@
           "description": "为了测试荣耀Magic 3 Pro的相机有多强，我用华为做了个对比。",
           "link": "https://mp.weixin.qq.com/s/63pwFPmcxpMJT8gPueOEeQ",
           "publishedOn": "2021-08-19T00:57:22.000Z",
-          "wordCount": 360,
+          "wordCount": 359,
           "title": "为了测试荣耀Magic 3 Pro的相机有多强，我用华为做了个对比。"
         },
         {
@@ -843,7 +843,7 @@
           "description": "我也上过网传收费7万，“骂死”高管的领导课，这就给各位扒扒皮。",
           "link": "https://mp.weixin.qq.com/s/NwzdwPMMc7Zret3yVCI-VQ",
           "publishedOn": "2021-08-19T00:57:22.000Z",
-          "wordCount": 190,
+          "wordCount": 189,
           "title": "我也上过网传收费7万，“骂死”高管的领导课，这就给各位扒扒皮。"
         },
         {
@@ -852,7 +852,7 @@
           "description": "滴滴出行再被约谈，各大平台集体下架吴亦凡作品，BOSS直聘取消大小周，QQ测试支持苹果CallKit，这就是今天的其他大新闻！",
           "link": "https://mp.weixin.qq.com/s/8qUPHonNr85t0C7WJwqwpQ",
           "publishedOn": "2021-08-18T00:40:59.000Z",
-          "wordCount": 141,
+          "wordCount": 140,
           "title": "滴滴出行再被约谈，各大平台集体下架吴亦凡作品，BOSS直聘取消大小周，QQ测试支持苹果CallKit，这就是今天的其他大新闻！"
         },
         {
@@ -861,7 +861,7 @@
           "description": "聊一聊：你身边有人签过竞业协议吗？",
           "link": "https://mp.weixin.qq.com/s/0cJ3a6689vcqDT_9pPAEDg",
           "publishedOn": "2021-08-18T00:40:59.000Z",
-          "wordCount": 54,
+          "wordCount": 53,
           "title": "聊一聊：你身边有人签过竞业协议吗？"
         },
         {
@@ -870,7 +870,7 @@
           "description": "今日最佳：走近科学。",
           "link": "https://mp.weixin.qq.com/s/2GGhgC6vqhsd9dt9UycAyQ",
           "publishedOn": "2021-08-18T00:40:59.000Z",
-          "wordCount": 57,
+          "wordCount": 56,
           "title": "今日最佳：走近科学。"
         },
         {
@@ -879,7 +879,7 @@
           "description": "差评女粉，永远滴神！（多图警告）",
           "link": "https://mp.weixin.qq.com/s/bjvNc9b-Vp7ZsbAKn_DfwA",
           "publishedOn": "2021-08-18T00:40:59.000Z",
-          "wordCount": 125,
+          "wordCount": 124,
           "title": "差评女粉，永远滴神！（多图警告）"
         },
         {
@@ -888,7 +888,7 @@
           "description": "凭借各种反常识的极限操作，这两兄弟收获了300万粉丝。",
           "link": "https://mp.weixin.qq.com/s/xkfZe2mduZNa3BtUYpD9Jg",
           "publishedOn": "2021-08-18T00:40:59.000Z",
-          "wordCount": 108,
+          "wordCount": 107,
           "title": "凭借各种反常识的极限操作，这两兄弟收获了300万粉丝。"
         },
         {
@@ -897,7 +897,7 @@
           "description": "蔚来致死事故后，希望“L2.5”们也跟着去世。",
           "link": "https://mp.weixin.qq.com/s/32By4pGjYWZNncTcXqRAEQ",
           "publishedOn": "2021-08-18T00:40:59.000Z",
-          "wordCount": 262,
+          "wordCount": 261,
           "title": "蔚来致死事故后，希望“L2.5”们也跟着去世。"
         },
         {
@@ -906,7 +906,7 @@
           "description": "什么时候开始，评分成了发泄情绪的垃圾场？",
           "link": "https://mp.weixin.qq.com/s/oGaU91OULLUQ65V_FVR5IA",
           "publishedOn": "2021-08-18T00:40:59.000Z",
-          "wordCount": 293,
+          "wordCount": 292,
           "title": "什么时候开始，评分成了发泄情绪的垃圾场？"
         },
         {
@@ -915,7 +915,7 @@
           "description": "吴某凡涉嫌强奸罪被批准逮捕，软银回应放弃国内市场，QQ号强制要求手机号绑定，上海将整合健康码和乘车码，这就是今天的其他大新闻！",
           "link": "https://mp.weixin.qq.com/s/TSR8i-Icu58bGnCwISjTag",
           "publishedOn": "2021-08-17T01:52:46.000Z",
-          "wordCount": 141,
+          "wordCount": 140,
           "title": "吴某凡涉嫌强奸罪被批准逮捕，软银回应放弃国内市场，QQ号强制要求手机号绑定，上海将整合健康码和乘车码，这就是今天的其他大新闻！"
         },
         {
@@ -924,7 +924,7 @@
           "description": "聊一聊：你觉得自动驾驶的分级容易理解吗？",
           "link": "https://mp.weixin.qq.com/s/f__Kd_dwjF7PxZ9WCFbr7A",
           "publishedOn": "2021-08-17T01:52:46.000Z",
-          "wordCount": 54,
+          "wordCount": 53,
           "title": "聊一聊：你觉得自动驾驶的分级容易理解吗？"
         },
         {
@@ -933,7 +933,7 @@
           "description": "今日最佳：委屈巴巴的车车。",
           "link": "https://mp.weixin.qq.com/s/vJLxoSJdxgS-rP2AC7Q0Kw",
           "publishedOn": "2021-08-17T01:52:46.000Z",
-          "wordCount": 55,
+          "wordCount": 54,
           "title": "今日最佳：委屈巴巴的车车。"
         },
         {
@@ -942,7 +942,7 @@
           "description": "单价￥2.5不到的神仙零食，好吃到我想喊个麦。。。",
           "link": "https://mp.weixin.qq.com/s/OrLS1Y1m-J3wK7TQ5DEQ_A",
           "publishedOn": "2021-08-17T01:52:46.000Z",
-          "wordCount": 105,
+          "wordCount": 104,
           "title": "单价￥2.5不到的神仙零食，好吃到我想喊个麦。。。"
         },
         {
@@ -951,7 +951,7 @@
           "description": "一个免费App，是如何成为网民的老婆生成器的？",
           "link": "https://mp.weixin.qq.com/s/2Ih6O88xWKfg89qNXNuS0Q",
           "publishedOn": "2021-08-17T01:52:46.000Z",
-          "wordCount": 139,
+          "wordCount": 138,
           "title": "一个免费App，是如何成为网民的老婆生成器的？"
         },
         {
@@ -960,7 +960,7 @@
           "description": "没想到啊，一个微信小程序竟然还能远程控制电脑？！",
           "link": "https://mp.weixin.qq.com/s/gWdiXMnCNafJw2basWI8Wg",
           "publishedOn": "2021-08-17T01:52:46.000Z",
-          "wordCount": 116,
+          "wordCount": 115,
           "title": "没想到啊，一个微信小程序竟然还能远程控制电脑？！"
         },
         {
@@ -969,7 +969,7 @@
           "description": "轻至960g的笔记本？职场新人终于可以告别麒麟臂了！",
           "link": "https://mp.weixin.qq.com/s/HU-zv0OGukx4Db2lSrdxBw",
           "publishedOn": "2021-08-17T01:52:46.000Z",
-          "wordCount": 269,
+          "wordCount": 268,
           "title": "轻至960g的笔记本？职场新人终于可以告别麒麟臂了！"
         },
         {
@@ -978,7 +978,7 @@
           "description": "学个英语让人负债80万，华尔街英语居然还欠了12亿？",
           "link": "https://mp.weixin.qq.com/s/WmwRqlVlcilso8b7w5Qg6Q",
           "publishedOn": "2021-08-17T01:52:46.000Z",
-          "wordCount": 126,
+          "wordCount": 125,
           "title": "学个英语让人负债80万，华尔街英语居然还欠了12亿？"
         },
         {
@@ -987,7 +987,7 @@
           "description": "张文宏博士学位论文被举报，外交部回应日方涉靖国神社错误行径，蔚来回应企业家车祸事件，闻泰科技收购NWF，这就是今天的其他大新闻！",
           "link": "https://mp.weixin.qq.com/s/0M9zlpooDBh2dHu5R068Nw",
           "publishedOn": "2021-08-16T01:20:45.000Z",
-          "wordCount": 138,
+          "wordCount": 137,
           "title": "张文宏博士学位论文被举报，外交部回应日方涉靖国神社错误行径，蔚来回应企业家车祸事件，闻泰科技收购NWF，这就是今天的其他大新闻！"
         },
         {
@@ -996,7 +996,7 @@
           "description": "聊一聊：啥样的推送消息会让你反感？",
           "link": "https://mp.weixin.qq.com/s/9T-mY83yf9B3OjthSZU_CQ",
           "publishedOn": "2021-08-16T01:20:45.000Z",
-          "wordCount": 54,
+          "wordCount": 53,
           "title": "聊一聊：啥样的推送消息会让你反感？"
         },
         {
@@ -1005,7 +1005,7 @@
           "description": "今日最佳：真诚的卖家。",
           "link": "https://mp.weixin.qq.com/s/z2Jm8ud2EMKUog-we5g6XQ",
           "publishedOn": "2021-08-16T01:20:45.000Z",
-          "wordCount": 55,
+          "wordCount": 54,
           "title": "今日最佳：真诚的卖家。"
         },
         {
@@ -1014,7 +1014,7 @@
           "description": "在B站，有700万人通过炒冰视频进行“线上赌博”！",
           "link": "https://mp.weixin.qq.com/s/br5AW7IcajFWBL_o7xplDw",
           "publishedOn": "2021-08-16T01:20:45.000Z",
-          "wordCount": 103,
+          "wordCount": 102,
           "title": "在B站，有700万人通过炒冰视频进行“线上赌博”！"
         },
         {
@@ -1023,7 +1023,7 @@
           "description": "还记得一路北上的大象吗？它们终于要回家了",
           "link": "https://mp.weixin.qq.com/s/zPotwSLFlyvjtF522e-q8Q",
           "publishedOn": "2021-08-16T01:20:45.000Z",
-          "wordCount": 151,
+          "wordCount": 150,
           "title": "还记得一路北上的大象吗？它们终于要回家了"
         },
         {
@@ -1032,7 +1032,7 @@
           "description": "体验完小新 Pad Pro 后，我发现我的平板买早了。。。",
           "link": "https://mp.weixin.qq.com/s/08Y-PL0JacHkYRClDfCPRQ",
           "publishedOn": "2021-08-16T01:20:45.000Z",
-          "wordCount": 275,
+          "wordCount": 274,
           "title": "体验完小新 Pad Pro 后，我发现我的平板买早了。。。"
         },
         {
@@ -1041,7 +1041,7 @@
           "description": "1传1500的德尔塔还没走，“毒王”拉姆达就来了，疫苗还能扛得住吗？",
           "link": "https://mp.weixin.qq.com/s/dXCjd52ij94wTb7AMbKQCA",
           "publishedOn": "2021-08-16T01:20:45.000Z",
-          "wordCount": 310,
+          "wordCount": 309,
           "title": "1传1500的德尔塔还没走，“毒王”拉姆达就来了，疫苗还能扛得住吗？"
         },
         {
@@ -1050,7 +1050,7 @@
           "description": "聊一聊：今天你是怎么过的呢？",
           "link": "https://mp.weixin.qq.com/s/v-2u_OWla-4h1AIqOlgicA",
           "publishedOn": "2021-08-15T06:42:07.000Z",
-          "wordCount": 54,
+          "wordCount": 53,
           "title": "聊一聊：今天你是怎么过的呢？"
         },
         {
@@ -1059,7 +1059,7 @@
           "description": "今日最佳：各个国家电影里，角色面对子弹的反应。",
           "link": "https://mp.weixin.qq.com/s/-x8mfnrzTB39K0xojmXyqA",
           "publishedOn": "2021-08-15T06:42:07.000Z",
-          "wordCount": 55,
+          "wordCount": 54,
           "title": "今日最佳：各个国家电影里，角色面对子弹的反应。"
         },
         {
@@ -1068,7 +1068,7 @@
           "description": "用“火鸡面”减肥，是怎样一种体验？",
           "link": "https://mp.weixin.qq.com/s/0d9_AIWp45DeASuVzc6NjQ",
           "publishedOn": "2021-08-15T06:42:07.000Z",
-          "wordCount": 125,
+          "wordCount": 124,
           "title": "用“火鸡面”减肥，是怎样一种体验？"
         },
         {
@@ -1077,7 +1077,7 @@
           "description": "11年来，iPad最大的升级是横过来！",
           "link": "https://mp.weixin.qq.com/s/18gWH2lZKlaZw-yifu-2tw",
           "publishedOn": "2021-08-15T06:42:07.000Z",
-          "wordCount": 236,
+          "wordCount": 235,
           "title": "11年来，iPad最大的升级是横过来！"
         },
         {
@@ -1086,7 +1086,7 @@
           "description": "虽然没过上七夕，但这个用胸扯桌布的男人承包了我一天的快乐。",
           "link": "https://mp.weixin.qq.com/s/53ESe5qxXI2YkU0GpCsOhQ",
           "publishedOn": "2021-08-15T06:42:07.000Z",
-          "wordCount": 124,
+          "wordCount": 123,
           "title": "虽然没过上七夕，但这个用胸扯桌布的男人承包了我一天的快乐。"
         },
         {
@@ -1095,7 +1095,7 @@
           "description": "警方通报阿里事件，支付宝回应宕机，AMD占x86处理器市场22.5%份额，微信支持切换2个以上帐号，这就是今天的其他大新闻！",
           "link": "https://mp.weixin.qq.com/s/bIOKzhRbTTRAjWiwy9kuwA",
           "publishedOn": "2021-08-15T06:42:07.000Z",
-          "wordCount": 134,
+          "wordCount": 133,
           "title": "警方通报阿里事件，支付宝回应宕机，AMD占x86处理器市场22.5%份额，微信支持切换2个以上帐号，这就是今天的其他大新闻！"
         },
         {
@@ -1104,7 +1104,7 @@
           "description": "阿里事件尚未立案，乔碧萝疑似回归直播，我国拟立法应对App大数据杀熟，小米MIX 4取消无卡联网防丢，这就是今天的其他大新闻！",
           "link": "https://mp.weixin.qq.com/s/jTQ6FOMVlWTC2ZBkb8xVnw",
           "publishedOn": "2021-08-14T15:30:04.000Z",
-          "wordCount": 116,
+          "wordCount": 115,
           "title": "阿里事件尚未立案，乔碧萝疑似回归直播，我国拟立法应对App大数据杀熟，小米MIX 4取消无卡联网防丢，这就是今天的其他大新闻！"
         },
         {
@@ -1113,7 +1113,7 @@
           "description": "聊一聊：你有没有过把消息转错群的尴尬经历？",
           "link": "https://mp.weixin.qq.com/s/5XwNf-moiX57FGD4mq_aTg",
           "publishedOn": "2021-08-14T15:30:04.000Z",
-          "wordCount": 54,
+          "wordCount": 53,
           "title": "聊一聊：你有没有过把消息转错群的尴尬经历？"
         },
         {
@@ -1122,7 +1122,7 @@
           "description": "今日最佳：婉拒小技巧。",
           "link": "https://mp.weixin.qq.com/s/eV91rZ0PKGSY6l8fsnjfSA",
           "publishedOn": "2021-08-14T15:30:04.000Z",
-          "wordCount": 55,
+          "wordCount": 54,
           "title": "今日最佳：婉拒小技巧。"
         },
         {
@@ -1131,7 +1131,7 @@
           "description": "00后都上哪喝酒？",
           "link": "https://mp.weixin.qq.com/s/JXYu7fVyRDFxjn5xKNGFpg",
           "publishedOn": "2021-08-14T15:30:04.000Z",
-          "wordCount": 84,
+          "wordCount": 83,
           "title": "00后都上哪喝酒？"
         },
         {
@@ -1140,7 +1140,7 @@
           "description": "荣耀这次的发布会，真的做了台配置拉满的手机。",
           "link": "https://mp.weixin.qq.com/s/0nfj40zMgaBsaQMpdbRhsg",
           "publishedOn": "2021-08-14T15:30:04.000Z",
-          "wordCount": 394,
+          "wordCount": 393,
           "title": "荣耀这次的发布会，真的做了台配置拉满的手机。"
         },
         {
@@ -1149,7 +1149,7 @@
           "description": "有钓鱼，有大炮，一百年前的奥运会可能比现在都刺激。",
           "link": "https://mp.weixin.qq.com/s/lg3ylEBonX62dODueTB9nQ",
           "publishedOn": "2021-08-14T15:30:04.000Z",
-          "wordCount": 131,
+          "wordCount": 130,
           "title": "有钓鱼，有大炮，一百年前的奥运会可能比现在都刺激。"
         },
         {
@@ -1158,7 +1158,7 @@
           "description": "为啥扫了一辆共享单车，就被划走了200多块钱？",
           "link": "https://mp.weixin.qq.com/s/tD8cuOs4kkuNdU3h2yhtfQ",
           "publishedOn": "2021-08-14T15:30:04.000Z",
-          "wordCount": 154,
+          "wordCount": 153,
           "title": "为啥扫了一辆共享单车，就被划走了200多块钱？"
         },
         {
@@ -1167,7 +1167,7 @@
           "description": "阿里成立反职场陋习小组，李小龙回应华为取消5G快捷开关，美团内测外卖社交饭小圈，新东方辟谣转型培训父母，这就是今天的其他大新闻！",
           "link": "https://mp.weixin.qq.com/s/v4DkjsD0jxjqdAQSToVYqQ",
           "publishedOn": "2021-08-13T10:40:06.000Z",
-          "wordCount": 154,
+          "wordCount": 153,
           "title": "阿里成立反职场陋习小组，李小龙回应华为取消5G快捷开关，美团内测外卖社交饭小圈，新东方辟谣转型培训父母，这就是今天的其他大新闻！"
         },
         {
@@ -1176,7 +1176,7 @@
           "description": "聊一聊：你觉得App的功能丰富好还是简单好？",
           "link": "https://mp.weixin.qq.com/s/QSIwdS0RQZp1E3t0yciZ4A",
           "publishedOn": "2021-08-13T10:40:06.000Z",
-          "wordCount": 54,
+          "wordCount": 53,
           "title": "聊一聊：你觉得App的功能丰富好还是简单好？"
         },
         {
@@ -1185,7 +1185,7 @@
           "description": "今日最佳：是老子，不是老子！",
           "link": "https://mp.weixin.qq.com/s/-yuv_cTld2GWAq2jJToXMA",
           "publishedOn": "2021-08-13T10:40:06.000Z",
-          "wordCount": 59,
+          "wordCount": 58,
           "title": "今日最佳：是老子，不是老子！"
         },
         {
@@ -1194,7 +1194,7 @@
           "description": "晚上10点，女实习生发消息：「怎么办！有人跟踪我！」",
           "link": "https://mp.weixin.qq.com/s/0IHQ6EFdkRFPUFdWEZwQSg",
           "publishedOn": "2021-08-13T10:40:06.000Z",
-          "wordCount": 83,
+          "wordCount": 82,
           "title": "晚上10点，女实习生发消息：「怎么办！有人跟踪我！」"
         },
         {
@@ -1203,7 +1203,7 @@
           "description": "三星的发布会又是折叠屏手机，但这次我承认心动了。",
           "link": "https://mp.weixin.qq.com/s/hoOU2cQB8frkGMpCs76G-A",
           "publishedOn": "2021-08-13T10:40:06.000Z",
-          "wordCount": 370,
+          "wordCount": 369,
           "title": "三星的发布会又是折叠屏手机，但这次我承认心动了。"
         },
         {
@@ -1212,7 +1212,7 @@
           "description": "英伟达是怎么在发布会里，造出来一个假CEO的？",
           "link": "https://mp.weixin.qq.com/s/6xsezfeKut0RJyMfS3VN9A",
           "publishedOn": "2021-08-13T10:40:06.000Z",
-          "wordCount": 248,
+          "wordCount": 247,
           "title": "英伟达是怎么在发布会里，造出来一个假CEO的？"
         },
         {
@@ -1221,7 +1221,7 @@
           "description": "股价腰斩后再翻倍，雷军这场演讲太励志了！",
           "link": "https://mp.weixin.qq.com/s/uek7cw5Vp0re9MWtHCfE4w",
           "publishedOn": "2021-08-13T10:40:06.000Z",
-          "wordCount": 205,
+          "wordCount": 204,
           "title": "股价腰斩后再翻倍，雷军这场演讲太励志了！"
         },
         {
@@ -1230,7 +1230,7 @@
           "description": "马云妻子数落雷军传闻被辟谣，亚朵集团再回应阿里事件，恒大回应出售恒大汽车，软银将暂停在中国开展新的投资，这就是今天的其他大新闻！",
           "link": "https://mp.weixin.qq.com/s/1HOfj_0cKTfgrkUnCNBAIw",
           "publishedOn": "2021-08-12T00:36:24.000Z",
-          "wordCount": 76,
+          "wordCount": 75,
           "title": "马云妻子数落雷军传闻被辟谣，亚朵集团再回应阿里事件，恒大回应出售恒大汽车，软银将暂停在中国开展新的投资，这就是今天的其他大新闻！"
         },
         {
@@ -1239,7 +1239,7 @@
           "description": "聊一聊：你身边的孩子们兴趣班上得多吗？",
           "link": "https://mp.weixin.qq.com/s/YYFShLz99sfu7Wc9mCGPGA",
           "publishedOn": "2021-08-12T00:36:24.000Z",
-          "wordCount": 54,
+          "wordCount": 53,
           "title": "聊一聊：你身边的孩子们兴趣班上得多吗？"
         },
         {
@@ -1248,7 +1248,7 @@
           "description": "今日最佳：一个跟爹姓，一个跟妈姓。",
           "link": "https://mp.weixin.qq.com/s/I4NV-oNrRZt9pETvw5prQg",
           "publishedOn": "2021-08-12T00:36:24.000Z",
-          "wordCount": 55,
+          "wordCount": 54,
           "title": "今日最佳：一个跟爹姓，一个跟妈姓。"
         },
         {
@@ -1257,7 +1257,7 @@
           "description": "七夕礼物¥29.9起，最后48h情人节限定礼盒速抢！",
           "link": "https://mp.weixin.qq.com/s/lx9UVNnUf792DMzYgfHS-A",
           "publishedOn": "2021-08-12T00:36:24.000Z",
-          "wordCount": 94,
+          "wordCount": 93,
           "title": "七夕礼物¥29.9起，最后48h情人节限定礼盒速抢！"
         },
         {
@@ -1266,7 +1266,7 @@
           "description": "这款9.7分的高质量手游，制作组却决定免费给所有人玩。",
           "link": "https://mp.weixin.qq.com/s/a36j-AoFIvKm09rXaa8ajQ",
           "publishedOn": "2021-08-12T00:36:24.000Z",
-          "wordCount": 137,
+          "wordCount": 136,
           "title": "这款9.7分的高质量手游，制作组却决定免费给所有人玩。"
         },
         {
@@ -1275,7 +1275,7 @@
           "description": "在5000元的价位里，小米MIX 4香吗？",
           "link": "https://mp.weixin.qq.com/s/wU7yvm0GCGYv6GoCoFK5wA",
           "publishedOn": "2021-08-12T00:36:24.000Z",
-          "wordCount": 240,
+          "wordCount": 239,
           "title": "在5000元的价位里，小米MIX 4香吗？"
         },
         {
@@ -1284,7 +1284,7 @@
           "description": "从全军覆没到齐升三面国旗，中国奥运到底经历了什么？",
           "link": "https://mp.weixin.qq.com/s/StvgZ6636SkyTh4H62ioAg",
           "publishedOn": "2021-08-12T00:36:24.000Z",
-          "wordCount": 206,
+          "wordCount": 205,
           "title": "从全军覆没到齐升三面国旗，中国奥运到底经历了什么？"
         },
         {
@@ -1293,7 +1293,7 @@
           "description": "阿里涉事酒店回应房卡违规，微博超话下线积分助力制，ofo各地公司相继注销，华为申请P100商标被驳回，这就是今天的其他大新闻！",
           "link": "https://mp.weixin.qq.com/s/74Agj3JBBr5ID1MI3AaXVw",
           "publishedOn": "2021-08-11T00:53:30.000Z",
-          "wordCount": 143,
+          "wordCount": 142,
           "title": "阿里涉事酒店回应房卡违规，微博超话下线积分助力制，ofo各地公司相继注销，华为申请P100商标被驳回，这就是今天的其他大新闻！"
         },
         {
@@ -1302,7 +1302,7 @@
           "description": "聊一聊：你们那儿最近有啥抗疫政策？",
           "link": "https://mp.weixin.qq.com/s/tRn8vhZ9UxImB8u0myJlGQ",
           "publishedOn": "2021-08-11T00:53:30.000Z",
-          "wordCount": 54,
+          "wordCount": 53,
           "title": "聊一聊：你们那儿最近有啥抗疫政策？"
         },
         {
@@ -1311,7 +1311,7 @@
           "description": "今日最佳：梅西离队对打工人的启示。",
           "link": "https://mp.weixin.qq.com/s/EZAYOvI_qYSTfzkiRkPDyg",
           "publishedOn": "2021-08-11T00:53:30.000Z",
-          "wordCount": 55,
+          "wordCount": 54,
           "title": "今日最佳：梅西离队对打工人的启示。"
         },
         {
@@ -1320,7 +1320,7 @@
           "description": "为了等女朋友一起出门，我这个月上班迟到10次。",
           "link": "https://mp.weixin.qq.com/s/jHoAjPMHzrhkJGXDECOxYg",
           "publishedOn": "2021-08-11T00:53:30.000Z",
-          "wordCount": 112,
+          "wordCount": 111,
           "title": "为了等女朋友一起出门，我这个月上班迟到10次。"
         },
         {
@@ -1329,7 +1329,7 @@
           "description": "被网友封神的日本艺术家，靠玩模型拍写真成了宅男之光。",
           "link": "https://mp.weixin.qq.com/s/CeN8NBvWodN-EgCnRONO2w",
           "publishedOn": "2021-08-11T00:53:30.000Z",
-          "wordCount": 101,
+          "wordCount": 100,
           "title": "被网友封神的日本艺术家，靠玩模型拍写真成了宅男之光。"
         },
         {
@@ -1338,7 +1338,7 @@
           "description": "网暴秦皇岛落水被救女孩的人，都该向她们道歉。",
           "link": "https://mp.weixin.qq.com/s/F1ThEpUpSJKRfAqPCU-l8g",
           "publishedOn": "2021-08-11T00:53:30.000Z",
-          "wordCount": 221,
+          "wordCount": 220,
           "title": "网暴秦皇岛落水被救女孩的人，都该向她们道歉。"
         },
         {
@@ -1347,7 +1347,7 @@
           "description": "今晚的小米发布会，除了3.7亿红包，还有条叫铁蛋的狗。",
           "link": "https://mp.weixin.qq.com/s/3esn08ugIBE8Xj-AJPYgIg",
           "publishedOn": "2021-08-11T00:53:30.000Z",
-          "wordCount": 475,
+          "wordCount": 474,
           "title": "今晚的小米发布会，除了3.7亿红包，还有条叫铁蛋的狗。"
         },
         {
@@ -1356,7 +1356,7 @@
           "description": "阿里巴巴公布处理决定，网易云音乐回应推迟赴港上市，腾讯起诉抖音获赔60万，小米获语音消息断点播放专利，这就是今天的其他大新闻！",
           "link": "https://mp.weixin.qq.com/s/5R0qMDqHlyH4eGPYftMN-Q",
           "publishedOn": "2021-08-10T03:02:54.000Z",
-          "wordCount": 128,
+          "wordCount": 127,
           "title": "阿里巴巴公布处理决定，网易云音乐回应推迟赴港上市，腾讯起诉抖音获赔60万，小米获语音消息断点播放专利，这就是今天的其他大新闻！"
         },
         {
@@ -1365,7 +1365,7 @@
           "description": "聊一聊：你觉得安卓平板应该做到什么水平？",
           "link": "https://mp.weixin.qq.com/s/rPgATojQ-UYmlbfHmHKGGQ",
           "publishedOn": "2021-08-10T03:02:54.000Z",
-          "wordCount": 54,
+          "wordCount": 53,
           "title": "聊一聊：你觉得安卓平板应该做到什么水平？"
         },
         {
@@ -1374,7 +1374,7 @@
           "description": "今日最佳：向天硬要五百年。",
           "link": "https://mp.weixin.qq.com/s/0Rh65nnt9CB_rDk9jJdIVw",
           "publishedOn": "2021-08-10T03:02:54.000Z",
-          "wordCount": 56,
+          "wordCount": 55,
           "title": "今日最佳：向天硬要五百年。"
         },
         {
@@ -1383,7 +1383,7 @@
           "description": "100元不到，这个七夕创意「盲盒」还能这么玩？",
           "link": "https://mp.weixin.qq.com/s/f6Su2Rnsq_t8uT42Qdgv5A",
           "publishedOn": "2021-08-10T03:02:54.000Z",
-          "wordCount": 94,
+          "wordCount": 93,
           "title": "100元不到，这个七夕创意「盲盒」还能这么玩？"
         },
         {
@@ -1392,7 +1392,7 @@
           "description": "360 突然良心，把弹窗广告给砍了？",
           "link": "https://mp.weixin.qq.com/s/cL99y71cdH7X_l_N4ZNV4g",
           "publishedOn": "2021-08-10T03:02:54.000Z",
-          "wordCount": 129,
+          "wordCount": 128,
           "title": "360 突然良心，把弹窗广告给砍了？"
         },
         {
@@ -1401,7 +1401,7 @@
           "description": "独立开发三年的游戏，被“台湾黑客”一波攻击全毁了？",
           "link": "https://mp.weixin.qq.com/s/EhntFbRTAjhK1aiYXCNtgA",
           "publishedOn": "2021-08-10T03:02:54.000Z",
-          "wordCount": 166,
+          "wordCount": 165,
           "title": "独立开发三年的游戏，被“台湾黑客”一波攻击全毁了？"
         },
         {
@@ -1410,7 +1410,7 @@
           "description": "从钢铁侠战衣到你的内裤，纳米科技现在到底发展成啥样了？",
           "link": "https://mp.weixin.qq.com/s/LqEJ7W3PZyjjJZZn6zB2zQ",
           "publishedOn": "2021-08-10T03:02:54.000Z",
-          "wordCount": 159,
+          "wordCount": 158,
           "title": "从钢铁侠战衣到你的内裤，纳米科技现在到底发展成啥样了？"
         },
         {
@@ -1419,7 +1419,7 @@
           "description": "央视抨击短视频侵权奥运，黄牛高价倒卖AMD新显卡，游客在动物园厮打遭动物效仿，中国代表团88枚奖牌收官，这就是今天的其他大新闻！",
           "link": "https://mp.weixin.qq.com/s/RT_b2fRgrxbdjL6LqsuIQQ",
           "publishedOn": "2021-08-09T00:34:00.000Z",
-          "wordCount": 185,
+          "wordCount": 184,
           "title": "央视抨击短视频侵权奥运，黄牛高价倒卖AMD新显卡，游客在动物园厮打遭动物效仿，中国代表团88枚奖牌收官，这就是今天的其他大新闻！"
         },
         {
@@ -1428,7 +1428,7 @@
           "description": "聊一聊：公司的哪些行为能提升好感？",
           "link": "https://mp.weixin.qq.com/s/pDV4rvs5i2VhjutvdqTaKg",
           "publishedOn": "2021-08-09T00:34:00.000Z",
-          "wordCount": 53,
+          "wordCount": 52,
           "title": "聊一聊：公司的哪些行为能提升好感？"
         },
         {
@@ -1437,7 +1437,7 @@
           "description": "今日最佳：四舍五入我也是中国跳水队员。",
           "link": "https://mp.weixin.qq.com/s/NbdIB9gAr1RNB5bCFW7Fpw",
           "publishedOn": "2021-08-09T00:34:00.000Z",
-          "wordCount": 56,
+          "wordCount": 55,
           "title": "今日最佳：四舍五入我也是中国跳水队员。"
         },
         {
@@ -1446,7 +1446,7 @@
           "description": "距七夕仅剩5天，还有什么来得及上车的百元礼物？",
           "link": "https://mp.weixin.qq.com/s/LdOG4JCFh56YxamxWuOoJQ",
           "publishedOn": "2021-08-09T00:34:00.000Z",
-          "wordCount": 103,
+          "wordCount": 102,
           "title": "距七夕仅剩5天，还有什么来得及上车的百元礼物？"
         },
         {
@@ -1455,7 +1455,7 @@
           "description": "在电脑里塞两张显卡的游戏表现，为什么还不如一张？",
           "link": "https://mp.weixin.qq.com/s/RMY1yX9vdbNJC-DwXyLScA",
           "publishedOn": "2021-08-09T00:34:00.000Z",
-          "wordCount": 256,
+          "wordCount": 255,
           "title": "在电脑里塞两张显卡的游戏表现，为什么还不如一张？"
         },
         {
@@ -1464,7 +1464,7 @@
           "description": "2021年了，互联网公司还搞酒桌文化？",
           "link": "https://mp.weixin.qq.com/s/dDCQrNc5lePQQrokp604ag",
           "publishedOn": "2021-08-09T00:34:00.000Z",
-          "wordCount": 115,
+          "wordCount": 114,
           "title": "2021年了，互联网公司还搞酒桌文化？"
         }
       ]
@@ -1480,7 +1480,7 @@
           "description": "社会制度与知识正义 / 翻译",
           "link": "https://mp.weixin.qq.com/s/tY_NvhcvNil38bDJ2TL-UA",
           "publishedOn": "2021-08-30T12:29:02.000Z",
-          "wordCount": 270,
+          "wordCount": 269,
           "title": "社会制度与知识正义 / 翻译"
         },
         {
@@ -1489,7 +1489,7 @@
           "description": "纪念南希逝世——论南希的政治思想 / 翻译",
           "link": "https://mp.weixin.qq.com/s/ljKAowyqhg4Hob0gZbQqaQ",
           "publishedOn": "2021-08-26T09:58:02.000Z",
-          "wordCount": 139,
+          "wordCount": 138,
           "title": "纪念南希逝世——论南希的政治思想 / 翻译"
         },
         {
@@ -1498,7 +1498,7 @@
           "description": "阿富汗的战局逆转是如何形成的？",
           "link": "https://mp.weixin.qq.com/s/gDUT4dnLiXqTTyRg3qUoEw",
           "publishedOn": "2021-08-23T04:41:12.000Z",
-          "wordCount": 86,
+          "wordCount": 85,
           "title": "阿富汗的战局逆转是如何形成的？"
         },
         {
@@ -1507,7 +1507,7 @@
           "description": "阿富汗国家失败的经济逻辑：虚假繁荣的城市，停滞不前的农村",
           "link": "https://mp.weixin.qq.com/s/2Rwl7S9Zbpibweysup4Jig",
           "publishedOn": "2021-08-23T04:41:12.000Z",
-          "wordCount": 262,
+          "wordCount": 261,
           "title": "阿富汗国家失败的经济逻辑：虚假繁荣的城市，停滞不前的农村"
         },
         {
@@ -1516,7 +1516,7 @@
           "description": "匹兹堡学派——黑格尔在分析哲学中得到了怎样的复兴？/ 翻译",
           "link": "https://mp.weixin.qq.com/s/9tde19993ohlR_8dgaDyAA",
           "publishedOn": "2021-08-23T04:41:12.000Z",
-          "wordCount": 1961,
+          "wordCount": 1960,
           "title": "匹兹堡学派——黑格尔在分析哲学中得到了怎样的复兴？/ 翻译"
         },
         {
@@ -1525,7 +1525,7 @@
           "description": "思绪在哪里落脚？人类学对于哲学课题的审阅（下）",
           "link": "https://mp.weixin.qq.com/s/GZLzxCdwoxHKaO-bl0I1Jg",
           "publishedOn": "2021-08-21T13:07:34.000Z",
-          "wordCount": 265,
+          "wordCount": 264,
           "title": "思绪在哪里落脚？人类学对于哲学课题的审阅（下）"
         },
         {
@@ -1534,7 +1534,7 @@
           "description": "让暴力可见：绘制针对巴西瓜拉尼-卡依奥瓦族女性的暴力地图",
           "link": "https://mp.weixin.qq.com/s/WcffgIflczNrQdkCn_S1HA",
           "publishedOn": "2021-08-20T11:10:57.000Z",
-          "wordCount": 136,
+          "wordCount": 135,
           "title": "让暴力可见：绘制针对巴西瓜拉尼-卡依奥瓦族女性的暴力地图"
         },
         {
@@ -1543,7 +1543,7 @@
           "description": "齐泽克如何从黑格尔哲学中汲取政治见解? / 翻译",
           "link": "https://mp.weixin.qq.com/s/N8C-6lBDjbLl9TLBrDZL7w",
           "publishedOn": "2021-08-20T11:10:57.000Z",
-          "wordCount": 213,
+          "wordCount": 212,
           "title": "齐泽克如何从黑格尔哲学中汲取政治见解? / 翻译"
         },
         {

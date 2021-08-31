@@ -10,7 +10,131 @@
   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
   <link rel="alternate" type="application/rss+xml" title="osmos::feed" href="feed.atom" />
   <link href="index.css" rel="stylesheet" />
-  <!-- %before-head-end.html% -->
+  <style>
+  * {
+  margin: 0%;
+  padding: 0%;
+
+  text-decoration: none;
+  color: black;
+  list-style: none;
+
+  font-size: 15px;
+}
+
+body {
+  margin: 0rem auto;
+  margin-top: 1.3rem;
+  margin-bottom: 1rem;
+
+  display: flex;
+  flex-direction: column;
+
+  width: 480px;
+  max-width: 92%;
+
+  background-image: linear-gradient(to bottom right , #6193ff,#ff4f4f);
+
+  font-family: "Arial", "Microsoft YaHei", "sans-serif";
+}
+
+section.daily-content {
+  display: flex;
+  flex-direction: column;
+}
+
+li.source {
+  background: rgba(255,255,255,0.2);
+  box-shadow: 20px 20px 40px -6px rgba(0,0,0,0.2);
+  backdrop-filter: blur(4.5px);
+
+  margin-bottom: 1rem;
+  padding: 1rem;
+
+  border-radius: 1rem;
+}
+
+a.source-name__link {
+  font-size: 13px;
+  color: rgb(70, 70, 70);
+}
+
+summary.article-expander__title {
+  font-weight: bold;
+}
+
+article {
+  margin-bottom: 0.5rem;
+  padding-top: 0.5rem;
+
+  border-top: solid rgb(109, 97, 97) 1px;
+}
+
+h2.daily-heading {
+  padding-left: 1rem;
+  align-self: flex-start;
+  margin-bottom: 0.5rem;
+}
+time {
+  color: rgba(59, 59, 59, 0.801);
+  font-weight: lighter;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+footer {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+#build-timestamp {
+  color: black;
+}
+
+div.article-summary-box-inner {
+  line-height: 1.5rem;
+  margin-top: 0.3rem;
+  margin-left: 0.5rem;
+  padding-left: 0.5rem;
+
+  border-left: solid gray 1px;
+}
+
+header {
+  position: fixed;
+
+  text-align: right;
+  color: rgb(27, 27, 27);
+  font-size: 2.1rem;
+  font-family: 'Gabriola';
+  top: 0%;
+  right: 0%;
+  padding-right: 1rem;
+  padding-top: 0rem;
+
+  height: 3rem;
+  width: 100%;
+
+  /*background-color: rgba(256,256,256,0.8);*/
+}
+
+@media (prefers-color-scheme: dark) {
+  header {
+    color: aliceblue;
+    /*background-color: rgba(0,0,0,0.8);
+  */}
+}
+</style>
+<script>
+  let html = document.querySelector('html');
+  let header = document.createElement('header');
+
+  header.textContent = 'RSSFeed'
+
+  html.appendChild(header);
+</script>
+
 </head>
 
 <body>
@@ -2292,7 +2416,7 @@ Apple Arcade：游戏服务
   </section>
 
   <footer>
-    <time id="build-timestamp" datetime="2021-08-31T00:52:54.718Z">2021-08-31T00:52:54.718Z</time>
+    <time id="build-timestamp" datetime="2021-08-31T10:16:44.901Z">2021-08-31T10:16:44.901Z</time>
     <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.11.0</a></span>
   </footer>
   <script src="index.js"></script>
