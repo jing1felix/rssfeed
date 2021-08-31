@@ -1,3 +1,14 @@
+<script>
+  let links = document.querySelectorAll('link');
+  links[2].remove(); 
+ 
+  let html = document.querySelector('html');
+  let header = document.createElement('header');
+
+  header.textContent = 'RSSFeed'
+
+  html.appendChild(header);
+</script>
 <style>
   * {
   margin: 0%;
@@ -114,11 +125,3 @@ header {
   */}
 }
 </style>
-<script>
-  let html = document.querySelector('html');
-  let header = document.createElement('header');
-
-  header.textContent = 'RSSFeed'
-
-  html.appendChild(header);
-</script>
