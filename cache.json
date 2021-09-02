@@ -17,7 +17,7 @@
           "description": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。\n周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。\n封面图\n\n上海的很多老小区，由于历史原因，有很多密密麻麻的架空电线，非常影响美观。江阴路今年的社区更新，尝试将架空线包裹进入人造的绿色藤蔓。（via）\n本周话题：网络收音机的设计\n最近，我为家里的老人买了一台网络收音机。\n老人的年纪很大（超过85岁），完全不懂互联网，操作智能手机会经常点错地方，不知道怎么恢复。平时唯一的消遣就是看电视，其实根本不爱看，但没有别的娱乐。这样的老人家在互联网时代非常弱势，但是人数还不少，我们国家搞不好有一两个亿。\n\n我希望，找到一台网络收音机，能够接收网络节目，帮老人丰富生活、了解外界。我的要求是，操作越简单越好，不懂互联网的人也可以毫无困难地上手。\n大家不妨想一想，如果你是设计师，会怎么设计这个产品？下面这样全触摸式的网络收音机，适合老人吗？\n\n我在网上还真的找到这样一个产品，立刻下单。前几天收到实物以后，发现比我想像的更好，基本上完全满足了我的需求，忍不住要在这里谈一谈。\n下面不是为它做广告，纯粹只是以它为例，讨论针对老年用户的电子产品，应该怎么设计。\n\n\n我觉得，这个网络收音机真的是为老年人设计的，设计师用心了，把老年人不需要的功能都砍掉了，让产品变得尽量简单。\n我特别赞赏的有三个地方。\n（1）它直接连接喜马拉雅的节目库，不需要任何登陆或认证，打开就直接播放，用户感知不到喜马拉雅的存在。\n设想一下，如果需要切换网址或者节目源，老人能理解这种操作吗？\n（2）音量控制是旋钮，而不是手机常用的按键。\n这一点特别赞。旋钮是机械装置，容易坏，但是手感好、体积大、容易操作，符合直觉。如果能把电源开关也做进旋钮，就更好了。…",
           "link": "http://www.ruanyifeng.com/blog/2021/08/weekly-issue-173.html",
           "publishedOn": "2021-08-27T00:36:29.000Z",
-          "wordCount": 894,
+          "wordCount": 904,
           "title": "科技爱好者周刊（第 173 期）：网络收音机的设计"
         },
         {
@@ -26,7 +26,7 @@
           "description": "程序员的笔记软件，应该满足下面几个条件。\n\n（1）跨平台，同时支持桌面电脑（Windows，Mac，Linux）和手机（Android，iOS）。\n（2）随时同步，打开任何一台机器，都能接着上一次的工作继续写。\n（3）实时存储，如果软件突然关闭，也不会丢失内容。\n（4）支持 Markdown 格式，便于后期直接发布。\n（5）支持推送到远程 Git 仓库，产生历史版本，同时作为远程备份。\n我一直在寻找符合这些条件的工具，但是市场上大部分的笔记软件，都不支持上面的第5点，Git 集成要么没有，要么很弱。\n我用过 Stackedit.io 和 HackMD.io，都不是很理想。\n\n最近，我终于找到了最佳方案，那就是 GitHub 官方推出的 github.dev。\n只要访问下面的网址，你就能在浏览器里面，使用 VS Code 编辑指定仓库。可以点击这里体验一下。\n\nhttps://github.dev/[用户名]/[仓库名]\n\n它实际上就是 VS Code 编辑器的 Web 版，并且与 Git 高度集成。这种组合，还有什么笔记软件会比它更强！\n\n使用时，首先在 GitHub 上面新建一个笔记仓库，公开或私密都可以。然后使用 github.dev 编辑完，再推送回仓库。换到其它机器时，就先从仓库获取文档的最新版本，简直是完美的解决方案。\n更棒的是，GitHub 提供了一个快捷入口。 打开 GitHub 仓库主页，按一下小数点（.）这个键， 页面就会自动跳转到 VS Code 编辑环境，真是太方便了。\n\n另外，还有一个非官方的 github1s.com，也提供类似功能。只要在仓库域名的里面，加上\"1s\"就可以了。但毕竟是非官方工具，这里就不推荐了。\n\nhttps://github1s.com/[用户名]/[仓库名]\n\ngithub.dev 针对的是桌面的\"键盘 + 鼠标\"环境，手机触摸屏可以使用，但终归很笨拙。\n如果你更希望使用手机原生 App，我推荐 Obsidian。它有全平台的客户端，并且可以参考这篇文章设置 Git 集成。\n\n另外，FSNotes 也不错，可惜只支持苹果设备。\n\n如果你不需要 Git 集成和 Markdown 支持，那就最简单了，几大软件巨头的官方笔记 App，就非常好用：Google keep、Apple Notes（只支持苹果设备）和微软 OneNote。\n\n它们都是自动多端同步，缺点是不便于编写大型文档，以及导出数据很麻烦。\n（完）\n文档信息\n版权声明：自由转载-非商用-非衍生-保持署名（创意共享3.0许可证）\n发表日期： 2021年8月26日",
           "link": "http://www.ruanyifeng.com/blog/2021/08/best-note-taking-software-for-programmers.html",
           "publishedOn": "2021-08-26T00:42:33.000Z",
-          "wordCount": 675,
+          "wordCount": 685,
           "title": "最适合程序员的笔记软件"
         },
         {
@@ -63,6 +63,69 @@
       "feedUrl": "https://api.feeddd.org/feeds/6110783449ef7514d0b91ae1",
       "siteUrl": "https://mp.weixin.qq.com",
       "articles": [
+        {
+          "id": "https://mp.weixin.qq.com/s/tqNUZGiDczyFaY3oA0LKFQ",
+          "author": null,
+          "description": "KPL明确禁止未成年参赛，爱奇艺腾讯将优化超前点播，抖音下线明星话题榜，电子驾驶证正式上线，这就是今天的其他大新闻！",
+          "link": "https://mp.weixin.qq.com/s/tqNUZGiDczyFaY3oA0LKFQ",
+          "publishedOn": "2021-09-01T16:32:45.000Z",
+          "wordCount": 151,
+          "title": "KPL明确禁止未成年参赛，爱奇艺腾讯将优化超前点播，抖音下线明星话题榜，电子驾驶证正式上线，这就是今天的其他大新闻！"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/20NuFzyquKPM0hRXu5Mbgw",
+          "author": null,
+          "description": "聊一聊：什么情况下，你能接受视频网站会员涨价？",
+          "link": "https://mp.weixin.qq.com/s/20NuFzyquKPM0hRXu5Mbgw",
+          "publishedOn": "2021-09-01T16:32:45.000Z",
+          "wordCount": 53,
+          "title": "聊一聊：什么情况下，你能接受视频网站会员涨价？"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/lDzuTlMRxzklfoec9zbpiA",
+          "author": null,
+          "description": "今日最佳：高中留下的条件反射。",
+          "link": "https://mp.weixin.qq.com/s/lDzuTlMRxzklfoec9zbpiA",
+          "publishedOn": "2021-09-01T16:32:45.000Z",
+          "wordCount": 54,
+          "title": "今日最佳：高中留下的条件反射。"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/XdED1e9zSXxLl_YJiGSV-g",
+          "author": null,
+          "description": "欧皇喝牛奶，和普通人有啥区别？",
+          "link": "https://mp.weixin.qq.com/s/XdED1e9zSXxLl_YJiGSV-g",
+          "publishedOn": "2021-09-01T16:32:45.000Z",
+          "wordCount": 98,
+          "title": "欧皇喝牛奶，和普通人有啥区别？"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/3cT2tnyRVdZKhYWM5iEfuQ",
+          "author": null,
+          "description": "阿尔兹海默症和电子游戏。",
+          "link": "https://mp.weixin.qq.com/s/3cT2tnyRVdZKhYWM5iEfuQ",
+          "publishedOn": "2021-09-01T16:32:45.000Z",
+          "wordCount": 183,
+          "title": "阿尔兹海默症和电子游戏。"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/lH3maUPHE9Rqes1A6tkXMQ",
+          "author": null,
+          "description": "被罚50万，放弃独家版权，腾讯音乐彻底怂了。。。",
+          "link": "https://mp.weixin.qq.com/s/lH3maUPHE9Rqes1A6tkXMQ",
+          "publishedOn": "2021-09-01T16:32:45.000Z",
+          "wordCount": 203,
+          "title": "被罚50万，放弃独家版权，腾讯音乐彻底怂了。。。"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/9nm7KBpiFOcuEnJg_FLlbQ",
+          "author": null,
+          "description": "是时候向扰乱你生活的工作群发起反击了！",
+          "link": "https://mp.weixin.qq.com/s/9nm7KBpiFOcuEnJg_FLlbQ",
+          "publishedOn": "2021-09-01T16:32:45.000Z",
+          "wordCount": 121,
+          "title": "是时候向扰乱你生活的工作群发起反击了！"
+        },
         {
           "id": "https://mp.weixin.qq.com/s/xr5Ds2twtid6cqxD_cUTTw",
           "author": null,
