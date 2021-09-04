@@ -17,7 +17,7 @@
           "description": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。\n周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。\n封面图\n\n浙江普陀山客运中心最近获得2021年度凡尔赛建筑奖。（via）\n本周话题：全能程序员 vs 特长程序员\n我读过一些篮球报道，里面说 NBA 球队不喜欢\"全能型球员\"，更喜欢\"特长型球员\"。\n\n所谓\"特长型球员\"，指的是其他方面可能都不行，但是某一方面特别突出，比如防守特别好、三分特别准，或者篮板很强等等。球队愿意签这样的球员，关键时刻派上场，没准就能立下奇功。\n反过来，\"全能型球员\"各项技术都很均衡，防守、进攻、投篮都还可以，能达到平均水平，但是每个方面都不突出，没有明显的过人之处。球队看不上这样的球员，觉得让你上场，赢不了球。\n我马上联想到， 软件行业其实也是如此，\"全能程序员\"的出路，明显不如\"特长程序员\"。\n\n如果你什么都会干，前端、后端、数据库、服务器管理都能上手，那么哪里缺人手，就会让你顶上去。但是，一旦遇到疑难问题，又指望不了你，因为你不是那个方面的专家，解决不了。\n反过来，你精通某一项技术，其他都不懂，公司反而会觉得你更有价值。因为你可以把这个技术做得很深，克服技术难点，超过竞争对手，所以你的晋升会快得多。\n我甚至读到过这样一段话：\n\"绝大多数成熟的程序员都专攻某一个技术栈，因为这样更容易找到工作。 一些专家甚至认为，在不同的技术栈中工作是简历的污点。\"\n所以，大家写简历的时候，千万不要把自己懂的所有技术都写进去，那是简历的扣分项。而只写你掌握最深的那项技术，以及与之相关的工作经历。\n同样的，新人如果想在软件行业长远发展，建议选择一两个技术方向进行专研，成为专家，而不要什么技术都懂一点，但是哪一项都不精通。\n但是，这样也…",
           "link": "http://www.ruanyifeng.com/blog/2021/09/weekly-issue-174.html",
           "publishedOn": "2021-09-03T00:30:50.000Z",
-          "wordCount": 992,
+          "wordCount": 1033,
           "title": "科技爱好者周刊（第 174 期）：全能程序员 vs 特长程序员"
         },
         {
@@ -72,6 +72,69 @@
       "feedUrl": "https://api.feeddd.org/feeds/6110783449ef7514d0b91ae1",
       "siteUrl": "https://mp.weixin.qq.com",
       "articles": [
+        {
+          "id": "https://mp.weixin.qq.com/s/IoFOIW0a4_PyJt15cEhLHQ",
+          "author": null,
+          "description": "证监会设立北京证券交易所，《英雄联盟手游》9.15不删档测试，京东禁售87款游戏，闲鱼暂停新用户注册，这就是今天的其他大新闻！",
+          "link": "https://mp.weixin.qq.com/s/IoFOIW0a4_PyJt15cEhLHQ",
+          "publishedOn": "2021-09-03T16:32:52.000Z",
+          "wordCount": 128,
+          "title": "证监会设立北京证券交易所，《英雄联盟手游》9.15不删档测试，京东禁售87款游戏，闲鱼暂停新用户注册，这就是今天的其他大新闻！"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/5WSgAfb01jHz1LuUiYoyww",
+          "author": null,
+          "description": "聊一聊：你小时候偷偷买过哪些电子产品？",
+          "link": "https://mp.weixin.qq.com/s/5WSgAfb01jHz1LuUiYoyww",
+          "publishedOn": "2021-09-03T16:32:52.000Z",
+          "wordCount": 53,
+          "title": "聊一聊：你小时候偷偷买过哪些电子产品？"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/SSKgBX-0OXNVhRHc9riUlQ",
+          "author": null,
+          "description": "今日最佳：开学第一天",
+          "link": "https://mp.weixin.qq.com/s/SSKgBX-0OXNVhRHc9riUlQ",
+          "publishedOn": "2021-09-03T16:32:52.000Z",
+          "wordCount": 54,
+          "title": "今日最佳：开学第一天"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/AP0_cmW_2HejkOQDzx3g7w",
+          "author": null,
+          "description": "戒宵夜，是每个人都讲过的反人类谎言。",
+          "link": "https://mp.weixin.qq.com/s/AP0_cmW_2HejkOQDzx3g7w",
+          "publishedOn": "2021-09-03T16:32:52.000Z",
+          "wordCount": 93,
+          "title": "戒宵夜，是每个人都讲过的反人类谎言。"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/mSzprGYnhtqvdAvdW8qWqg",
+          "author": null,
+          "description": "这个只有800kb的软件，可以让你的鼠标强大10倍。",
+          "link": "https://mp.weixin.qq.com/s/mSzprGYnhtqvdAvdW8qWqg",
+          "publishedOn": "2021-09-03T16:32:52.000Z",
+          "wordCount": 93,
+          "title": "这个只有800kb的软件，可以让你的鼠标强大10倍。"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/lXkvJpEv3ZdIdon0Fglvgg",
+          "author": null,
+          "description": "为了阻止全人类吃肉，这家极端动保组织做了哪些恶心事？",
+          "link": "https://mp.weixin.qq.com/s/lXkvJpEv3ZdIdon0Fglvgg",
+          "publishedOn": "2021-09-03T16:32:52.000Z",
+          "wordCount": 226,
+          "title": "为了阻止全人类吃肉，这家极端动保组织做了哪些恶心事？"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/cGYTX1E52AKXD2wI7uQ0gA",
+          "author": null,
+          "description": "再也不见，网红“郭老师”。",
+          "link": "https://mp.weixin.qq.com/s/cGYTX1E52AKXD2wI7uQ0gA",
+          "publishedOn": "2021-09-03T16:32:52.000Z",
+          "wordCount": 297,
+          "title": "再也不见，网红“郭老师”。"
+        },
         {
           "id": "https://mp.weixin.qq.com/s/sjCuIpCBX-gZMS_ssjfz9g",
           "author": null,
