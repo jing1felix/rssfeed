@@ -17,7 +17,7 @@
           "description": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。\n周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。\n封面图\n\n浙江普陀山客运中心最近获得2021年度凡尔赛建筑奖。（via）\n本周话题：全能程序员 vs 特长程序员\n我读过一些篮球报道，里面说 NBA 球队不喜欢\"全能型球员\"，更喜欢\"特长型球员\"。\n\n所谓\"特长型球员\"，指的是其他方面可能都不行，但是某一方面特别突出，比如防守特别好、三分特别准，或者篮板很强等等。球队愿意签这样的球员，关键时刻派上场，没准就能立下奇功。\n反过来，\"全能型球员\"各项技术都很均衡，防守、进攻、投篮都还可以，能达到平均水平，但是每个方面都不突出，没有明显的过人之处。球队看不上这样的球员，觉得让你上场，赢不了球。\n我马上联想到， 软件行业其实也是如此，\"全能程序员\"的出路，明显不如\"特长程序员\"。\n\n如果你什么都会干，前端、后端、数据库、服务器管理都能上手，那么哪里缺人手，就会让你顶上去。但是，一旦遇到疑难问题，又指望不了你，因为你不是那个方面的专家，解决不了。\n反过来，你精通某一项技术，其他都不懂，公司反而会觉得你更有价值。因为你可以把这个技术做得很深，克服技术难点，超过竞争对手，所以你的晋升会快得多。\n我甚至读到过这样一段话：\n\"绝大多数成熟的程序员都专攻某一个技术栈，因为这样更容易找到工作。 一些专家甚至认为，在不同的技术栈中工作是简历的污点。\"\n所以，大家写简历的时候，千万不要把自己懂的所有技术都写进去，那是简历的扣分项。而只写你掌握最深的那项技术，以及与之相关的工作经历。\n同样的，新人如果想在软件行业长远发展，建议选择一两个技术方向进行专研，成为专家，而不要什么技术都懂一点，但是哪一项都不精通。\n但是，这样也…",
           "link": "http://www.ruanyifeng.com/blog/2021/09/weekly-issue-174.html",
           "publishedOn": "2021-09-03T00:30:50.000Z",
-          "wordCount": 1066,
+          "wordCount": 1090,
           "title": "科技爱好者周刊（第 174 期）：全能程序员 vs 特长程序员"
         },
         {
@@ -64,6 +64,60 @@
       "siteUrl": "https://mp.weixin.qq.com",
       "articles": [
         {
+          "id": "https://mp.weixin.qq.com/s/9x0iMmG11vLMZsVibIOH-g",
+          "author": null,
+          "description": "东京残奥会今日闭幕，微信回应警官老陈被封，王者荣耀强制踢未成年下线，北京证券交易所有限责任公司注册成立，这就是今天的其他大新闻！",
+          "link": "https://mp.weixin.qq.com/s/9x0iMmG11vLMZsVibIOH-g",
+          "publishedOn": "2021-09-05T16:34:00.000Z",
+          "wordCount": 107,
+          "title": "东京残奥会今日闭幕，微信回应警官老陈被封，王者荣耀强制踢未成年下线，北京证券交易所有限责任公司注册成立，这就是今天的其他大新闻！"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/9NubEWzleQ6pG5ZCcIfnQA",
+          "author": null,
+          "description": "聊一聊：你觉得哪些网络用语被滥用了？",
+          "link": "https://mp.weixin.qq.com/s/9NubEWzleQ6pG5ZCcIfnQA",
+          "publishedOn": "2021-09-05T16:34:00.000Z",
+          "wordCount": 53,
+          "title": "聊一聊：你觉得哪些网络用语被滥用了？"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/uW6cQaf1e6yWwwz28B083g",
+          "author": null,
+          "description": "今日最佳：这也能物归原主？",
+          "link": "https://mp.weixin.qq.com/s/uW6cQaf1e6yWwwz28B083g",
+          "publishedOn": "2021-09-05T16:34:00.000Z",
+          "wordCount": 54,
+          "title": "今日最佳：这也能物归原主？"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/HgPIi4FQyB3iGqJ4cyH_5w",
+          "author": null,
+          "description": "哪些事，是有了女朋友之后才发现的？",
+          "link": "https://mp.weixin.qq.com/s/HgPIi4FQyB3iGqJ4cyH_5w",
+          "publishedOn": "2021-09-05T16:34:00.000Z",
+          "wordCount": 75,
+          "title": "哪些事，是有了女朋友之后才发现的？"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/TZzxgRrS0vLEMJzpxECLxw",
+          "author": null,
+          "description": "种子都没人做了？为什么现在下载器没人用了？",
+          "link": "https://mp.weixin.qq.com/s/TZzxgRrS0vLEMJzpxECLxw",
+          "publishedOn": "2021-09-05T16:34:00.000Z",
+          "wordCount": 275,
+          "title": "种子都没人做了？为什么现在下载器没人用了？"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/c2gIV5nccrEeQl7bTpWrwg",
+          "author": null,
+          "description": "“史上最烂”翻身干掉当年的世界第一，这个游戏是凭什么逆袭的？",
+          "link": "https://mp.weixin.qq.com/s/c2gIV5nccrEeQl7bTpWrwg",
+          "publishedOn": "2021-09-05T16:34:00.000Z",
+          "wordCount": 525,
+          "title": "“史上最烂”翻身干掉当年的世界第一，这个游戏是凭什么逆袭的？"
+        },
+        {
           "id": "https://mp.weixin.qq.com/s/cokW0UFA-CiHfzH_7tpMyQ",
           "author": null,
           "description": "聊一聊：你经历过手机进水吗？",
@@ -96,7 +150,7 @@
           "description": "这个色情片女主把“原味内裤”发射到了太空，还要拍卖？",
           "link": "https://mp.weixin.qq.com/s/i6FKOw8T2HTCaRu-MufRFQ",
           "publishedOn": "2021-09-04T16:33:00.000Z",
-          "wordCount": 208,
+          "wordCount": 13,
           "title": "这个色情片女主把“原味内裤”发射到了太空，还要拍卖？"
         },
         {
@@ -1771,6 +1825,15 @@
       "feedUrl": "https://api.feeddd.org/feeds/611f8d8865d23936d94a4889",
       "siteUrl": "https://mp.weixin.qq.com",
       "articles": [
+        {
+          "id": "https://mp.weixin.qq.com/s/qzGhY90flkBHpYm_Jjs3TA",
+          "author": null,
+          "description": "哲学人类学｜为什么要研究「礼物」？礼物和当代法国哲学",
+          "link": "https://mp.weixin.qq.com/s/qzGhY90flkBHpYm_Jjs3TA",
+          "publishedOn": "2021-09-05T10:44:17.000Z",
+          "wordCount": 115,
+          "title": "哲学人类学｜为什么要研究「礼物」？礼物和当代法国哲学"
+        },
         {
           "id": "https://mp.weixin.qq.com/s/FDXWR6AqlDKEJsYcHYHong",
           "author": null,
