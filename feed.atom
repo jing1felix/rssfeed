@@ -1,10 +1,102 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-07T02:18:43.182Z</id>
+    <id>urn:2021-09-08T02:19:53.181Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-07T02:18:43.182Z</updated>
+    <updated>2021-09-08T02:19:53.181Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[阿里回应王某文案件通报，比心等陪玩软件无限期下架，微信视频号支持1小时时长，酷狗下线艺人榜单并限购专辑，这就是今天的其他大新闻！]]></title>
+        <id>https://mp.weixin.qq.com/s/AkaM4X_ACKT2AyrhrCBPqg</id>
+        <link href="https://mp.weixin.qq.com/s/AkaM4X_ACKT2AyrhrCBPqg"/>
+        <updated>2021-09-07T16:33:09.000Z</updated>
+        <summary type="html"><![CDATA[阿里回应王某文案件通报，比心等陪玩软件无限期下架，微信视频号支持1小时时长，酷狗下线艺人榜单并限购专辑，这就是今天的其他大新闻！]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[聊一聊：你用过哪些奇怪的游戏昵称？]]></title>
+        <id>https://mp.weixin.qq.com/s/ArdW3mxq_PmN_N38cGP30g</id>
+        <link href="https://mp.weixin.qq.com/s/ArdW3mxq_PmN_N38cGP30g"/>
+        <updated>2021-09-07T16:33:09.000Z</updated>
+        <summary type="html"><![CDATA[聊一聊：你用过哪些奇怪的游戏昵称？]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今日最佳：上下铺瞬间变高级。]]></title>
+        <id>https://mp.weixin.qq.com/s/NT1uKA6Q1yrARPQ1YIuvDw</id>
+        <link href="https://mp.weixin.qq.com/s/NT1uKA6Q1yrARPQ1YIuvDw"/>
+        <updated>2021-09-07T16:33:09.000Z</updated>
+        <summary type="html"><![CDATA[今日最佳：上下铺瞬间变高级。]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有什么国外司空见惯，国内却还没普及的好货？]]></title>
+        <id>https://mp.weixin.qq.com/s/W709MDJyKK7j4QGeU1t5yA</id>
+        <link href="https://mp.weixin.qq.com/s/W709MDJyKK7j4QGeU1t5yA"/>
+        <updated>2021-09-07T16:33:09.000Z</updated>
+        <summary type="html"><![CDATA[有什么国外司空见惯，国内却还没普及的好货？]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[把网盘空间变成电脑硬盘，这软件简直了！]]></title>
+        <id>https://mp.weixin.qq.com/s/Dvv0fL-tv_Xga4nP54-rbg</id>
+        <link href="https://mp.weixin.qq.com/s/Dvv0fL-tv_Xga4nP54-rbg"/>
+        <updated>2021-09-07T16:33:09.000Z</updated>
+        <summary type="html"><![CDATA[把网盘空间变成电脑硬盘，这软件简直了！]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为了实现“共同富裕”，阿里腾讯各出了1000个亿。]]></title>
+        <id>https://mp.weixin.qq.com/s/zbeUj62V9BbSUGUzc3cTAA</id>
+        <link href="https://mp.weixin.qq.com/s/zbeUj62V9BbSUGUzc3cTAA"/>
+        <updated>2021-09-07T16:33:09.000Z</updated>
+        <summary type="html"><![CDATA[为了实现“共同富裕”，阿里腾讯各出了1000个亿。]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米哈游连续告了B站7次，其实是在“演戏”抓内鬼。]]></title>
+        <id>https://mp.weixin.qq.com/s/r2UaGaK1k_TFU2PnjfMTUg</id>
+        <link href="https://mp.weixin.qq.com/s/r2UaGaK1k_TFU2PnjfMTUg"/>
+        <updated>2021-09-07T16:33:09.000Z</updated>
+        <summary type="html"><![CDATA[米哈游连续告了B站7次，其实是在“演戏”抓内鬼。]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《C 语言入门教程》发布了]]></title>
+        <id>http://www.ruanyifeng.com/blog/2021/09/c-language-tutorial.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2021/09/c-language-tutorial.html"/>
+        <updated>2021-09-07T07:54:29.000Z</updated>
+        <summary type="html"><![CDATA[向大家报告，我写了一本《C 语言入门教程》，已经上线了，欢迎访问。
+
+我知道，这件事有点奇怪，让我来解释一下。
+最近两三年，我想做一些服务器开发，一直在学习这方面的技术。去年发布的《Bash 脚本教程》，就是在学习 Shell 的时候写的。后来学习后端编程语言，深感好多基础的东西需要补课，就回过头重新开始看 C 语言。
+我上一次学习 C 语言，还是在学校里。印象中，C 语言不容易，复杂类型很难声明和解读。但是，这一次重新学习，意外觉得 C 语言并不复杂，语法点少，没有类，只能使用命令式编程（imperative programming），跟脚本语言（比如 JavaScript）相比，语法描述要容易很多。加上网上很少 C 语言中文教程，质量也不理想，于是就萌生了自己写教程的念头。
+最初的想法是，在我的学习笔记基础上，加一些示例就可以了。但是真的动手以后，发现工作量很大，尤其是后来决定 C 语言标准库也包括在教程中。C 的语法点虽然不多，但完整的教程至少要20几章，而且 C 代码写法太自由，不少疑难之处还要去查看参考书籍。所以写得很慢，从春节后到现在，整整写了六个多月，终于写完了。
+与以往一样，这个教程是开源的，采用知识共享许可证，源码托管在 GitHub ，大家可以自由使用。点击下面网址，在线阅读全书。
+wangdoc.com/clang
+我对它还算满意，该讲的地方都讲到了，给出了许多示例，初学者完全够用了。但是，毕竟我平时很少有机会使用 C 语言编程，各种错误和遗漏之处，肯定有不少，欢迎大家到仓库提交补丁，或者发 issue 反映问题。
+（完）
+文档信息
+版权声明：自由转载-非商用-非衍生-保持署名（创意共享3.0许可证）
+发表日期： 2021年9月 7日]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[阿里女员工被侵害案涉事领导不构成犯罪，微信将迁移非国内微信账户，豆瓣暂停回复功能，吉利全球校园招聘启动，这就是今天的其他大新闻！]]></title>
         <id>https://mp.weixin.qq.com/s/ISiAv0fCEwHMzWuZCmizKw</id>
@@ -2239,66 +2331,6 @@ github.dev 针对的是桌面的"键盘 + 鼠标"环境，手机触摸屏可以�
         <link href="https://mp.weixin.qq.com/s/LqEJ7W3PZyjjJZZn6zB2zQ"/>
         <updated>2021-08-10T03:02:54.000Z</updated>
         <summary type="html"><![CDATA[从钢铁侠战衣到你的内裤，纳米科技现在到底发展成啥样了？]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[央视抨击短视频侵权奥运，黄牛高价倒卖AMD新显卡，游客在动物园厮打遭动物效仿，中国代表团88枚奖牌收官，这就是今天的其他大新闻！]]></title>
-        <id>https://mp.weixin.qq.com/s/RT_b2fRgrxbdjL6LqsuIQQ</id>
-        <link href="https://mp.weixin.qq.com/s/RT_b2fRgrxbdjL6LqsuIQQ"/>
-        <updated>2021-08-09T00:34:00.000Z</updated>
-        <summary type="html"><![CDATA[央视抨击短视频侵权奥运，黄牛高价倒卖AMD新显卡，游客在动物园厮打遭动物效仿，中国代表团88枚奖牌收官，这就是今天的其他大新闻！]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[聊一聊：公司的哪些行为能提升好感？]]></title>
-        <id>https://mp.weixin.qq.com/s/pDV4rvs5i2VhjutvdqTaKg</id>
-        <link href="https://mp.weixin.qq.com/s/pDV4rvs5i2VhjutvdqTaKg"/>
-        <updated>2021-08-09T00:34:00.000Z</updated>
-        <summary type="html"><![CDATA[聊一聊：公司的哪些行为能提升好感？]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今日最佳：四舍五入我也是中国跳水队员。]]></title>
-        <id>https://mp.weixin.qq.com/s/NbdIB9gAr1RNB5bCFW7Fpw</id>
-        <link href="https://mp.weixin.qq.com/s/NbdIB9gAr1RNB5bCFW7Fpw"/>
-        <updated>2021-08-09T00:34:00.000Z</updated>
-        <summary type="html"><![CDATA[今日最佳：四舍五入我也是中国跳水队员。]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[距七夕仅剩5天，还有什么来得及上车的百元礼物？]]></title>
-        <id>https://mp.weixin.qq.com/s/LdOG4JCFh56YxamxWuOoJQ</id>
-        <link href="https://mp.weixin.qq.com/s/LdOG4JCFh56YxamxWuOoJQ"/>
-        <updated>2021-08-09T00:34:00.000Z</updated>
-        <summary type="html"><![CDATA[距七夕仅剩5天，还有什么来得及上车的百元礼物？]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在电脑里塞两张显卡的游戏表现，为什么还不如一张？]]></title>
-        <id>https://mp.weixin.qq.com/s/RMY1yX9vdbNJC-DwXyLScA</id>
-        <link href="https://mp.weixin.qq.com/s/RMY1yX9vdbNJC-DwXyLScA"/>
-        <updated>2021-08-09T00:34:00.000Z</updated>
-        <summary type="html"><![CDATA[在电脑里塞两张显卡的游戏表现，为什么还不如一张？]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021年了，互联网公司还搞酒桌文化？]]></title>
-        <id>https://mp.weixin.qq.com/s/dDCQrNc5lePQQrokp604ag</id>
-        <link href="https://mp.weixin.qq.com/s/dDCQrNc5lePQQrokp604ag"/>
-        <updated>2021-08-09T00:34:00.000Z</updated>
-        <summary type="html"><![CDATA[2021年了，互联网公司还搞酒桌文化？]]></summary>
         <author>
             <name>差评</name>
         </author>
