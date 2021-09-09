@@ -17,7 +17,7 @@
           "description": "向大家报告，我写了一本《C 语言入门教程》，已经上线了，欢迎访问。\n\n我知道，这件事有点奇怪，让我来解释一下。\n最近两三年，我想做一些服务器开发，一直在学习这方面的技术。去年发布的《Bash 脚本教程》，就是在学习 Shell 的时候写的。后来学习后端编程语言，深感好多基础的东西需要补课，就回过头重新开始看 C 语言。\n我上一次学习 C 语言，还是在学校里。印象中，C 语言不容易，复杂类型很难声明和解读。但是，这一次重新学习，意外觉得 C 语言并不复杂，语法点少，没有类，只能使用命令式编程（imperative programming），跟脚本语言（比如 JavaScript）相比，语法描述要容易很多。加上网上很少 C 语言中文教程，质量也不理想，于是就萌生了自己写教程的念头。\n最初的想法是，在我的学习笔记基础上，加一些示例就可以了。但是真的动手以后，发现工作量很大，尤其是后来决定 C 语言标准库也包括在教程中。C 的语法点虽然不多，但完整的教程至少要20几章，而且 C 代码写法太自由，不少疑难之处还要去查看参考书籍。所以写得很慢，从春节后到现在，整整写了六个多月，终于写完了。\n与以往一样，这个教程是开源的，采用知识共享许可证，源码托管在 GitHub ，大家可以自由使用。点击下面网址，在线阅读全书。\nwangdoc.com/clang\n我对它还算满意，该讲的地方都讲到了，给出了许多示例，初学者完全够用了。但是，毕竟我平时很少有机会使用 C 语言编程，各种错误和遗漏之处，肯定有不少，欢迎大家到仓库提交补丁，或者发 issue 反映问题。\n（完）\n文档信息\n版权声明：自由转载-非商用-非衍生-保持署名（创意共享3.0许可证）\n发表日期： 2021年9月 7日",
           "link": "http://www.ruanyifeng.com/blog/2021/09/c-language-tutorial.html",
           "publishedOn": "2021-09-07T07:54:29.000Z",
-          "wordCount": 210,
+          "wordCount": 313,
           "title": "《C 语言入门教程》发布了"
         },
         {
@@ -26,7 +26,7 @@
           "description": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。\n周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。\n封面图\n\n浙江普陀山客运中心最近获得2021年度凡尔赛建筑奖。（via）\n本周话题：全能程序员 vs 特长程序员\n我读过一些篮球报道，里面说 NBA 球队不喜欢\"全能型球员\"，更喜欢\"特长型球员\"。\n\n所谓\"特长型球员\"，指的是其他方面可能都不行，但是某一方面特别突出，比如防守特别好、三分特别准，或者篮板很强等等。球队愿意签这样的球员，关键时刻派上场，没准就能立下奇功。\n反过来，\"全能型球员\"各项技术都很均衡，防守、进攻、投篮都还可以，能达到平均水平，但是每个方面都不突出，没有明显的过人之处。球队看不上这样的球员，觉得让你上场，赢不了球。\n我马上联想到， 软件行业其实也是如此，\"全能程序员\"的出路，明显不如\"特长程序员\"。\n\n如果你什么都会干，前端、后端、数据库、服务器管理都能上手，那么哪里缺人手，就会让你顶上去。但是，一旦遇到疑难问题，又指望不了你，因为你不是那个方面的专家，解决不了。\n反过来，你精通某一项技术，其他都不懂，公司反而会觉得你更有价值。因为你可以把这个技术做得很深，克服技术难点，超过竞争对手，所以你的晋升会快得多。\n我甚至读到过这样一段话：\n\"绝大多数成熟的程序员都专攻某一个技术栈，因为这样更容易找到工作。 一些专家甚至认为，在不同的技术栈中工作是简历的污点。\"\n所以，大家写简历的时候，千万不要把自己懂的所有技术都写进去，那是简历的扣分项。而只写你掌握最深的那项技术，以及与之相关的工作经历。\n同样的，新人如果想在软件行业长远发展，建议选择一两个技术方向进行专研，成为专家，而不要什么技术都懂一点，但是哪一项都不精通。\n但是，这样也…",
           "link": "http://www.ruanyifeng.com/blog/2021/09/weekly-issue-174.html",
           "publishedOn": "2021-09-03T00:30:50.000Z",
-          "wordCount": 1115,
+          "wordCount": 1157,
           "title": "科技爱好者周刊（第 174 期）：全能程序员 vs 特长程序员"
         },
         {
@@ -44,7 +44,7 @@
           "description": "程序员的笔记软件，应该满足下面几个条件。\n\n（1）跨平台，同时支持桌面电脑（Windows，Mac，Linux）和手机（Android，iOS）。\n（2）随时同步，打开任何一台机器，都能接着上一次的工作继续写。\n（3）实时存储，如果软件突然关闭，也不会丢失内容。\n（4）支持 Markdown 格式，便于后期直接发布。\n（5）支持推送到远程 Git 仓库，产生历史版本，同时作为远程备份。\n我一直在寻找符合这些条件的工具，但是市场上大部分的笔记软件，都不支持上面的第5点，Git 集成要么没有，要么很弱。\n我用过 Stackedit.io 和 HackMD.io，都不是很理想。\n\n最近，我终于找到了最佳方案，那就是 GitHub 官方推出的 github.dev。\n只要访问下面的网址，你就能在浏览器里面，使用 VS Code 编辑指定仓库。可以点击这里体验一下。\n\nhttps://github.dev/[用户名]/[仓库名]\n\n它实际上就是 VS Code 编辑器的 Web 版，并且与 Git 高度集成。这种组合，还有什么笔记软件会比它更强！\n\n使用时，首先在 GitHub 上面新建一个笔记仓库，公开或私密都可以。然后使用 github.dev 编辑完，再推送回仓库。换到其它机器时，就先从仓库获取文档的最新版本，简直是完美的解决方案。\n更棒的是，GitHub 提供了一个快捷入口。 打开 GitHub 仓库主页，按一下小数点（.）这个键， 页面就会自动跳转到 VS Code 编辑环境，真是太方便了。\n\n另外，还有一个非官方的 github1s.com，也提供类似功能。只要在仓库域名的里面，加上\"1s\"就可以了。但毕竟是非官方工具，这里就不推荐了。\n\nhttps://github1s.com/[用户名]/[仓库名]\n\ngithub.dev 针对的是桌面的\"键盘 + 鼠标\"环境，手机触摸屏可以使用，但终归很笨拙。\n如果你更希望使用手机原生 App，我推荐 Obsidian。它有全平台的客户端，并且可以参考这篇文章设置 Git 集成。\n\n另外，FSNotes 也不错，可惜只支持苹果设备。\n\n如果你不需要 Git 集成和 Markdown 支持，那就最简单了，几大软件巨头的官方笔记 App，就非常好用：Google keep、Apple Notes（只支持苹果设备）和微软 OneNote。\n\n它们都是自动多端同步，缺点是不便于编写大型文档，以及导出数据很麻烦。\n（完）\n文档信息\n版权声明：自由转载-非商用-非衍生-保持署名（创意共享3.0许可证）\n发表日期： 2021年8月26日",
           "link": "http://www.ruanyifeng.com/blog/2021/08/best-note-taking-software-for-programmers.html",
           "publishedOn": "2021-08-26T00:42:33.000Z",
-          "wordCount": 755,
+          "wordCount": 765,
           "title": "最适合程序员的笔记软件"
         },
         {
@@ -72,6 +72,69 @@
       "feedUrl": "https://api.feeddd.org/feeds/6110783449ef7514d0b91ae1",
       "siteUrl": "https://mp.weixin.qq.com",
       "articles": [
+        {
+          "id": "https://mp.weixin.qq.com/s/e6igjlKBzxKcgMBfa0xHnw",
+          "author": null,
+          "description": "疫情之下，那些被癌症所困的孩子们怎么样了？",
+          "link": "https://mp.weixin.qq.com/s/e6igjlKBzxKcgMBfa0xHnw",
+          "publishedOn": "2021-09-08T22:01:54.000Z",
+          "wordCount": 144,
+          "title": "疫情之下，那些被癌症所困的孩子们怎么样了？"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/lci1YkW2OJKqU99B07wntg",
+          "author": null,
+          "description": "知乎回应月饼问题，小米因广告问题赔偿用户1元，杭州亚运会电竞8大项目官宣，上海推出青少年模式设置指南，这就是今天的其他大新闻！",
+          "link": "https://mp.weixin.qq.com/s/lci1YkW2OJKqU99B07wntg",
+          "publishedOn": "2021-09-08T16:33:38.000Z",
+          "wordCount": 121,
+          "title": "知乎回应月饼问题，小米因广告问题赔偿用户1元，杭州亚运会电竞8大项目官宣，上海推出青少年模式设置指南，这就是今天的其他大新闻！"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/Yg5TYU767n9l2Uem2cc0-g",
+          "author": null,
+          "description": "聊一聊：你希望新款iPhone有哪些更新？",
+          "link": "https://mp.weixin.qq.com/s/Yg5TYU767n9l2Uem2cc0-g",
+          "publishedOn": "2021-09-08T16:33:38.000Z",
+          "wordCount": 53,
+          "title": "聊一聊：你希望新款iPhone有哪些更新？"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/lYMLZUMSxDZNZcsFhPymfQ",
+          "author": null,
+          "description": "今日最佳：你小时候的样子。",
+          "link": "https://mp.weixin.qq.com/s/lYMLZUMSxDZNZcsFhPymfQ",
+          "publishedOn": "2021-09-08T16:33:38.000Z",
+          "wordCount": 54,
+          "title": "今日最佳：你小时候的样子。"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/T7-xUON-MX99wgdRp3Ua3w",
+          "author": null,
+          "description": "711里挖掘到的黑暗料理，我吃完竟然觉得「真香」？",
+          "link": "https://mp.weixin.qq.com/s/T7-xUON-MX99wgdRp3Ua3w",
+          "publishedOn": "2021-09-08T16:33:38.000Z",
+          "wordCount": 86,
+          "title": "711里挖掘到的黑暗料理，我吃完竟然觉得「真香」？"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/ZZ9H2vZPKv2fV9C_lGCbTw",
+          "author": null,
+          "description": "继索尼之后，高通终于也能让蓝牙耳机听无损音乐了！",
+          "link": "https://mp.weixin.qq.com/s/ZZ9H2vZPKv2fV9C_lGCbTw",
+          "publishedOn": "2021-09-08T16:33:38.000Z",
+          "wordCount": 216,
+          "title": "继索尼之后，高通终于也能让蓝牙耳机听无损音乐了！"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/JE07RvEJ9nSyl6jHmeocAQ",
+          "author": null,
+          "description": "两个月治好癌症，120万的CAR-T会成为人类终结癌症的绝招么？",
+          "link": "https://mp.weixin.qq.com/s/JE07RvEJ9nSyl6jHmeocAQ",
+          "publishedOn": "2021-09-08T16:33:38.000Z",
+          "wordCount": 213,
+          "title": "两个月治好癌症，120万的CAR-T会成为人类终结癌症的绝招么？"
+        },
         {
           "id": "https://mp.weixin.qq.com/s/AkaM4X_ACKT2AyrhrCBPqg",
           "author": null,
@@ -1835,69 +1898,6 @@
           "publishedOn": "2021-08-11T00:53:30.000Z",
           "wordCount": 474,
           "title": "今晚的小米发布会，除了3.7亿红包，还有条叫铁蛋的狗。"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/5R0qMDqHlyH4eGPYftMN-Q",
-          "author": null,
-          "description": "阿里巴巴公布处理决定，网易云音乐回应推迟赴港上市，腾讯起诉抖音获赔60万，小米获语音消息断点播放专利，这就是今天的其他大新闻！",
-          "link": "https://mp.weixin.qq.com/s/5R0qMDqHlyH4eGPYftMN-Q",
-          "publishedOn": "2021-08-10T03:02:54.000Z",
-          "wordCount": 127,
-          "title": "阿里巴巴公布处理决定，网易云音乐回应推迟赴港上市，腾讯起诉抖音获赔60万，小米获语音消息断点播放专利，这就是今天的其他大新闻！"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/rPgATojQ-UYmlbfHmHKGGQ",
-          "author": null,
-          "description": "聊一聊：你觉得安卓平板应该做到什么水平？",
-          "link": "https://mp.weixin.qq.com/s/rPgATojQ-UYmlbfHmHKGGQ",
-          "publishedOn": "2021-08-10T03:02:54.000Z",
-          "wordCount": 53,
-          "title": "聊一聊：你觉得安卓平板应该做到什么水平？"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/0Rh65nnt9CB_rDk9jJdIVw",
-          "author": null,
-          "description": "今日最佳：向天硬要五百年。",
-          "link": "https://mp.weixin.qq.com/s/0Rh65nnt9CB_rDk9jJdIVw",
-          "publishedOn": "2021-08-10T03:02:54.000Z",
-          "wordCount": 55,
-          "title": "今日最佳：向天硬要五百年。"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/f6Su2Rnsq_t8uT42Qdgv5A",
-          "author": null,
-          "description": "100元不到，这个七夕创意「盲盒」还能这么玩？",
-          "link": "https://mp.weixin.qq.com/s/f6Su2Rnsq_t8uT42Qdgv5A",
-          "publishedOn": "2021-08-10T03:02:54.000Z",
-          "wordCount": 93,
-          "title": "100元不到，这个七夕创意「盲盒」还能这么玩？"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/cL99y71cdH7X_l_N4ZNV4g",
-          "author": null,
-          "description": "360 突然良心，把弹窗广告给砍了？",
-          "link": "https://mp.weixin.qq.com/s/cL99y71cdH7X_l_N4ZNV4g",
-          "publishedOn": "2021-08-10T03:02:54.000Z",
-          "wordCount": 128,
-          "title": "360 突然良心，把弹窗广告给砍了？"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/EhntFbRTAjhK1aiYXCNtgA",
-          "author": null,
-          "description": "独立开发三年的游戏，被“台湾黑客”一波攻击全毁了？",
-          "link": "https://mp.weixin.qq.com/s/EhntFbRTAjhK1aiYXCNtgA",
-          "publishedOn": "2021-08-10T03:02:54.000Z",
-          "wordCount": 165,
-          "title": "独立开发三年的游戏，被“台湾黑客”一波攻击全毁了？"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/LqEJ7W3PZyjjJZZn6zB2zQ",
-          "author": null,
-          "description": "从钢铁侠战衣到你的内裤，纳米科技现在到底发展成啥样了？",
-          "link": "https://mp.weixin.qq.com/s/LqEJ7W3PZyjjJZZn6zB2zQ",
-          "publishedOn": "2021-08-10T03:02:54.000Z",
-          "wordCount": 158,
-          "title": "从钢铁侠战衣到你的内裤，纳米科技现在到底发展成啥样了？"
         }
       ]
     },
