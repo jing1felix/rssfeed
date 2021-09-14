@@ -17,7 +17,7 @@
           "description": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。\n周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。\n封面图\n\n河北太行山脉，山头密密麻麻都被太阳能板覆盖了。（via）\n本周话题：知识广度 vs 知识深度\n上一期谈到，\"特长程序员\"比\"全能程序员\"吃香。\n网友发给我一个网址，国外有人已经谈过这个话题。\n\n国外作者画了一张图，将世界上的程序员比喻成三种形状。\n（1）大饼型：拥有知识广度，但没有知识深度。\n（2）竹竿型：拥有知识深度，但没有知识广度。\n（3）T 型：介于前两者之间。\n那篇文章也认为，通常情况下，竹竿型程序员的出路最好，雇主愿意为知识深度买单。因为现代社会高度分工，越是大公司，岗位职责越明确，需要的是领域专家，而不是多面手。\n但是作者提到，有一种情况例外，知识广度有明显优势，那就是确定项目路线的时候。\n\n请看上图，右上角有一个黑点，那是公司的目标。当前位置在左下角的原点，两点之间没有现成的道路，需要自己寻找实现路径。\n这时，知识广度就发挥作用了，了解的信息越广泛，知道的情况越多，就越可能具备洞察力，能够在多条路径里面，选出最合适的道路。知识面狭窄的人，由于不了解其它道路，不管遇到什么问题，可能都选择他会的那一条路，比如 Java。\n这就是全能程序员的优势，判断正确的仰角 θ，使得两点之间距离最短；特长程序员的优势是前进速度 r，可以在既定道路上做到快速前进。所以，知识的广度能告诉你什么是正确的方向，知识的深度则可以让你在该方向上快速前进。 \n对于长期而艰巨的项目，走得快固然重要，但更重要的是走对方向。如果仰角 θ 不对，走得再快也没用，因为一开始就走错方向，后期必须停下来校正方向，甚至可能永远到达不了目标，白白浪费了生命。\n\n因此，全…",
           "link": "http://www.ruanyifeng.com/blog/2021/09/weekly-issue-175.html",
           "publishedOn": "2021-09-10T00:26:54.000Z",
-          "wordCount": 901,
+          "wordCount": 944,
           "title": "科技爱好者周刊（第 175 期）：知识广度 vs 知识深度"
         },
         {
@@ -26,7 +26,7 @@
           "description": "向大家报告，我写了一本《C 语言入门教程》，已经上线了，欢迎访问。\n\n我知道，这件事有点奇怪，让我来解释一下。\n最近两三年，我想做一些服务器开发，一直在学习这方面的技术。去年发布的《Bash 脚本教程》，就是在学习 Shell 的时候写的。后来学习后端编程语言，深感好多基础的东西需要补课，就回过头重新开始看 C 语言。\n我上一次学习 C 语言，还是在学校里。印象中，C 语言不容易，复杂类型很难声明和解读。但是，这一次重新学习，意外觉得 C 语言并不复杂，语法点少，没有类，只能使用命令式编程（imperative programming），跟脚本语言（比如 JavaScript）相比，语法描述要容易很多。加上网上很少 C 语言中文教程，质量也不理想，于是就萌生了自己写教程的念头。\n最初的想法是，在我的学习笔记基础上，加一些示例就可以了。但是真的动手以后，发现工作量很大，尤其是后来决定 C 语言标准库也包括在教程中。C 的语法点虽然不多，但完整的教程至少要20几章，而且 C 代码写法太自由，不少疑难之处还要去查看参考书籍。所以写得很慢，从春节后到现在，整整写了六个多月，终于写完了。\n与以往一样，这个教程是开源的，采用知识共享许可证，源码托管在 GitHub ，大家可以自由使用。点击下面网址，在线阅读全书。\nwangdoc.com/clang\n我对它还算满意，该讲的地方都讲到了，给出了许多示例，初学者完全够用了。但是，毕竟我平时很少有机会使用 C 语言编程，各种错误和遗漏之处，肯定有不少，欢迎大家到仓库提交补丁，或者发 issue 反映问题。\n（完）\n文档信息\n版权声明：自由转载-非商用-非衍生-保持署名（创意共享3.0许可证）\n发表日期： 2021年9月 7日",
           "link": "http://www.ruanyifeng.com/blog/2021/09/c-language-tutorial.html",
           "publishedOn": "2021-09-07T07:54:29.000Z",
-          "wordCount": 445,
+          "wordCount": 451,
           "title": "《C 语言入门教程》发布了"
         },
         {
@@ -62,7 +62,7 @@
           "description": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。\n周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。\n封面图\n\n今年4月，西宁野生动物园成功地人工孵化了一个高山兀鹫的鸟蛋。目前，这只雏鸟已经达到了四月龄，生长得非常良好，成为中国首只人工养活的高山兀鹫雏鸟。（via）\n本周话题：我们会死于气候灾难吗？\n上周，联合国发布了一份《气候问题评估报告》，供各国政府参考。\n\n国内媒体没怎么报道这件事，但在国际上，它都是各国的头版新闻。\n一般来说，政府单位的报告都写得四平八稳、滴水不漏。但是，这份报告是罕见的例外，它写得非常明确尖锐，结论就是四个字：\"大难临头\"。\n报告认为，根据各种科学研究和观测结果，可以认定 气候灾难已经发生了，并将继续加剧。 人类现在所做的种种减碳努力，并不能避免灾难，只是为了不让最糟糕的结果发生。\n\n报告描绘了非常可怕的全球变暖进程，地球的平均气温，目前比工业革命前上升了1.2度，估计未来一两年内就会上升1.5度。如果温室气体排放量继续增加，2050年前将会上升2度，本世纪末之前达到3度。\n\n有的朋友可能觉得，两三度不算什么。但这是全球平均气温，包括海洋和陆地，由于海洋的温度波动远远小于陆地，这意味着陆地的温度上升，可能是四五度。\n以上海为例，七月的平均气温，现在是28度到35度。如果到了2050年上升三度，就变成31度到38度，如果更高，最高气温的平均值就会达到40度。这住起来就太痛苦了。\n\n我们会遭遇什么样的灾难？联合国报告是这样描述的：\n\"地球将变得干燥许多，整个生态系统被破坏，导致大规模物种灭绝，并使全球的粮食保障面临巨大风险。\n以下五种灾难现象将会越来越严重：（1）高温，（2）干旱，（3）洪水，（4）飓风，（5）海平面上升。…",
           "link": "http://www.ruanyifeng.com/blog/2021/08/weekly-issue-172.html",
           "publishedOn": "2021-08-20T00:36:06.000Z",
-          "wordCount": 1307,
+          "wordCount": 1316,
           "title": "科技爱好者周刊（第 172 期）：我们会死于气候灾难吗？"
         }
       ]
@@ -72,6 +72,69 @@
       "feedUrl": "https://api.feeddd.org/feeds/6110783449ef7514d0b91ae1",
       "siteUrl": "https://mp.weixin.qq.com",
       "articles": [
+        {
+          "id": "https://mp.weixin.qq.com/s/Ktghq-IwCAz5YMoM7plE0A",
+          "author": null,
+          "description": "工信部这次出手，要把各家App的壁垒打穿了。。。",
+          "link": "https://mp.weixin.qq.com/s/Ktghq-IwCAz5YMoM7plE0A",
+          "publishedOn": "2021-09-13T17:48:25.000Z",
+          "wordCount": 131,
+          "title": "工信部这次出手，要把各家App的壁垒打穿了。。。"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/trFzYt5PRIngrjOK8PxQJw",
+          "author": null,
+          "description": "阿里案张某妻子将走司法程序，恒大公布投资产品兑付方案，苹果回应Epic案， 美团不正当竞争赔付100万，这就是今天的其他大新闻！",
+          "link": "https://mp.weixin.qq.com/s/trFzYt5PRIngrjOK8PxQJw",
+          "publishedOn": "2021-09-13T16:36:07.000Z",
+          "wordCount": 121,
+          "title": "阿里案张某妻子将走司法程序，恒大公布投资产品兑付方案，苹果回应Epic案， 美团不正当竞争赔付100万，这就是今天的其他大新闻！"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/ilF3_IsH8c4QJIk9ofCSdA",
+          "author": null,
+          "description": "聊一聊：你用过的手机里，最离奇的死法是什么？",
+          "link": "https://mp.weixin.qq.com/s/ilF3_IsH8c4QJIk9ofCSdA",
+          "publishedOn": "2021-09-13T16:36:07.000Z",
+          "wordCount": 53,
+          "title": "聊一聊：你用过的手机里，最离奇的死法是什么？"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/7NW9FN0IWz2jfFcg5hvrNw",
+          "author": null,
+          "description": "今日最佳：什么叫顶级拉扯啊？",
+          "link": "https://mp.weixin.qq.com/s/7NW9FN0IWz2jfFcg5hvrNw",
+          "publishedOn": "2021-09-13T16:36:07.000Z",
+          "wordCount": 54,
+          "title": "今日最佳：什么叫顶级拉扯啊？"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/vqAzQc0tkGDmzrIkHoBMtw",
+          "author": null,
+          "description": "200元之内，在黑市最值得入手的是什么？",
+          "link": "https://mp.weixin.qq.com/s/vqAzQc0tkGDmzrIkHoBMtw",
+          "publishedOn": "2021-09-13T16:36:07.000Z",
+          "wordCount": 89,
+          "title": "200元之内，在黑市最值得入手的是什么？"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/hKQoajrG_-bj1oy4BtHTvg",
+          "author": null,
+          "description": "Windows 11 最牛X的这个功能，竟然被华为给实现了！",
+          "link": "https://mp.weixin.qq.com/s/hKQoajrG_-bj1oy4BtHTvg",
+          "publishedOn": "2021-09-13T16:36:07.000Z",
+          "wordCount": 117,
+          "title": "Windows 11 最牛X的这个功能，竟然被华为给实现了！"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/V_GZB6yu8bKL60AgbRWHCw",
+          "author": null,
+          "description": "从修火车到制作国产PS5游戏，这位中年大叔有多朋克？",
+          "link": "https://mp.weixin.qq.com/s/V_GZB6yu8bKL60AgbRWHCw",
+          "publishedOn": "2021-09-13T16:36:07.000Z",
+          "wordCount": 614,
+          "title": "从修火车到制作国产PS5游戏，这位中年大叔有多朋克？"
+        },
         {
           "id": "https://mp.weixin.qq.com/s/dTsgf0kmjBt7UZ6DjiBusw",
           "author": null,
@@ -1808,123 +1871,6 @@
           "publishedOn": "2021-08-16T01:20:45.000Z",
           "wordCount": 309,
           "title": "1传1500的德尔塔还没走，“毒王”拉姆达就来了，疫苗还能扛得住吗？"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/v-2u_OWla-4h1AIqOlgicA",
-          "author": null,
-          "description": "聊一聊：今天你是怎么过的呢？",
-          "link": "https://mp.weixin.qq.com/s/v-2u_OWla-4h1AIqOlgicA",
-          "publishedOn": "2021-08-15T06:42:07.000Z",
-          "wordCount": 53,
-          "title": "聊一聊：今天你是怎么过的呢？"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/-x8mfnrzTB39K0xojmXyqA",
-          "author": null,
-          "description": "今日最佳：各个国家电影里，角色面对子弹的反应。",
-          "link": "https://mp.weixin.qq.com/s/-x8mfnrzTB39K0xojmXyqA",
-          "publishedOn": "2021-08-15T06:42:07.000Z",
-          "wordCount": 54,
-          "title": "今日最佳：各个国家电影里，角色面对子弹的反应。"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/0d9_AIWp45DeASuVzc6NjQ",
-          "author": null,
-          "description": "用“火鸡面”减肥，是怎样一种体验？",
-          "link": "https://mp.weixin.qq.com/s/0d9_AIWp45DeASuVzc6NjQ",
-          "publishedOn": "2021-08-15T06:42:07.000Z",
-          "wordCount": 124,
-          "title": "用“火鸡面”减肥，是怎样一种体验？"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/18gWH2lZKlaZw-yifu-2tw",
-          "author": null,
-          "description": "11年来，iPad最大的升级是横过来！",
-          "link": "https://mp.weixin.qq.com/s/18gWH2lZKlaZw-yifu-2tw",
-          "publishedOn": "2021-08-15T06:42:07.000Z",
-          "wordCount": 235,
-          "title": "11年来，iPad最大的升级是横过来！"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/53ESe5qxXI2YkU0GpCsOhQ",
-          "author": null,
-          "description": "虽然没过上七夕，但这个用胸扯桌布的男人承包了我一天的快乐。",
-          "link": "https://mp.weixin.qq.com/s/53ESe5qxXI2YkU0GpCsOhQ",
-          "publishedOn": "2021-08-15T06:42:07.000Z",
-          "wordCount": 123,
-          "title": "虽然没过上七夕，但这个用胸扯桌布的男人承包了我一天的快乐。"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/bIOKzhRbTTRAjWiwy9kuwA",
-          "author": null,
-          "description": "警方通报阿里事件，支付宝回应宕机，AMD占x86处理器市场22.5%份额，微信支持切换2个以上帐号，这就是今天的其他大新闻！",
-          "link": "https://mp.weixin.qq.com/s/bIOKzhRbTTRAjWiwy9kuwA",
-          "publishedOn": "2021-08-15T06:42:07.000Z",
-          "wordCount": 133,
-          "title": "警方通报阿里事件，支付宝回应宕机，AMD占x86处理器市场22.5%份额，微信支持切换2个以上帐号，这就是今天的其他大新闻！"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/jTQ6FOMVlWTC2ZBkb8xVnw",
-          "author": null,
-          "description": "阿里事件尚未立案，乔碧萝疑似回归直播，我国拟立法应对App大数据杀熟，小米MIX 4取消无卡联网防丢，这就是今天的其他大新闻！",
-          "link": "https://mp.weixin.qq.com/s/jTQ6FOMVlWTC2ZBkb8xVnw",
-          "publishedOn": "2021-08-14T15:30:04.000Z",
-          "wordCount": 115,
-          "title": "阿里事件尚未立案，乔碧萝疑似回归直播，我国拟立法应对App大数据杀熟，小米MIX 4取消无卡联网防丢，这就是今天的其他大新闻！"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/5XwNf-moiX57FGD4mq_aTg",
-          "author": null,
-          "description": "聊一聊：你有没有过把消息转错群的尴尬经历？",
-          "link": "https://mp.weixin.qq.com/s/5XwNf-moiX57FGD4mq_aTg",
-          "publishedOn": "2021-08-14T15:30:04.000Z",
-          "wordCount": 53,
-          "title": "聊一聊：你有没有过把消息转错群的尴尬经历？"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/eV91rZ0PKGSY6l8fsnjfSA",
-          "author": null,
-          "description": "今日最佳：婉拒小技巧。",
-          "link": "https://mp.weixin.qq.com/s/eV91rZ0PKGSY6l8fsnjfSA",
-          "publishedOn": "2021-08-14T15:30:04.000Z",
-          "wordCount": 54,
-          "title": "今日最佳：婉拒小技巧。"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/JXYu7fVyRDFxjn5xKNGFpg",
-          "author": null,
-          "description": "00后都上哪喝酒？",
-          "link": "https://mp.weixin.qq.com/s/JXYu7fVyRDFxjn5xKNGFpg",
-          "publishedOn": "2021-08-14T15:30:04.000Z",
-          "wordCount": 83,
-          "title": "00后都上哪喝酒？"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/0nfj40zMgaBsaQMpdbRhsg",
-          "author": null,
-          "description": "荣耀这次的发布会，真的做了台配置拉满的手机。",
-          "link": "https://mp.weixin.qq.com/s/0nfj40zMgaBsaQMpdbRhsg",
-          "publishedOn": "2021-08-14T15:30:04.000Z",
-          "wordCount": 393,
-          "title": "荣耀这次的发布会，真的做了台配置拉满的手机。"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/lg3ylEBonX62dODueTB9nQ",
-          "author": null,
-          "description": "有钓鱼，有大炮，一百年前的奥运会可能比现在都刺激。",
-          "link": "https://mp.weixin.qq.com/s/lg3ylEBonX62dODueTB9nQ",
-          "publishedOn": "2021-08-14T15:30:04.000Z",
-          "wordCount": 130,
-          "title": "有钓鱼，有大炮，一百年前的奥运会可能比现在都刺激。"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/tD8cuOs4kkuNdU3h2yhtfQ",
-          "author": null,
-          "description": "为啥扫了一辆共享单车，就被划走了200多块钱？",
-          "link": "https://mp.weixin.qq.com/s/tD8cuOs4kkuNdU3h2yhtfQ",
-          "publishedOn": "2021-08-14T15:30:04.000Z",
-          "wordCount": 153,
-          "title": "为啥扫了一辆共享单车，就被划走了200多块钱？"
         }
       ]
     },

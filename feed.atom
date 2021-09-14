@@ -1,10 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-13T02:13:48.667Z</id>
+    <id>urn:2021-09-14T02:12:43.988Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-13T02:13:48.667Z</updated>
+    <updated>2021-09-14T02:12:43.988Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[工信部这次出手，要把各家App的壁垒打穿了。。。]]></title>
+        <id>https://mp.weixin.qq.com/s/Ktghq-IwCAz5YMoM7plE0A</id>
+        <link href="https://mp.weixin.qq.com/s/Ktghq-IwCAz5YMoM7plE0A"/>
+        <updated>2021-09-13T17:48:25.000Z</updated>
+        <summary type="html"><![CDATA[工信部这次出手，要把各家App的壁垒打穿了。。。]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阿里案张某妻子将走司法程序，恒大公布投资产品兑付方案，苹果回应Epic案， 美团不正当竞争赔付100万，这就是今天的其他大新闻！]]></title>
+        <id>https://mp.weixin.qq.com/s/trFzYt5PRIngrjOK8PxQJw</id>
+        <link href="https://mp.weixin.qq.com/s/trFzYt5PRIngrjOK8PxQJw"/>
+        <updated>2021-09-13T16:36:07.000Z</updated>
+        <summary type="html"><![CDATA[阿里案张某妻子将走司法程序，恒大公布投资产品兑付方案，苹果回应Epic案， 美团不正当竞争赔付100万，这就是今天的其他大新闻！]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[聊一聊：你用过的手机里，最离奇的死法是什么？]]></title>
+        <id>https://mp.weixin.qq.com/s/ilF3_IsH8c4QJIk9ofCSdA</id>
+        <link href="https://mp.weixin.qq.com/s/ilF3_IsH8c4QJIk9ofCSdA"/>
+        <updated>2021-09-13T16:36:07.000Z</updated>
+        <summary type="html"><![CDATA[聊一聊：你用过的手机里，最离奇的死法是什么？]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今日最佳：什么叫顶级拉扯啊？]]></title>
+        <id>https://mp.weixin.qq.com/s/7NW9FN0IWz2jfFcg5hvrNw</id>
+        <link href="https://mp.weixin.qq.com/s/7NW9FN0IWz2jfFcg5hvrNw"/>
+        <updated>2021-09-13T16:36:07.000Z</updated>
+        <summary type="html"><![CDATA[今日最佳：什么叫顶级拉扯啊？]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[200元之内，在黑市最值得入手的是什么？]]></title>
+        <id>https://mp.weixin.qq.com/s/vqAzQc0tkGDmzrIkHoBMtw</id>
+        <link href="https://mp.weixin.qq.com/s/vqAzQc0tkGDmzrIkHoBMtw"/>
+        <updated>2021-09-13T16:36:07.000Z</updated>
+        <summary type="html"><![CDATA[200元之内，在黑市最值得入手的是什么？]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 最牛X的这个功能，竟然被华为给实现了！]]></title>
+        <id>https://mp.weixin.qq.com/s/hKQoajrG_-bj1oy4BtHTvg</id>
+        <link href="https://mp.weixin.qq.com/s/hKQoajrG_-bj1oy4BtHTvg"/>
+        <updated>2021-09-13T16:36:07.000Z</updated>
+        <summary type="html"><![CDATA[Windows 11 最牛X的这个功能，竟然被华为给实现了！]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从修火车到制作国产PS5游戏，这位中年大叔有多朋克？]]></title>
+        <id>https://mp.weixin.qq.com/s/V_GZB6yu8bKL60AgbRWHCw</id>
+        <link href="https://mp.weixin.qq.com/s/V_GZB6yu8bKL60AgbRWHCw"/>
+        <updated>2021-09-13T16:36:07.000Z</updated>
+        <summary type="html"><![CDATA[从修火车到制作国产PS5游戏，这位中年大叔有多朋克？]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[顺丰回应签收确认加收1元，特斯拉回应Model Y涨价，贾跃亭兄弟所持股票被拍下，苹果被官方广告打脸，这就是今天的其他大新闻！]]></title>
         <id>https://mp.weixin.qq.com/s/dTsgf0kmjBt7UZ6DjiBusw</id>
@@ -2231,136 +2301,6 @@ github.dev 针对的是桌面的"键盘 + 鼠标"环境，手机触摸屏可以�
         <link href="https://mp.weixin.qq.com/s/dXCjd52ij94wTb7AMbKQCA"/>
         <updated>2021-08-16T01:20:45.000Z</updated>
         <summary type="html"><![CDATA[1传1500的德尔塔还没走，“毒王”拉姆达就来了，疫苗还能扛得住吗？]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[聊一聊：今天你是怎么过的呢？]]></title>
-        <id>https://mp.weixin.qq.com/s/v-2u_OWla-4h1AIqOlgicA</id>
-        <link href="https://mp.weixin.qq.com/s/v-2u_OWla-4h1AIqOlgicA"/>
-        <updated>2021-08-15T06:42:07.000Z</updated>
-        <summary type="html"><![CDATA[聊一聊：今天你是怎么过的呢？]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今日最佳：各个国家电影里，角色面对子弹的反应。]]></title>
-        <id>https://mp.weixin.qq.com/s/-x8mfnrzTB39K0xojmXyqA</id>
-        <link href="https://mp.weixin.qq.com/s/-x8mfnrzTB39K0xojmXyqA"/>
-        <updated>2021-08-15T06:42:07.000Z</updated>
-        <summary type="html"><![CDATA[今日最佳：各个国家电影里，角色面对子弹的反应。]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用“火鸡面”减肥，是怎样一种体验？]]></title>
-        <id>https://mp.weixin.qq.com/s/0d9_AIWp45DeASuVzc6NjQ</id>
-        <link href="https://mp.weixin.qq.com/s/0d9_AIWp45DeASuVzc6NjQ"/>
-        <updated>2021-08-15T06:42:07.000Z</updated>
-        <summary type="html"><![CDATA[用“火鸡面”减肥，是怎样一种体验？]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[11年来，iPad最大的升级是横过来！]]></title>
-        <id>https://mp.weixin.qq.com/s/18gWH2lZKlaZw-yifu-2tw</id>
-        <link href="https://mp.weixin.qq.com/s/18gWH2lZKlaZw-yifu-2tw"/>
-        <updated>2021-08-15T06:42:07.000Z</updated>
-        <summary type="html"><![CDATA[11年来，iPad最大的升级是横过来！]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[虽然没过上七夕，但这个用胸扯桌布的男人承包了我一天的快乐。]]></title>
-        <id>https://mp.weixin.qq.com/s/53ESe5qxXI2YkU0GpCsOhQ</id>
-        <link href="https://mp.weixin.qq.com/s/53ESe5qxXI2YkU0GpCsOhQ"/>
-        <updated>2021-08-15T06:42:07.000Z</updated>
-        <summary type="html"><![CDATA[虽然没过上七夕，但这个用胸扯桌布的男人承包了我一天的快乐。]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[警方通报阿里事件，支付宝回应宕机，AMD占x86处理器市场22.5%份额，微信支持切换2个以上帐号，这就是今天的其他大新闻！]]></title>
-        <id>https://mp.weixin.qq.com/s/bIOKzhRbTTRAjWiwy9kuwA</id>
-        <link href="https://mp.weixin.qq.com/s/bIOKzhRbTTRAjWiwy9kuwA"/>
-        <updated>2021-08-15T06:42:07.000Z</updated>
-        <summary type="html"><![CDATA[警方通报阿里事件，支付宝回应宕机，AMD占x86处理器市场22.5%份额，微信支持切换2个以上帐号，这就是今天的其他大新闻！]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[阿里事件尚未立案，乔碧萝疑似回归直播，我国拟立法应对App大数据杀熟，小米MIX 4取消无卡联网防丢，这就是今天的其他大新闻！]]></title>
-        <id>https://mp.weixin.qq.com/s/jTQ6FOMVlWTC2ZBkb8xVnw</id>
-        <link href="https://mp.weixin.qq.com/s/jTQ6FOMVlWTC2ZBkb8xVnw"/>
-        <updated>2021-08-14T15:30:04.000Z</updated>
-        <summary type="html"><![CDATA[阿里事件尚未立案，乔碧萝疑似回归直播，我国拟立法应对App大数据杀熟，小米MIX 4取消无卡联网防丢，这就是今天的其他大新闻！]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[聊一聊：你有没有过把消息转错群的尴尬经历？]]></title>
-        <id>https://mp.weixin.qq.com/s/5XwNf-moiX57FGD4mq_aTg</id>
-        <link href="https://mp.weixin.qq.com/s/5XwNf-moiX57FGD4mq_aTg"/>
-        <updated>2021-08-14T15:30:04.000Z</updated>
-        <summary type="html"><![CDATA[聊一聊：你有没有过把消息转错群的尴尬经历？]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今日最佳：婉拒小技巧。]]></title>
-        <id>https://mp.weixin.qq.com/s/eV91rZ0PKGSY6l8fsnjfSA</id>
-        <link href="https://mp.weixin.qq.com/s/eV91rZ0PKGSY6l8fsnjfSA"/>
-        <updated>2021-08-14T15:30:04.000Z</updated>
-        <summary type="html"><![CDATA[今日最佳：婉拒小技巧。]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[00后都上哪喝酒？]]></title>
-        <id>https://mp.weixin.qq.com/s/JXYu7fVyRDFxjn5xKNGFpg</id>
-        <link href="https://mp.weixin.qq.com/s/JXYu7fVyRDFxjn5xKNGFpg"/>
-        <updated>2021-08-14T15:30:04.000Z</updated>
-        <summary type="html"><![CDATA[00后都上哪喝酒？]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[荣耀这次的发布会，真的做了台配置拉满的手机。]]></title>
-        <id>https://mp.weixin.qq.com/s/0nfj40zMgaBsaQMpdbRhsg</id>
-        <link href="https://mp.weixin.qq.com/s/0nfj40zMgaBsaQMpdbRhsg"/>
-        <updated>2021-08-14T15:30:04.000Z</updated>
-        <summary type="html"><![CDATA[荣耀这次的发布会，真的做了台配置拉满的手机。]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有钓鱼，有大炮，一百年前的奥运会可能比现在都刺激。]]></title>
-        <id>https://mp.weixin.qq.com/s/lg3ylEBonX62dODueTB9nQ</id>
-        <link href="https://mp.weixin.qq.com/s/lg3ylEBonX62dODueTB9nQ"/>
-        <updated>2021-08-14T15:30:04.000Z</updated>
-        <summary type="html"><![CDATA[有钓鱼，有大炮，一百年前的奥运会可能比现在都刺激。]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为啥扫了一辆共享单车，就被划走了200多块钱？]]></title>
-        <id>https://mp.weixin.qq.com/s/tD8cuOs4kkuNdU3h2yhtfQ</id>
-        <link href="https://mp.weixin.qq.com/s/tD8cuOs4kkuNdU3h2yhtfQ"/>
-        <updated>2021-08-14T15:30:04.000Z</updated>
-        <summary type="html"><![CDATA[为啥扫了一辆共享单车，就被划走了200多块钱？]]></summary>
         <author>
             <name>差评</name>
         </author>
