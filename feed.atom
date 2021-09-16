@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-15T02:11:16.039Z</id>
+    <id>urn:2021-09-16T02:19:49.244Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-15T02:11:16.039Z</updated>
+    <updated>2021-09-16T02:19:49.245Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -2151,86 +2151,6 @@ github.dev 针对的是桌面的"键盘 + 鼠标"环境，手机触摸屏可以�
         <link href="https://mp.weixin.qq.com/s/oGaU91OULLUQ65V_FVR5IA"/>
         <updated>2021-08-18T00:40:59.000Z</updated>
         <summary type="html"><![CDATA[什么时候开始，评分成了发泄情绪的垃圾场？]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吴某凡涉嫌强奸罪被批准逮捕，软银回应放弃国内市场，QQ号强制要求手机号绑定，上海将整合健康码和乘车码，这就是今天的其他大新闻！]]></title>
-        <id>https://mp.weixin.qq.com/s/TSR8i-Icu58bGnCwISjTag</id>
-        <link href="https://mp.weixin.qq.com/s/TSR8i-Icu58bGnCwISjTag"/>
-        <updated>2021-08-17T01:52:46.000Z</updated>
-        <summary type="html"><![CDATA[吴某凡涉嫌强奸罪被批准逮捕，软银回应放弃国内市场，QQ号强制要求手机号绑定，上海将整合健康码和乘车码，这就是今天的其他大新闻！]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[聊一聊：你觉得自动驾驶的分级容易理解吗？]]></title>
-        <id>https://mp.weixin.qq.com/s/f__Kd_dwjF7PxZ9WCFbr7A</id>
-        <link href="https://mp.weixin.qq.com/s/f__Kd_dwjF7PxZ9WCFbr7A"/>
-        <updated>2021-08-17T01:52:46.000Z</updated>
-        <summary type="html"><![CDATA[聊一聊：你觉得自动驾驶的分级容易理解吗？]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今日最佳：委屈巴巴的车车。]]></title>
-        <id>https://mp.weixin.qq.com/s/vJLxoSJdxgS-rP2AC7Q0Kw</id>
-        <link href="https://mp.weixin.qq.com/s/vJLxoSJdxgS-rP2AC7Q0Kw"/>
-        <updated>2021-08-17T01:52:46.000Z</updated>
-        <summary type="html"><![CDATA[今日最佳：委屈巴巴的车车。]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[单价￥2.5不到的神仙零食，好吃到我想喊个麦。。。]]></title>
-        <id>https://mp.weixin.qq.com/s/OrLS1Y1m-J3wK7TQ5DEQ_A</id>
-        <link href="https://mp.weixin.qq.com/s/OrLS1Y1m-J3wK7TQ5DEQ_A"/>
-        <updated>2021-08-17T01:52:46.000Z</updated>
-        <summary type="html"><![CDATA[单价￥2.5不到的神仙零食，好吃到我想喊个麦。。。]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个免费App，是如何成为网民的老婆生成器的？]]></title>
-        <id>https://mp.weixin.qq.com/s/2Ih6O88xWKfg89qNXNuS0Q</id>
-        <link href="https://mp.weixin.qq.com/s/2Ih6O88xWKfg89qNXNuS0Q"/>
-        <updated>2021-08-17T01:52:46.000Z</updated>
-        <summary type="html"><![CDATA[一个免费App，是如何成为网民的老婆生成器的？]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[没想到啊，一个微信小程序竟然还能远程控制电脑？！]]></title>
-        <id>https://mp.weixin.qq.com/s/gWdiXMnCNafJw2basWI8Wg</id>
-        <link href="https://mp.weixin.qq.com/s/gWdiXMnCNafJw2basWI8Wg"/>
-        <updated>2021-08-17T01:52:46.000Z</updated>
-        <summary type="html"><![CDATA[没想到啊，一个微信小程序竟然还能远程控制电脑？！]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[轻至960g的笔记本？职场新人终于可以告别麒麟臂了！]]></title>
-        <id>https://mp.weixin.qq.com/s/HU-zv0OGukx4Db2lSrdxBw</id>
-        <link href="https://mp.weixin.qq.com/s/HU-zv0OGukx4Db2lSrdxBw"/>
-        <updated>2021-08-17T01:52:46.000Z</updated>
-        <summary type="html"><![CDATA[轻至960g的笔记本？职场新人终于可以告别麒麟臂了！]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[学个英语让人负债80万，华尔街英语居然还欠了12亿？]]></title>
-        <id>https://mp.weixin.qq.com/s/WmwRqlVlcilso8b7w5Qg6Q</id>
-        <link href="https://mp.weixin.qq.com/s/WmwRqlVlcilso8b7w5Qg6Q"/>
-        <updated>2021-08-17T01:52:46.000Z</updated>
-        <summary type="html"><![CDATA[学个英语让人负债80万，华尔街英语居然还欠了12亿？]]></summary>
         <author>
             <name>差评</name>
         </author>
