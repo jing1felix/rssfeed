@@ -4,7 +4,17 @@
       "title": "Release notes from osmosfeed",
       "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
       "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.1",
+          "author": null,
+          "description": "Fixed: Unexpected nested element in author field crashes the parser\nThank you @ad-m",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.1",
+          "publishedOn": "2021-09-16T06:39:32.000Z",
+          "wordCount": 343,
+          "title": "v1.11.1"
+        }
+      ]
     },
     {
       "title": "阮一峰的网络日志",
@@ -12,12 +22,21 @@
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
         {
+          "id": "http://www.ruanyifeng.com/blog/2021/09/weekly-issue-176.html",
+          "author": null,
+          "description": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。\n周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。\n封面图\n\n2021 世界机器人大会在北京举行，一家公司展出了\"爱因斯坦\"人形机器人，使用中文向学生\"授课\"。（via）\n本周话题：中国法院承认 GPL 吗？\n开源软件通常带有许可证。大家一直很想知道，如果国内用户不遵守许可证，可以去法院告他吗？\n上周有一条新闻，深圳市中级人民法院一审判决，被告违反了 GPL 许可证，赔偿侵权费50万元。\n\n很多程序员很兴奋，认为这代表 GPL 许可证得到中国法院的认可。\n我仔细读了判决书，觉得跟大家想的不一样，这个案件很复杂，得不出法院认可 GPL 的结论。\n\n我简单说一下案情。\n济宁市罗盒网络科技有限公司（以下简称\"罗盒科技\"）在 GitHub 开源了软件 VirtualApp，使用了 GPL 许可证。但是，他同时又声明，不得用于商业用途，除非购买商业授权。\n大家觉得，这个声明有问题吗？ 可以既采用 GPL 许可证，又不许用于商业用途吗？\n回答是，这个声明有很大问题。GPL 许可证允许商用，只要你用了这个许可证，别人就可以把你的代码用于商业用途。\n[开源小知识] \n如果想禁止商用，就不能使用 Copyleft 许可证（比如 GPL），而是要添加一个自己的许可声明，比如\"源码只供个人学习，不得商用，除非购买商业许可证\"。\n因此，罗盒科技一开始的许可证选择，就有问题，后来果然出了问题。\n有一个叫做\"点心桌面\"的商业 App，使用了 VirtualApp。罗盒科技就控告开发商福建风灵公司侵权，要求赔偿2000万元。\n罗盒科技起诉的理由，不是对方违反 GPL，没有开源\"点心桌面\"，而是对方没有付款，就将代码用于商业用…",
+          "link": "http://www.ruanyifeng.com/blog/2021/09/weekly-issue-176.html",
+          "publishedOn": "2021-09-17T00:34:58.000Z",
+          "wordCount": 588,
+          "title": "科技爱好者周刊（第 176 期）：中国法院承认 GPL 吗？"
+        },
+        {
           "id": "http://www.ruanyifeng.com/blog/2021/09/weekly-issue-175.html",
           "author": null,
           "description": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。\n周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。\n封面图\n\n河北太行山脉，山头密密麻麻都被太阳能板覆盖了。（via）\n本周话题：知识广度 vs 知识深度\n上一期谈到，\"特长程序员\"比\"全能程序员\"吃香。\n网友发给我一个网址，国外有人已经谈过这个话题。\n\n国外作者画了一张图，将世界上的程序员比喻成三种形状。\n（1）大饼型：拥有知识广度，但没有知识深度。\n（2）竹竿型：拥有知识深度，但没有知识广度。\n（3）T 型：介于前两者之间。\n那篇文章也认为，通常情况下，竹竿型程序员的出路最好，雇主愿意为知识深度买单。因为现代社会高度分工，越是大公司，岗位职责越明确，需要的是领域专家，而不是多面手。\n但是作者提到，有一种情况例外，知识广度有明显优势，那就是确定项目路线的时候。\n\n请看上图，右上角有一个黑点，那是公司的目标。当前位置在左下角的原点，两点之间没有现成的道路，需要自己寻找实现路径。\n这时，知识广度就发挥作用了，了解的信息越广泛，知道的情况越多，就越可能具备洞察力，能够在多条路径里面，选出最合适的道路。知识面狭窄的人，由于不了解其它道路，不管遇到什么问题，可能都选择他会的那一条路，比如 Java。\n这就是全能程序员的优势，判断正确的仰角 θ，使得两点之间距离最短；特长程序员的优势是前进速度 r，可以在既定道路上做到快速前进。所以，知识的广度能告诉你什么是正确的方向，知识的深度则可以让你在该方向上快速前进。 \n对于长期而艰巨的项目，走得快固然重要，但更重要的是走对方向。如果仰角 θ 不对，走得再快也没用，因为一开始就走错方向，后期必须停下来校正方向，甚至可能永远到达不了目标，白白浪费了生命。\n\n因此，全…",
           "link": "http://www.ruanyifeng.com/blog/2021/09/weekly-issue-175.html",
           "publishedOn": "2021-09-10T00:26:54.000Z",
-          "wordCount": 976,
+          "wordCount": 1005,
           "title": "科技爱好者周刊（第 175 期）：知识广度 vs 知识深度"
         },
         {
@@ -35,7 +54,7 @@
           "description": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。\n周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。\n封面图\n\n浙江普陀山客运中心最近获得2021年度凡尔赛建筑奖。（via）\n本周话题：全能程序员 vs 特长程序员\n我读过一些篮球报道，里面说 NBA 球队不喜欢\"全能型球员\"，更喜欢\"特长型球员\"。\n\n所谓\"特长型球员\"，指的是其他方面可能都不行，但是某一方面特别突出，比如防守特别好、三分特别准，或者篮板很强等等。球队愿意签这样的球员，关键时刻派上场，没准就能立下奇功。\n反过来，\"全能型球员\"各项技术都很均衡，防守、进攻、投篮都还可以，能达到平均水平，但是每个方面都不突出，没有明显的过人之处。球队看不上这样的球员，觉得让你上场，赢不了球。\n我马上联想到， 软件行业其实也是如此，\"全能程序员\"的出路，明显不如\"特长程序员\"。\n\n如果你什么都会干，前端、后端、数据库、服务器管理都能上手，那么哪里缺人手，就会让你顶上去。但是，一旦遇到疑难问题，又指望不了你，因为你不是那个方面的专家，解决不了。\n反过来，你精通某一项技术，其他都不懂，公司反而会觉得你更有价值。因为你可以把这个技术做得很深，克服技术难点，超过竞争对手，所以你的晋升会快得多。\n我甚至读到过这样一段话：\n\"绝大多数成熟的程序员都专攻某一个技术栈，因为这样更容易找到工作。 一些专家甚至认为，在不同的技术栈中工作是简历的污点。\"\n所以，大家写简历的时候，千万不要把自己懂的所有技术都写进去，那是简历的扣分项。而只写你掌握最深的那项技术，以及与之相关的工作经历。\n同样的，新人如果想在软件行业长远发展，建议选择一两个技术方向进行专研，成为专家，而不要什么技术都懂一点，但是哪一项都不精通。\n但是，这样也…",
           "link": "http://www.ruanyifeng.com/blog/2021/09/weekly-issue-174.html",
           "publishedOn": "2021-09-03T00:30:50.000Z",
-          "wordCount": 1189,
+          "wordCount": 1187,
           "title": "科技爱好者周刊（第 174 期）：全能程序员 vs 特长程序员"
         },
         {
@@ -55,15 +74,6 @@
           "publishedOn": "2021-08-26T00:42:33.000Z",
           "wordCount": 809,
           "title": "最适合程序员的笔记软件"
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2021/08/weekly-issue-172.html",
-          "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。\n周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。\n封面图\n\n今年4月，西宁野生动物园成功地人工孵化了一个高山兀鹫的鸟蛋。目前，这只雏鸟已经达到了四月龄，生长得非常良好，成为中国首只人工养活的高山兀鹫雏鸟。（via）\n本周话题：我们会死于气候灾难吗？\n上周，联合国发布了一份《气候问题评估报告》，供各国政府参考。\n\n国内媒体没怎么报道这件事，但在国际上，它都是各国的头版新闻。\n一般来说，政府单位的报告都写得四平八稳、滴水不漏。但是，这份报告是罕见的例外，它写得非常明确尖锐，结论就是四个字：\"大难临头\"。\n报告认为，根据各种科学研究和观测结果，可以认定 气候灾难已经发生了，并将继续加剧。 人类现在所做的种种减碳努力，并不能避免灾难，只是为了不让最糟糕的结果发生。\n\n报告描绘了非常可怕的全球变暖进程，地球的平均气温，目前比工业革命前上升了1.2度，估计未来一两年内就会上升1.5度。如果温室气体排放量继续增加，2050年前将会上升2度，本世纪末之前达到3度。\n\n有的朋友可能觉得，两三度不算什么。但这是全球平均气温，包括海洋和陆地，由于海洋的温度波动远远小于陆地，这意味着陆地的温度上升，可能是四五度。\n以上海为例，七月的平均气温，现在是28度到35度。如果到了2050年上升三度，就变成31度到38度，如果更高，最高气温的平均值就会达到40度。这住起来就太痛苦了。\n\n我们会遭遇什么样的灾难？联合国报告是这样描述的：\n\"地球将变得干燥许多，整个生态系统被破坏，导致大规模物种灭绝，并使全球的粮食保障面临巨大风险。\n以下五种灾难现象将会越来越严重：（1）高温，（2）干旱，（3）洪水，（4）飓风，（5）海平面上升。…",
-          "link": "http://www.ruanyifeng.com/blog/2021/08/weekly-issue-172.html",
-          "publishedOn": "2021-08-20T00:36:06.000Z",
-          "wordCount": 1316,
-          "title": "科技爱好者周刊（第 172 期）：我们会死于气候灾难吗？"
         }
       ]
     },
@@ -1673,69 +1683,6 @@
           "publishedOn": "2021-08-19T00:57:22.000Z",
           "wordCount": 189,
           "title": "我也上过网传收费7万，“骂死”高管的领导课，这就给各位扒扒皮。"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/8qUPHonNr85t0C7WJwqwpQ",
-          "author": null,
-          "description": "滴滴出行再被约谈，各大平台集体下架吴亦凡作品，BOSS直聘取消大小周，QQ测试支持苹果CallKit，这就是今天的其他大新闻！",
-          "link": "https://mp.weixin.qq.com/s/8qUPHonNr85t0C7WJwqwpQ",
-          "publishedOn": "2021-08-18T00:40:59.000Z",
-          "wordCount": 140,
-          "title": "滴滴出行再被约谈，各大平台集体下架吴亦凡作品，BOSS直聘取消大小周，QQ测试支持苹果CallKit，这就是今天的其他大新闻！"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/0cJ3a6689vcqDT_9pPAEDg",
-          "author": null,
-          "description": "聊一聊：你身边有人签过竞业协议吗？",
-          "link": "https://mp.weixin.qq.com/s/0cJ3a6689vcqDT_9pPAEDg",
-          "publishedOn": "2021-08-18T00:40:59.000Z",
-          "wordCount": 53,
-          "title": "聊一聊：你身边有人签过竞业协议吗？"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/2GGhgC6vqhsd9dt9UycAyQ",
-          "author": null,
-          "description": "今日最佳：走近科学。",
-          "link": "https://mp.weixin.qq.com/s/2GGhgC6vqhsd9dt9UycAyQ",
-          "publishedOn": "2021-08-18T00:40:59.000Z",
-          "wordCount": 56,
-          "title": "今日最佳：走近科学。"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/bjvNc9b-Vp7ZsbAKn_DfwA",
-          "author": null,
-          "description": "差评女粉，永远滴神！（多图警告）",
-          "link": "https://mp.weixin.qq.com/s/bjvNc9b-Vp7ZsbAKn_DfwA",
-          "publishedOn": "2021-08-18T00:40:59.000Z",
-          "wordCount": 124,
-          "title": "差评女粉，永远滴神！（多图警告）"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/xkfZe2mduZNa3BtUYpD9Jg",
-          "author": null,
-          "description": "凭借各种反常识的极限操作，这两兄弟收获了300万粉丝。",
-          "link": "https://mp.weixin.qq.com/s/xkfZe2mduZNa3BtUYpD9Jg",
-          "publishedOn": "2021-08-18T00:40:59.000Z",
-          "wordCount": 107,
-          "title": "凭借各种反常识的极限操作，这两兄弟收获了300万粉丝。"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/32By4pGjYWZNncTcXqRAEQ",
-          "author": null,
-          "description": "蔚来致死事故后，希望“L2.5”们也跟着去世。",
-          "link": "https://mp.weixin.qq.com/s/32By4pGjYWZNncTcXqRAEQ",
-          "publishedOn": "2021-08-18T00:40:59.000Z",
-          "wordCount": 261,
-          "title": "蔚来致死事故后，希望“L2.5”们也跟着去世。"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/oGaU91OULLUQ65V_FVR5IA",
-          "author": null,
-          "description": "什么时候开始，评分成了发泄情绪的垃圾场？",
-          "link": "https://mp.weixin.qq.com/s/oGaU91OULLUQ65V_FVR5IA",
-          "publishedOn": "2021-08-18T00:40:59.000Z",
-          "wordCount": 292,
-          "title": "什么时候开始，评分成了发泄情绪的垃圾场？"
         }
       ]
     },
@@ -1744,6 +1691,24 @@
       "feedUrl": "https://api.feeddd.org/feeds/611f8d8865d23936d94a4889",
       "siteUrl": "https://mp.weixin.qq.com",
       "articles": [
+        {
+          "id": "https://mp.weixin.qq.com/s/7CHLLQIfGDebsQ7hIVdR5Q",
+          "author": null,
+          "description": "恐怖之声：无人机袭击的现象学",
+          "link": "https://mp.weixin.qq.com/s/7CHLLQIfGDebsQ7hIVdR5Q",
+          "publishedOn": "2021-09-16T10:39:06.000Z",
+          "wordCount": 86,
+          "title": "恐怖之声：无人机袭击的现象学"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/-P14mmYdALWQeQKFh7icQg",
+          "author": null,
+          "description": "皮平访谈：黑格尔之后、艺术与资产阶级社会 / 翻译",
+          "link": "https://mp.weixin.qq.com/s/-P14mmYdALWQeQKFh7icQg",
+          "publishedOn": "2021-09-16T10:39:06.000Z",
+          "wordCount": 115,
+          "title": "皮平访谈：黑格尔之后、艺术与资产阶级社会 / 翻译"
+        },
         {
           "id": "https://mp.weixin.qq.com/s/qzGhY90flkBHpYm_Jjs3TA",
           "author": null,
@@ -1846,5 +1811,5 @@
       ]
     }
   ],
-  "cliVersion": "1.11.0"
+  "cliVersion": "1.11.1"
 }
