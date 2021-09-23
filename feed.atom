@@ -1,10 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-22T00:58:50.501Z</id>
+    <id>urn:2021-09-23T01:00:34.889Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-22T00:58:50.501Z</updated>
+    <updated>2021-09-23T01:00:34.889Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[华为苹果都在用的技术，在机器人行业也杀疯了。]]></title>
+        <id>https://mp.weixin.qq.com/s/vSEP1LE3cb37JH5yyEAK3w</id>
+        <link href="https://mp.weixin.qq.com/s/vSEP1LE3cb37JH5yyEAK3w"/>
+        <updated>2021-09-22T22:01:53.000Z</updated>
+        <summary type="html"><![CDATA[华为苹果都在用的技术，在机器人行业也杀疯了。]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[花呗将全面接入征信系统，QQ音乐推出看广告换会员，腾讯字节申请狗头商标被驳，瑞幸将与美国投资者达成和解，这就是今天的其他大新闻！]]></title>
+        <id>https://mp.weixin.qq.com/s/pJ0zLR7IRCTsg88QEHjloQ</id>
+        <link href="https://mp.weixin.qq.com/s/pJ0zLR7IRCTsg88QEHjloQ"/>
+        <updated>2021-09-22T16:32:59.000Z</updated>
+        <summary type="html"><![CDATA[花呗将全面接入征信系统，QQ音乐推出看广告换会员，腾讯字节申请狗头商标被驳，瑞幸将与美国投资者达成和解，这就是今天的其他大新闻！]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[聊一聊：用文字描述一下，你最珍藏的表情包。]]></title>
+        <id>https://mp.weixin.qq.com/s/PNvod1DDzSP8mqemzLsF6A</id>
+        <link href="https://mp.weixin.qq.com/s/PNvod1DDzSP8mqemzLsF6A"/>
+        <updated>2021-09-22T16:32:59.000Z</updated>
+        <summary type="html"><![CDATA[聊一聊：用文字描述一下，你最珍藏的表情包。]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今日最佳：在重庆上大学的是不是没有胖子？]]></title>
+        <id>https://mp.weixin.qq.com/s/Dn1natPGDn6OSR-eWiwOdg</id>
+        <link href="https://mp.weixin.qq.com/s/Dn1natPGDn6OSR-eWiwOdg"/>
+        <updated>2021-09-22T16:32:59.000Z</updated>
+        <summary type="html"><![CDATA[今日最佳：在重庆上大学的是不是没有胖子？]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[男人总该有点东西，是防水的。]]></title>
+        <id>https://mp.weixin.qq.com/s/u_g87egXoG3MKe-szvttEw</id>
+        <link href="https://mp.weixin.qq.com/s/u_g87egXoG3MKe-szvttEw"/>
+        <updated>2021-09-22T16:32:59.000Z</updated>
+        <summary type="html"><![CDATA[男人总该有点东西，是防水的。]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[厂商们今天开了五场发布会，看下来我人都傻了。。。]]></title>
+        <id>https://mp.weixin.qq.com/s/qh-YuHHBzZbbUyZS5yjrOg</id>
+        <link href="https://mp.weixin.qq.com/s/qh-YuHHBzZbbUyZS5yjrOg"/>
+        <updated>2021-09-22T16:32:59.000Z</updated>
+        <summary type="html"><![CDATA[厂商们今天开了五场发布会，看下来我人都傻了。。。]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用上iOS 15正式版后，我发现Safari扩展真的挺香。]]></title>
+        <id>https://mp.weixin.qq.com/s/7kVx985dI8XSlTgxCDv3Ng</id>
+        <link href="https://mp.weixin.qq.com/s/7kVx985dI8XSlTgxCDv3Ng"/>
+        <updated>2021-09-22T16:32:59.000Z</updated>
+        <summary type="html"><![CDATA[用上iOS 15正式版后，我发现Safari扩展真的挺香。]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[俄罗斯总理的几何题]]></title>
         <id>http://www.ruanyifeng.com/blog/2021/09/geometry-puzzle.html</id>
@@ -1949,66 +2019,6 @@ wangdoc.com/clang
         <link href="https://mp.weixin.qq.com/s/1zJqXXrTCyff1L9q2TlKHA"/>
         <updated>2021-08-25T00:03:27.000Z</updated>
         <summary type="html"><![CDATA[每天下班都错过的日落，却在游戏里整哭了无数网友？]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[复旦公布张文宏调查结果，新浪公布微博热搜管理规则，阿里云回应信息泄露，云闪付微信条码支付正式互通，这就是今天的其他大新闻！]]></title>
-        <id>https://mp.weixin.qq.com/s/MjxdKQyu7ECraclr2hmj3Q</id>
-        <link href="https://mp.weixin.qq.com/s/MjxdKQyu7ECraclr2hmj3Q"/>
-        <updated>2021-08-23T16:39:25.000Z</updated>
-        <summary type="html"><![CDATA[复旦公布张文宏调查结果，新浪公布微博热搜管理规则，阿里云回应信息泄露，云闪付微信条码支付正式互通，这就是今天的其他大新闻！]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[聊一聊：你买过哪些昂贵的二手产品？]]></title>
-        <id>https://mp.weixin.qq.com/s/JhJJoRb_5WaZ6IIyDe17gA</id>
-        <link href="https://mp.weixin.qq.com/s/JhJJoRb_5WaZ6IIyDe17gA"/>
-        <updated>2021-08-23T16:39:25.000Z</updated>
-        <summary type="html"><![CDATA[聊一聊：你买过哪些昂贵的二手产品？]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今日最佳：歇后语大赏。]]></title>
-        <id>https://mp.weixin.qq.com/s/v2Mwi1mi2q86VQgJ8vCCNA</id>
-        <link href="https://mp.weixin.qq.com/s/v2Mwi1mi2q86VQgJ8vCCNA"/>
-        <updated>2021-08-23T16:39:25.000Z</updated>
-        <summary type="html"><![CDATA[今日最佳：歇后语大赏。]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[去健身房，可真长见识啊。。。]]></title>
-        <id>https://mp.weixin.qq.com/s/5YA2fiMd3ANHuUVNWrGASw</id>
-        <link href="https://mp.weixin.qq.com/s/5YA2fiMd3ANHuUVNWrGASw"/>
-        <updated>2021-08-23T16:39:25.000Z</updated>
-        <summary type="html"><![CDATA[去健身房，可真长见识啊。。。]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone 只要改个地区就会变快，这是什么操作？！]]></title>
-        <id>https://mp.weixin.qq.com/s/r2on8IuJXZMMDh5YIDWWsA</id>
-        <link href="https://mp.weixin.qq.com/s/r2on8IuJXZMMDh5YIDWWsA"/>
-        <updated>2021-08-23T16:39:25.000Z</updated>
-        <summary type="html"><![CDATA[iPhone 只要改个地区就会变快，这是什么操作？！]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今年竟然换了管牙膏？！我感觉英特尔这波要Yes了。]]></title>
-        <id>https://mp.weixin.qq.com/s/zMGw_COeqQSXABmRYd-yZQ</id>
-        <link href="https://mp.weixin.qq.com/s/zMGw_COeqQSXABmRYd-yZQ"/>
-        <updated>2021-08-23T16:39:25.000Z</updated>
-        <summary type="html"><![CDATA[今年竟然换了管牙膏？！我感觉英特尔这波要Yes了。]]></summary>
         <author>
             <name>差评</name>
         </author>
