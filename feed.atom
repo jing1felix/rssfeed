@@ -1,10 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-24T00:57:25.195Z</id>
+    <id>urn:2021-09-25T00:56:09.059Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-24T00:57:25.195Z</updated>
+    <updated>2021-09-25T00:56:09.059Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[用二氧化碳合成淀粉？中国科学家今天靠这技术霸榜了科技圈！]]></title>
+        <id>https://mp.weixin.qq.com/s/4QUTMDOIVshrKnIB42oK7Q</id>
+        <link href="https://mp.weixin.qq.com/s/4QUTMDOIVshrKnIB42oK7Q"/>
+        <updated>2021-09-25T00:01:49.000Z</updated>
+        <summary type="html"><![CDATA[用二氧化碳合成淀粉？中国科学家今天靠这技术霸榜了科技圈！]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微信PC自动登录开启灰度测试，数字亚运会火炬被下架，迪迦奥特曼被全网下架，欧盟将立法推动取消标配充电器，这就是今天的其他大新闻！]]></title>
+        <id>https://mp.weixin.qq.com/s/Q65HHa3JJoCgkGn4CLogMA</id>
+        <link href="https://mp.weixin.qq.com/s/Q65HHa3JJoCgkGn4CLogMA"/>
+        <updated>2021-09-24T16:33:14.000Z</updated>
+        <summary type="html"><![CDATA[微信PC自动登录开启灰度测试，数字亚运会火炬被下架，迪迦奥特曼被全网下架，欧盟将立法推动取消标配充电器，这就是今天的其他大新闻！]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[聊一聊：哪个角色的去世最让你难过？]]></title>
+        <id>https://mp.weixin.qq.com/s/izdyvfnTluUZi18cMYkYPQ</id>
+        <link href="https://mp.weixin.qq.com/s/izdyvfnTluUZi18cMYkYPQ"/>
+        <updated>2021-09-24T16:33:14.000Z</updated>
+        <summary type="html"><![CDATA[聊一聊：哪个角色的去世最让你难过？]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今日最佳：你哄人时的样子。]]></title>
+        <id>https://mp.weixin.qq.com/s/DG1Ua0Pavgr22j_26kO0KQ</id>
+        <link href="https://mp.weixin.qq.com/s/DG1Ua0Pavgr22j_26kO0KQ"/>
+        <updated>2021-09-24T16:33:14.000Z</updated>
+        <summary type="html"><![CDATA[今日最佳：你哄人时的样子。]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国庆回家，空姐夸我呼噜打得真响。]]></title>
+        <id>https://mp.weixin.qq.com/s/eOHP47ZefUK2RN0hZ5LJsw</id>
+        <link href="https://mp.weixin.qq.com/s/eOHP47ZefUK2RN0hZ5LJsw"/>
+        <updated>2021-09-24T16:33:14.000Z</updated>
+        <summary type="html"><![CDATA[国庆回家，空姐夸我呼噜打得真响。]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[这款开源的免费软件，帮我省了一大笔钱！]]></title>
+        <id>https://mp.weixin.qq.com/s/cIIgKaBL3npDdLHBtNRGUA</id>
+        <link href="https://mp.weixin.qq.com/s/cIIgKaBL3npDdLHBtNRGUA"/>
+        <updated>2021-09-24T16:33:14.000Z</updated>
+        <summary type="html"><![CDATA[这款开源的免费软件，帮我省了一大笔钱！]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[曾经的中国第二大搜索引擎，被腾讯用钞能力收购了。]]></title>
+        <id>https://mp.weixin.qq.com/s/INNxBRX8P-U6FZcI6B02pg</id>
+        <link href="https://mp.weixin.qq.com/s/INNxBRX8P-U6FZcI6B02pg"/>
+        <updated>2021-09-24T16:33:14.000Z</updated>
+        <summary type="html"><![CDATA[曾经的中国第二大搜索引擎，被腾讯用钞能力收购了。]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 177 期）：iPad 的真正用途]]></title>
         <id>http://www.ruanyifeng.com/blog/2021/09/weekly-issue-177.html</id>
@@ -1938,86 +2008,6 @@ wangdoc.com/clang
         <link href="https://mp.weixin.qq.com/s/JRiVIa3etZkP_dfuMIDB6Q"/>
         <updated>2021-08-26T22:02:45.000Z</updated>
         <summary type="html"><![CDATA[腾讯把这游戏搞成了18+，但我赌他不会做18+的内容。。。]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[纪念南希逝世——论南希的政治思想 / 翻译]]></title>
-        <id>https://mp.weixin.qq.com/s/ljKAowyqhg4Hob0gZbQqaQ</id>
-        <link href="https://mp.weixin.qq.com/s/ljKAowyqhg4Hob0gZbQqaQ"/>
-        <updated>2021-08-26T09:58:02.000Z</updated>
-        <summary type="html"><![CDATA[纪念南希逝世——论南希的政治思想 / 翻译]]></summary>
-        <author>
-            <name>Philosophia 哲学社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[阿里案一名嫌犯被捕，小米辟谣停用MI品牌，美国或批准向华为出售汽车零部件芯片，统一移动基础服务平台发布，这就是今天的其他大新闻！]]></title>
-        <id>https://mp.weixin.qq.com/s/lLdRnaoB2UzMqynKVLuqaQ</id>
-        <link href="https://mp.weixin.qq.com/s/lLdRnaoB2UzMqynKVLuqaQ"/>
-        <updated>2021-08-25T18:01:52.000Z</updated>
-        <summary type="html"><![CDATA[阿里案一名嫌犯被捕，小米辟谣停用MI品牌，美国或批准向华为出售汽车零部件芯片，统一移动基础服务平台发布，这就是今天的其他大新闻！]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[聊一聊：你的智能音箱都做过哪些智障操作？]]></title>
-        <id>https://mp.weixin.qq.com/s/F1W-VzFUu9pYT5BiJzCmTA</id>
-        <link href="https://mp.weixin.qq.com/s/F1W-VzFUu9pYT5BiJzCmTA"/>
-        <updated>2021-08-25T18:01:52.000Z</updated>
-        <summary type="html"><![CDATA[聊一聊：你的智能音箱都做过哪些智障操作？]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今日最佳：全广州最大的蟑螂。]]></title>
-        <id>https://mp.weixin.qq.com/s/OEjdT45Ltb95kBpwdmKjCA</id>
-        <link href="https://mp.weixin.qq.com/s/OEjdT45Ltb95kBpwdmKjCA"/>
-        <updated>2021-08-25T18:01:52.000Z</updated>
-        <summary type="html"><![CDATA[今日最佳：全广州最大的蟑螂。]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[玩现实版《狂野飙车》是一种什么体验？]]></title>
-        <id>https://mp.weixin.qq.com/s/iOZv5wpFi2Zv9yxfI4ppfg</id>
-        <link href="https://mp.weixin.qq.com/s/iOZv5wpFi2Zv9yxfI4ppfg"/>
-        <updated>2021-08-25T18:01:52.000Z</updated>
-        <summary type="html"><![CDATA[玩现实版《狂野飙车》是一种什么体验？]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[把小米铁蛋爆改成钢铁加鲁鲁的大佬，还曾把手机改造成北京城。]]></title>
-        <id>https://mp.weixin.qq.com/s/KFRGGj3abRq6X_YfvuxEpg</id>
-        <link href="https://mp.weixin.qq.com/s/KFRGGj3abRq6X_YfvuxEpg"/>
-        <updated>2021-08-25T18:01:52.000Z</updated>
-        <summary type="html"><![CDATA[把小米铁蛋爆改成钢铁加鲁鲁的大佬，还曾把手机改造成北京城。]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有人用核技术辐射蚊子的牛子，还顺手发了篇Nature。]]></title>
-        <id>https://mp.weixin.qq.com/s/GO5Aa1TnyQaHHJFVaMfRZA</id>
-        <link href="https://mp.weixin.qq.com/s/GO5Aa1TnyQaHHJFVaMfRZA"/>
-        <updated>2021-08-25T18:01:52.000Z</updated>
-        <summary type="html"><![CDATA[有人用核技术辐射蚊子的牛子，还顺手发了篇Nature。]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国科技部来了波@所有人，我有机会搞黑客帝国了？！]]></title>
-        <id>https://mp.weixin.qq.com/s/1tIKSo0FiBDmhivSalYQbA</id>
-        <link href="https://mp.weixin.qq.com/s/1tIKSo0FiBDmhivSalYQbA"/>
-        <updated>2021-08-25T18:01:52.000Z</updated>
-        <summary type="html"><![CDATA[中国科技部来了波@所有人，我有机会搞黑客帝国了？！]]></summary>
         <author>
             <name>差评</name>
         </author>
