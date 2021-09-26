@@ -27,7 +27,7 @@
           "description": "这里记录每周值得分享的科技内容，周五发布。（[通知] 下周五是十一假期，周刊会提前一天，9月30日周四发布。）\n本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。\n周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。\n封面图\n\n23岁的宁夏青年董书畅，今年6月份在西藏阿里地区，拍到了一张完美的日环食照片。最近获得了英国格林威治天文台评选的2021年天文摄影冠军照片。（via）\n本周话题：iPad 的真正用途\n大家的平板电脑，都用来干嘛？\n根据我的观察，第一位的用途都是看视频，其次是玩游戏。\n\n如果有人说，平板电脑是生产力工具，那属于胡说。无论是学习和工作，它远远不如笔记本电脑好用和强大。\n我曾经幻想，外出时使用平板电脑开发。结果发现根本不可行，要什么缺什么，开发体验极差，最多只能紧急时登录服务器，或者偶尔改一下仓库代码。\n但是，我最近发现有一个用途，平板电脑大大强于笔记本，几乎可以说，是为这种用途量身定制的工具。\n那就是普通人的视频处理。\n\n专业级别的视频处理，平板电脑肯定是不行的。但是，普通人偶尔剪剪视频，它真的是利器，尤其是 iPad pro。\n我使用 GoPro 拍摄旅游视频，每次要导入桌面设备处理，非常麻烦。要是身边没有笔记本电脑，就只能等到旅行结束再说。手机倒是可以剪视频，但是对于 2K 或 4K 分辨率，处理起来很慢。\n\n今年上半年，苹果公司发布了新的 M1 架构的 iPad Pro。我眼前一亮，这个硬件配置跟 Mac mini 是一样的，而我们已经知道，后者的视频处理能力很强。\n而且，iPad Pro 采用 Type-C 接口，可以直接连移动硬盘，导出文件。它的大屏也适合视频预览。总之，种种特点都表明这个设备特别适合视频处理。\n\n入手以后，经过几个月的试用，它的表现跟我预想的基…",
           "link": "http://www.ruanyifeng.com/blog/2021/09/weekly-issue-177.html",
           "publishedOn": "2021-09-24T00:31:18.000Z",
-          "wordCount": 770,
+          "wordCount": 796,
           "title": "科技爱好者周刊（第 177 期）：iPad 的真正用途"
         },
         {
@@ -82,6 +82,60 @@
       "feedUrl": "https://api.feeddd.org/feeds/6110783449ef7514d0b91ae1",
       "siteUrl": "https://mp.weixin.qq.com",
       "articles": [
+        {
+          "id": "https://mp.weixin.qq.com/s/uHEDvFKUY9ZbGepZ9i9cHw",
+          "author": null,
+          "description": "孟晚舟抵深圳，部分iPhone 13手表解锁失灵，马斯克突然宣布与女友分手，华为明年推出自研编程语言，这就是今天的其他大新闻！",
+          "link": "https://mp.weixin.qq.com/s/uHEDvFKUY9ZbGepZ9i9cHw",
+          "publishedOn": "2021-09-25T21:38:53.000Z",
+          "wordCount": 174,
+          "title": "孟晚舟抵深圳，部分iPhone 13手表解锁失灵，马斯克突然宣布与女友分手，华为明年推出自研编程语言，这就是今天的其他大新闻！"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/eT10IAHgGPhula4sMZWAJw",
+          "author": null,
+          "description": "聊一聊：你犯过什么因为记性差而导致的乌龙？",
+          "link": "https://mp.weixin.qq.com/s/eT10IAHgGPhula4sMZWAJw",
+          "publishedOn": "2021-09-25T21:38:53.000Z",
+          "wordCount": 52,
+          "title": "聊一聊：你犯过什么因为记性差而导致的乌龙？"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/q3EuK2AzaCgWfNKOMED81g",
+          "author": null,
+          "description": "今日最佳：925来了，咱们简单粗暴点。",
+          "link": "https://mp.weixin.qq.com/s/q3EuK2AzaCgWfNKOMED81g",
+          "publishedOn": "2021-09-25T21:38:53.000Z",
+          "wordCount": 74,
+          "title": "今日最佳：925来了，咱们简单粗暴点。"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/iOr785d7uvbFRRgXNfUcMg",
+          "author": null,
+          "description": "国庆住酒店，别让坏人钻了空子偷拍。",
+          "link": "https://mp.weixin.qq.com/s/iOr785d7uvbFRRgXNfUcMg",
+          "publishedOn": "2021-09-25T21:38:53.000Z",
+          "wordCount": 75,
+          "title": "国庆住酒店，别让坏人钻了空子偷拍。"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/RcYea3iILdMJ5GrK7vGFHg",
+          "author": null,
+          "description": "让数万人等了五年的国产像素游戏，究竟好玩在哪里？",
+          "link": "https://mp.weixin.qq.com/s/RcYea3iILdMJ5GrK7vGFHg",
+          "publishedOn": "2021-09-25T21:38:53.000Z",
+          "wordCount": 201,
+          "title": "让数万人等了五年的国产像素游戏，究竟好玩在哪里？"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/LVVCTpdbtxGURQEoUHf_CA",
+          "author": null,
+          "description": "44岁就当上总统的微博大V，竟然还是“联合国科学院”的一把手？",
+          "link": "https://mp.weixin.qq.com/s/LVVCTpdbtxGURQEoUHf_CA",
+          "publishedOn": "2021-09-25T21:38:53.000Z",
+          "wordCount": 287,
+          "title": "44岁就当上总统的微博大V，竟然还是“联合国科学院”的一把手？"
+        },
         {
           "id": "https://mp.weixin.qq.com/s/4QUTMDOIVshrKnIB42oK7Q",
           "author": null,
@@ -1593,69 +1647,6 @@
           "publishedOn": "2021-08-27T22:02:40.000Z",
           "wordCount": 130,
           "title": "支付宝里的钱危险了？这种节奏就别瞎带了吧。"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/mOlK6A99bs3kUXqLa1BiKg",
-          "author": null,
-          "description": "爱奇艺取消偶像选秀，吴谢宇弑母案公开一审宣判，两部称996严重违反法规，消保委批腾讯超前点播，这就是今天的其他大新闻！",
-          "link": "https://mp.weixin.qq.com/s/mOlK6A99bs3kUXqLa1BiKg",
-          "publishedOn": "2021-08-26T22:02:45.000Z",
-          "wordCount": 140,
-          "title": "爱奇艺取消偶像选秀，吴谢宇弑母案公开一审宣判，两部称996严重违反法规，消保委批腾讯超前点播，这就是今天的其他大新闻！"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/8JGUqGcZPOJHik7ZbynCbQ",
-          "author": null,
-          "description": "聊一聊：你买过什么很贵，但不后悔的东西？",
-          "link": "https://mp.weixin.qq.com/s/8JGUqGcZPOJHik7ZbynCbQ",
-          "publishedOn": "2021-08-26T22:02:45.000Z",
-          "wordCount": 53,
-          "title": "聊一聊：你买过什么很贵，但不后悔的东西？"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/Ez269bUeSndhwcGTzbBd3A",
-          "author": null,
-          "description": "今日最佳：农学可能是最容易突然挂科的专业。",
-          "link": "https://mp.weixin.qq.com/s/Ez269bUeSndhwcGTzbBd3A",
-          "publishedOn": "2021-08-26T22:02:45.000Z",
-          "wordCount": 54,
-          "title": "今日最佳：农学可能是最容易突然挂科的专业。"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/kaZgh4ecs3okvPrpY00f_Q",
-          "author": null,
-          "description": "￥300一碗的抖音“天价”蟹黄面，究竟值不值得吃？",
-          "link": "https://mp.weixin.qq.com/s/kaZgh4ecs3okvPrpY00f_Q",
-          "publishedOn": "2021-08-26T22:02:45.000Z",
-          "wordCount": 113,
-          "title": "￥300一碗的抖音“天价”蟹黄面，究竟值不值得吃？"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/Qfmtp1TRtZs7DRrqWQeHVA",
-          "author": null,
-          "description": "这个浏览器，满足了我对手机浏览器的所有想象！",
-          "link": "https://mp.weixin.qq.com/s/Qfmtp1TRtZs7DRrqWQeHVA",
-          "publishedOn": "2021-08-26T22:02:45.000Z",
-          "wordCount": 91,
-          "title": "这个浏览器，满足了我对手机浏览器的所有想象！"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/d2HHwZ5kUwWqDJOos-7xVw",
-          "author": null,
-          "description": "iPhone 13的爆料太多？我给大家做了个一次性总结！",
-          "link": "https://mp.weixin.qq.com/s/d2HHwZ5kUwWqDJOos-7xVw",
-          "publishedOn": "2021-08-26T22:02:45.000Z",
-          "wordCount": 491,
-          "title": "iPhone 13的爆料太多？我给大家做了个一次性总结！"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/JRiVIa3etZkP_dfuMIDB6Q",
-          "author": null,
-          "description": "腾讯把这游戏搞成了18+，但我赌他不会做18+的内容。。。",
-          "link": "https://mp.weixin.qq.com/s/JRiVIa3etZkP_dfuMIDB6Q",
-          "publishedOn": "2021-08-26T22:02:45.000Z",
-          "wordCount": 122,
-          "title": "腾讯把这游戏搞成了18+，但我赌他不会做18+的内容。。。"
         }
       ]
     },
