@@ -1,10 +1,94 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-26T00:58:28.714Z</id>
+    <id>urn:2021-09-27T00:56:18.595Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-26T00:58:28.714Z</updated>
-    <generator>osmosfeed 1.11.1</generator>
+    <updated>2021-09-27T00:56:18.596Z</updated>
+    <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[v1.11.2]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.2</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.2"/>
+        <updated>2021-09-26T18:45:39.000Z</updated>
+        <summary type="html"><![CDATA[Fixed: unicode characters in URL caused download error
+Fixed: project root npm install error
+Added: unit test library
+Chore: Dependency updates
+Thank you: @CaptNo1]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国家电网回应东北停电，四平台回应下架迪迦，客服回应iPad mini 6果冻屏，火币将清退中国大陆用户，这就是今天的其他大新闻！]]></title>
+        <id>https://mp.weixin.qq.com/s/flLnqbhMqzRQEJSJG2z-uw</id>
+        <link href="https://mp.weixin.qq.com/s/flLnqbhMqzRQEJSJG2z-uw"/>
+        <updated>2021-09-26T16:36:50.000Z</updated>
+        <summary type="html"><![CDATA[国家电网回应东北停电，四平台回应下架迪迦，客服回应iPad mini 6果冻屏，火币将清退中国大陆用户，这就是今天的其他大新闻！]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[聊一聊：你觉得手头的外设，哪个性价比最高？]]></title>
+        <id>https://mp.weixin.qq.com/s/QpiVbA5oE_a2RhrLxBV6gw</id>
+        <link href="https://mp.weixin.qq.com/s/QpiVbA5oE_a2RhrLxBV6gw"/>
+        <updated>2021-09-26T16:36:50.000Z</updated>
+        <summary type="html"><![CDATA[聊一聊：你觉得手头的外设，哪个性价比最高？]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今日最佳：阿姨！！！！！]]></title>
+        <id>https://mp.weixin.qq.com/s/unC8rcZmbNmjc6h7UFX9iQ</id>
+        <link href="https://mp.weixin.qq.com/s/unC8rcZmbNmjc6h7UFX9iQ"/>
+        <updated>2021-09-26T16:36:50.000Z</updated>
+        <summary type="html"><![CDATA[今日最佳：阿姨！！！！！]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有话好好说，能不能别调休。。。]]></title>
+        <id>https://mp.weixin.qq.com/s/b5iBrIXdfeGcUqqDdA8dvw</id>
+        <link href="https://mp.weixin.qq.com/s/b5iBrIXdfeGcUqqDdA8dvw"/>
+        <updated>2021-09-26T16:36:50.000Z</updated>
+        <summary type="html"><![CDATA[有话好好说，能不能别调休。。。]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微信这波更新，终于可以屏蔽群聊了。]]></title>
+        <id>https://mp.weixin.qq.com/s/1Ch5oKwT00hnEznW7_aoyg</id>
+        <link href="https://mp.weixin.qq.com/s/1Ch5oKwT00hnEznW7_aoyg"/>
+        <updated>2021-09-26T16:36:50.000Z</updated>
+        <summary type="html"><![CDATA[微信这波更新，终于可以屏蔽群聊了。]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今年最值得买的平板，可能是这台8.3寸的iPad mini 6。]]></title>
+        <id>https://mp.weixin.qq.com/s/-KlcbB1BfDpRiq1B3yz-5g</id>
+        <link href="https://mp.weixin.qq.com/s/-KlcbB1BfDpRiq1B3yz-5g"/>
+        <updated>2021-09-26T16:36:50.000Z</updated>
+        <summary type="html"><![CDATA[今年最值得买的平板，可能是这台8.3寸的iPad mini 6。]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我们买了十个行李箱，然后骑着它们在公司楼下飙车。]]></title>
+        <id>https://mp.weixin.qq.com/s/9FJJ_7wz2ADT3mf7zI5vpQ</id>
+        <link href="https://mp.weixin.qq.com/s/9FJJ_7wz2ADT3mf7zI5vpQ"/>
+        <updated>2021-09-26T16:36:50.000Z</updated>
+        <summary type="html"><![CDATA[我们买了十个行李箱，然后骑着它们在公司楼下飙车。]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[孟晚舟抵深圳，部分iPhone 13手表解锁失灵，马斯克突然宣布与女友分手，华为明年推出自研编程语言，这就是今天的其他大新闻！]]></title>
         <id>https://mp.weixin.qq.com/s/uHEDvFKUY9ZbGepZ9i9cHw</id>
@@ -1928,76 +2012,6 @@ wangdoc.com/clang
         <link href="https://mp.weixin.qq.com/s/P6cid8eWJROkX8ov2MgsVw"/>
         <updated>2021-08-28T16:48:00.000Z</updated>
         <summary type="html"><![CDATA[造出你手机屏幕的这家公司不仅170岁了，当年还帮过爱迪生。。。]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微博抖音下架明星榜单，网信办整治八卦弹窗，微信公众号推出商店功能，蔚来总监回应油门踏板断裂，这就是今天的其他大新闻！]]></title>
-        <id>https://mp.weixin.qq.com/s/Ql--D5iiJN4Z5Io-pVT9Ow</id>
-        <link href="https://mp.weixin.qq.com/s/Ql--D5iiJN4Z5Io-pVT9Ow"/>
-        <updated>2021-08-27T22:02:40.000Z</updated>
-        <summary type="html"><![CDATA[微博抖音下架明星榜单，网信办整治八卦弹窗，微信公众号推出商店功能，蔚来总监回应油门踏板断裂，这就是今天的其他大新闻！]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[聊一聊：什么东西充满了工业设计的美感？]]></title>
-        <id>https://mp.weixin.qq.com/s/WLqkPM7RxlAyiJ02ZWP9WA</id>
-        <link href="https://mp.weixin.qq.com/s/WLqkPM7RxlAyiJ02ZWP9WA"/>
-        <updated>2021-08-27T22:02:40.000Z</updated>
-        <summary type="html"><![CDATA[聊一聊：什么东西充满了工业设计的美感？]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今日最佳：如何模仿鸡的叫声？]]></title>
-        <id>https://mp.weixin.qq.com/s/IW-36O5yhMBBejcJ98HaHA</id>
-        <link href="https://mp.weixin.qq.com/s/IW-36O5yhMBBejcJ98HaHA"/>
-        <updated>2021-08-27T22:02:40.000Z</updated>
-        <summary type="html"><![CDATA[今日最佳：如何模仿鸡的叫声？]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在黑市，35块买啥能让差友直呼「捡到宝」？]]></title>
-        <id>https://mp.weixin.qq.com/s/ErVftJJTSKvvpoBIq6d-DA</id>
-        <link href="https://mp.weixin.qq.com/s/ErVftJJTSKvvpoBIq6d-DA"/>
-        <updated>2021-08-27T22:02:40.000Z</updated>
-        <summary type="html"><![CDATA[在黑市，35块买啥能让差友直呼「捡到宝」？]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么有几百万人在油管上看一颗钢珠？]]></title>
-        <id>https://mp.weixin.qq.com/s/L85XAHE8zF31vMAvodE2PA</id>
-        <link href="https://mp.weixin.qq.com/s/L85XAHE8zF31vMAvodE2PA"/>
-        <updated>2021-08-27T22:02:40.000Z</updated>
-        <summary type="html"><![CDATA[为什么有几百万人在油管上看一颗钢珠？]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你真的很应该看看这届残奥会。]]></title>
-        <id>https://mp.weixin.qq.com/s/XJa3JO65Z74FIqsBNGheeA</id>
-        <link href="https://mp.weixin.qq.com/s/XJa3JO65Z74FIqsBNGheeA"/>
-        <updated>2021-08-27T22:02:40.000Z</updated>
-        <summary type="html"><![CDATA[你真的很应该看看这届残奥会。]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[支付宝里的钱危险了？这种节奏就别瞎带了吧。]]></title>
-        <id>https://mp.weixin.qq.com/s/DNUqIJCbtPXMbWsrffC4Iw</id>
-        <link href="https://mp.weixin.qq.com/s/DNUqIJCbtPXMbWsrffC4Iw"/>
-        <updated>2021-08-27T22:02:40.000Z</updated>
-        <summary type="html"><![CDATA[支付宝里的钱危险了？这种节奏就别瞎带了吧。]]></summary>
         <author>
             <name>差评</name>
         </author>

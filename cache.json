@@ -6,12 +6,21 @@
       "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
       "articles": [
         {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.2",
+          "author": null,
+          "description": "Fixed: unicode characters in URL caused download error\nFixed: project root npm install error\nAdded: unit test library\nChore: Dependency updates\nThank you: @CaptNo1",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.2",
+          "publishedOn": "2021-09-26T18:45:39.000Z",
+          "wordCount": 354,
+          "title": "v1.11.2"
+        },
+        {
           "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.1",
           "author": null,
           "description": "Fixed: Unexpected nested element in author field crashes the parser\nThank you @ad-m",
           "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.1",
           "publishedOn": "2021-09-16T06:39:32.000Z",
-          "wordCount": 348,
+          "wordCount": 344,
           "title": "v1.11.1"
         }
       ]
@@ -27,7 +36,7 @@
           "description": "这里记录每周值得分享的科技内容，周五发布。（[通知] 下周五是十一假期，周刊会提前一天，9月30日周四发布。）\n本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。\n周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。\n封面图\n\n23岁的宁夏青年董书畅，今年6月份在西藏阿里地区，拍到了一张完美的日环食照片。最近获得了英国格林威治天文台评选的2021年天文摄影冠军照片。（via）\n本周话题：iPad 的真正用途\n大家的平板电脑，都用来干嘛？\n根据我的观察，第一位的用途都是看视频，其次是玩游戏。\n\n如果有人说，平板电脑是生产力工具，那属于胡说。无论是学习和工作，它远远不如笔记本电脑好用和强大。\n我曾经幻想，外出时使用平板电脑开发。结果发现根本不可行，要什么缺什么，开发体验极差，最多只能紧急时登录服务器，或者偶尔改一下仓库代码。\n但是，我最近发现有一个用途，平板电脑大大强于笔记本，几乎可以说，是为这种用途量身定制的工具。\n那就是普通人的视频处理。\n\n专业级别的视频处理，平板电脑肯定是不行的。但是，普通人偶尔剪剪视频，它真的是利器，尤其是 iPad pro。\n我使用 GoPro 拍摄旅游视频，每次要导入桌面设备处理，非常麻烦。要是身边没有笔记本电脑，就只能等到旅行结束再说。手机倒是可以剪视频，但是对于 2K 或 4K 分辨率，处理起来很慢。\n\n今年上半年，苹果公司发布了新的 M1 架构的 iPad Pro。我眼前一亮，这个硬件配置跟 Mac mini 是一样的，而我们已经知道，后者的视频处理能力很强。\n而且，iPad Pro 采用 Type-C 接口，可以直接连移动硬盘，导出文件。它的大屏也适合视频预览。总之，种种特点都表明这个设备特别适合视频处理。\n\n入手以后，经过几个月的试用，它的表现跟我预想的基…",
           "link": "http://www.ruanyifeng.com/blog/2021/09/weekly-issue-177.html",
           "publishedOn": "2021-09-24T00:31:18.000Z",
-          "wordCount": 796,
+          "wordCount": 849,
           "title": "科技爱好者周刊（第 177 期）：iPad 的真正用途"
         },
         {
@@ -36,7 +45,7 @@
           "description": "9月1日是俄罗斯的知识节，因为这一天是各级学校的开学日，象征进入知识宝库的日子。\n今年的知识节，俄罗斯总理米哈伊尔·米舒斯京（Mikhail Mishustin）来到莫斯科物理技术学院（MIPT）视察。该校是俄罗斯顶级的理工科大学，出过许多诺贝尔奖得主和著名科学家。\n\n米舒斯京总理来到新生的教室，给学生们讲话。他看到黑板上写满了数学公式，一时兴起，就上前写了一道数学题，要求大家当场解答。\n\n根据维基百科，米舒斯京生于1966年，大学专业是系统工程，主修计算机辅助设计。工作以后，还读过一个经济学博士。在担任总理之前，他是俄罗斯联邦税务局长。\n\n他出的是一道几何题，题目如下。\n给定圆上的一个点和一条直径，你能否找到一种方法，画出从该点到直径的垂直线（下图的绿线）。\n\n这道题的难点在于，你不能使用任何测量工具，唯一可以用的就是一把不带有标记的直尺。\n大家可以思考一下，这道题怎么解。\n虽然它用不到高深的数学知识，初中的几何学课程就可以解答，但也不算容易。你必须知道两个基本的几何定理，才能想出答案。\n第一个是泰勒斯定理，欧几里得《几何原本》提到过： 圆上任意一点与直径组成的三角形，是直角三角形。\n\n第二个定理是： 锐角三角形的三条高交于一点。\n\n如果你已经忘了这两个定理，可以再去看一下初中几何课本，这里就不给出证明了。\n下面我根据一个数学家写给英国《卫报》的文章，介绍如何解答这道题。\n如果你还想再思考一下，自己找到答案，那就暂时不要往下看了。我要讲答案了。\n\n第一步，在相同的半圆上，任意再找一个点。将这两个点，与直径的相邻端点连起来，连线延长后可以形成一个三角形。\n上图中，圆周上的两个点与直径组成的，都是直角三角形。它们可以看作直径的两个端点到绿边的两条高。\n\n第二步，上一步的两条高产生了一个交点，将这个交点与三角形的外部顶点连起来，延长后与直径相交。\n根据三角形的三条高交于一点，可以知道，上图的绿线是直径的一条垂直线。后面只需要找到它的平行线，穿过红点即可。\n\n第三步，上一步的绿线与圆周有一个交点，将这个交点与红点连起来，延长后与直径相交（上图的第一个绿点）。\n同时，将上一步的垂直线延长，与另一侧的圆周相交，产生一个交点（上图的第二个绿点）。\n\n第四步，将上一步的两个绿点连起来，这条线会与圆周产生一个交点（上图的绿点）。\n再将绿点与红点连起来（上图的黄线），这就是我们所要寻找的答案：红点到直径的垂直线。\n这是因为上图的两条绿边与第二步的垂直线，形成了一个等腰三角形，原始的那条直径就是等腰三角形顶点到底边的高。这意味着，红点与绿点是对称的，它们的连线平行于底边，所以垂直于高（直径）。\n至此，整道题解答完毕。\n\n\n米舒斯京总理在黑板上画完解题过程后，对学生们说：\n\"你们会在大学里面，学到数学、物理、化学知识，但是不要忘了那些基础知识。基础知识与专业知识结合起来，你就能解决任何问题，不仅是科学问题，也包括商业问题。\"\n（完）\n文档信息\n版权声明：自由转载-非商用-非衍生-保持署名（创意共享3.0许可证）\n发表日期： 2021年9月22日",
           "link": "http://www.ruanyifeng.com/blog/2021/09/geometry-puzzle.html",
           "publishedOn": "2021-09-22T00:16:25.000Z",
-          "wordCount": 346,
+          "wordCount": 357,
           "title": "俄罗斯总理的几何题"
         },
         {
@@ -45,7 +54,7 @@
           "description": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。\n周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。\n封面图\n\n2021 世界机器人大会在北京举行，一家公司展出了\"爱因斯坦\"人形机器人，使用中文向学生\"授课\"。（via）\n本周话题：中国法院承认 GPL 吗？\n开源软件通常带有许可证。大家一直很想知道，如果国内用户不遵守许可证，可以去法院告他吗？\n上周有一条新闻，深圳市中级人民法院一审判决，被告违反了 GPL 许可证，赔偿侵权费50万元。\n\n很多程序员很兴奋，认为这代表 GPL 许可证得到中国法院的认可。\n我仔细读了判决书，觉得跟大家想的不一样，这个案件很复杂，得不出法院认可 GPL 的结论。\n\n我简单说一下案情。\n济宁市罗盒网络科技有限公司（以下简称\"罗盒科技\"）在 GitHub 开源了软件 VirtualApp，使用了 GPL 许可证。但是，他同时又声明，不得用于商业用途，除非购买商业授权。\n大家觉得，这个声明有问题吗？ 可以既采用 GPL 许可证，又不许用于商业用途吗？\n回答是，这个声明有很大问题。GPL 许可证允许商用，只要你用了这个许可证，别人就可以把你的代码用于商业用途。\n[开源小知识] \n如果想禁止商用，就不能使用 Copyleft 许可证（比如 GPL），而是要添加一个自己的许可声明，比如\"源码只供个人学习，不得商用，除非购买商业许可证\"。\n因此，罗盒科技一开始的许可证选择，就有问题，后来果然出了问题。\n有一个叫做\"点心桌面\"的商业 App，使用了 VirtualApp。罗盒科技就控告开发商福建风灵公司侵权，要求赔偿2000万元。\n罗盒科技起诉的理由，不是对方违反 GPL，没有开源\"点心桌面\"，而是对方没有付款，就将代码用于商业用…",
           "link": "http://www.ruanyifeng.com/blog/2021/09/weekly-issue-176.html",
           "publishedOn": "2021-09-17T00:34:58.000Z",
-          "wordCount": 980,
+          "wordCount": 996,
           "title": "科技爱好者周刊（第 176 期）：中国法院承认 GPL 吗？"
         },
         {
@@ -63,7 +72,7 @@
           "description": "向大家报告，我写了一本《C 语言入门教程》，已经上线了，欢迎访问。\n\n我知道，这件事有点奇怪，让我来解释一下。\n最近两三年，我想做一些服务器开发，一直在学习这方面的技术。去年发布的《Bash 脚本教程》，就是在学习 Shell 的时候写的。后来学习后端编程语言，深感好多基础的东西需要补课，就回过头重新开始看 C 语言。\n我上一次学习 C 语言，还是在学校里。印象中，C 语言不容易，复杂类型很难声明和解读。但是，这一次重新学习，意外觉得 C 语言并不复杂，语法点少，没有类，只能使用命令式编程（imperative programming），跟脚本语言（比如 JavaScript）相比，语法描述要容易很多。加上网上很少 C 语言中文教程，质量也不理想，于是就萌生了自己写教程的念头。\n最初的想法是，在我的学习笔记基础上，加一些示例就可以了。但是真的动手以后，发现工作量很大，尤其是后来决定 C 语言标准库也包括在教程中。C 的语法点虽然不多，但完整的教程至少要20几章，而且 C 代码写法太自由，不少疑难之处还要去查看参考书籍。所以写得很慢，从春节后到现在，整整写了六个多月，终于写完了。\n与以往一样，这个教程是开源的，采用知识共享许可证，源码托管在 GitHub ，大家可以自由使用。点击下面网址，在线阅读全书。\nwangdoc.com/clang\n我对它还算满意，该讲的地方都讲到了，给出了许多示例，初学者完全够用了。但是，毕竟我平时很少有机会使用 C 语言编程，各种错误和遗漏之处，肯定有不少，欢迎大家到仓库提交补丁，或者发 issue 反映问题。\n（完）\n文档信息\n版权声明：自由转载-非商用-非衍生-保持署名（创意共享3.0许可证）\n发表日期： 2021年9月 7日",
           "link": "http://www.ruanyifeng.com/blog/2021/09/c-language-tutorial.html",
           "publishedOn": "2021-09-07T07:54:29.000Z",
-          "wordCount": 523,
+          "wordCount": 532,
           "title": "《C 语言入门教程》发布了"
         },
         {
@@ -72,7 +81,7 @@
           "description": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。\n周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。\n封面图\n\n浙江普陀山客运中心最近获得2021年度凡尔赛建筑奖。（via）\n本周话题：全能程序员 vs 特长程序员\n我读过一些篮球报道，里面说 NBA 球队不喜欢\"全能型球员\"，更喜欢\"特长型球员\"。\n\n所谓\"特长型球员\"，指的是其他方面可能都不行，但是某一方面特别突出，比如防守特别好、三分特别准，或者篮板很强等等。球队愿意签这样的球员，关键时刻派上场，没准就能立下奇功。\n反过来，\"全能型球员\"各项技术都很均衡，防守、进攻、投篮都还可以，能达到平均水平，但是每个方面都不突出，没有明显的过人之处。球队看不上这样的球员，觉得让你上场，赢不了球。\n我马上联想到， 软件行业其实也是如此，\"全能程序员\"的出路，明显不如\"特长程序员\"。\n\n如果你什么都会干，前端、后端、数据库、服务器管理都能上手，那么哪里缺人手，就会让你顶上去。但是，一旦遇到疑难问题，又指望不了你，因为你不是那个方面的专家，解决不了。\n反过来，你精通某一项技术，其他都不懂，公司反而会觉得你更有价值。因为你可以把这个技术做得很深，克服技术难点，超过竞争对手，所以你的晋升会快得多。\n我甚至读到过这样一段话：\n\"绝大多数成熟的程序员都专攻某一个技术栈，因为这样更容易找到工作。 一些专家甚至认为，在不同的技术栈中工作是简历的污点。\"\n所以，大家写简历的时候，千万不要把自己懂的所有技术都写进去，那是简历的扣分项。而只写你掌握最深的那项技术，以及与之相关的工作经历。\n同样的，新人如果想在软件行业长远发展，建议选择一两个技术方向进行专研，成为专家，而不要什么技术都懂一点，但是哪一项都不精通。\n但是，这样也…",
           "link": "http://www.ruanyifeng.com/blog/2021/09/weekly-issue-174.html",
           "publishedOn": "2021-09-03T00:30:50.000Z",
-          "wordCount": 1189,
+          "wordCount": 1191,
           "title": "科技爱好者周刊（第 174 期）：全能程序员 vs 特长程序员"
         }
       ]
@@ -82,6 +91,69 @@
       "feedUrl": "https://api.feeddd.org/feeds/6110783449ef7514d0b91ae1",
       "siteUrl": "https://mp.weixin.qq.com",
       "articles": [
+        {
+          "id": "https://mp.weixin.qq.com/s/flLnqbhMqzRQEJSJG2z-uw",
+          "author": null,
+          "description": "国家电网回应东北停电，四平台回应下架迪迦，客服回应iPad mini 6果冻屏，火币将清退中国大陆用户，这就是今天的其他大新闻！",
+          "link": "https://mp.weixin.qq.com/s/flLnqbhMqzRQEJSJG2z-uw",
+          "publishedOn": "2021-09-26T16:36:50.000Z",
+          "wordCount": 135,
+          "title": "国家电网回应东北停电，四平台回应下架迪迦，客服回应iPad mini 6果冻屏，火币将清退中国大陆用户，这就是今天的其他大新闻！"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/QpiVbA5oE_a2RhrLxBV6gw",
+          "author": null,
+          "description": "聊一聊：你觉得手头的外设，哪个性价比最高？",
+          "link": "https://mp.weixin.qq.com/s/QpiVbA5oE_a2RhrLxBV6gw",
+          "publishedOn": "2021-09-26T16:36:50.000Z",
+          "wordCount": 53,
+          "title": "聊一聊：你觉得手头的外设，哪个性价比最高？"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/unC8rcZmbNmjc6h7UFX9iQ",
+          "author": null,
+          "description": "今日最佳：阿姨！！！！！",
+          "link": "https://mp.weixin.qq.com/s/unC8rcZmbNmjc6h7UFX9iQ",
+          "publishedOn": "2021-09-26T16:36:50.000Z",
+          "wordCount": 54,
+          "title": "今日最佳：阿姨！！！！！"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/b5iBrIXdfeGcUqqDdA8dvw",
+          "author": null,
+          "description": "有话好好说，能不能别调休。。。",
+          "link": "https://mp.weixin.qq.com/s/b5iBrIXdfeGcUqqDdA8dvw",
+          "publishedOn": "2021-09-26T16:36:50.000Z",
+          "wordCount": 97,
+          "title": "有话好好说，能不能别调休。。。"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/1Ch5oKwT00hnEznW7_aoyg",
+          "author": null,
+          "description": "微信这波更新，终于可以屏蔽群聊了。",
+          "link": "https://mp.weixin.qq.com/s/1Ch5oKwT00hnEznW7_aoyg",
+          "publishedOn": "2021-09-26T16:36:50.000Z",
+          "wordCount": 116,
+          "title": "微信这波更新，终于可以屏蔽群聊了。"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/-KlcbB1BfDpRiq1B3yz-5g",
+          "author": null,
+          "description": "今年最值得买的平板，可能是这台8.3寸的iPad mini 6。",
+          "link": "https://mp.weixin.qq.com/s/-KlcbB1BfDpRiq1B3yz-5g",
+          "publishedOn": "2021-09-26T16:36:50.000Z",
+          "wordCount": 345,
+          "title": "今年最值得买的平板，可能是这台8.3寸的iPad mini 6。"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/9FJJ_7wz2ADT3mf7zI5vpQ",
+          "author": null,
+          "description": "我们买了十个行李箱，然后骑着它们在公司楼下飙车。",
+          "link": "https://mp.weixin.qq.com/s/9FJJ_7wz2ADT3mf7zI5vpQ",
+          "publishedOn": "2021-09-26T16:36:50.000Z",
+          "wordCount": 197,
+          "title": "我们买了十个行李箱，然后骑着它们在公司楼下飙车。"
+        },
         {
           "id": "https://mp.weixin.qq.com/s/uHEDvFKUY9ZbGepZ9i9cHw",
           "author": null,
@@ -1584,69 +1656,6 @@
           "publishedOn": "2021-08-28T16:48:00.000Z",
           "wordCount": 296,
           "title": "造出你手机屏幕的这家公司不仅170岁了，当年还帮过爱迪生。。。"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/Ql--D5iiJN4Z5Io-pVT9Ow",
-          "author": null,
-          "description": "微博抖音下架明星榜单，网信办整治八卦弹窗，微信公众号推出商店功能，蔚来总监回应油门踏板断裂，这就是今天的其他大新闻！",
-          "link": "https://mp.weixin.qq.com/s/Ql--D5iiJN4Z5Io-pVT9Ow",
-          "publishedOn": "2021-08-27T22:02:40.000Z",
-          "wordCount": 107,
-          "title": "微博抖音下架明星榜单，网信办整治八卦弹窗，微信公众号推出商店功能，蔚来总监回应油门踏板断裂，这就是今天的其他大新闻！"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/WLqkPM7RxlAyiJ02ZWP9WA",
-          "author": null,
-          "description": "聊一聊：什么东西充满了工业设计的美感？",
-          "link": "https://mp.weixin.qq.com/s/WLqkPM7RxlAyiJ02ZWP9WA",
-          "publishedOn": "2021-08-27T22:02:40.000Z",
-          "wordCount": 53,
-          "title": "聊一聊：什么东西充满了工业设计的美感？"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/IW-36O5yhMBBejcJ98HaHA",
-          "author": null,
-          "description": "今日最佳：如何模仿鸡的叫声？",
-          "link": "https://mp.weixin.qq.com/s/IW-36O5yhMBBejcJ98HaHA",
-          "publishedOn": "2021-08-27T22:02:40.000Z",
-          "wordCount": 54,
-          "title": "今日最佳：如何模仿鸡的叫声？"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/ErVftJJTSKvvpoBIq6d-DA",
-          "author": null,
-          "description": "在黑市，35块买啥能让差友直呼「捡到宝」？",
-          "link": "https://mp.weixin.qq.com/s/ErVftJJTSKvvpoBIq6d-DA",
-          "publishedOn": "2021-08-27T22:02:40.000Z",
-          "wordCount": 78,
-          "title": "在黑市，35块买啥能让差友直呼「捡到宝」？"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/L85XAHE8zF31vMAvodE2PA",
-          "author": null,
-          "description": "为什么有几百万人在油管上看一颗钢珠？",
-          "link": "https://mp.weixin.qq.com/s/L85XAHE8zF31vMAvodE2PA",
-          "publishedOn": "2021-08-27T22:02:40.000Z",
-          "wordCount": 159,
-          "title": "为什么有几百万人在油管上看一颗钢珠？"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/XJa3JO65Z74FIqsBNGheeA",
-          "author": null,
-          "description": "你真的很应该看看这届残奥会。",
-          "link": "https://mp.weixin.qq.com/s/XJa3JO65Z74FIqsBNGheeA",
-          "publishedOn": "2021-08-27T22:02:40.000Z",
-          "wordCount": 146,
-          "title": "你真的很应该看看这届残奥会。"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/DNUqIJCbtPXMbWsrffC4Iw",
-          "author": null,
-          "description": "支付宝里的钱危险了？这种节奏就别瞎带了吧。",
-          "link": "https://mp.weixin.qq.com/s/DNUqIJCbtPXMbWsrffC4Iw",
-          "publishedOn": "2021-08-27T22:02:40.000Z",
-          "wordCount": 130,
-          "title": "支付宝里的钱危险了？这种节奏就别瞎带了吧。"
         }
       ]
     },
@@ -1703,5 +1712,5 @@
       ]
     }
   ],
-  "cliVersion": "1.11.1"
+  "cliVersion": "1.11.2"
 }
