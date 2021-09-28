@@ -45,7 +45,7 @@
           "description": "9月1日是俄罗斯的知识节，因为这一天是各级学校的开学日，象征进入知识宝库的日子。\n今年的知识节，俄罗斯总理米哈伊尔·米舒斯京（Mikhail Mishustin）来到莫斯科物理技术学院（MIPT）视察。该校是俄罗斯顶级的理工科大学，出过许多诺贝尔奖得主和著名科学家。\n\n米舒斯京总理来到新生的教室，给学生们讲话。他看到黑板上写满了数学公式，一时兴起，就上前写了一道数学题，要求大家当场解答。\n\n根据维基百科，米舒斯京生于1966年，大学专业是系统工程，主修计算机辅助设计。工作以后，还读过一个经济学博士。在担任总理之前，他是俄罗斯联邦税务局长。\n\n他出的是一道几何题，题目如下。\n给定圆上的一个点和一条直径，你能否找到一种方法，画出从该点到直径的垂直线（下图的绿线）。\n\n这道题的难点在于，你不能使用任何测量工具，唯一可以用的就是一把不带有标记的直尺。\n大家可以思考一下，这道题怎么解。\n虽然它用不到高深的数学知识，初中的几何学课程就可以解答，但也不算容易。你必须知道两个基本的几何定理，才能想出答案。\n第一个是泰勒斯定理，欧几里得《几何原本》提到过： 圆上任意一点与直径组成的三角形，是直角三角形。\n\n第二个定理是： 锐角三角形的三条高交于一点。\n\n如果你已经忘了这两个定理，可以再去看一下初中几何课本，这里就不给出证明了。\n下面我根据一个数学家写给英国《卫报》的文章，介绍如何解答这道题。\n如果你还想再思考一下，自己找到答案，那就暂时不要往下看了。我要讲答案了。\n\n第一步，在相同的半圆上，任意再找一个点。将这两个点，与直径的相邻端点连起来，连线延长后可以形成一个三角形。\n上图中，圆周上的两个点与直径组成的，都是直角三角形。它们可以看作直径的两个端点到绿边的两条高。\n\n第二步，上一步的两条高产生了一个交点，将这个交点与三角形的外部顶点连起来，延长后与直径相交。\n根据三角形的三条高交于一点，可以知道，上图的绿线是直径的一条垂直线。后面只需要找到它的平行线，穿过红点即可。\n\n第三步，上一步的绿线与圆周有一个交点，将这个交点与红点连起来，延长后与直径相交（上图的第一个绿点）。\n同时，将上一步的垂直线延长，与另一侧的圆周相交，产生一个交点（上图的第二个绿点）。\n\n第四步，将上一步的两个绿点连起来，这条线会与圆周产生一个交点（上图的绿点）。\n再将绿点与红点连起来（上图的黄线），这就是我们所要寻找的答案：红点到直径的垂直线。\n这是因为上图的两条绿边与第二步的垂直线，形成了一个等腰三角形，原始的那条直径就是等腰三角形顶点到底边的高。这意味着，红点与绿点是对称的，它们的连线平行于底边，所以垂直于高（直径）。\n至此，整道题解答完毕。\n\n\n米舒斯京总理在黑板上画完解题过程后，对学生们说：\n\"你们会在大学里面，学到数学、物理、化学知识，但是不要忘了那些基础知识。基础知识与专业知识结合起来，你就能解决任何问题，不仅是科学问题，也包括商业问题。\"\n（完）\n文档信息\n版权声明：自由转载-非商用-非衍生-保持署名（创意共享3.0许可证）\n发表日期： 2021年9月22日",
           "link": "http://www.ruanyifeng.com/blog/2021/09/geometry-puzzle.html",
           "publishedOn": "2021-09-22T00:16:25.000Z",
-          "wordCount": 357,
+          "wordCount": 366,
           "title": "俄罗斯总理的几何题"
         },
         {
@@ -81,7 +81,7 @@
           "description": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。\n周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。\n封面图\n\n浙江普陀山客运中心最近获得2021年度凡尔赛建筑奖。（via）\n本周话题：全能程序员 vs 特长程序员\n我读过一些篮球报道，里面说 NBA 球队不喜欢\"全能型球员\"，更喜欢\"特长型球员\"。\n\n所谓\"特长型球员\"，指的是其他方面可能都不行，但是某一方面特别突出，比如防守特别好、三分特别准，或者篮板很强等等。球队愿意签这样的球员，关键时刻派上场，没准就能立下奇功。\n反过来，\"全能型球员\"各项技术都很均衡，防守、进攻、投篮都还可以，能达到平均水平，但是每个方面都不突出，没有明显的过人之处。球队看不上这样的球员，觉得让你上场，赢不了球。\n我马上联想到， 软件行业其实也是如此，\"全能程序员\"的出路，明显不如\"特长程序员\"。\n\n如果你什么都会干，前端、后端、数据库、服务器管理都能上手，那么哪里缺人手，就会让你顶上去。但是，一旦遇到疑难问题，又指望不了你，因为你不是那个方面的专家，解决不了。\n反过来，你精通某一项技术，其他都不懂，公司反而会觉得你更有价值。因为你可以把这个技术做得很深，克服技术难点，超过竞争对手，所以你的晋升会快得多。\n我甚至读到过这样一段话：\n\"绝大多数成熟的程序员都专攻某一个技术栈，因为这样更容易找到工作。 一些专家甚至认为，在不同的技术栈中工作是简历的污点。\"\n所以，大家写简历的时候，千万不要把自己懂的所有技术都写进去，那是简历的扣分项。而只写你掌握最深的那项技术，以及与之相关的工作经历。\n同样的，新人如果想在软件行业长远发展，建议选择一两个技术方向进行专研，成为专家，而不要什么技术都懂一点，但是哪一项都不精通。\n但是，这样也…",
           "link": "http://www.ruanyifeng.com/blog/2021/09/weekly-issue-174.html",
           "publishedOn": "2021-09-03T00:30:50.000Z",
-          "wordCount": 1191,
+          "wordCount": 1200,
           "title": "科技爱好者周刊（第 174 期）：全能程序员 vs 特长程序员"
         }
       ]
@@ -91,6 +91,69 @@
       "feedUrl": "https://api.feeddd.org/feeds/6110783449ef7514d0b91ae1",
       "siteUrl": "https://mp.weixin.qq.com",
       "articles": [
+        {
+          "id": "https://mp.weixin.qq.com/s/Nh3X8uS1o39dxBp0989KtA",
+          "author": null,
+          "description": "国家电网称会保障民生用电，迪迦恢复上架，第三方换iPhone 13屏幕影响面容识别，C口将支持240W，这就是今天的其他大新闻！",
+          "link": "https://mp.weixin.qq.com/s/Nh3X8uS1o39dxBp0989KtA",
+          "publishedOn": "2021-09-27T16:33:36.000Z",
+          "wordCount": 137,
+          "title": "国家电网称会保障民生用电，迪迦恢复上架，第三方换iPhone 13屏幕影响面容识别，C口将支持240W，这就是今天的其他大新闻！"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/rWAu0GdstNNKAbVUl2jiEQ",
+          "author": null,
+          "description": "聊一聊：芯片短缺有对你带来直接影响吗？",
+          "link": "https://mp.weixin.qq.com/s/rWAu0GdstNNKAbVUl2jiEQ",
+          "publishedOn": "2021-09-27T16:33:36.000Z",
+          "wordCount": 53,
+          "title": "聊一聊：芯片短缺有对你带来直接影响吗？"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/DiE6bKH9BW8CRlosMl9Srw",
+          "author": null,
+          "description": "今日最佳：如何收获一些同事。",
+          "link": "https://mp.weixin.qq.com/s/DiE6bKH9BW8CRlosMl9Srw",
+          "publishedOn": "2021-09-27T16:33:36.000Z",
+          "wordCount": 54,
+          "title": "今日最佳：如何收获一些同事。"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/OKeCG1-aEeP-mSqg99EXrw",
+          "author": null,
+          "description": "果然没有一个男人，能抵挡住挖掘机的诱惑！",
+          "link": "https://mp.weixin.qq.com/s/OKeCG1-aEeP-mSqg99EXrw",
+          "publishedOn": "2021-09-27T16:33:36.000Z",
+          "wordCount": 109,
+          "title": "果然没有一个男人，能抵挡住挖掘机的诱惑！"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/O7BkQFH0jKQiisuXT7ZhSw",
+          "author": null,
+          "description": "没想到我被一群野生动物，承包了一年的笑点。",
+          "link": "https://mp.weixin.qq.com/s/O7BkQFH0jKQiisuXT7ZhSw",
+          "publishedOn": "2021-09-27T16:33:36.000Z",
+          "wordCount": 160,
+          "title": "没想到我被一群野生动物，承包了一年的笑点。"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/ExJx1G6l4NhPpcZkK6k4qA",
+          "author": null,
+          "description": "一个只会麻烦你的APP，为什么能感动那么多网友？",
+          "link": "https://mp.weixin.qq.com/s/ExJx1G6l4NhPpcZkK6k4qA",
+          "publishedOn": "2021-09-27T16:33:36.000Z",
+          "wordCount": 147,
+          "title": "一个只会麻烦你的APP，为什么能感动那么多网友？"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/mYngUMCshsELTPIgI-os7g",
+          "author": null,
+          "description": "为了玩《原神》，一些老外居然开始学中国话了？",
+          "link": "https://mp.weixin.qq.com/s/mYngUMCshsELTPIgI-os7g",
+          "publishedOn": "2021-09-27T16:33:36.000Z",
+          "wordCount": 327,
+          "title": "为了玩《原神》，一些老外居然开始学中国话了？"
+        },
         {
           "id": "https://mp.weixin.qq.com/s/flLnqbhMqzRQEJSJG2z-uw",
           "author": null,
@@ -1602,60 +1665,6 @@
           "publishedOn": "2021-08-29T16:34:32.000Z",
           "wordCount": 147,
           "title": "用了这个网站，我把《游戏王》的人物做成了真人版。"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/4GUh2JpG0gfOL2WFdNYwTw",
-          "author": null,
-          "description": "QQ音乐禁止专辑重复购买，vivo取消大小周，被刷脸贷款银行全责，西数回应用料缩水，这就是今天的其他大新闻！",
-          "link": "https://mp.weixin.qq.com/s/4GUh2JpG0gfOL2WFdNYwTw",
-          "publishedOn": "2021-08-28T16:48:00.000Z",
-          "wordCount": 155,
-          "title": "QQ音乐禁止专辑重复购买，vivo取消大小周，被刷脸贷款银行全责，西数回应用料缩水，这就是今天的其他大新闻！"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/20cJSdSpLRxqUSe_Urd1Dw",
-          "author": null,
-          "description": "聊一聊：你还在买 QQ 会员吗？",
-          "link": "https://mp.weixin.qq.com/s/20cJSdSpLRxqUSe_Urd1Dw",
-          "publishedOn": "2021-08-28T16:48:00.000Z",
-          "wordCount": 57,
-          "title": "聊一聊：你还在买 QQ 会员吗？"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/d5e7CZWnMLQL0t_PY0smNQ",
-          "author": null,
-          "description": "今日最佳：阴 间 食 堂",
-          "link": "https://mp.weixin.qq.com/s/d5e7CZWnMLQL0t_PY0smNQ",
-          "publishedOn": "2021-08-28T16:48:00.000Z",
-          "wordCount": 60,
-          "title": "今日最佳：阴 间 食 堂"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/EW0zSko4b2M2BpkFf1H6iA",
-          "author": null,
-          "description": "想排队喝生椰拿铁，APP通知「别去」直接给我打懵了。",
-          "link": "https://mp.weixin.qq.com/s/EW0zSko4b2M2BpkFf1H6iA",
-          "publishedOn": "2021-08-28T16:48:00.000Z",
-          "wordCount": 92,
-          "title": "想排队喝生椰拿铁，APP通知「别去」直接给我打懵了。"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/gJTuYyFjm_R5Iav5qSxajg",
-          "author": null,
-          "description": "当抽象文化遇到虚拟主播，评论区成了文豪的聚集地。",
-          "link": "https://mp.weixin.qq.com/s/gJTuYyFjm_R5Iav5qSxajg",
-          "publishedOn": "2021-08-28T16:48:00.000Z",
-          "wordCount": 225,
-          "title": "当抽象文化遇到虚拟主播，评论区成了文豪的聚集地。"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/P6cid8eWJROkX8ov2MgsVw",
-          "author": null,
-          "description": "造出你手机屏幕的这家公司不仅170岁了，当年还帮过爱迪生。。。",
-          "link": "https://mp.weixin.qq.com/s/P6cid8eWJROkX8ov2MgsVw",
-          "publishedOn": "2021-08-28T16:48:00.000Z",
-          "wordCount": 296,
-          "title": "造出你手机屏幕的这家公司不仅170岁了，当年还帮过爱迪生。。。"
         }
       ]
     },

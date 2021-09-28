@@ -1,10 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-27T00:56:18.595Z</id>
+    <id>urn:2021-09-28T00:57:29.931Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-27T00:56:18.596Z</updated>
+    <updated>2021-09-28T00:57:29.931Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[国家电网称会保障民生用电，迪迦恢复上架，第三方换iPhone 13屏幕影响面容识别，C口将支持240W，这就是今天的其他大新闻！]]></title>
+        <id>https://mp.weixin.qq.com/s/Nh3X8uS1o39dxBp0989KtA</id>
+        <link href="https://mp.weixin.qq.com/s/Nh3X8uS1o39dxBp0989KtA"/>
+        <updated>2021-09-27T16:33:36.000Z</updated>
+        <summary type="html"><![CDATA[国家电网称会保障民生用电，迪迦恢复上架，第三方换iPhone 13屏幕影响面容识别，C口将支持240W，这就是今天的其他大新闻！]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[聊一聊：芯片短缺有对你带来直接影响吗？]]></title>
+        <id>https://mp.weixin.qq.com/s/rWAu0GdstNNKAbVUl2jiEQ</id>
+        <link href="https://mp.weixin.qq.com/s/rWAu0GdstNNKAbVUl2jiEQ"/>
+        <updated>2021-09-27T16:33:36.000Z</updated>
+        <summary type="html"><![CDATA[聊一聊：芯片短缺有对你带来直接影响吗？]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今日最佳：如何收获一些同事。]]></title>
+        <id>https://mp.weixin.qq.com/s/DiE6bKH9BW8CRlosMl9Srw</id>
+        <link href="https://mp.weixin.qq.com/s/DiE6bKH9BW8CRlosMl9Srw"/>
+        <updated>2021-09-27T16:33:36.000Z</updated>
+        <summary type="html"><![CDATA[今日最佳：如何收获一些同事。]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[果然没有一个男人，能抵挡住挖掘机的诱惑！]]></title>
+        <id>https://mp.weixin.qq.com/s/OKeCG1-aEeP-mSqg99EXrw</id>
+        <link href="https://mp.weixin.qq.com/s/OKeCG1-aEeP-mSqg99EXrw"/>
+        <updated>2021-09-27T16:33:36.000Z</updated>
+        <summary type="html"><![CDATA[果然没有一个男人，能抵挡住挖掘机的诱惑！]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[没想到我被一群野生动物，承包了一年的笑点。]]></title>
+        <id>https://mp.weixin.qq.com/s/O7BkQFH0jKQiisuXT7ZhSw</id>
+        <link href="https://mp.weixin.qq.com/s/O7BkQFH0jKQiisuXT7ZhSw"/>
+        <updated>2021-09-27T16:33:36.000Z</updated>
+        <summary type="html"><![CDATA[没想到我被一群野生动物，承包了一年的笑点。]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个只会麻烦你的APP，为什么能感动那么多网友？]]></title>
+        <id>https://mp.weixin.qq.com/s/ExJx1G6l4NhPpcZkK6k4qA</id>
+        <link href="https://mp.weixin.qq.com/s/ExJx1G6l4NhPpcZkK6k4qA"/>
+        <updated>2021-09-27T16:33:36.000Z</updated>
+        <summary type="html"><![CDATA[一个只会麻烦你的APP，为什么能感动那么多网友？]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为了玩《原神》，一些老外居然开始学中国话了？]]></title>
+        <id>https://mp.weixin.qq.com/s/mYngUMCshsELTPIgI-os7g</id>
+        <link href="https://mp.weixin.qq.com/s/mYngUMCshsELTPIgI-os7g"/>
+        <updated>2021-09-27T16:33:36.000Z</updated>
+        <summary type="html"><![CDATA[为了玩《原神》，一些老外居然开始学中国话了？]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[v1.11.2]]></title>
         <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.2</id>
@@ -1952,66 +2022,6 @@ wangdoc.com/clang
         <link href="https://mp.weixin.qq.com/s/H-uwxEwaR6ixSc8UBVhxog"/>
         <updated>2021-08-29T16:34:32.000Z</updated>
         <summary type="html"><![CDATA[用了这个网站，我把《游戏王》的人物做成了真人版。]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[QQ音乐禁止专辑重复购买，vivo取消大小周，被刷脸贷款银行全责，西数回应用料缩水，这就是今天的其他大新闻！]]></title>
-        <id>https://mp.weixin.qq.com/s/4GUh2JpG0gfOL2WFdNYwTw</id>
-        <link href="https://mp.weixin.qq.com/s/4GUh2JpG0gfOL2WFdNYwTw"/>
-        <updated>2021-08-28T16:48:00.000Z</updated>
-        <summary type="html"><![CDATA[QQ音乐禁止专辑重复购买，vivo取消大小周，被刷脸贷款银行全责，西数回应用料缩水，这就是今天的其他大新闻！]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[聊一聊：你还在买 QQ 会员吗？]]></title>
-        <id>https://mp.weixin.qq.com/s/20cJSdSpLRxqUSe_Urd1Dw</id>
-        <link href="https://mp.weixin.qq.com/s/20cJSdSpLRxqUSe_Urd1Dw"/>
-        <updated>2021-08-28T16:48:00.000Z</updated>
-        <summary type="html"><![CDATA[聊一聊：你还在买 QQ 会员吗？]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今日最佳：阴 间 食 堂]]></title>
-        <id>https://mp.weixin.qq.com/s/d5e7CZWnMLQL0t_PY0smNQ</id>
-        <link href="https://mp.weixin.qq.com/s/d5e7CZWnMLQL0t_PY0smNQ"/>
-        <updated>2021-08-28T16:48:00.000Z</updated>
-        <summary type="html"><![CDATA[今日最佳：阴 间 食 堂]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[想排队喝生椰拿铁，APP通知「别去」直接给我打懵了。]]></title>
-        <id>https://mp.weixin.qq.com/s/EW0zSko4b2M2BpkFf1H6iA</id>
-        <link href="https://mp.weixin.qq.com/s/EW0zSko4b2M2BpkFf1H6iA"/>
-        <updated>2021-08-28T16:48:00.000Z</updated>
-        <summary type="html"><![CDATA[想排队喝生椰拿铁，APP通知「别去」直接给我打懵了。]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[当抽象文化遇到虚拟主播，评论区成了文豪的聚集地。]]></title>
-        <id>https://mp.weixin.qq.com/s/gJTuYyFjm_R5Iav5qSxajg</id>
-        <link href="https://mp.weixin.qq.com/s/gJTuYyFjm_R5Iav5qSxajg"/>
-        <updated>2021-08-28T16:48:00.000Z</updated>
-        <summary type="html"><![CDATA[当抽象文化遇到虚拟主播，评论区成了文豪的聚集地。]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[造出你手机屏幕的这家公司不仅170岁了，当年还帮过爱迪生。。。]]></title>
-        <id>https://mp.weixin.qq.com/s/P6cid8eWJROkX8ov2MgsVw</id>
-        <link href="https://mp.weixin.qq.com/s/P6cid8eWJROkX8ov2MgsVw"/>
-        <updated>2021-08-28T16:48:00.000Z</updated>
-        <summary type="html"><![CDATA[造出你手机屏幕的这家公司不仅170岁了，当年还帮过爱迪生。。。]]></summary>
         <author>
             <name>差评</name>
         </author>
