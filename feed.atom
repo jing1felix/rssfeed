@@ -1,10 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-28T00:57:29.931Z</id>
+    <id>urn:2021-09-29T00:55:06.487Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-28T00:57:29.931Z</updated>
+    <updated>2021-09-29T00:55:06.487Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[阿里回应将接入微信支付，吉利宣布进军手机领域，微信语音通话时可展示好友动态，客服回应云米冰箱强制广告，这就是今天的其他大新闻！]]></title>
+        <id>https://mp.weixin.qq.com/s/tfSEgj--RJA8yuoeSkwv6Q</id>
+        <link href="https://mp.weixin.qq.com/s/tfSEgj--RJA8yuoeSkwv6Q"/>
+        <updated>2021-09-28T22:03:41.000Z</updated>
+        <summary type="html"><![CDATA[阿里回应将接入微信支付，吉利宣布进军手机领域，微信语音通话时可展示好友动态，客服回应云米冰箱强制广告，这就是今天的其他大新闻！]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[聊一聊：你手上有什么很稀有的电子设备？]]></title>
+        <id>https://mp.weixin.qq.com/s/IBHjcslMteG-h5XcuFL8qw</id>
+        <link href="https://mp.weixin.qq.com/s/IBHjcslMteG-h5XcuFL8qw"/>
+        <updated>2021-09-28T22:03:41.000Z</updated>
+        <summary type="html"><![CDATA[聊一聊：你手上有什么很稀有的电子设备？]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今日最佳：咖啡提神的原理。]]></title>
+        <id>https://mp.weixin.qq.com/s/-nJmTwq9iuL5bMsH-ZYCXA</id>
+        <link href="https://mp.weixin.qq.com/s/-nJmTwq9iuL5bMsH-ZYCXA"/>
+        <updated>2021-09-28T22:03:41.000Z</updated>
+        <summary type="html"><![CDATA[今日最佳：咖啡提神的原理。]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「淘宝丑东西评选赛」提名的它，居然还能俘获萌妹的心？]]></title>
+        <id>https://mp.weixin.qq.com/s/OloPDUPrY4lAm88IsGymqw</id>
+        <link href="https://mp.weixin.qq.com/s/OloPDUPrY4lAm88IsGymqw"/>
+        <updated>2021-09-28T22:03:41.000Z</updated>
+        <summary type="html"><![CDATA[「淘宝丑东西评选赛」提名的它，居然还能俘获萌妹的心？]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[救助车祸遇难者的时候，我被“撞死”了好几次，这河里吗？]]></title>
+        <id>https://mp.weixin.qq.com/s/yK17PHMgDTqkySFEMmQqtQ</id>
+        <link href="https://mp.weixin.qq.com/s/yK17PHMgDTqkySFEMmQqtQ"/>
+        <updated>2021-09-28T22:03:41.000Z</updated>
+        <summary type="html"><![CDATA[救助车祸遇难者的时候，我被“撞死”了好几次，这河里吗？]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欧盟对充电接口打出了一招制裁，苹果可能要身受重伤。。。]]></title>
+        <id>https://mp.weixin.qq.com/s/RYdwSyOMIVsnoJNEZXs2Aw</id>
+        <link href="https://mp.weixin.qq.com/s/RYdwSyOMIVsnoJNEZXs2Aw"/>
+        <updated>2021-09-28T22:03:41.000Z</updated>
+        <summary type="html"><![CDATA[欧盟对充电接口打出了一招制裁，苹果可能要身受重伤。。。]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用了5天iPhone 13 Pro以后，我想和你聊聊感受。]]></title>
+        <id>https://mp.weixin.qq.com/s/QD1C2iVx8RApKSqey7t4Iw</id>
+        <link href="https://mp.weixin.qq.com/s/QD1C2iVx8RApKSqey7t4Iw"/>
+        <updated>2021-09-28T22:03:41.000Z</updated>
+        <summary type="html"><![CDATA[用了5天iPhone 13 Pro以后，我想和你聊聊感受。]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[国家电网称会保障民生用电，迪迦恢复上架，第三方换iPhone 13屏幕影响面容识别，C口将支持240W，这就是今天的其他大新闻！]]></title>
         <id>https://mp.weixin.qq.com/s/Nh3X8uS1o39dxBp0989KtA</id>
@@ -1952,76 +2022,6 @@ wangdoc.com/clang
         <link href="https://mp.weixin.qq.com/s/0icpVfYDC1PpwaryM-Aigg"/>
         <updated>2021-08-30T16:32:51.000Z</updated>
         <summary type="html"><![CDATA[苹果这回不仅怂了，还被韩国政府、美国媒体狠狠打了两拳。]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[社会制度与知识正义 / 翻译]]></title>
-        <id>https://mp.weixin.qq.com/s/tY_NvhcvNil38bDJ2TL-UA</id>
-        <link href="https://mp.weixin.qq.com/s/tY_NvhcvNil38bDJ2TL-UA"/>
-        <updated>2021-08-30T12:29:02.000Z</updated>
-        <summary type="html"><![CDATA[社会制度与知识正义 / 翻译]]></summary>
-        <author>
-            <name>Philosophia 哲学社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[被可口百事压了20年后，国产汽水开始大反攻了。]]></title>
-        <id>https://mp.weixin.qq.com/s/xm1deDHWPjCMphDUL6ah8A</id>
-        <link href="https://mp.weixin.qq.com/s/xm1deDHWPjCMphDUL6ah8A"/>
-        <updated>2021-08-29T22:06:22.000Z</updated>
-        <summary type="html"><![CDATA[被可口百事压了20年后，国产汽水开始大反攻了。]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[网易云音乐下明星榜，丰田为自动驾驶车辆撞人道歉，快递公司全面涨价，字节跳动收购Pico，这就是今天的其他大新闻！]]></title>
-        <id>https://mp.weixin.qq.com/s/Wj1P7zzUKpsRFzMqr0PH7Q</id>
-        <link href="https://mp.weixin.qq.com/s/Wj1P7zzUKpsRFzMqr0PH7Q"/>
-        <updated>2021-08-29T16:34:32.000Z</updated>
-        <summary type="html"><![CDATA[网易云音乐下明星榜，丰田为自动驾驶车辆撞人道歉，快递公司全面涨价，字节跳动收购Pico，这就是今天的其他大新闻！]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[聊一聊：未来的VR达到什么水平你会购买？]]></title>
-        <id>https://mp.weixin.qq.com/s/z2ifYZ_ZMCNApq3ev-qDwQ</id>
-        <link href="https://mp.weixin.qq.com/s/z2ifYZ_ZMCNApq3ev-qDwQ"/>
-        <updated>2021-08-29T16:34:32.000Z</updated>
-        <summary type="html"><![CDATA[聊一聊：未来的VR达到什么水平你会购买？]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今日最佳：请勿模仿。]]></title>
-        <id>https://mp.weixin.qq.com/s/6cEnK_0NaZ2fvWtpfsJF2A</id>
-        <link href="https://mp.weixin.qq.com/s/6cEnK_0NaZ2fvWtpfsJF2A"/>
-        <updated>2021-08-29T16:34:32.000Z</updated>
-        <summary type="html"><![CDATA[今日最佳：请勿模仿。]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[看整蛊节目开外放，女朋友差点把刀拎起来。]]></title>
-        <id>https://mp.weixin.qq.com/s/2AVThdYngRnI6BOx-H8NLQ</id>
-        <link href="https://mp.weixin.qq.com/s/2AVThdYngRnI6BOx-H8NLQ"/>
-        <updated>2021-08-29T16:34:32.000Z</updated>
-        <summary type="html"><![CDATA[看整蛊节目开外放，女朋友差点把刀拎起来。]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用了这个网站，我把《游戏王》的人物做成了真人版。]]></title>
-        <id>https://mp.weixin.qq.com/s/H-uwxEwaR6ixSc8UBVhxog</id>
-        <link href="https://mp.weixin.qq.com/s/H-uwxEwaR6ixSc8UBVhxog"/>
-        <updated>2021-08-29T16:34:32.000Z</updated>
-        <summary type="html"><![CDATA[用了这个网站，我把《游戏王》的人物做成了真人版。]]></summary>
         <author>
             <name>差评</name>
         </author>

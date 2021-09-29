@@ -36,7 +36,7 @@
           "description": "这里记录每周值得分享的科技内容，周五发布。（[通知] 下周五是十一假期，周刊会提前一天，9月30日周四发布。）\n本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。\n周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。\n封面图\n\n23岁的宁夏青年董书畅，今年6月份在西藏阿里地区，拍到了一张完美的日环食照片。最近获得了英国格林威治天文台评选的2021年天文摄影冠军照片。（via）\n本周话题：iPad 的真正用途\n大家的平板电脑，都用来干嘛？\n根据我的观察，第一位的用途都是看视频，其次是玩游戏。\n\n如果有人说，平板电脑是生产力工具，那属于胡说。无论是学习和工作，它远远不如笔记本电脑好用和强大。\n我曾经幻想，外出时使用平板电脑开发。结果发现根本不可行，要什么缺什么，开发体验极差，最多只能紧急时登录服务器，或者偶尔改一下仓库代码。\n但是，我最近发现有一个用途，平板电脑大大强于笔记本，几乎可以说，是为这种用途量身定制的工具。\n那就是普通人的视频处理。\n\n专业级别的视频处理，平板电脑肯定是不行的。但是，普通人偶尔剪剪视频，它真的是利器，尤其是 iPad pro。\n我使用 GoPro 拍摄旅游视频，每次要导入桌面设备处理，非常麻烦。要是身边没有笔记本电脑，就只能等到旅行结束再说。手机倒是可以剪视频，但是对于 2K 或 4K 分辨率，处理起来很慢。\n\n今年上半年，苹果公司发布了新的 M1 架构的 iPad Pro。我眼前一亮，这个硬件配置跟 Mac mini 是一样的，而我们已经知道，后者的视频处理能力很强。\n而且，iPad Pro 采用 Type-C 接口，可以直接连移动硬盘，导出文件。它的大屏也适合视频预览。总之，种种特点都表明这个设备特别适合视频处理。\n\n入手以后，经过几个月的试用，它的表现跟我预想的基…",
           "link": "http://www.ruanyifeng.com/blog/2021/09/weekly-issue-177.html",
           "publishedOn": "2021-09-24T00:31:18.000Z",
-          "wordCount": 849,
+          "wordCount": 877,
           "title": "科技爱好者周刊（第 177 期）：iPad 的真正用途"
         },
         {
@@ -72,7 +72,7 @@
           "description": "向大家报告，我写了一本《C 语言入门教程》，已经上线了，欢迎访问。\n\n我知道，这件事有点奇怪，让我来解释一下。\n最近两三年，我想做一些服务器开发，一直在学习这方面的技术。去年发布的《Bash 脚本教程》，就是在学习 Shell 的时候写的。后来学习后端编程语言，深感好多基础的东西需要补课，就回过头重新开始看 C 语言。\n我上一次学习 C 语言，还是在学校里。印象中，C 语言不容易，复杂类型很难声明和解读。但是，这一次重新学习，意外觉得 C 语言并不复杂，语法点少，没有类，只能使用命令式编程（imperative programming），跟脚本语言（比如 JavaScript）相比，语法描述要容易很多。加上网上很少 C 语言中文教程，质量也不理想，于是就萌生了自己写教程的念头。\n最初的想法是，在我的学习笔记基础上，加一些示例就可以了。但是真的动手以后，发现工作量很大，尤其是后来决定 C 语言标准库也包括在教程中。C 的语法点虽然不多，但完整的教程至少要20几章，而且 C 代码写法太自由，不少疑难之处还要去查看参考书籍。所以写得很慢，从春节后到现在，整整写了六个多月，终于写完了。\n与以往一样，这个教程是开源的，采用知识共享许可证，源码托管在 GitHub ，大家可以自由使用。点击下面网址，在线阅读全书。\nwangdoc.com/clang\n我对它还算满意，该讲的地方都讲到了，给出了许多示例，初学者完全够用了。但是，毕竟我平时很少有机会使用 C 语言编程，各种错误和遗漏之处，肯定有不少，欢迎大家到仓库提交补丁，或者发 issue 反映问题。\n（完）\n文档信息\n版权声明：自由转载-非商用-非衍生-保持署名（创意共享3.0许可证）\n发表日期： 2021年9月 7日",
           "link": "http://www.ruanyifeng.com/blog/2021/09/c-language-tutorial.html",
           "publishedOn": "2021-09-07T07:54:29.000Z",
-          "wordCount": 532,
+          "wordCount": 550,
           "title": "《C 语言入门教程》发布了"
         },
         {
@@ -91,6 +91,69 @@
       "feedUrl": "https://api.feeddd.org/feeds/6110783449ef7514d0b91ae1",
       "siteUrl": "https://mp.weixin.qq.com",
       "articles": [
+        {
+          "id": "https://mp.weixin.qq.com/s/tfSEgj--RJA8yuoeSkwv6Q",
+          "author": null,
+          "description": "阿里回应将接入微信支付，吉利宣布进军手机领域，微信语音通话时可展示好友动态，客服回应云米冰箱强制广告，这就是今天的其他大新闻！",
+          "link": "https://mp.weixin.qq.com/s/tfSEgj--RJA8yuoeSkwv6Q",
+          "publishedOn": "2021-09-28T22:03:41.000Z",
+          "wordCount": 82,
+          "title": "阿里回应将接入微信支付，吉利宣布进军手机领域，微信语音通话时可展示好友动态，客服回应云米冰箱强制广告，这就是今天的其他大新闻！"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/IBHjcslMteG-h5XcuFL8qw",
+          "author": null,
+          "description": "聊一聊：你手上有什么很稀有的电子设备？",
+          "link": "https://mp.weixin.qq.com/s/IBHjcslMteG-h5XcuFL8qw",
+          "publishedOn": "2021-09-28T22:03:41.000Z",
+          "wordCount": 53,
+          "title": "聊一聊：你手上有什么很稀有的电子设备？"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/-nJmTwq9iuL5bMsH-ZYCXA",
+          "author": null,
+          "description": "今日最佳：咖啡提神的原理。",
+          "link": "https://mp.weixin.qq.com/s/-nJmTwq9iuL5bMsH-ZYCXA",
+          "publishedOn": "2021-09-28T22:03:41.000Z",
+          "wordCount": 54,
+          "title": "今日最佳：咖啡提神的原理。"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/OloPDUPrY4lAm88IsGymqw",
+          "author": null,
+          "description": "「淘宝丑东西评选赛」提名的它，居然还能俘获萌妹的心？",
+          "link": "https://mp.weixin.qq.com/s/OloPDUPrY4lAm88IsGymqw",
+          "publishedOn": "2021-09-28T22:03:41.000Z",
+          "wordCount": 118,
+          "title": "「淘宝丑东西评选赛」提名的它，居然还能俘获萌妹的心？"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/yK17PHMgDTqkySFEMmQqtQ",
+          "author": null,
+          "description": "救助车祸遇难者的时候，我被“撞死”了好几次，这河里吗？",
+          "link": "https://mp.weixin.qq.com/s/yK17PHMgDTqkySFEMmQqtQ",
+          "publishedOn": "2021-09-28T22:03:41.000Z",
+          "wordCount": 93,
+          "title": "救助车祸遇难者的时候，我被“撞死”了好几次，这河里吗？"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/RYdwSyOMIVsnoJNEZXs2Aw",
+          "author": null,
+          "description": "欧盟对充电接口打出了一招制裁，苹果可能要身受重伤。。。",
+          "link": "https://mp.weixin.qq.com/s/RYdwSyOMIVsnoJNEZXs2Aw",
+          "publishedOn": "2021-09-28T22:03:41.000Z",
+          "wordCount": 223,
+          "title": "欧盟对充电接口打出了一招制裁，苹果可能要身受重伤。。。"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/QD1C2iVx8RApKSqey7t4Iw",
+          "author": null,
+          "description": "用了5天iPhone 13 Pro以后，我想和你聊聊感受。",
+          "link": "https://mp.weixin.qq.com/s/QD1C2iVx8RApKSqey7t4Iw",
+          "publishedOn": "2021-09-28T22:03:41.000Z",
+          "wordCount": 365,
+          "title": "用了5天iPhone 13 Pro以后，我想和你聊聊感受。"
+        },
         {
           "id": "https://mp.weixin.qq.com/s/Nh3X8uS1o39dxBp0989KtA",
           "author": null,
@@ -133,7 +196,7 @@
           "description": "没想到我被一群野生动物，承包了一年的笑点。",
           "link": "https://mp.weixin.qq.com/s/O7BkQFH0jKQiisuXT7ZhSw",
           "publishedOn": "2021-09-27T16:33:36.000Z",
-          "wordCount": 160,
+          "wordCount": 161,
           "title": "没想到我被一群野生动物，承包了一年的笑点。"
         },
         {
@@ -142,7 +205,7 @@
           "description": "一个只会麻烦你的APP，为什么能感动那么多网友？",
           "link": "https://mp.weixin.qq.com/s/ExJx1G6l4NhPpcZkK6k4qA",
           "publishedOn": "2021-09-27T16:33:36.000Z",
-          "wordCount": 147,
+          "wordCount": 148,
           "title": "一个只会麻烦你的APP，为什么能感动那么多网友？"
         },
         {
@@ -1611,60 +1674,6 @@
           "publishedOn": "2021-08-30T16:32:51.000Z",
           "wordCount": 214,
           "title": "苹果这回不仅怂了，还被韩国政府、美国媒体狠狠打了两拳。"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/xm1deDHWPjCMphDUL6ah8A",
-          "author": null,
-          "description": "被可口百事压了20年后，国产汽水开始大反攻了。",
-          "link": "https://mp.weixin.qq.com/s/xm1deDHWPjCMphDUL6ah8A",
-          "publishedOn": "2021-08-29T22:06:22.000Z",
-          "wordCount": 260,
-          "title": "被可口百事压了20年后，国产汽水开始大反攻了。"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/Wj1P7zzUKpsRFzMqr0PH7Q",
-          "author": null,
-          "description": "网易云音乐下明星榜，丰田为自动驾驶车辆撞人道歉，快递公司全面涨价，字节跳动收购Pico，这就是今天的其他大新闻！",
-          "link": "https://mp.weixin.qq.com/s/Wj1P7zzUKpsRFzMqr0PH7Q",
-          "publishedOn": "2021-08-29T16:34:32.000Z",
-          "wordCount": 112,
-          "title": "网易云音乐下明星榜，丰田为自动驾驶车辆撞人道歉，快递公司全面涨价，字节跳动收购Pico，这就是今天的其他大新闻！"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/z2ifYZ_ZMCNApq3ev-qDwQ",
-          "author": null,
-          "description": "聊一聊：未来的VR达到什么水平你会购买？",
-          "link": "https://mp.weixin.qq.com/s/z2ifYZ_ZMCNApq3ev-qDwQ",
-          "publishedOn": "2021-08-29T16:34:32.000Z",
-          "wordCount": 53,
-          "title": "聊一聊：未来的VR达到什么水平你会购买？"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/6cEnK_0NaZ2fvWtpfsJF2A",
-          "author": null,
-          "description": "今日最佳：请勿模仿。",
-          "link": "https://mp.weixin.qq.com/s/6cEnK_0NaZ2fvWtpfsJF2A",
-          "publishedOn": "2021-08-29T16:34:32.000Z",
-          "wordCount": 54,
-          "title": "今日最佳：请勿模仿。"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/2AVThdYngRnI6BOx-H8NLQ",
-          "author": null,
-          "description": "看整蛊节目开外放，女朋友差点把刀拎起来。",
-          "link": "https://mp.weixin.qq.com/s/2AVThdYngRnI6BOx-H8NLQ",
-          "publishedOn": "2021-08-29T16:34:32.000Z",
-          "wordCount": 86,
-          "title": "看整蛊节目开外放，女朋友差点把刀拎起来。"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/H-uwxEwaR6ixSc8UBVhxog",
-          "author": null,
-          "description": "用了这个网站，我把《游戏王》的人物做成了真人版。",
-          "link": "https://mp.weixin.qq.com/s/H-uwxEwaR6ixSc8UBVhxog",
-          "publishedOn": "2021-08-29T16:34:32.000Z",
-          "wordCount": 147,
-          "title": "用了这个网站，我把《游戏王》的人物做成了真人版。"
         }
       ]
     },
@@ -1708,15 +1717,6 @@
           "publishedOn": "2021-09-02T13:12:21.000Z",
           "wordCount": 889,
           "title": "酷儿马克思主义：一份简要书介"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/tY_NvhcvNil38bDJ2TL-UA",
-          "author": null,
-          "description": "社会制度与知识正义 / 翻译",
-          "link": "https://mp.weixin.qq.com/s/tY_NvhcvNil38bDJ2TL-UA",
-          "publishedOn": "2021-08-30T12:29:02.000Z",
-          "wordCount": 269,
-          "title": "社会制度与知识正义 / 翻译"
         }
       ]
     }
