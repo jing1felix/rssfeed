@@ -31,12 +31,21 @@
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
         {
+          "id": "http://www.ruanyifeng.com/blog/2021/09/detecting-mobile-browser.html",
+          "author": null,
+          "description": "有时候，前端网页需要知道，用户使用的是手机浏览器还是桌面浏览器。\n本文根据 StackOverflow，整理了 JavaScript 侦测手机浏览器的五种方法。\n\n一、navigator.userAgent\n最简单的方法就是分析浏览器的 user agent 字符串，它包含了设备信息。\nJS 通过navigator.userAgent属性拿到这个字符串，只要里面包含mobi、android、iphone等关键字，就可以认定是移动设备。\n\nif (/Mobi|Android|iPhone/i.test(navigator.userAgent)) {\n  // 当前设备是移动设备\n}\n\n// 另一种写法\nif (\n  navigator.userAgent.match(/Mobi/i) ||\n  navigator.userAgent.match(/Android/i) ||\n  navigator.userAgent.match(/iPhone/i)\n) {\n  // 当前设备是移动设备\n}\n\n\n\n这种方法的优点是简单方便，缺点是不可靠，因为用户可以修改这个字符串，让手机浏览器伪装成桌面浏览器。\nChromium 系的浏览器，还有一个navigator.userAgentData属性，也是类似的作用。不同之处是它将 user agent 字符串解析为一个对象，该对象的mobile属性，返回一个布尔值，表示用户是否使用移动设备。\n\nconst isMobile = navigator.userAgentData.mobile; \n\n\n\n注意，苹果的 Safari 浏览器和 Firefox 浏览器都不支持这个属性，具体情况可以查看 Caniuse 网站。\n此外，还有一个已经废除的navigator.platform属性，所有浏览器都支持，所以也可以用。它返回一个字符串，表示用户的…",
+          "link": "http://www.ruanyifeng.com/blog/2021/09/detecting-mobile-browser.html",
+          "publishedOn": "2021-09-29T01:19:08.000Z",
+          "wordCount": 335,
+          "title": "JavaScript 侦测手机浏览器的五种方法"
+        },
+        {
           "id": "http://www.ruanyifeng.com/blog/2021/09/weekly-issue-177.html",
           "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。（[通知] 下周五是十一假期，周刊会提前一天，9月30日周四发布。）\n本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。\n周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。\n封面图\n\n23岁的宁夏青年董书畅，今年6月份在西藏阿里地区，拍到了一张完美的日环食照片。最近获得了英国格林威治天文台评选的2021年天文摄影冠军照片。（via）\n本周话题：iPad 的真正用途\n大家的平板电脑，都用来干嘛？\n根据我的观察，第一位的用途都是看视频，其次是玩游戏。\n\n如果有人说，平板电脑是生产力工具，那属于胡说。无论是学习和工作，它远远不如笔记本电脑好用和强大。\n我曾经幻想，外出时使用平板电脑开发。结果发现根本不可行，要什么缺什么，开发体验极差，最多只能紧急时登录服务器，或者偶尔改一下仓库代码。\n但是，我最近发现有一个用途，平板电脑大大强于笔记本，几乎可以说，是为这种用途量身定制的工具。\n那就是普通人的视频处理。\n\n专业级别的视频处理，平板电脑肯定是不行的。但是，普通人偶尔剪剪视频，它真的是利器，尤其是 iPad pro。\n我使用 GoPro 拍摄旅游视频，每次要导入桌面设备处理，非常麻烦。要是身边没有笔记本电脑，就只能等到旅行结束再说。手机倒是可以剪视频，但是对于 2K 或 4K 分辨率，处理起来很慢。\n\n今年上半年，苹果公司发布了新的 M1 架构的 iPad Pro。我眼前一亮，这个硬件配置跟 Mac mini 是一样的，而我们已经知道，后者的视频处理能力很强。\n而且，iPad Pro 采用 Type-C 接口，可以直接连移动硬盘，导出文件。它的大屏也适合视频预览。总之，种种特点都表明这个设备特别适合视频处理。\n\n入手以后，经过几个月的试用，它的表现跟我预想的基…",
+          "description": "这里记录每周值得分享的科技内容，周五发布。（[通知] 下周五是十一假期，周刊暂停一期。）\n本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。\n周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。\n封面图\n\n23岁的宁夏青年董书畅，今年6月份在西藏阿里地区，拍到了一张完美的日环食照片。最近获得了英国格林威治天文台评选的2021年天文摄影冠军照片。（via）\n本周话题：iPad 的真正用途\n大家的平板电脑，都用来干嘛？\n根据我的观察，第一位的用途都是看视频，其次是玩游戏。\n\n如果有人说，平板电脑是生产力工具，那属于胡说。无论是学习和工作，它远远不如笔记本电脑好用和强大。\n我曾经幻想，外出时使用平板电脑开发。结果发现根本不可行，要什么缺什么，开发体验极差，最多只能紧急时登录服务器，或者偶尔改一下仓库代码。\n但是，我最近发现有一个用途，平板电脑大大强于笔记本，几乎可以说，是为这种用途量身定制的工具。\n那就是普通人的视频处理。\n\n专业级别的视频处理，平板电脑肯定是不行的。但是，普通人偶尔剪剪视频，它真的是利器，尤其是 iPad pro。\n我使用 GoPro 拍摄旅游视频，每次要导入桌面设备处理，非常麻烦。要是身边没有笔记本电脑，就只能等到旅行结束再说。手机倒是可以剪视频，但是对于 2K 或 4K 分辨率，处理起来很慢。\n\n今年上半年，苹果公司发布了新的 M1 架构的 iPad Pro。我眼前一亮，这个硬件配置跟 Mac mini 是一样的，而我们已经知道，后者的视频处理能力很强。\n而且，iPad Pro 采用 Type-C 接口，可以直接连移动硬盘，导出文件。它的大屏也适合视频预览。总之，种种特点都表明这个设备特别适合视频处理。\n\n入手以后，经过几个月的试用，它的表现跟我预想的基本一样，现场拍完就能剪…",
           "link": "http://www.ruanyifeng.com/blog/2021/09/weekly-issue-177.html",
           "publishedOn": "2021-09-24T00:31:18.000Z",
-          "wordCount": 877,
+          "wordCount": 900,
           "title": "科技爱好者周刊（第 177 期）：iPad 的真正用途"
         },
         {
@@ -74,15 +83,6 @@
           "publishedOn": "2021-09-07T07:54:29.000Z",
           "wordCount": 550,
           "title": "《C 语言入门教程》发布了"
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2021/09/weekly-issue-174.html",
-          "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。\n周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。\n封面图\n\n浙江普陀山客运中心最近获得2021年度凡尔赛建筑奖。（via）\n本周话题：全能程序员 vs 特长程序员\n我读过一些篮球报道，里面说 NBA 球队不喜欢\"全能型球员\"，更喜欢\"特长型球员\"。\n\n所谓\"特长型球员\"，指的是其他方面可能都不行，但是某一方面特别突出，比如防守特别好、三分特别准，或者篮板很强等等。球队愿意签这样的球员，关键时刻派上场，没准就能立下奇功。\n反过来，\"全能型球员\"各项技术都很均衡，防守、进攻、投篮都还可以，能达到平均水平，但是每个方面都不突出，没有明显的过人之处。球队看不上这样的球员，觉得让你上场，赢不了球。\n我马上联想到， 软件行业其实也是如此，\"全能程序员\"的出路，明显不如\"特长程序员\"。\n\n如果你什么都会干，前端、后端、数据库、服务器管理都能上手，那么哪里缺人手，就会让你顶上去。但是，一旦遇到疑难问题，又指望不了你，因为你不是那个方面的专家，解决不了。\n反过来，你精通某一项技术，其他都不懂，公司反而会觉得你更有价值。因为你可以把这个技术做得很深，克服技术难点，超过竞争对手，所以你的晋升会快得多。\n我甚至读到过这样一段话：\n\"绝大多数成熟的程序员都专攻某一个技术栈，因为这样更容易找到工作。 一些专家甚至认为，在不同的技术栈中工作是简历的污点。\"\n所以，大家写简历的时候，千万不要把自己懂的所有技术都写进去，那是简历的扣分项。而只写你掌握最深的那项技术，以及与之相关的工作经历。\n同样的，新人如果想在软件行业长远发展，建议选择一两个技术方向进行专研，成为专家，而不要什么技术都懂一点，但是哪一项都不精通。\n但是，这样也…",
-          "link": "http://www.ruanyifeng.com/blog/2021/09/weekly-issue-174.html",
-          "publishedOn": "2021-09-03T00:30:50.000Z",
-          "wordCount": 1200,
-          "title": "科技爱好者周刊（第 174 期）：全能程序员 vs 特长程序员"
         }
       ]
     },
@@ -91,6 +91,69 @@
       "feedUrl": "https://api.feeddd.org/feeds/6110783449ef7514d0b91ae1",
       "siteUrl": "https://mp.weixin.qq.com",
       "articles": [
+        {
+          "id": "https://mp.weixin.qq.com/s/gr6BQavLWMPiV3UJFNIBLg",
+          "author": null,
+          "description": "浙江立法规范快递业，苹果称果冻屏是正常表现，抖音支持外放音量过高提醒，淘宝及部分小程序支持云闪付，这就是今天的其他大新闻！",
+          "link": "https://mp.weixin.qq.com/s/gr6BQavLWMPiV3UJFNIBLg",
+          "publishedOn": "2021-09-29T16:33:24.000Z",
+          "wordCount": 131,
+          "title": "浙江立法规范快递业，苹果称果冻屏是正常表现，抖音支持外放音量过高提醒，淘宝及部分小程序支持云闪付，这就是今天的其他大新闻！"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/O_J1dDvCysb7b7YdcoAT7Q",
+          "author": null,
+          "description": "聊一聊：你有被地图软件带进坑的故事吗？",
+          "link": "https://mp.weixin.qq.com/s/O_J1dDvCysb7b7YdcoAT7Q",
+          "publishedOn": "2021-09-29T16:33:24.000Z",
+          "wordCount": 53,
+          "title": "聊一聊：你有被地图软件带进坑的故事吗？"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/PewhjXGJLCn7EgZHwlY1Hg",
+          "author": null,
+          "description": "今日最佳：一听就是好车。",
+          "link": "https://mp.weixin.qq.com/s/PewhjXGJLCn7EgZHwlY1Hg",
+          "publishedOn": "2021-09-29T16:33:24.000Z",
+          "wordCount": 54,
+          "title": "今日最佳：一听就是好车。"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/hMLIzOcdoZmwtFK5HJtlFg",
+          "author": null,
+          "description": "你要说上色，我可就不困了！",
+          "link": "https://mp.weixin.qq.com/s/hMLIzOcdoZmwtFK5HJtlFg",
+          "publishedOn": "2021-09-29T16:33:24.000Z",
+          "wordCount": 101,
+          "title": "你要说上色，我可就不困了！"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/BNHqh3qPMRAHI7qFZ5_F4Q",
+          "author": null,
+          "description": "买个冰箱放广告，这事把我给整乐了。",
+          "link": "https://mp.weixin.qq.com/s/BNHqh3qPMRAHI7qFZ5_F4Q",
+          "publishedOn": "2021-09-29T16:33:24.000Z",
+          "wordCount": 124,
+          "title": "买个冰箱放广告，这事把我给整乐了。"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/yKJYa7068d31AckSlcMDng",
+          "author": null,
+          "description": "能上天，能入地，华为开源的欧拉到底是干啥的？",
+          "link": "https://mp.weixin.qq.com/s/yKJYa7068d31AckSlcMDng",
+          "publishedOn": "2021-09-29T16:33:24.000Z",
+          "wordCount": 150,
+          "title": "能上天，能入地，华为开源的欧拉到底是干啥的？"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/elZysPz-xWfJkk71XGUtqw",
+          "author": null,
+          "description": "拉闸限电，炸出来多少反智的大棋论和阴谋论？",
+          "link": "https://mp.weixin.qq.com/s/elZysPz-xWfJkk71XGUtqw",
+          "publishedOn": "2021-09-29T16:33:24.000Z",
+          "wordCount": 172,
+          "title": "拉闸限电，炸出来多少反智的大棋论和阴谋论？"
+        },
         {
           "id": "https://mp.weixin.qq.com/s/tfSEgj--RJA8yuoeSkwv6Q",
           "author": null,
@@ -1602,78 +1665,6 @@
           "publishedOn": "2021-08-31T16:32:51.000Z",
           "wordCount": 226,
           "title": "这个女人，被无数白嫖党称为女神。"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/25n81CkfN8c6SwZg4dfKyA",
-          "author": null,
-          "description": "未成年人网游时间被严格限制，美团或被处高额罚款，恒大汽车上半年亏损47.9亿元，立讯辟谣裁员传闻，这就是今天的其他大新闻！",
-          "link": "https://mp.weixin.qq.com/s/25n81CkfN8c6SwZg4dfKyA",
-          "publishedOn": "2021-08-30T16:32:51.000Z",
-          "wordCount": 123,
-          "title": "未成年人网游时间被严格限制，美团或被处高额罚款，恒大汽车上半年亏损47.9亿元，立讯辟谣裁员传闻，这就是今天的其他大新闻！"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/5aGRkWgvOn0Urj5H_yLgXw",
-          "author": null,
-          "description": "聊一聊：有哪些兴趣班，你后悔小时候没好好学？",
-          "link": "https://mp.weixin.qq.com/s/5aGRkWgvOn0Urj5H_yLgXw",
-          "publishedOn": "2021-08-30T16:32:51.000Z",
-          "wordCount": 53,
-          "title": "聊一聊：有哪些兴趣班，你后悔小时候没好好学？"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/4YUVvQGgB4xvorb2fXwrcg",
-          "author": null,
-          "description": "今日最佳：最真实的互联网用户画像。",
-          "link": "https://mp.weixin.qq.com/s/4YUVvQGgB4xvorb2fXwrcg",
-          "publishedOn": "2021-08-30T16:32:51.000Z",
-          "wordCount": 54,
-          "title": "今日最佳：最真实的互联网用户画像。"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/IWQyaQ-fWEc6ck8zVhQsLA",
-          "author": null,
-          "description": "猪这一生，活得好像比我更有价值。。。",
-          "link": "https://mp.weixin.qq.com/s/IWQyaQ-fWEc6ck8zVhQsLA",
-          "publishedOn": "2021-08-30T16:32:51.000Z",
-          "wordCount": 101,
-          "title": "猪这一生，活得好像比我更有价值。。。"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/N60d69vyFpQT-L0LOm6mqA",
-          "author": null,
-          "description": "对胖子的新一轮暴击：瘦子们的锻炼效果比胖子好多了。",
-          "link": "https://mp.weixin.qq.com/s/N60d69vyFpQT-L0LOm6mqA",
-          "publishedOn": "2021-08-30T16:32:51.000Z",
-          "wordCount": 142,
-          "title": "对胖子的新一轮暴击：瘦子们的锻炼效果比胖子好多了。"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/bmR8Pm9vGDI8YaepHoZaiw",
-          "author": null,
-          "description": "看了《失控玩家》后，我决定带你们找找里面有多少彩蛋（无剧透）",
-          "link": "https://mp.weixin.qq.com/s/bmR8Pm9vGDI8YaepHoZaiw",
-          "publishedOn": "2021-08-30T16:32:51.000Z",
-          "wordCount": 341,
-          "title": "看了《失控玩家》后，我决定带你们找找里面有多少彩蛋（无剧透）"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/M4sa2XuMad8HypuzWkWNQw",
-          "author": null,
-          "description": "变天了，以后手机摄影都要这么玩了？！",
-          "link": "https://mp.weixin.qq.com/s/M4sa2XuMad8HypuzWkWNQw",
-          "publishedOn": "2021-08-30T16:32:51.000Z",
-          "wordCount": 164,
-          "title": "变天了，以后手机摄影都要这么玩了？！"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/0icpVfYDC1PpwaryM-Aigg",
-          "author": null,
-          "description": "苹果这回不仅怂了，还被韩国政府、美国媒体狠狠打了两拳。",
-          "link": "https://mp.weixin.qq.com/s/0icpVfYDC1PpwaryM-Aigg",
-          "publishedOn": "2021-08-30T16:32:51.000Z",
-          "wordCount": 214,
-          "title": "苹果这回不仅怂了，还被韩国政府、美国媒体狠狠打了两拳。"
         }
       ]
     },
