@@ -36,7 +36,7 @@
           "description": "有时候，前端网页需要知道，用户使用的是手机浏览器还是桌面浏览器。\n本文根据 StackOverflow，整理了 JavaScript 侦测手机浏览器的五种方法。\n\n一、navigator.userAgent\n最简单的方法就是分析浏览器的 user agent 字符串，它包含了设备信息。\nJS 通过navigator.userAgent属性拿到这个字符串，只要里面包含mobi、android、iphone等关键字，就可以认定是移动设备。\n\nif (/Mobi|Android|iPhone/i.test(navigator.userAgent)) {\n  // 当前设备是移动设备\n}\n\n// 另一种写法\nif (\n  navigator.userAgent.match(/Mobi/i) ||\n  navigator.userAgent.match(/Android/i) ||\n  navigator.userAgent.match(/iPhone/i)\n) {\n  // 当前设备是移动设备\n}\n\n\n\n这种方法的优点是简单方便，缺点是不可靠，因为用户可以修改这个字符串，让手机浏览器伪装成桌面浏览器。\nChromium 系的浏览器，还有一个navigator.userAgentData属性，也是类似的作用。不同之处是它将 user agent 字符串解析为一个对象，该对象的mobile属性，返回一个布尔值，表示用户是否使用移动设备。\n\nconst isMobile = navigator.userAgentData.mobile; \n\n\n\n注意，苹果的 Safari 浏览器和 Firefox 浏览器都不支持这个属性，具体情况可以查看 Caniuse 网站。\n此外，还有一个已经废除的navigator.platform属性，所有浏览器都支持，所以也可以用。它返回一个字符串，表示用户的…",
           "link": "http://www.ruanyifeng.com/blog/2021/09/detecting-mobile-browser.html",
           "publishedOn": "2021-09-29T01:19:08.000Z",
-          "wordCount": 335,
+          "wordCount": 453,
           "title": "JavaScript 侦测手机浏览器的五种方法"
         },
         {
@@ -45,7 +45,7 @@
           "description": "这里记录每周值得分享的科技内容，周五发布。（[通知] 下周五是十一假期，周刊暂停一期。）\n本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。\n周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。\n封面图\n\n23岁的宁夏青年董书畅，今年6月份在西藏阿里地区，拍到了一张完美的日环食照片。最近获得了英国格林威治天文台评选的2021年天文摄影冠军照片。（via）\n本周话题：iPad 的真正用途\n大家的平板电脑，都用来干嘛？\n根据我的观察，第一位的用途都是看视频，其次是玩游戏。\n\n如果有人说，平板电脑是生产力工具，那属于胡说。无论是学习和工作，它远远不如笔记本电脑好用和强大。\n我曾经幻想，外出时使用平板电脑开发。结果发现根本不可行，要什么缺什么，开发体验极差，最多只能紧急时登录服务器，或者偶尔改一下仓库代码。\n但是，我最近发现有一个用途，平板电脑大大强于笔记本，几乎可以说，是为这种用途量身定制的工具。\n那就是普通人的视频处理。\n\n专业级别的视频处理，平板电脑肯定是不行的。但是，普通人偶尔剪剪视频，它真的是利器，尤其是 iPad pro。\n我使用 GoPro 拍摄旅游视频，每次要导入桌面设备处理，非常麻烦。要是身边没有笔记本电脑，就只能等到旅行结束再说。手机倒是可以剪视频，但是对于 2K 或 4K 分辨率，处理起来很慢。\n\n今年上半年，苹果公司发布了新的 M1 架构的 iPad Pro。我眼前一亮，这个硬件配置跟 Mac mini 是一样的，而我们已经知道，后者的视频处理能力很强。\n而且，iPad Pro 采用 Type-C 接口，可以直接连移动硬盘，导出文件。它的大屏也适合视频预览。总之，种种特点都表明这个设备特别适合视频处理。\n\n入手以后，经过几个月的试用，它的表现跟我预想的基本一样，现场拍完就能剪…",
           "link": "http://www.ruanyifeng.com/blog/2021/09/weekly-issue-177.html",
           "publishedOn": "2021-09-24T00:31:18.000Z",
-          "wordCount": 900,
+          "wordCount": 946,
           "title": "科技爱好者周刊（第 177 期）：iPad 的真正用途"
         },
         {
@@ -54,7 +54,7 @@
           "description": "9月1日是俄罗斯的知识节，因为这一天是各级学校的开学日，象征进入知识宝库的日子。\n今年的知识节，俄罗斯总理米哈伊尔·米舒斯京（Mikhail Mishustin）来到莫斯科物理技术学院（MIPT）视察。该校是俄罗斯顶级的理工科大学，出过许多诺贝尔奖得主和著名科学家。\n\n米舒斯京总理来到新生的教室，给学生们讲话。他看到黑板上写满了数学公式，一时兴起，就上前写了一道数学题，要求大家当场解答。\n\n根据维基百科，米舒斯京生于1966年，大学专业是系统工程，主修计算机辅助设计。工作以后，还读过一个经济学博士。在担任总理之前，他是俄罗斯联邦税务局长。\n\n他出的是一道几何题，题目如下。\n给定圆上的一个点和一条直径，你能否找到一种方法，画出从该点到直径的垂直线（下图的绿线）。\n\n这道题的难点在于，你不能使用任何测量工具，唯一可以用的就是一把不带有标记的直尺。\n大家可以思考一下，这道题怎么解。\n虽然它用不到高深的数学知识，初中的几何学课程就可以解答，但也不算容易。你必须知道两个基本的几何定理，才能想出答案。\n第一个是泰勒斯定理，欧几里得《几何原本》提到过： 圆上任意一点与直径组成的三角形，是直角三角形。\n\n第二个定理是： 锐角三角形的三条高交于一点。\n\n如果你已经忘了这两个定理，可以再去看一下初中几何课本，这里就不给出证明了。\n下面我根据一个数学家写给英国《卫报》的文章，介绍如何解答这道题。\n如果你还想再思考一下，自己找到答案，那就暂时不要往下看了。我要讲答案了。\n\n第一步，在相同的半圆上，任意再找一个点。将这两个点，与直径的相邻端点连起来，连线延长后可以形成一个三角形。\n上图中，圆周上的两个点与直径组成的，都是直角三角形。它们可以看作直径的两个端点到绿边的两条高。\n\n第二步，上一步的两条高产生了一个交点，将这个交点与三角形的外部顶点连起来，延长后与直径相交。\n根据三角形的三条高交于一点，可以知道，上图的绿线是直径的一条垂直线。后面只需要找到它的平行线，穿过红点即可。\n\n第三步，上一步的绿线与圆周有一个交点，将这个交点与红点连起来，延长后与直径相交（上图的第一个绿点）。\n同时，将上一步的垂直线延长，与另一侧的圆周相交，产生一个交点（上图的第二个绿点）。\n\n第四步，将上一步的两个绿点连起来，这条线会与圆周产生一个交点（上图的绿点）。\n再将绿点与红点连起来（上图的黄线），这就是我们所要寻找的答案：红点到直径的垂直线。\n这是因为上图的两条绿边与第二步的垂直线，形成了一个等腰三角形，原始的那条直径就是等腰三角形顶点到底边的高。这意味着，红点与绿点是对称的，它们的连线平行于底边，所以垂直于高（直径）。\n至此，整道题解答完毕。\n\n\n米舒斯京总理在黑板上画完解题过程后，对学生们说：\n\"你们会在大学里面，学到数学、物理、化学知识，但是不要忘了那些基础知识。基础知识与专业知识结合起来，你就能解决任何问题，不仅是科学问题，也包括商业问题。\"\n（完）\n文档信息\n版权声明：自由转载-非商用-非衍生-保持署名（创意共享3.0许可证）\n发表日期： 2021年9月22日",
           "link": "http://www.ruanyifeng.com/blog/2021/09/geometry-puzzle.html",
           "publishedOn": "2021-09-22T00:16:25.000Z",
-          "wordCount": 366,
+          "wordCount": 397,
           "title": "俄罗斯总理的几何题"
         },
         {
@@ -81,7 +81,7 @@
           "description": "向大家报告，我写了一本《C 语言入门教程》，已经上线了，欢迎访问。\n\n我知道，这件事有点奇怪，让我来解释一下。\n最近两三年，我想做一些服务器开发，一直在学习这方面的技术。去年发布的《Bash 脚本教程》，就是在学习 Shell 的时候写的。后来学习后端编程语言，深感好多基础的东西需要补课，就回过头重新开始看 C 语言。\n我上一次学习 C 语言，还是在学校里。印象中，C 语言不容易，复杂类型很难声明和解读。但是，这一次重新学习，意外觉得 C 语言并不复杂，语法点少，没有类，只能使用命令式编程（imperative programming），跟脚本语言（比如 JavaScript）相比，语法描述要容易很多。加上网上很少 C 语言中文教程，质量也不理想，于是就萌生了自己写教程的念头。\n最初的想法是，在我的学习笔记基础上，加一些示例就可以了。但是真的动手以后，发现工作量很大，尤其是后来决定 C 语言标准库也包括在教程中。C 的语法点虽然不多，但完整的教程至少要20几章，而且 C 代码写法太自由，不少疑难之处还要去查看参考书籍。所以写得很慢，从春节后到现在，整整写了六个多月，终于写完了。\n与以往一样，这个教程是开源的，采用知识共享许可证，源码托管在 GitHub ，大家可以自由使用。点击下面网址，在线阅读全书。\nwangdoc.com/clang\n我对它还算满意，该讲的地方都讲到了，给出了许多示例，初学者完全够用了。但是，毕竟我平时很少有机会使用 C 语言编程，各种错误和遗漏之处，肯定有不少，欢迎大家到仓库提交补丁，或者发 issue 反映问题。\n（完）\n文档信息\n版权声明：自由转载-非商用-非衍生-保持署名（创意共享3.0许可证）\n发表日期： 2021年9月 7日",
           "link": "http://www.ruanyifeng.com/blog/2021/09/c-language-tutorial.html",
           "publishedOn": "2021-09-07T07:54:29.000Z",
-          "wordCount": 550,
+          "wordCount": 560,
           "title": "《C 语言入门教程》发布了"
         }
       ]
@@ -91,6 +91,69 @@
       "feedUrl": "https://api.feeddd.org/feeds/6110783449ef7514d0b91ae1",
       "siteUrl": "https://mp.weixin.qq.com",
       "articles": [
+        {
+          "id": "https://mp.weixin.qq.com/s/tEUIf1Wug0hDTAeCixHn0Q",
+          "author": null,
+          "description": "中国卖家集体诉讼亚马逊，微信支付云闪付互通合作，豆瓣关停部分娱乐小组，法院系统发布首例王者荣耀租号禁令，这就是今天的其他大新闻！",
+          "link": "https://mp.weixin.qq.com/s/tEUIf1Wug0hDTAeCixHn0Q",
+          "publishedOn": "2021-09-30T17:37:06.000Z",
+          "wordCount": 148,
+          "title": "中国卖家集体诉讼亚马逊，微信支付云闪付互通合作，豆瓣关停部分娱乐小组，法院系统发布首例王者荣耀租号禁令，这就是今天的其他大新闻！"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/VJdpwcA0gVMp96G3F8OlAA",
+          "author": null,
+          "description": "聊一聊：来讲一个暴露年龄的梗。",
+          "link": "https://mp.weixin.qq.com/s/VJdpwcA0gVMp96G3F8OlAA",
+          "publishedOn": "2021-09-30T17:37:06.000Z",
+          "wordCount": 53,
+          "title": "聊一聊：来讲一个暴露年龄的梗。"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/aneIZbFduMFx52-96H6f1A",
+          "author": null,
+          "description": "今日最佳：手机淹死了。",
+          "link": "https://mp.weixin.qq.com/s/aneIZbFduMFx52-96H6f1A",
+          "publishedOn": "2021-09-30T17:37:06.000Z",
+          "wordCount": 54,
+          "title": "今日最佳：手机淹死了。"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/SMdpZwkZ-9mQ4bQHC84GkQ",
+          "author": null,
+          "description": "为什么这届打工人，年纪轻轻腰就不好了？",
+          "link": "https://mp.weixin.qq.com/s/SMdpZwkZ-9mQ4bQHC84GkQ",
+          "publishedOn": "2021-09-30T17:37:06.000Z",
+          "wordCount": 89,
+          "title": "为什么这届打工人，年纪轻轻腰就不好了？"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/Jh8zLpKpPqmrLIEW_nHNRw",
+          "author": null,
+          "description": "苹果、安卓，还有 Windows 设备的隔阂终于被这软件打通了！",
+          "link": "https://mp.weixin.qq.com/s/Jh8zLpKpPqmrLIEW_nHNRw",
+          "publishedOn": "2021-09-30T17:37:06.000Z",
+          "wordCount": 180,
+          "title": "苹果、安卓，还有 Windows 设备的隔阂终于被这软件打通了！"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/sc_cRPr87MvR1ZGHQfmYrg",
+          "author": null,
+          "description": "iPhone 13 出来后，闲鱼上的二手 iPhone 简直不要太香！",
+          "link": "https://mp.weixin.qq.com/s/sc_cRPr87MvR1ZGHQfmYrg",
+          "publishedOn": "2021-09-30T17:37:06.000Z",
+          "wordCount": 270,
+          "title": "iPhone 13 出来后，闲鱼上的二手 iPhone 简直不要太香！"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/f6C9djwnsQV-893wPX-GkA",
+          "author": null,
+          "description": "你的听歌方式，也许就要被这个音乐软件改变了",
+          "link": "https://mp.weixin.qq.com/s/f6C9djwnsQV-893wPX-GkA",
+          "publishedOn": "2021-09-30T17:37:06.000Z",
+          "wordCount": 181,
+          "title": "你的听歌方式，也许就要被这个音乐软件改变了"
+        },
         {
           "id": "https://mp.weixin.qq.com/s/gr6BQavLWMPiV3UJFNIBLg",
           "author": null,
@@ -1611,60 +1674,6 @@
           "publishedOn": "2021-09-01T16:32:45.000Z",
           "wordCount": 121,
           "title": "是时候向扰乱你生活的工作群发起反击了！"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/xr5Ds2twtid6cqxD_cUTTw",
-          "author": null,
-          "description": "腾讯放弃独家音乐版权，字节薪资“普降”，iQOO官方就低俗言论致歉，王者荣耀暂时关闭单机模式，这就是今天的其他大新闻！",
-          "link": "https://mp.weixin.qq.com/s/xr5Ds2twtid6cqxD_cUTTw",
-          "publishedOn": "2021-08-31T16:32:51.000Z",
-          "wordCount": 116,
-          "title": "腾讯放弃独家音乐版权，字节薪资“普降”，iQOO官方就低俗言论致歉，王者荣耀暂时关闭单机模式，这就是今天的其他大新闻！"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/WHGbnYDLuDo6nP3AItYCkg",
-          "author": null,
-          "description": "聊一聊：哪些游戏你逐渐玩不动了？",
-          "link": "https://mp.weixin.qq.com/s/WHGbnYDLuDo6nP3AItYCkg",
-          "publishedOn": "2021-08-31T16:32:51.000Z",
-          "wordCount": 53,
-          "title": "聊一聊：哪些游戏你逐渐玩不动了？"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/lY1MjIk-9gNtulgAqL5GZA",
-          "author": null,
-          "description": "今日最佳：无限隐形。",
-          "link": "https://mp.weixin.qq.com/s/lY1MjIk-9gNtulgAqL5GZA",
-          "publishedOn": "2021-08-31T16:32:51.000Z",
-          "wordCount": 54,
-          "title": "今日最佳：无限隐形。"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/ejkiUTqRJseI5TH9il2TQg",
-          "author": null,
-          "description": "B站的「极简主义」视频，正变成新型流量密码？",
-          "link": "https://mp.weixin.qq.com/s/ejkiUTqRJseI5TH9il2TQg",
-          "publishedOn": "2021-08-31T16:32:51.000Z",
-          "wordCount": 82,
-          "title": "B站的「极简主义」视频，正变成新型流量密码？"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/xtpZkq5YnHlpfkF17cSbtw",
-          "author": null,
-          "description": "这个外国手工耿们的天堂，让150万网友欲罢不能。",
-          "link": "https://mp.weixin.qq.com/s/xtpZkq5YnHlpfkF17cSbtw",
-          "publishedOn": "2021-08-31T16:32:51.000Z",
-          "wordCount": 118,
-          "title": "这个外国手工耿们的天堂，让150万网友欲罢不能。"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/n0c5mtpT4LV2rU0O-LCgdg",
-          "author": null,
-          "description": "这个女人，被无数白嫖党称为女神。",
-          "link": "https://mp.weixin.qq.com/s/n0c5mtpT4LV2rU0O-LCgdg",
-          "publishedOn": "2021-08-31T16:32:51.000Z",
-          "wordCount": 226,
-          "title": "这个女人，被无数白嫖党称为女神。"
         }
       ]
     },
