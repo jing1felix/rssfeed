@@ -36,7 +36,7 @@
           "description": "有时候，前端网页需要知道，用户使用的是手机浏览器还是桌面浏览器。\n本文根据 StackOverflow，整理了 JavaScript 侦测手机浏览器的五种方法。\n\n一、navigator.userAgent\n最简单的方法就是分析浏览器的 user agent 字符串，它包含了设备信息。\nJS 通过navigator.userAgent属性拿到这个字符串，只要里面包含mobi、android、iphone等关键字，就可以认定是移动设备。\n\nif (/Mobi|Android|iPhone/i.test(navigator.userAgent)) {\n  // 当前设备是移动设备\n}\n\n// 另一种写法\nif (\n  navigator.userAgent.match(/Mobi/i) ||\n  navigator.userAgent.match(/Android/i) ||\n  navigator.userAgent.match(/iPhone/i)\n) {\n  // 当前设备是移动设备\n}\n\n\n\n这种方法的优点是简单方便，缺点是不可靠，因为用户可以修改这个字符串，让手机浏览器伪装成桌面浏览器。\nChromium 系的浏览器，还有一个navigator.userAgentData属性，也是类似的作用。不同之处是它将 user agent 字符串解析为一个对象，该对象的mobile属性，返回一个布尔值，表示用户是否使用移动设备。\n\nconst isMobile = navigator.userAgentData.mobile; \n\n\n\n注意，苹果的 Safari 浏览器和 Firefox 浏览器都不支持这个属性，具体情况可以查看 Caniuse 网站。\n此外，还有一个已经废除的navigator.platform属性，所有浏览器都支持，所以也可以用。它返回一个字符串，表示用户的…",
           "link": "http://www.ruanyifeng.com/blog/2021/09/detecting-mobile-browser.html",
           "publishedOn": "2021-09-29T01:19:08.000Z",
-          "wordCount": 453,
+          "wordCount": 463,
           "title": "JavaScript 侦测手机浏览器的五种方法"
         },
         {
@@ -1602,69 +1602,6 @@
           "publishedOn": "2021-09-03T16:32:52.000Z",
           "wordCount": 297,
           "title": "再也不见，网红“郭老师”。"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/sjCuIpCBX-gZMS_ssjfz9g",
-          "author": null,
-          "description": "阿里将投1000亿助力共同富裕，网易云音乐取消独家标识，广电总局加强文艺节目及人员管理，微信iOS更新，这就是今天的其他大新闻！",
-          "link": "https://mp.weixin.qq.com/s/sjCuIpCBX-gZMS_ssjfz9g",
-          "publishedOn": "2021-09-02T16:32:46.000Z",
-          "wordCount": 134,
-          "title": "阿里将投1000亿助力共同富裕，网易云音乐取消独家标识，广电总局加强文艺节目及人员管理，微信iOS更新，这就是今天的其他大新闻！"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/aLQbsjt6AjT_VmLnydYjuw",
-          "author": null,
-          "description": "聊一聊：你经历过什么样的催婚？",
-          "link": "https://mp.weixin.qq.com/s/aLQbsjt6AjT_VmLnydYjuw",
-          "publishedOn": "2021-09-02T16:32:46.000Z",
-          "wordCount": 53,
-          "title": "聊一聊：你经历过什么样的催婚？"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/0TfMm2xyATTmGWZpJm5y-w",
-          "author": null,
-          "description": "今日最佳：搁这搁这的鼻祖。",
-          "link": "https://mp.weixin.qq.com/s/0TfMm2xyATTmGWZpJm5y-w",
-          "publishedOn": "2021-09-02T16:32:46.000Z",
-          "wordCount": 56,
-          "title": "今日最佳：搁这搁这的鼻祖。"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/q2VaHJ55n1t1EaS5o1F-ZA",
-          "author": null,
-          "description": "有哪些你觉得很贵，其实却很便宜的好东西？",
-          "link": "https://mp.weixin.qq.com/s/q2VaHJ55n1t1EaS5o1F-ZA",
-          "publishedOn": "2021-09-02T16:32:46.000Z",
-          "wordCount": 110,
-          "title": "有哪些你觉得很贵，其实却很便宜的好东西？"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/8d1x906xoVhIkgqlrMzAIQ",
-          "author": null,
-          "description": "想在火星上盖个四室两厅的房子，还得先送台打印机上去？",
-          "link": "https://mp.weixin.qq.com/s/8d1x906xoVhIkgqlrMzAIQ",
-          "publishedOn": "2021-09-02T16:32:46.000Z",
-          "wordCount": 161,
-          "title": "想在火星上盖个四室两厅的房子，还得先送台打印机上去？"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/GFmNufvBZzuMpZQB7X89DQ",
-          "author": null,
-          "description": "三星最新的两台折叠屏手机，让我想拿来当主力机了。",
-          "link": "https://mp.weixin.qq.com/s/GFmNufvBZzuMpZQB7X89DQ",
-          "publishedOn": "2021-09-02T16:32:46.000Z",
-          "wordCount": 284,
-          "title": "三星最新的两台折叠屏手机，让我想拿来当主力机了。"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/LHVIyN-_B33rK4e_OTeTlw",
-          "author": null,
-          "description": "没有版权的Emoji表情，居然能被这网站拿来卖钱？",
-          "link": "https://mp.weixin.qq.com/s/LHVIyN-_B33rK4e_OTeTlw",
-          "publishedOn": "2021-09-02T16:32:46.000Z",
-          "wordCount": 212,
-          "title": "没有版权的Emoji表情，居然能被这网站拿来卖钱？"
         }
       ]
     },
@@ -1699,15 +1636,6 @@
           "publishedOn": "2021-09-05T10:44:17.000Z",
           "wordCount": 115,
           "title": "哲学人类学｜为什么要研究「礼物」？礼物和当代法国哲学"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/FDXWR6AqlDKEJsYcHYHong",
-          "author": null,
-          "description": "酷儿马克思主义：一份简要书介",
-          "link": "https://mp.weixin.qq.com/s/FDXWR6AqlDKEJsYcHYHong",
-          "publishedOn": "2021-09-02T13:12:21.000Z",
-          "wordCount": 889,
-          "title": "酷儿马克思主义：一份简要书介"
         }
       ]
     }
