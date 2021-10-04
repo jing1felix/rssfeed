@@ -1,10 +1,130 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-10-03T01:02:46.824Z</id>
+    <id>urn:2021-10-04T01:02:16.884Z</id>
     <title>osmos::feed</title>
-    <updated>2021-10-03T01:02:46.824Z</updated>
+    <updated>2021-10-04T01:02:16.884Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[第三方破解苹果换屏限制，浙江卫视就弄错雷军名字道歉，WeGame开放Mac端，开源鸿蒙Github上线，这就是今天的其他大新闻！]]></title>
+        <id>https://mp.weixin.qq.com/s/EFPQ7iWhXH4iENDtjR-s-Q</id>
+        <link href="https://mp.weixin.qq.com/s/EFPQ7iWhXH4iENDtjR-s-Q"/>
+        <updated>2021-10-03T16:32:39.000Z</updated>
+        <summary type="html"><![CDATA[第三方破解苹果换屏限制，浙江卫视就弄错雷军名字道歉，WeGame开放Mac端，开源鸿蒙Github上线，这就是今天的其他大新闻！]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[聊一聊：你怎么看二手潮玩市场的离谱溢价？]]></title>
+        <id>https://mp.weixin.qq.com/s/xyW2DVf-zdO2BfRmGEu5QA</id>
+        <link href="https://mp.weixin.qq.com/s/xyW2DVf-zdO2BfRmGEu5QA"/>
+        <updated>2021-10-03T16:32:39.000Z</updated>
+        <summary type="html"><![CDATA[聊一聊：你怎么看二手潮玩市场的离谱溢价？]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今日最佳：霉开二度]]></title>
+        <id>https://mp.weixin.qq.com/s/VwBOCIddpaiPNfuPLZJjFw</id>
+        <link href="https://mp.weixin.qq.com/s/VwBOCIddpaiPNfuPLZJjFw"/>
+        <updated>2021-10-03T16:32:39.000Z</updated>
+        <summary type="html"><![CDATA[今日最佳：霉开二度]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第一次尝试新疆切糕，一口下去我哭了……]]></title>
+        <id>https://mp.weixin.qq.com/s/2P7Z6r4wyQ40yks3JPXz3Q</id>
+        <link href="https://mp.weixin.qq.com/s/2P7Z6r4wyQ40yks3JPXz3Q"/>
+        <updated>2021-10-03T16:32:39.000Z</updated>
+        <summary type="html"><![CDATA[第一次尝试新疆切糕，一口下去我哭了……]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英伟达推出的这个新技术，又要逼我买新显卡了？]]></title>
+        <id>https://mp.weixin.qq.com/s/Cs1-4-D__gTFFHn8uPyF-g</id>
+        <link href="https://mp.weixin.qq.com/s/Cs1-4-D__gTFFHn8uPyF-g"/>
+        <updated>2021-10-03T16:32:39.000Z</updated>
+        <summary type="html"><![CDATA[英伟达推出的这个新技术，又要逼我买新显卡了？]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[连特斯拉都怂了，那群喜欢瞎吹的车企终于有人治了？]]></title>
+        <id>https://mp.weixin.qq.com/s/DUMbPLcPU7HdEn1OEF_7qQ</id>
+        <link href="https://mp.weixin.qq.com/s/DUMbPLcPU7HdEn1OEF_7qQ"/>
+        <updated>2021-10-03T16:32:39.000Z</updated>
+        <summary type="html"><![CDATA[连特斯拉都怂了，那群喜欢瞎吹的车企终于有人治了？]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone 13发货时间延迟4周，英特尔显卡渲染图曝光，芯片生产原材料国内量产，华为上诉瑞典销售禁令，这就是今天的其他大新闻！]]></title>
+        <id>https://mp.weixin.qq.com/s/yMLLXDom57tbUTdAfTn8qg</id>
+        <link href="https://mp.weixin.qq.com/s/yMLLXDom57tbUTdAfTn8qg"/>
+        <updated>2021-10-03T03:12:28.000Z</updated>
+        <summary type="html"><![CDATA[iPhone 13发货时间延迟4周，英特尔显卡渲染图曝光，芯片生产原材料国内量产，华为上诉瑞典销售禁令，这就是今天的其他大新闻！]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[聊一聊：你用过最长寿的电子产品是什么？]]></title>
+        <id>https://mp.weixin.qq.com/s/I5HZdWyZAVhYL4VjMxmYyg</id>
+        <link href="https://mp.weixin.qq.com/s/I5HZdWyZAVhYL4VjMxmYyg"/>
+        <updated>2021-10-03T03:12:28.000Z</updated>
+        <summary type="html"><![CDATA[聊一聊：你用过最长寿的电子产品是什么？]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今日最佳：霍格沃茨中国交换生。]]></title>
+        <id>https://mp.weixin.qq.com/s/Dy5hr-ILShDr3mlI_7gfpA</id>
+        <link href="https://mp.weixin.qq.com/s/Dy5hr-ILShDr3mlI_7gfpA"/>
+        <updated>2021-10-03T03:12:28.000Z</updated>
+        <summary type="html"><![CDATA[今日最佳：霍格沃茨中国交换生。]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[灵魂提取器，究竟让多少路人石乐志？]]></title>
+        <id>https://mp.weixin.qq.com/s/JdzC0F5hZ9oqTXzZjAdixQ</id>
+        <link href="https://mp.weixin.qq.com/s/JdzC0F5hZ9oqTXzZjAdixQ"/>
+        <updated>2021-10-03T03:12:28.000Z</updated>
+        <summary type="html"><![CDATA[灵魂提取器，究竟让多少路人石乐志？]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为了验证商场测体温是不是形式，油管博主把脑门捂到48度。]]></title>
+        <id>https://mp.weixin.qq.com/s/vQpQSRwe2YIepzkKfeGDPg</id>
+        <link href="https://mp.weixin.qq.com/s/vQpQSRwe2YIepzkKfeGDPg"/>
+        <updated>2021-10-03T03:12:28.000Z</updated>
+        <summary type="html"><![CDATA[为了验证商场测体温是不是形式，油管博主把脑门捂到48度。]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[跟爱因斯坦谈笑风生的诺奖大佬，年轻的时候差点就毕不了业。。。]]></title>
+        <id>https://mp.weixin.qq.com/s/GcziLSgna3cIUaexh4MK_A</id>
+        <link href="https://mp.weixin.qq.com/s/GcziLSgna3cIUaexh4MK_A"/>
+        <updated>2021-10-03T03:12:28.000Z</updated>
+        <summary type="html"><![CDATA[跟爱因斯坦谈笑风生的诺奖大佬，年轻的时候差点就毕不了业。。。]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[携程被实名举报涉嫌“二选一”，防未成年游戏沉迷举报平台上线，TikTok 进军 NFT 市场，这就是今天的其他大新闻！]]></title>
         <id>https://mp.weixin.qq.com/s/X40TM9bTCDnDSDWAx0rUjQ</id>
@@ -1873,76 +1993,6 @@ wangdoc.com/clang
         <link href="https://mp.weixin.qq.com/s/GgqZneBeWtJcBP1WjOob4Q"/>
         <updated>2021-09-04T16:33:00.000Z</updated>
         <summary type="html"><![CDATA[微信拟推出聊天记录云存储，29年老牌早教机构人去楼空，王者荣耀崩溃官方回应，骁龙898跑分出炉，这就是今天的其他大新闻！]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[证监会设立北京证券交易所，《英雄联盟手游》9.15不删档测试，京东禁售87款游戏，闲鱼暂停新用户注册，这就是今天的其他大新闻！]]></title>
-        <id>https://mp.weixin.qq.com/s/IoFOIW0a4_PyJt15cEhLHQ</id>
-        <link href="https://mp.weixin.qq.com/s/IoFOIW0a4_PyJt15cEhLHQ"/>
-        <updated>2021-09-03T16:32:52.000Z</updated>
-        <summary type="html"><![CDATA[证监会设立北京证券交易所，《英雄联盟手游》9.15不删档测试，京东禁售87款游戏，闲鱼暂停新用户注册，这就是今天的其他大新闻！]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[聊一聊：你小时候偷偷买过哪些电子产品？]]></title>
-        <id>https://mp.weixin.qq.com/s/5WSgAfb01jHz1LuUiYoyww</id>
-        <link href="https://mp.weixin.qq.com/s/5WSgAfb01jHz1LuUiYoyww"/>
-        <updated>2021-09-03T16:32:52.000Z</updated>
-        <summary type="html"><![CDATA[聊一聊：你小时候偷偷买过哪些电子产品？]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今日最佳：开学第一天]]></title>
-        <id>https://mp.weixin.qq.com/s/SSKgBX-0OXNVhRHc9riUlQ</id>
-        <link href="https://mp.weixin.qq.com/s/SSKgBX-0OXNVhRHc9riUlQ"/>
-        <updated>2021-09-03T16:32:52.000Z</updated>
-        <summary type="html"><![CDATA[今日最佳：开学第一天]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[戒宵夜，是每个人都讲过的反人类谎言。]]></title>
-        <id>https://mp.weixin.qq.com/s/AP0_cmW_2HejkOQDzx3g7w</id>
-        <link href="https://mp.weixin.qq.com/s/AP0_cmW_2HejkOQDzx3g7w"/>
-        <updated>2021-09-03T16:32:52.000Z</updated>
-        <summary type="html"><![CDATA[戒宵夜，是每个人都讲过的反人类谎言。]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这个只有800kb的软件，可以让你的鼠标强大10倍。]]></title>
-        <id>https://mp.weixin.qq.com/s/mSzprGYnhtqvdAvdW8qWqg</id>
-        <link href="https://mp.weixin.qq.com/s/mSzprGYnhtqvdAvdW8qWqg"/>
-        <updated>2021-09-03T16:32:52.000Z</updated>
-        <summary type="html"><![CDATA[这个只有800kb的软件，可以让你的鼠标强大10倍。]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为了阻止全人类吃肉，这家极端动保组织做了哪些恶心事？]]></title>
-        <id>https://mp.weixin.qq.com/s/lXkvJpEv3ZdIdon0Fglvgg</id>
-        <link href="https://mp.weixin.qq.com/s/lXkvJpEv3ZdIdon0Fglvgg"/>
-        <updated>2021-09-03T16:32:52.000Z</updated>
-        <summary type="html"><![CDATA[为了阻止全人类吃肉，这家极端动保组织做了哪些恶心事？]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[再也不见，网红“郭老师”。]]></title>
-        <id>https://mp.weixin.qq.com/s/cGYTX1E52AKXD2wI7uQ0gA</id>
-        <link href="https://mp.weixin.qq.com/s/cGYTX1E52AKXD2wI7uQ0gA"/>
-        <updated>2021-09-03T16:32:52.000Z</updated>
-        <summary type="html"><![CDATA[再也不见，网红“郭老师”。]]></summary>
         <author>
             <name>差评</name>
         </author>
