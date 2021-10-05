@@ -36,7 +36,7 @@
           "description": "有时候，前端网页需要知道，用户使用的是手机浏览器还是桌面浏览器。\n本文根据 StackOverflow，整理了 JavaScript 侦测手机浏览器的五种方法。\n\n一、navigator.userAgent\n最简单的方法就是分析浏览器的 user agent 字符串，它包含了设备信息。\nJS 通过navigator.userAgent属性拿到这个字符串，只要里面包含mobi、android、iphone等关键字，就可以认定是移动设备。\n\nif (/Mobi|Android|iPhone/i.test(navigator.userAgent)) {\n  // 当前设备是移动设备\n}\n\n// 另一种写法\nif (\n  navigator.userAgent.match(/Mobi/i) ||\n  navigator.userAgent.match(/Android/i) ||\n  navigator.userAgent.match(/iPhone/i)\n) {\n  // 当前设备是移动设备\n}\n\n\n\n这种方法的优点是简单方便，缺点是不可靠，因为用户可以修改这个字符串，让手机浏览器伪装成桌面浏览器。\nChromium 系的浏览器，还有一个navigator.userAgentData属性，也是类似的作用。不同之处是它将 user agent 字符串解析为一个对象，该对象的mobile属性，返回一个布尔值，表示用户是否使用移动设备。\n\nconst isMobile = navigator.userAgentData.mobile; \n\n\n\n注意，苹果的 Safari 浏览器和 Firefox 浏览器都不支持这个属性，具体情况可以查看 Caniuse 网站。\n此外，还有一个已经废除的navigator.platform属性，所有浏览器都支持，所以也可以用。它返回一个字符串，表示用户的…",
           "link": "http://www.ruanyifeng.com/blog/2021/09/detecting-mobile-browser.html",
           "publishedOn": "2021-09-29T01:19:08.000Z",
-          "wordCount": 463,
+          "wordCount": 473,
           "title": "JavaScript 侦测手机浏览器的五种方法"
         },
         {
@@ -91,6 +91,60 @@
       "feedUrl": "https://api.feeddd.org/feeds/6110783449ef7514d0b91ae1",
       "siteUrl": "https://mp.weixin.qq.com",
       "articles": [
+        {
+          "id": "https://mp.weixin.qq.com/s/YylJ3nVjODdOaikJpdOYBg",
+          "author": null,
+          "description": "多家视频网站取消超前点播，诺贝尔生理学或医学奖揭晓，华为支付试水，三星称移动游戏将支持光线追踪，这就是今天的其他大新闻！",
+          "link": "https://mp.weixin.qq.com/s/YylJ3nVjODdOaikJpdOYBg",
+          "publishedOn": "2021-10-04T16:32:46.000Z",
+          "wordCount": 187,
+          "title": "多家视频网站取消超前点播，诺贝尔生理学或医学奖揭晓，华为支付试水，三星称移动游戏将支持光线追踪，这就是今天的其他大新闻！"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/aTRh1vGVZCLMTKvh72PCaA",
+          "author": null,
+          "description": "聊一聊：你用过最短命的电子产品是什么？",
+          "link": "https://mp.weixin.qq.com/s/aTRh1vGVZCLMTKvh72PCaA",
+          "publishedOn": "2021-10-04T16:32:46.000Z",
+          "wordCount": 52,
+          "title": "聊一聊：你用过最短命的电子产品是什么？"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/3Vs7el0f53a6bHh03lHKDA",
+          "author": null,
+          "description": "今日最佳：练习科目二的你。",
+          "link": "https://mp.weixin.qq.com/s/3Vs7el0f53a6bHh03lHKDA",
+          "publishedOn": "2021-10-04T16:32:46.000Z",
+          "wordCount": 55,
+          "title": "今日最佳：练习科目二的你。"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/xC-wEL0P96gkfs7DGn7Afg",
+          "author": null,
+          "description": "你知道长期裸睡的人，最后都怎么样了吗？",
+          "link": "https://mp.weixin.qq.com/s/xC-wEL0P96gkfs7DGn7Afg",
+          "publishedOn": "2021-10-04T16:32:46.000Z",
+          "wordCount": 104,
+          "title": "你知道长期裸睡的人，最后都怎么样了吗？"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/54ZDh41r5yQic4gftm7szQ",
+          "author": null,
+          "description": "当年红遍网吧的暗黑2，重制之后把暴雪服务器炸了。",
+          "link": "https://mp.weixin.qq.com/s/54ZDh41r5yQic4gftm7szQ",
+          "publishedOn": "2021-10-04T16:32:46.000Z",
+          "wordCount": 219,
+          "title": "当年红遍网吧的暗黑2，重制之后把暴雪服务器炸了。"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/rh0ud0yg35Bpb--0hILxIw",
+          "author": null,
+          "description": "全世界宅男最爱的网站，快要被版权炮给轰成渣了。",
+          "link": "https://mp.weixin.qq.com/s/rh0ud0yg35Bpb--0hILxIw",
+          "publishedOn": "2021-10-04T16:32:46.000Z",
+          "wordCount": 225,
+          "title": "全世界宅男最爱的网站，快要被版权炮给轰成渣了。"
+        },
         {
           "id": "https://mp.weixin.qq.com/s/EFPQ7iWhXH4iENDtjR-s-Q",
           "author": null,
@@ -1593,60 +1647,6 @@
           "publishedOn": "2021-09-05T16:34:00.000Z",
           "wordCount": 525,
           "title": "“史上最烂”翻身干掉当年的世界第一，这个游戏是凭什么逆袭的？"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/cokW0UFA-CiHfzH_7tpMyQ",
-          "author": null,
-          "description": "聊一聊：你经历过手机进水吗？",
-          "link": "https://mp.weixin.qq.com/s/cokW0UFA-CiHfzH_7tpMyQ",
-          "publishedOn": "2021-09-04T16:33:00.000Z",
-          "wordCount": 53,
-          "title": "聊一聊：你经历过手机进水吗？"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/NNc9tNdNPTzQecC1fIxX0w",
-          "author": null,
-          "description": "今日最佳：谁说动画片都是假的？",
-          "link": "https://mp.weixin.qq.com/s/NNc9tNdNPTzQecC1fIxX0w",
-          "publishedOn": "2021-09-04T16:33:00.000Z",
-          "wordCount": 54,
-          "title": "今日最佳：谁说动画片都是假的？"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/BhZSiQ4QO_a6DEzzMB4AFg",
-          "author": null,
-          "description": "新疆切糕到底有多贵？一口下去我人没了……",
-          "link": "https://mp.weixin.qq.com/s/BhZSiQ4QO_a6DEzzMB4AFg",
-          "publishedOn": "2021-09-04T16:33:00.000Z",
-          "wordCount": 89,
-          "title": "新疆切糕到底有多贵？一口下去我人没了……"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/i6FKOw8T2HTCaRu-MufRFQ",
-          "author": null,
-          "description": "这个色情片女主把“原味内裤”发射到了太空，还要拍卖？",
-          "link": "https://mp.weixin.qq.com/s/i6FKOw8T2HTCaRu-MufRFQ",
-          "publishedOn": "2021-09-04T16:33:00.000Z",
-          "wordCount": 13,
-          "title": "这个色情片女主把“原味内裤”发射到了太空，还要拍卖？"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/6BfdMlCaP8X7-6jznpwSHA",
-          "author": null,
-          "description": "兄弟，去西安可得小心点假兵马俑呀。。。",
-          "link": "https://mp.weixin.qq.com/s/6BfdMlCaP8X7-6jznpwSHA",
-          "publishedOn": "2021-09-04T16:33:00.000Z",
-          "wordCount": 120,
-          "title": "兄弟，去西安可得小心点假兵马俑呀。。。"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/GgqZneBeWtJcBP1WjOob4Q",
-          "author": null,
-          "description": "微信拟推出聊天记录云存储，29年老牌早教机构人去楼空，王者荣耀崩溃官方回应，骁龙898跑分出炉，这就是今天的其他大新闻！",
-          "link": "https://mp.weixin.qq.com/s/GgqZneBeWtJcBP1WjOob4Q",
-          "publishedOn": "2021-09-04T16:33:00.000Z",
-          "wordCount": 157,
-          "title": "微信拟推出聊天记录云存储，29年老牌早教机构人去楼空，王者荣耀崩溃官方回应，骁龙898跑分出炉，这就是今天的其他大新闻！"
         }
       ]
     },
@@ -1655,6 +1655,15 @@
       "feedUrl": "https://api.feeddd.org/feeds/611f8d8865d23936d94a4889",
       "siteUrl": "https://mp.weixin.qq.com",
       "articles": [
+        {
+          "id": "https://mp.weixin.qq.com/s/W86hu4sNtaBR0tsZUj16TA",
+          "author": null,
+          "description": "90年前的今天，美国「新实用主义」哲学家理查德·罗蒂出生。\n#PhilosophiaQuotes",
+          "link": "https://mp.weixin.qq.com/s/W86hu4sNtaBR0tsZUj16TA",
+          "publishedOn": "2021-10-04T13:10:49.000Z",
+          "wordCount": 35,
+          "title": "90年前的今天，美国「新实用主义」哲学家理查德·罗蒂出生。\n#PhilosophiaQuotes"
+        },
         {
           "id": "https://mp.weixin.qq.com/s/7CHLLQIfGDebsQ7hIVdR5Q",
           "author": null,
@@ -1672,15 +1681,6 @@
           "publishedOn": "2021-09-16T10:39:06.000Z",
           "wordCount": 115,
           "title": "皮平访谈：黑格尔之后、艺术与资产阶级社会 / 翻译"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/qzGhY90flkBHpYm_Jjs3TA",
-          "author": null,
-          "description": "哲学人类学｜为什么要研究「礼物」？礼物和当代法国哲学",
-          "link": "https://mp.weixin.qq.com/s/qzGhY90flkBHpYm_Jjs3TA",
-          "publishedOn": "2021-09-05T10:44:17.000Z",
-          "wordCount": 115,
-          "title": "哲学人类学｜为什么要研究「礼物」？礼物和当代法国哲学"
         }
       ]
     }

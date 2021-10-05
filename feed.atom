@@ -1,10 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-10-04T01:02:16.884Z</id>
+    <id>urn:2021-10-05T00:57:46.965Z</id>
     <title>osmos::feed</title>
-    <updated>2021-10-04T01:02:16.884Z</updated>
+    <updated>2021-10-05T00:57:46.965Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[多家视频网站取消超前点播，诺贝尔生理学或医学奖揭晓，华为支付试水，三星称移动游戏将支持光线追踪，这就是今天的其他大新闻！]]></title>
+        <id>https://mp.weixin.qq.com/s/YylJ3nVjODdOaikJpdOYBg</id>
+        <link href="https://mp.weixin.qq.com/s/YylJ3nVjODdOaikJpdOYBg"/>
+        <updated>2021-10-04T16:32:46.000Z</updated>
+        <summary type="html"><![CDATA[多家视频网站取消超前点播，诺贝尔生理学或医学奖揭晓，华为支付试水，三星称移动游戏将支持光线追踪，这就是今天的其他大新闻！]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[聊一聊：你用过最短命的电子产品是什么？]]></title>
+        <id>https://mp.weixin.qq.com/s/aTRh1vGVZCLMTKvh72PCaA</id>
+        <link href="https://mp.weixin.qq.com/s/aTRh1vGVZCLMTKvh72PCaA"/>
+        <updated>2021-10-04T16:32:46.000Z</updated>
+        <summary type="html"><![CDATA[聊一聊：你用过最短命的电子产品是什么？]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今日最佳：练习科目二的你。]]></title>
+        <id>https://mp.weixin.qq.com/s/3Vs7el0f53a6bHh03lHKDA</id>
+        <link href="https://mp.weixin.qq.com/s/3Vs7el0f53a6bHh03lHKDA"/>
+        <updated>2021-10-04T16:32:46.000Z</updated>
+        <summary type="html"><![CDATA[今日最佳：练习科目二的你。]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你知道长期裸睡的人，最后都怎么样了吗？]]></title>
+        <id>https://mp.weixin.qq.com/s/xC-wEL0P96gkfs7DGn7Afg</id>
+        <link href="https://mp.weixin.qq.com/s/xC-wEL0P96gkfs7DGn7Afg"/>
+        <updated>2021-10-04T16:32:46.000Z</updated>
+        <summary type="html"><![CDATA[你知道长期裸睡的人，最后都怎么样了吗？]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[当年红遍网吧的暗黑2，重制之后把暴雪服务器炸了。]]></title>
+        <id>https://mp.weixin.qq.com/s/54ZDh41r5yQic4gftm7szQ</id>
+        <link href="https://mp.weixin.qq.com/s/54ZDh41r5yQic4gftm7szQ"/>
+        <updated>2021-10-04T16:32:46.000Z</updated>
+        <summary type="html"><![CDATA[当年红遍网吧的暗黑2，重制之后把暴雪服务器炸了。]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全世界宅男最爱的网站，快要被版权炮给轰成渣了。]]></title>
+        <id>https://mp.weixin.qq.com/s/rh0ud0yg35Bpb--0hILxIw</id>
+        <link href="https://mp.weixin.qq.com/s/rh0ud0yg35Bpb--0hILxIw"/>
+        <updated>2021-10-04T16:32:46.000Z</updated>
+        <summary type="html"><![CDATA[全世界宅男最爱的网站，快要被版权炮给轰成渣了。]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[90年前的今天，美国「新实用主义」哲学家理查德·罗蒂出生。
+#PhilosophiaQuotes]]></title>
+        <id>https://mp.weixin.qq.com/s/W86hu4sNtaBR0tsZUj16TA</id>
+        <link href="https://mp.weixin.qq.com/s/W86hu4sNtaBR0tsZUj16TA"/>
+        <updated>2021-10-04T13:10:49.000Z</updated>
+        <summary type="html"><![CDATA[90年前的今天，美国「新实用主义」哲学家理查德·罗蒂出生。
+#PhilosophiaQuotes]]></summary>
+        <author>
+            <name>Philosophia 哲学社</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第三方破解苹果换屏限制，浙江卫视就弄错雷军名字道歉，WeGame开放Mac端，开源鸿蒙Github上线，这就是今天的其他大新闻！]]></title>
         <id>https://mp.weixin.qq.com/s/EFPQ7iWhXH4iENDtjR-s-Q</id>
@@ -1923,76 +1995,6 @@ wangdoc.com/clang
         <link href="https://mp.weixin.qq.com/s/c2gIV5nccrEeQl7bTpWrwg"/>
         <updated>2021-09-05T16:34:00.000Z</updated>
         <summary type="html"><![CDATA[“史上最烂”翻身干掉当年的世界第一，这个游戏是凭什么逆袭的？]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哲学人类学｜为什么要研究「礼物」？礼物和当代法国哲学]]></title>
-        <id>https://mp.weixin.qq.com/s/qzGhY90flkBHpYm_Jjs3TA</id>
-        <link href="https://mp.weixin.qq.com/s/qzGhY90flkBHpYm_Jjs3TA"/>
-        <updated>2021-09-05T10:44:17.000Z</updated>
-        <summary type="html"><![CDATA[哲学人类学｜为什么要研究「礼物」？礼物和当代法国哲学]]></summary>
-        <author>
-            <name>Philosophia 哲学社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[聊一聊：你经历过手机进水吗？]]></title>
-        <id>https://mp.weixin.qq.com/s/cokW0UFA-CiHfzH_7tpMyQ</id>
-        <link href="https://mp.weixin.qq.com/s/cokW0UFA-CiHfzH_7tpMyQ"/>
-        <updated>2021-09-04T16:33:00.000Z</updated>
-        <summary type="html"><![CDATA[聊一聊：你经历过手机进水吗？]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今日最佳：谁说动画片都是假的？]]></title>
-        <id>https://mp.weixin.qq.com/s/NNc9tNdNPTzQecC1fIxX0w</id>
-        <link href="https://mp.weixin.qq.com/s/NNc9tNdNPTzQecC1fIxX0w"/>
-        <updated>2021-09-04T16:33:00.000Z</updated>
-        <summary type="html"><![CDATA[今日最佳：谁说动画片都是假的？]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新疆切糕到底有多贵？一口下去我人没了……]]></title>
-        <id>https://mp.weixin.qq.com/s/BhZSiQ4QO_a6DEzzMB4AFg</id>
-        <link href="https://mp.weixin.qq.com/s/BhZSiQ4QO_a6DEzzMB4AFg"/>
-        <updated>2021-09-04T16:33:00.000Z</updated>
-        <summary type="html"><![CDATA[新疆切糕到底有多贵？一口下去我人没了……]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这个色情片女主把“原味内裤”发射到了太空，还要拍卖？]]></title>
-        <id>https://mp.weixin.qq.com/s/i6FKOw8T2HTCaRu-MufRFQ</id>
-        <link href="https://mp.weixin.qq.com/s/i6FKOw8T2HTCaRu-MufRFQ"/>
-        <updated>2021-09-04T16:33:00.000Z</updated>
-        <summary type="html"><![CDATA[这个色情片女主把“原味内裤”发射到了太空，还要拍卖？]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[兄弟，去西安可得小心点假兵马俑呀。。。]]></title>
-        <id>https://mp.weixin.qq.com/s/6BfdMlCaP8X7-6jznpwSHA</id>
-        <link href="https://mp.weixin.qq.com/s/6BfdMlCaP8X7-6jznpwSHA"/>
-        <updated>2021-09-04T16:33:00.000Z</updated>
-        <summary type="html"><![CDATA[兄弟，去西安可得小心点假兵马俑呀。。。]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微信拟推出聊天记录云存储，29年老牌早教机构人去楼空，王者荣耀崩溃官方回应，骁龙898跑分出炉，这就是今天的其他大新闻！]]></title>
-        <id>https://mp.weixin.qq.com/s/GgqZneBeWtJcBP1WjOob4Q</id>
-        <link href="https://mp.weixin.qq.com/s/GgqZneBeWtJcBP1WjOob4Q"/>
-        <updated>2021-09-04T16:33:00.000Z</updated>
-        <summary type="html"><![CDATA[微信拟推出聊天记录云存储，29年老牌早教机构人去楼空，王者荣耀崩溃官方回应，骁龙898跑分出炉，这就是今天的其他大新闻！]]></summary>
         <author>
             <name>差评</name>
         </author>
