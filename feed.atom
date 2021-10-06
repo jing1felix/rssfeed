@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-10-05T00:57:46.965Z</id>
+    <id>urn:2021-10-06T00:59:06.178Z</id>
     <title>osmos::feed</title>
-    <updated>2021-10-05T00:57:46.965Z</updated>
+    <updated>2021-10-06T00:59:06.178Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Facebook史上最严重宕机，微软正式发布Win11，2021诺贝尔物理学奖揭晓，乔布斯去世十周年，这就是今天的其他大新闻！]]></title>
+        <id>https://mp.weixin.qq.com/s/sqZf_xjZfUWiRU2YczisYw</id>
+        <link href="https://mp.weixin.qq.com/s/sqZf_xjZfUWiRU2YczisYw"/>
+        <updated>2021-10-05T16:32:48.000Z</updated>
+        <summary type="html"><![CDATA[Facebook史上最严重宕机，微软正式发布Win11，2021诺贝尔物理学奖揭晓，乔布斯去世十周年，这就是今天的其他大新闻！]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[聊一聊：见过什么离谱的请假理由？]]></title>
+        <id>https://mp.weixin.qq.com/s/QZfkBu2_wlGfydcTDf5Vtg</id>
+        <link href="https://mp.weixin.qq.com/s/QZfkBu2_wlGfydcTDf5Vtg"/>
+        <updated>2021-10-05T16:32:48.000Z</updated>
+        <summary type="html"><![CDATA[聊一聊：见过什么离谱的请假理由？]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今日最佳：禁止外放！]]></title>
+        <id>https://mp.weixin.qq.com/s/1RyMkZuExuWT6HBFkngkOw</id>
+        <link href="https://mp.weixin.qq.com/s/1RyMkZuExuWT6HBFkngkOw"/>
+        <updated>2021-10-05T16:32:48.000Z</updated>
+        <summary type="html"><![CDATA[今日最佳：禁止外放！]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5年搬了7次家，合租房的恶臭冰箱我真受够了！]]></title>
+        <id>https://mp.weixin.qq.com/s/HGJlzcNgVyjY9eSf64dxgA</id>
+        <link href="https://mp.weixin.qq.com/s/HGJlzcNgVyjY9eSf64dxgA"/>
+        <updated>2021-10-05T16:32:48.000Z</updated>
+        <summary type="html"><![CDATA[5年搬了7次家，合租房的恶臭冰箱我真受够了！]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[离开苹果就破产？苹果的供应链能力到底有多逆天？]]></title>
+        <id>https://mp.weixin.qq.com/s/nmcyg7iuWD4k_vhqVuoj-A</id>
+        <link href="https://mp.weixin.qq.com/s/nmcyg7iuWD4k_vhqVuoj-A"/>
+        <updated>2021-10-05T16:32:48.000Z</updated>
+        <summary type="html"><![CDATA[离开苹果就破产？苹果的供应链能力到底有多逆天？]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[这个大佬把价格打下来后，有几百万人用上了电脑。]]></title>
+        <id>https://mp.weixin.qq.com/s/MWrx5VGa1hdgva2xwQHHqQ</id>
+        <link href="https://mp.weixin.qq.com/s/MWrx5VGa1hdgva2xwQHHqQ"/>
+        <updated>2021-10-05T16:32:48.000Z</updated>
+        <summary type="html"><![CDATA[这个大佬把价格打下来后，有几百万人用上了电脑。]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[多家视频网站取消超前点播，诺贝尔生理学或医学奖揭晓，华为支付试水，三星称移动游戏将支持光线追踪，这就是今天的其他大新闻！]]></title>
         <id>https://mp.weixin.qq.com/s/YylJ3nVjODdOaikJpdOYBg</id>
@@ -1935,66 +1995,6 @@ wangdoc.com/clang
         <link href="https://mp.weixin.qq.com/s/iGlqLXMH-Bh78rt2TJIyjg"/>
         <updated>2021-09-06T17:59:02.000Z</updated>
         <summary type="html"><![CDATA[现在的年轻人，开始被满减困住了。]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[东京残奥会今日闭幕，微信回应警官老陈被封，王者荣耀强制踢未成年下线，北京证券交易所有限责任公司注册成立，这就是今天的其他大新闻！]]></title>
-        <id>https://mp.weixin.qq.com/s/9x0iMmG11vLMZsVibIOH-g</id>
-        <link href="https://mp.weixin.qq.com/s/9x0iMmG11vLMZsVibIOH-g"/>
-        <updated>2021-09-05T16:34:00.000Z</updated>
-        <summary type="html"><![CDATA[东京残奥会今日闭幕，微信回应警官老陈被封，王者荣耀强制踢未成年下线，北京证券交易所有限责任公司注册成立，这就是今天的其他大新闻！]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[聊一聊：你觉得哪些网络用语被滥用了？]]></title>
-        <id>https://mp.weixin.qq.com/s/9NubEWzleQ6pG5ZCcIfnQA</id>
-        <link href="https://mp.weixin.qq.com/s/9NubEWzleQ6pG5ZCcIfnQA"/>
-        <updated>2021-09-05T16:34:00.000Z</updated>
-        <summary type="html"><![CDATA[聊一聊：你觉得哪些网络用语被滥用了？]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今日最佳：这也能物归原主？]]></title>
-        <id>https://mp.weixin.qq.com/s/uW6cQaf1e6yWwwz28B083g</id>
-        <link href="https://mp.weixin.qq.com/s/uW6cQaf1e6yWwwz28B083g"/>
-        <updated>2021-09-05T16:34:00.000Z</updated>
-        <summary type="html"><![CDATA[今日最佳：这也能物归原主？]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哪些事，是有了女朋友之后才发现的？]]></title>
-        <id>https://mp.weixin.qq.com/s/HgPIi4FQyB3iGqJ4cyH_5w</id>
-        <link href="https://mp.weixin.qq.com/s/HgPIi4FQyB3iGqJ4cyH_5w"/>
-        <updated>2021-09-05T16:34:00.000Z</updated>
-        <summary type="html"><![CDATA[哪些事，是有了女朋友之后才发现的？]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[种子都没人做了？为什么现在下载器没人用了？]]></title>
-        <id>https://mp.weixin.qq.com/s/TZzxgRrS0vLEMJzpxECLxw</id>
-        <link href="https://mp.weixin.qq.com/s/TZzxgRrS0vLEMJzpxECLxw"/>
-        <updated>2021-09-05T16:34:00.000Z</updated>
-        <summary type="html"><![CDATA[种子都没人做了？为什么现在下载器没人用了？]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“史上最烂”翻身干掉当年的世界第一，这个游戏是凭什么逆袭的？]]></title>
-        <id>https://mp.weixin.qq.com/s/c2gIV5nccrEeQl7bTpWrwg</id>
-        <link href="https://mp.weixin.qq.com/s/c2gIV5nccrEeQl7bTpWrwg"/>
-        <updated>2021-09-05T16:34:00.000Z</updated>
-        <summary type="html"><![CDATA[“史上最烂”翻身干掉当年的世界第一，这个游戏是凭什么逆袭的？]]></summary>
         <author>
             <name>差评</name>
         </author>

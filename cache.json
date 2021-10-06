@@ -36,7 +36,7 @@
           "description": "有时候，前端网页需要知道，用户使用的是手机浏览器还是桌面浏览器。\n本文根据 StackOverflow，整理了 JavaScript 侦测手机浏览器的五种方法。\n\n一、navigator.userAgent\n最简单的方法就是分析浏览器的 user agent 字符串，它包含了设备信息。\nJS 通过navigator.userAgent属性拿到这个字符串，只要里面包含mobi、android、iphone等关键字，就可以认定是移动设备。\n\nif (/Mobi|Android|iPhone/i.test(navigator.userAgent)) {\n  // 当前设备是移动设备\n}\n\n// 另一种写法\nif (\n  navigator.userAgent.match(/Mobi/i) ||\n  navigator.userAgent.match(/Android/i) ||\n  navigator.userAgent.match(/iPhone/i)\n) {\n  // 当前设备是移动设备\n}\n\n\n\n这种方法的优点是简单方便，缺点是不可靠，因为用户可以修改这个字符串，让手机浏览器伪装成桌面浏览器。\nChromium 系的浏览器，还有一个navigator.userAgentData属性，也是类似的作用。不同之处是它将 user agent 字符串解析为一个对象，该对象的mobile属性，返回一个布尔值，表示用户是否使用移动设备。\n\nconst isMobile = navigator.userAgentData.mobile; \n\n\n\n注意，苹果的 Safari 浏览器和 Firefox 浏览器都不支持这个属性，具体情况可以查看 Caniuse 网站。\n此外，还有一个已经废除的navigator.platform属性，所有浏览器都支持，所以也可以用。它返回一个字符串，表示用户的…",
           "link": "http://www.ruanyifeng.com/blog/2021/09/detecting-mobile-browser.html",
           "publishedOn": "2021-09-29T01:19:08.000Z",
-          "wordCount": 473,
+          "wordCount": 485,
           "title": "JavaScript 侦测手机浏览器的五种方法"
         },
         {
@@ -91,6 +91,60 @@
       "feedUrl": "https://api.feeddd.org/feeds/6110783449ef7514d0b91ae1",
       "siteUrl": "https://mp.weixin.qq.com",
       "articles": [
+        {
+          "id": "https://mp.weixin.qq.com/s/sqZf_xjZfUWiRU2YczisYw",
+          "author": null,
+          "description": "Facebook史上最严重宕机，微软正式发布Win11，2021诺贝尔物理学奖揭晓，乔布斯去世十周年，这就是今天的其他大新闻！",
+          "link": "https://mp.weixin.qq.com/s/sqZf_xjZfUWiRU2YczisYw",
+          "publishedOn": "2021-10-05T16:32:48.000Z",
+          "wordCount": 163,
+          "title": "Facebook史上最严重宕机，微软正式发布Win11，2021诺贝尔物理学奖揭晓，乔布斯去世十周年，这就是今天的其他大新闻！"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/QZfkBu2_wlGfydcTDf5Vtg",
+          "author": null,
+          "description": "聊一聊：见过什么离谱的请假理由？",
+          "link": "https://mp.weixin.qq.com/s/QZfkBu2_wlGfydcTDf5Vtg",
+          "publishedOn": "2021-10-05T16:32:48.000Z",
+          "wordCount": 53,
+          "title": "聊一聊：见过什么离谱的请假理由？"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/1RyMkZuExuWT6HBFkngkOw",
+          "author": null,
+          "description": "今日最佳：禁止外放！",
+          "link": "https://mp.weixin.qq.com/s/1RyMkZuExuWT6HBFkngkOw",
+          "publishedOn": "2021-10-05T16:32:48.000Z",
+          "wordCount": 55,
+          "title": "今日最佳：禁止外放！"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/HGJlzcNgVyjY9eSf64dxgA",
+          "author": null,
+          "description": "5年搬了7次家，合租房的恶臭冰箱我真受够了！",
+          "link": "https://mp.weixin.qq.com/s/HGJlzcNgVyjY9eSf64dxgA",
+          "publishedOn": "2021-10-05T16:32:48.000Z",
+          "wordCount": 95,
+          "title": "5年搬了7次家，合租房的恶臭冰箱我真受够了！"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/nmcyg7iuWD4k_vhqVuoj-A",
+          "author": null,
+          "description": "离开苹果就破产？苹果的供应链能力到底有多逆天？",
+          "link": "https://mp.weixin.qq.com/s/nmcyg7iuWD4k_vhqVuoj-A",
+          "publishedOn": "2021-10-05T16:32:48.000Z",
+          "wordCount": 304,
+          "title": "离开苹果就破产？苹果的供应链能力到底有多逆天？"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/MWrx5VGa1hdgva2xwQHHqQ",
+          "author": null,
+          "description": "这个大佬把价格打下来后，有几百万人用上了电脑。",
+          "link": "https://mp.weixin.qq.com/s/MWrx5VGa1hdgva2xwQHHqQ",
+          "publishedOn": "2021-10-05T16:32:48.000Z",
+          "wordCount": 514,
+          "title": "这个大佬把价格打下来后，有几百万人用上了电脑。"
+        },
         {
           "id": "https://mp.weixin.qq.com/s/YylJ3nVjODdOaikJpdOYBg",
           "author": null,
@@ -1593,60 +1647,6 @@
           "publishedOn": "2021-09-06T17:59:02.000Z",
           "wordCount": 117,
           "title": "现在的年轻人，开始被满减困住了。"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/9x0iMmG11vLMZsVibIOH-g",
-          "author": null,
-          "description": "东京残奥会今日闭幕，微信回应警官老陈被封，王者荣耀强制踢未成年下线，北京证券交易所有限责任公司注册成立，这就是今天的其他大新闻！",
-          "link": "https://mp.weixin.qq.com/s/9x0iMmG11vLMZsVibIOH-g",
-          "publishedOn": "2021-09-05T16:34:00.000Z",
-          "wordCount": 107,
-          "title": "东京残奥会今日闭幕，微信回应警官老陈被封，王者荣耀强制踢未成年下线，北京证券交易所有限责任公司注册成立，这就是今天的其他大新闻！"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/9NubEWzleQ6pG5ZCcIfnQA",
-          "author": null,
-          "description": "聊一聊：你觉得哪些网络用语被滥用了？",
-          "link": "https://mp.weixin.qq.com/s/9NubEWzleQ6pG5ZCcIfnQA",
-          "publishedOn": "2021-09-05T16:34:00.000Z",
-          "wordCount": 53,
-          "title": "聊一聊：你觉得哪些网络用语被滥用了？"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/uW6cQaf1e6yWwwz28B083g",
-          "author": null,
-          "description": "今日最佳：这也能物归原主？",
-          "link": "https://mp.weixin.qq.com/s/uW6cQaf1e6yWwwz28B083g",
-          "publishedOn": "2021-09-05T16:34:00.000Z",
-          "wordCount": 54,
-          "title": "今日最佳：这也能物归原主？"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/HgPIi4FQyB3iGqJ4cyH_5w",
-          "author": null,
-          "description": "哪些事，是有了女朋友之后才发现的？",
-          "link": "https://mp.weixin.qq.com/s/HgPIi4FQyB3iGqJ4cyH_5w",
-          "publishedOn": "2021-09-05T16:34:00.000Z",
-          "wordCount": 75,
-          "title": "哪些事，是有了女朋友之后才发现的？"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/TZzxgRrS0vLEMJzpxECLxw",
-          "author": null,
-          "description": "种子都没人做了？为什么现在下载器没人用了？",
-          "link": "https://mp.weixin.qq.com/s/TZzxgRrS0vLEMJzpxECLxw",
-          "publishedOn": "2021-09-05T16:34:00.000Z",
-          "wordCount": 275,
-          "title": "种子都没人做了？为什么现在下载器没人用了？"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/c2gIV5nccrEeQl7bTpWrwg",
-          "author": null,
-          "description": "“史上最烂”翻身干掉当年的世界第一，这个游戏是凭什么逆袭的？",
-          "link": "https://mp.weixin.qq.com/s/c2gIV5nccrEeQl7bTpWrwg",
-          "publishedOn": "2021-09-05T16:34:00.000Z",
-          "wordCount": 525,
-          "title": "“史上最烂”翻身干掉当年的世界第一，这个游戏是凭什么逆袭的？"
         }
       ]
     },
