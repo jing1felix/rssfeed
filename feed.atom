@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-10-06T00:59:06.178Z</id>
+    <id>urn:2021-10-07T01:00:00.503Z</id>
     <title>osmos::feed</title>
-    <updated>2021-10-06T00:59:06.178Z</updated>
+    <updated>2021-10-07T01:00:00.503Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[AirPods终于支持查找功能，B站内测校园同城，2021诺贝尔化学奖揭晓，欧盟将指控苹果NFC垄断，这就是今天的其他大新闻！]]></title>
+        <id>https://mp.weixin.qq.com/s/8RvWvYgcJ48lBbghXW3xng</id>
+        <link href="https://mp.weixin.qq.com/s/8RvWvYgcJ48lBbghXW3xng"/>
+        <updated>2021-10-06T16:32:47.000Z</updated>
+        <summary type="html"><![CDATA[AirPods终于支持查找功能，B站内测校园同城，2021诺贝尔化学奖揭晓，欧盟将指控苹果NFC垄断，这就是今天的其他大新闻！]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[聊一聊：你对你的手机有什么不满？]]></title>
+        <id>https://mp.weixin.qq.com/s/jEiobsGw05LkSxtaEXRbCA</id>
+        <link href="https://mp.weixin.qq.com/s/jEiobsGw05LkSxtaEXRbCA"/>
+        <updated>2021-10-06T16:32:47.000Z</updated>
+        <summary type="html"><![CDATA[聊一聊：你对你的手机有什么不满？]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今日最佳：你搁这搁这搁这搁这呢。]]></title>
+        <id>https://mp.weixin.qq.com/s/eLg-VgqW7lGmn7oRMDxXhw</id>
+        <link href="https://mp.weixin.qq.com/s/eLg-VgqW7lGmn7oRMDxXhw"/>
+        <updated>2021-10-06T16:32:47.000Z</updated>
+        <summary type="html"><![CDATA[今日最佳：你搁这搁这搁这搁这呢。]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[半夜看美食节目，这个爆汁肠直接把我馋哭了。。]]></title>
+        <id>https://mp.weixin.qq.com/s/qOMmRtJGh2yE21jiayAJaw</id>
+        <link href="https://mp.weixin.qq.com/s/qOMmRtJGh2yE21jiayAJaw"/>
+        <updated>2021-10-06T16:32:47.000Z</updated>
+        <summary type="html"><![CDATA[半夜看美食节目，这个爆汁肠直接把我馋哭了。。]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[这个印度人成为CEO后，微软的市值开始直逼苹果。]]></title>
+        <id>https://mp.weixin.qq.com/s/xsGEA910JbXVvEHKssn4vg</id>
+        <link href="https://mp.weixin.qq.com/s/xsGEA910JbXVvEHKssn4vg"/>
+        <updated>2021-10-06T16:32:47.000Z</updated>
+        <summary type="html"><![CDATA[这个印度人成为CEO后，微软的市值开始直逼苹果。]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[封锁南极是为了掩盖真相？地平说的这些套路把我看傻了。。。]]></title>
+        <id>https://mp.weixin.qq.com/s/3Al2EBExQ-CqZ2dVOkK4cw</id>
+        <link href="https://mp.weixin.qq.com/s/3Al2EBExQ-CqZ2dVOkK4cw"/>
+        <updated>2021-10-06T16:32:47.000Z</updated>
+        <summary type="html"><![CDATA[封锁南极是为了掩盖真相？地平说的这些套路把我看傻了。。。]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Facebook史上最严重宕机，微软正式发布Win11，2021诺贝尔物理学奖揭晓，乔布斯去世十周年，这就是今天的其他大新闻！]]></title>
         <id>https://mp.weixin.qq.com/s/sqZf_xjZfUWiRU2YczisYw</id>
@@ -1903,98 +1963,6 @@ Thank you @ad-m]]></summary>
         <link href="https://mp.weixin.qq.com/s/r2UaGaK1k_TFU2PnjfMTUg"/>
         <updated>2021-09-07T16:33:09.000Z</updated>
         <summary type="html"><![CDATA[米哈游连续告了B站7次，其实是在“演戏”抓内鬼。]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《C 语言入门教程》发布了]]></title>
-        <id>http://www.ruanyifeng.com/blog/2021/09/c-language-tutorial.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2021/09/c-language-tutorial.html"/>
-        <updated>2021-09-07T07:54:29.000Z</updated>
-        <summary type="html"><![CDATA[向大家报告，我写了一本《C 语言入门教程》，已经上线了，欢迎访问。
-
-我知道，这件事有点奇怪，让我来解释一下。
-最近两三年，我想做一些服务器开发，一直在学习这方面的技术。去年发布的《Bash 脚本教程》，就是在学习 Shell 的时候写的。后来学习后端编程语言，深感好多基础的东西需要补课，就回过头重新开始看 C 语言。
-我上一次学习 C 语言，还是在学校里。印象中，C 语言不容易，复杂类型很难声明和解读。但是，这一次重新学习，意外觉得 C 语言并不复杂，语法点少，没有类，只能使用命令式编程（imperative programming），跟脚本语言（比如 JavaScript）相比，语法描述要容易很多。加上网上很少 C 语言中文教程，质量也不理想，于是就萌生了自己写教程的念头。
-最初的想法是，在我的学习笔记基础上，加一些示例就可以了。但是真的动手以后，发现工作量很大，尤其是后来决定 C 语言标准库也包括在教程中。C 的语法点虽然不多，但完整的教程至少要20几章，而且 C 代码写法太自由，不少疑难之处还要去查看参考书籍。所以写得很慢，从春节后到现在，整整写了六个多月，终于写完了。
-与以往一样，这个教程是开源的，采用知识共享许可证，源码托管在 GitHub ，大家可以自由使用。点击下面网址，在线阅读全书。
-wangdoc.com/clang
-我对它还算满意，该讲的地方都讲到了，给出了许多示例，初学者完全够用了。但是，毕竟我平时很少有机会使用 C 语言编程，各种错误和遗漏之处，肯定有不少，欢迎大家到仓库提交补丁，或者发 issue 反映问题。
-（完）
-文档信息
-版权声明：自由转载-非商用-非衍生-保持署名（创意共享3.0许可证）
-发表日期： 2021年9月 7日]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[阿里女员工被侵害案涉事领导不构成犯罪，微信将迁移非国内微信账户，豆瓣暂停回复功能，吉利全球校园招聘启动，这就是今天的其他大新闻！]]></title>
-        <id>https://mp.weixin.qq.com/s/ISiAv0fCEwHMzWuZCmizKw</id>
-        <link href="https://mp.weixin.qq.com/s/ISiAv0fCEwHMzWuZCmizKw"/>
-        <updated>2021-09-06T17:59:02.000Z</updated>
-        <summary type="html"><![CDATA[阿里女员工被侵害案涉事领导不构成犯罪，微信将迁移非国内微信账户，豆瓣暂停回复功能，吉利全球校园招聘启动，这就是今天的其他大新闻！]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[聊一聊：你见过哪些让人迷惑的概念？]]></title>
-        <id>https://mp.weixin.qq.com/s/ajnXiqfDic84Uos4nB9nkQ</id>
-        <link href="https://mp.weixin.qq.com/s/ajnXiqfDic84Uos4nB9nkQ"/>
-        <updated>2021-09-06T17:59:02.000Z</updated>
-        <summary type="html"><![CDATA[聊一聊：你见过哪些让人迷惑的概念？]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今日最佳：客服看了以后连夜发货]]></title>
-        <id>https://mp.weixin.qq.com/s/tgYP5otMrvQvhwqCbbOX1Q</id>
-        <link href="https://mp.weixin.qq.com/s/tgYP5otMrvQvhwqCbbOX1Q"/>
-        <updated>2021-09-06T17:59:02.000Z</updated>
-        <summary type="html"><![CDATA[今日最佳：客服看了以后连夜发货]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[去文和友排1634桌吃小龙虾，我居然觉得好值？]]></title>
-        <id>https://mp.weixin.qq.com/s/FqH4LO07wcbhM75ow8hHYA</id>
-        <link href="https://mp.weixin.qq.com/s/FqH4LO07wcbhM75ow8hHYA"/>
-        <updated>2021-09-06T17:59:02.000Z</updated>
-        <summary type="html"><![CDATA[去文和友排1634桌吃小龙虾，我居然觉得好值？]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[比起吃鸡，这款躲猫猫游戏更能证明自己是个瞎子。]]></title>
-        <id>https://mp.weixin.qq.com/s/4MY0izhmhUsganazoEfvLQ</id>
-        <link href="https://mp.weixin.qq.com/s/4MY0izhmhUsganazoEfvLQ"/>
-        <updated>2021-09-06T17:59:02.000Z</updated>
-        <summary type="html"><![CDATA[比起吃鸡，这款躲猫猫游戏更能证明自己是个瞎子。]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[硅谷最强的美女骗子，终于要坐牢了？]]></title>
-        <id>https://mp.weixin.qq.com/s/RDQhUn6Gcp8Bpm2JbJ1Cnw</id>
-        <link href="https://mp.weixin.qq.com/s/RDQhUn6Gcp8Bpm2JbJ1Cnw"/>
-        <updated>2021-09-06T17:59:02.000Z</updated>
-        <summary type="html"><![CDATA[硅谷最强的美女骗子，终于要坐牢了？]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[现在的年轻人，开始被满减困住了。]]></title>
-        <id>https://mp.weixin.qq.com/s/iGlqLXMH-Bh78rt2TJIyjg</id>
-        <link href="https://mp.weixin.qq.com/s/iGlqLXMH-Bh78rt2TJIyjg"/>
-        <updated>2021-09-06T17:59:02.000Z</updated>
-        <summary type="html"><![CDATA[现在的年轻人，开始被满减困住了。]]></summary>
         <author>
             <name>差评</name>
         </author>
