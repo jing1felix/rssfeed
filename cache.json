@@ -31,12 +31,21 @@
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
         {
+          "id": "http://www.ruanyifeng.com/blog/2021/10/weekly-issue-178.html",
+          "author": null,
+          "description": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。\n周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。\n封面图\n\n10月5日，俄罗斯宇宙飞船将一名女演员（左一）和一名导演（右一）送入了国际空间站。他们将在那里停留12天，拍摄一部电影。电影讲述一个宇航员突发疾病，生命垂危，地面控制中心决定紧急派遣一名医生去治疗。（via）\n本周话题：家庭太阳能发电的春天\n最近，全国供电紧张，很多省的工业用电不够了。\n我在想，会不会因为这件事，家庭太阳能发电就要流行了。\n\n理由是这样的，这一次的供电紧张，主要原因是煤价涨了，从2021年初到现在翻了一倍。大家看下图，最后一个月（刚刚过去的9月份）的价格简直是飞涨。\n\n但是，电价没涨，火力发电厂因此陷入亏损，每发一度电都会亏钱。偏偏又遇上用电量猛增，今年前八个月，全国用电量增加了13.8%，相比之下，这个数字去年是3.1%，前年是4.5%。用电量增长太快，电厂又无力多发电，所以电就不够了。\n有的同学可能会说，火电不行，不是还有风电和光电吗？问题是它们只是一个零头，不到全部发电量的10%，根本替代不了火电，火电是绝对的大头，占到70%以上。\n而且，风电和光电不稳定，英国的北海今年突然风停了，风电急剧减少，英国的能源就紧张到90%的加油站没有汽油了。\n\n总之，要解决供电紧张，还是离不开煤炭，最简单的方法就是让煤价下跌。但是这一次，煤价很可能不会下跌。\"碳达峰、碳中和\"是国家战略，这种背景下，政府不会大量投资去增产煤炭，煤炭供应不足可能会持续下去。\n另一方面，以后用电量肯定持续增长。别的不说，全国每年新增那么多电动车，都需要用电啊，单单一台特斯拉 Model 3 的功率（220kw）大约是家用空调的100倍。马斯克最近说，美…",
+          "link": "http://www.ruanyifeng.com/blog/2021/10/weekly-issue-178.html",
+          "publishedOn": "2021-10-08T00:38:02.000Z",
+          "wordCount": 416,
+          "title": "科技爱好者周刊（第 178 期）：家庭太阳能发电的春天"
+        },
+        {
           "id": "http://www.ruanyifeng.com/blog/2021/09/detecting-mobile-browser.html",
           "author": null,
           "description": "有时候，前端网页需要知道，用户使用的是手机浏览器还是桌面浏览器。\n本文根据 StackOverflow，整理了 JavaScript 侦测手机浏览器的五种方法。\n\n一、navigator.userAgent\n最简单的方法就是分析浏览器的 user agent 字符串，它包含了设备信息。\nJS 通过navigator.userAgent属性拿到这个字符串，只要里面包含mobi、android、iphone等关键字，就可以认定是移动设备。\n\nif (/Mobi|Android|iPhone/i.test(navigator.userAgent)) {\n  // 当前设备是移动设备\n}\n\n// 另一种写法\nif (\n  navigator.userAgent.match(/Mobi/i) ||\n  navigator.userAgent.match(/Android/i) ||\n  navigator.userAgent.match(/iPhone/i)\n) {\n  // 当前设备是移动设备\n}\n\n\n\n这种方法的优点是简单方便，缺点是不可靠，因为用户可以修改这个字符串，让手机浏览器伪装成桌面浏览器。\nChromium 系的浏览器，还有一个navigator.userAgentData属性，也是类似的作用。不同之处是它将 user agent 字符串解析为一个对象，该对象的mobile属性，返回一个布尔值，表示用户是否使用移动设备。\n\nconst isMobile = navigator.userAgentData.mobile; \n\n\n\n注意，苹果的 Safari 浏览器和 Firefox 浏览器都不支持这个属性，具体情况可以查看 Caniuse 网站。\n此外，还有一个已经废除的navigator.platform属性，所有浏览器都支持，所以也可以用。它返回一个字符串，表示用户的…",
           "link": "http://www.ruanyifeng.com/blog/2021/09/detecting-mobile-browser.html",
           "publishedOn": "2021-09-29T01:19:08.000Z",
-          "wordCount": 485,
+          "wordCount": 488,
           "title": "JavaScript 侦测手机浏览器的五种方法"
         },
         {
@@ -45,7 +54,7 @@
           "description": "这里记录每周值得分享的科技内容，周五发布。（[通知] 下周五是十一假期，周刊暂停一期。）\n本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。\n周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。\n封面图\n\n23岁的宁夏青年董书畅，今年6月份在西藏阿里地区，拍到了一张完美的日环食照片。最近获得了英国格林威治天文台评选的2021年天文摄影冠军照片。（via）\n本周话题：iPad 的真正用途\n大家的平板电脑，都用来干嘛？\n根据我的观察，第一位的用途都是看视频，其次是玩游戏。\n\n如果有人说，平板电脑是生产力工具，那属于胡说。无论是学习和工作，它远远不如笔记本电脑好用和强大。\n我曾经幻想，外出时使用平板电脑开发。结果发现根本不可行，要什么缺什么，开发体验极差，最多只能紧急时登录服务器，或者偶尔改一下仓库代码。\n但是，我最近发现有一个用途，平板电脑大大强于笔记本，几乎可以说，是为这种用途量身定制的工具。\n那就是普通人的视频处理。\n\n专业级别的视频处理，平板电脑肯定是不行的。但是，普通人偶尔剪剪视频，它真的是利器，尤其是 iPad pro。\n我使用 GoPro 拍摄旅游视频，每次要导入桌面设备处理，非常麻烦。要是身边没有笔记本电脑，就只能等到旅行结束再说。手机倒是可以剪视频，但是对于 2K 或 4K 分辨率，处理起来很慢。\n\n今年上半年，苹果公司发布了新的 M1 架构的 iPad Pro。我眼前一亮，这个硬件配置跟 Mac mini 是一样的，而我们已经知道，后者的视频处理能力很强。\n而且，iPad Pro 采用 Type-C 接口，可以直接连移动硬盘，导出文件。它的大屏也适合视频预览。总之，种种特点都表明这个设备特别适合视频处理。\n\n入手以后，经过几个月的试用，它的表现跟我预想的基本一样，现场拍完就能剪…",
           "link": "http://www.ruanyifeng.com/blog/2021/09/weekly-issue-177.html",
           "publishedOn": "2021-09-24T00:31:18.000Z",
-          "wordCount": 946,
+          "wordCount": 956,
           "title": "科技爱好者周刊（第 177 期）：iPad 的真正用途"
         },
         {
@@ -1566,69 +1575,6 @@
           "publishedOn": "2021-09-08T16:33:38.000Z",
           "wordCount": 214,
           "title": "两个月治好癌症，120万的CAR-T会成为人类终结癌症的绝招么？"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/AkaM4X_ACKT2AyrhrCBPqg",
-          "author": null,
-          "description": "阿里回应王某文案件通报，比心等陪玩软件无限期下架，微信视频号支持1小时时长，酷狗下线艺人榜单并限购专辑，这就是今天的其他大新闻！",
-          "link": "https://mp.weixin.qq.com/s/AkaM4X_ACKT2AyrhrCBPqg",
-          "publishedOn": "2021-09-07T16:33:09.000Z",
-          "wordCount": 111,
-          "title": "阿里回应王某文案件通报，比心等陪玩软件无限期下架，微信视频号支持1小时时长，酷狗下线艺人榜单并限购专辑，这就是今天的其他大新闻！"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/ArdW3mxq_PmN_N38cGP30g",
-          "author": null,
-          "description": "聊一聊：你用过哪些奇怪的游戏昵称？",
-          "link": "https://mp.weixin.qq.com/s/ArdW3mxq_PmN_N38cGP30g",
-          "publishedOn": "2021-09-07T16:33:09.000Z",
-          "wordCount": 53,
-          "title": "聊一聊：你用过哪些奇怪的游戏昵称？"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/NT1uKA6Q1yrARPQ1YIuvDw",
-          "author": null,
-          "description": "今日最佳：上下铺瞬间变高级。",
-          "link": "https://mp.weixin.qq.com/s/NT1uKA6Q1yrARPQ1YIuvDw",
-          "publishedOn": "2021-09-07T16:33:09.000Z",
-          "wordCount": 56,
-          "title": "今日最佳：上下铺瞬间变高级。"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/W709MDJyKK7j4QGeU1t5yA",
-          "author": null,
-          "description": "有什么国外司空见惯，国内却还没普及的好货？",
-          "link": "https://mp.weixin.qq.com/s/W709MDJyKK7j4QGeU1t5yA",
-          "publishedOn": "2021-09-07T16:33:09.000Z",
-          "wordCount": 80,
-          "title": "有什么国外司空见惯，国内却还没普及的好货？"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/Dvv0fL-tv_Xga4nP54-rbg",
-          "author": null,
-          "description": "把网盘空间变成电脑硬盘，这软件简直了！",
-          "link": "https://mp.weixin.qq.com/s/Dvv0fL-tv_Xga4nP54-rbg",
-          "publishedOn": "2021-09-07T16:33:09.000Z",
-          "wordCount": 115,
-          "title": "把网盘空间变成电脑硬盘，这软件简直了！"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/zbeUj62V9BbSUGUzc3cTAA",
-          "author": null,
-          "description": "为了实现“共同富裕”，阿里腾讯各出了1000个亿。",
-          "link": "https://mp.weixin.qq.com/s/zbeUj62V9BbSUGUzc3cTAA",
-          "publishedOn": "2021-09-07T16:33:09.000Z",
-          "wordCount": 199,
-          "title": "为了实现“共同富裕”，阿里腾讯各出了1000个亿。"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/r2UaGaK1k_TFU2PnjfMTUg",
-          "author": null,
-          "description": "米哈游连续告了B站7次，其实是在“演戏”抓内鬼。",
-          "link": "https://mp.weixin.qq.com/s/r2UaGaK1k_TFU2PnjfMTUg",
-          "publishedOn": "2021-09-07T16:33:09.000Z",
-          "wordCount": 212,
-          "title": "米哈游连续告了B站7次，其实是在“演戏”抓内鬼。"
         }
       ]
     },
