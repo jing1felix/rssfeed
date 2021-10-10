@@ -36,7 +36,7 @@
           "description": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。\n周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。\n封面图\n\n10月5日，俄罗斯宇宙飞船将一名女演员（左一）和一名导演（右一）送入了国际空间站。他们将在那里停留12天，拍摄一部电影。电影讲述一个宇航员突发疾病，生命垂危，地面控制中心决定紧急派遣一名医生去治疗。（via）\n本周话题：家庭太阳能发电的春天\n最近，全国供电紧张，很多省的工业用电不够了。\n我在想，会不会因为这件事，家庭太阳能发电就要流行了。\n\n理由是这样的，这一次的供电紧张，主要原因是煤价涨了，从2021年初到现在翻了一倍。大家看下图，最后一个月（刚刚过去的9月份）的价格简直是飞涨。\n\n但是，电价没涨，火力发电厂因此陷入亏损，每发一度电都会亏钱。偏偏又遇上用电量猛增，今年前八个月，全国用电量增加了13.8%，相比之下，这个数字去年是3.1%，前年是4.5%。用电量增长太快，电厂又无力多发电，所以电就不够了。\n有的同学可能会说，火电不行，不是还有风电和光电吗？问题是它们只是一个零头，不到全部发电量的10%，根本替代不了火电，火电是绝对的大头，占到70%以上。\n而且，风电和光电不稳定，英国的北海今年突然风停了，风电急剧减少，英国的能源就紧张到90%的加油站没有汽油了。\n\n总之，要解决供电紧张，还是离不开煤炭，最简单的方法就是让煤价下跌。但是这一次，煤价很可能不会下跌。\"碳达峰、碳中和\"是国家战略，这种背景下，政府不会大量投资去增产煤炭，煤炭供应不足可能会持续下去。\n另一方面，以后用电量肯定持续增长。别的不说，全国每年新增那么多电动车，都需要用电啊，单单一台特斯拉 Model 3 的功率（220kw）大约是家用空调的100倍。马斯克最近说，美…",
           "link": "http://www.ruanyifeng.com/blog/2021/10/weekly-issue-178.html",
           "publishedOn": "2021-10-08T00:38:02.000Z",
-          "wordCount": 831,
+          "wordCount": 903,
           "title": "科技爱好者周刊（第 178 期）：家庭太阳能发电的春天"
         },
         {
@@ -63,7 +63,7 @@
           "description": "9月1日是俄罗斯的知识节，因为这一天是各级学校的开学日，象征进入知识宝库的日子。\n今年的知识节，俄罗斯总理米哈伊尔·米舒斯京（Mikhail Mishustin）来到莫斯科物理技术学院（MIPT）视察。该校是俄罗斯顶级的理工科大学，出过许多诺贝尔奖得主和著名科学家。\n\n米舒斯京总理来到新生的教室，给学生们讲话。他看到黑板上写满了数学公式，一时兴起，就上前写了一道数学题，要求大家当场解答。\n\n根据维基百科，米舒斯京生于1966年，大学专业是系统工程，主修计算机辅助设计。工作以后，还读过一个经济学博士。在担任总理之前，他是俄罗斯联邦税务局长。\n\n他出的是一道几何题，题目如下。\n给定圆上的一个点和一条直径，你能否找到一种方法，画出从该点到直径的垂直线（下图的绿线）。\n\n这道题的难点在于，你不能使用任何测量工具，唯一可以用的就是一把不带有标记的直尺。\n大家可以思考一下，这道题怎么解。\n虽然它用不到高深的数学知识，初中的几何学课程就可以解答，但也不算容易。你必须知道两个基本的几何定理，才能想出答案。\n第一个是泰勒斯定理，欧几里得《几何原本》提到过： 圆上任意一点与直径组成的三角形，是直角三角形。\n\n第二个定理是： 锐角三角形的三条高交于一点。\n\n如果你已经忘了这两个定理，可以再去看一下初中几何课本，这里就不给出证明了。\n下面我根据一个数学家写给英国《卫报》的文章，介绍如何解答这道题。\n如果你还想再思考一下，自己找到答案，那就暂时不要往下看了。我要讲答案了。\n\n第一步，在相同的半圆上，任意再找一个点。将这两个点，与直径的相邻端点连起来，连线延长后可以形成一个三角形。\n上图中，圆周上的两个点与直径组成的，都是直角三角形。它们可以看作直径的两个端点到绿边的两条高。\n\n第二步，上一步的两条高产生了一个交点，将这个交点与三角形的外部顶点连起来，延长后与直径相交。\n根据三角形的三条高交于一点，可以知道，上图的绿线是直径的一条垂直线。后面只需要找到它的平行线，穿过红点即可。\n\n第三步，上一步的绿线与圆周有一个交点，将这个交点与红点连起来，延长后与直径相交（上图的第一个绿点）。\n同时，将上一步的垂直线延长，与另一侧的圆周相交，产生一个交点（上图的第二个绿点）。\n\n第四步，将上一步的两个绿点连起来，这条线会与圆周产生一个交点（上图的绿点）。\n再将绿点与红点连起来（上图的黄线），这就是我们所要寻找的答案：红点到直径的垂直线。\n这是因为上图的两条绿边与第二步的垂直线，形成了一个等腰三角形，原始的那条直径就是等腰三角形顶点到底边的高。这意味着，红点与绿点是对称的，它们的连线平行于底边，所以垂直于高（直径）。\n至此，整道题解答完毕。\n\n\n米舒斯京总理在黑板上画完解题过程后，对学生们说：\n\"你们会在大学里面，学到数学、物理、化学知识，但是不要忘了那些基础知识。基础知识与专业知识结合起来，你就能解决任何问题，不仅是科学问题，也包括商业问题。\"\n（完）\n文档信息\n版权声明：自由转载-非商用-非衍生-保持署名（创意共享3.0许可证）\n发表日期： 2021年9月22日",
           "link": "http://www.ruanyifeng.com/blog/2021/09/geometry-puzzle.html",
           "publishedOn": "2021-09-22T00:16:25.000Z",
-          "wordCount": 397,
+          "wordCount": 409,
           "title": "俄罗斯总理的几何题"
         },
         {
@@ -74,15 +74,6 @@
           "publishedOn": "2021-09-17T00:34:58.000Z",
           "wordCount": 996,
           "title": "科技爱好者周刊（第 176 期）：中国法院承认 GPL 吗？"
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2021/09/weekly-issue-175.html",
-          "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。\n周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。\n封面图\n\n河北太行山脉，山头密密麻麻都被太阳能板覆盖了。（via）\n本周话题：知识广度 vs 知识深度\n上一期谈到，\"特长程序员\"比\"全能程序员\"吃香。\n网友发给我一个网址，国外有人已经谈过这个话题。\n\n国外作者画了一张图，将世界上的程序员比喻成三种形状。\n（1）大饼型：拥有知识广度，但没有知识深度。\n（2）竹竿型：拥有知识深度，但没有知识广度。\n（3）T 型：介于前两者之间。\n那篇文章也认为，通常情况下，竹竿型程序员的出路最好，雇主愿意为知识深度买单。因为现代社会高度分工，越是大公司，岗位职责越明确，需要的是领域专家，而不是多面手。\n但是作者提到，有一种情况例外，知识广度有明显优势，那就是确定项目路线的时候。\n\n请看上图，右上角有一个黑点，那是公司的目标。当前位置在左下角的原点，两点之间没有现成的道路，需要自己寻找实现路径。\n这时，知识广度就发挥作用了，了解的信息越广泛，知道的情况越多，就越可能具备洞察力，能够在多条路径里面，选出最合适的道路。知识面狭窄的人，由于不了解其它道路，不管遇到什么问题，可能都选择他会的那一条路，比如 Java。\n这就是全能程序员的优势，判断正确的仰角 θ，使得两点之间距离最短；特长程序员的优势是前进速度 r，可以在既定道路上做到快速前进。所以，知识的广度能告诉你什么是正确的方向，知识的深度则可以让你在该方向上快速前进。 \n对于长期而艰巨的项目，走得快固然重要，但更重要的是走对方向。如果仰角 θ 不对，走得再快也没用，因为一开始就走错方向，后期必须停下来校正方向，甚至可能永远到达不了目标，白白浪费了生命。\n\n因此，全…",
-          "link": "http://www.ruanyifeng.com/blog/2021/09/weekly-issue-175.html",
-          "publishedOn": "2021-09-10T00:26:54.000Z",
-          "wordCount": 1007,
-          "title": "科技爱好者周刊（第 175 期）：知识广度 vs 知识深度"
         }
       ]
     },
@@ -91,6 +82,69 @@
       "feedUrl": "https://api.feeddd.org/feeds/6110783449ef7514d0b91ae1",
       "siteUrl": "https://mp.weixin.qq.com",
       "articles": [
+        {
+          "id": "https://mp.weixin.qq.com/s/28Qy-4j0lsKXBlF2tQvRSA",
+          "author": null,
+          "description": "恒大问责6名提前赎回高管，V社取消转播延迟限制，江苏全面排查“挖矿”行为，小米诉争米家商标被驳回，这就是今天的其他大新闻！",
+          "link": "https://mp.weixin.qq.com/s/28Qy-4j0lsKXBlF2tQvRSA",
+          "publishedOn": "2021-10-09T16:35:12.000Z",
+          "wordCount": 166,
+          "title": "恒大问责6名提前赎回高管，V社取消转播延迟限制，江苏全面排查“挖矿”行为，小米诉争米家商标被驳回，这就是今天的其他大新闻！"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/Vbp9ySlASXIFlZt5bjJraA",
+          "author": null,
+          "description": "聊一聊：你买到过什么假货？",
+          "link": "https://mp.weixin.qq.com/s/Vbp9ySlASXIFlZt5bjJraA",
+          "publishedOn": "2021-10-09T16:35:12.000Z",
+          "wordCount": 53,
+          "title": "聊一聊：你买到过什么假货？"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/cs_caKhRbyk9VRYkR7SDHg",
+          "author": null,
+          "description": "今日最佳：这能不笑场吗？",
+          "link": "https://mp.weixin.qq.com/s/cs_caKhRbyk9VRYkR7SDHg",
+          "publishedOn": "2021-10-09T16:35:12.000Z",
+          "wordCount": 55,
+          "title": "今日最佳：这能不笑场吗？"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/5M0eimhjZMQ5WUrrXv_S0g",
+          "author": null,
+          "description": "看完这篇，强迫症都舒服了。",
+          "link": "https://mp.weixin.qq.com/s/5M0eimhjZMQ5WUrrXv_S0g",
+          "publishedOn": "2021-10-09T16:35:12.000Z",
+          "wordCount": 66,
+          "title": "看完这篇，强迫症都舒服了。"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/6dQt6JsM7k-FBr940CyUqQ",
+          "author": null,
+          "description": "苹果推出的这个软件，可能都被我们低估了。。。",
+          "link": "https://mp.weixin.qq.com/s/6dQt6JsM7k-FBr940CyUqQ",
+          "publishedOn": "2021-10-09T16:35:12.000Z",
+          "wordCount": 171,
+          "title": "苹果推出的这个软件，可能都被我们低估了。。。"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/j3b0k2z20fY0Vnjfw3QgSw",
+          "author": null,
+          "description": "退了休还能拿1亿薪酬？倍受争议的联想还是终止了上市。。。",
+          "link": "https://mp.weixin.qq.com/s/j3b0k2z20fY0Vnjfw3QgSw",
+          "publishedOn": "2021-10-09T16:35:12.000Z",
+          "wordCount": 143,
+          "title": "退了休还能拿1亿薪酬？倍受争议的联想还是终止了上市。。。"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/0-azAwYna7IBsfcuwDAjqQ",
+          "author": null,
+          "description": "在一堆旗舰智能手表中，我找到了一款续航能达到45天的。",
+          "link": "https://mp.weixin.qq.com/s/0-azAwYna7IBsfcuwDAjqQ",
+          "publishedOn": "2021-10-09T16:35:12.000Z",
+          "wordCount": 263,
+          "title": "在一堆旗舰智能手表中，我找到了一款续航能达到45天的。"
+        },
         {
           "id": "https://mp.weixin.qq.com/s/3oBq533fFSwDG7AD3rWTcA",
           "author": null,
@@ -927,69 +981,6 @@
           "publishedOn": "2021-09-24T16:33:14.000Z",
           "wordCount": 53,
           "title": "聊一聊：哪个角色的去世最让你难过？"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/DG1Ua0Pavgr22j_26kO0KQ",
-          "author": null,
-          "description": "今日最佳：你哄人时的样子。",
-          "link": "https://mp.weixin.qq.com/s/DG1Ua0Pavgr22j_26kO0KQ",
-          "publishedOn": "2021-09-24T16:33:14.000Z",
-          "wordCount": 54,
-          "title": "今日最佳：你哄人时的样子。"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/eOHP47ZefUK2RN0hZ5LJsw",
-          "author": null,
-          "description": "国庆回家，空姐夸我呼噜打得真响。",
-          "link": "https://mp.weixin.qq.com/s/eOHP47ZefUK2RN0hZ5LJsw",
-          "publishedOn": "2021-09-24T16:33:14.000Z",
-          "wordCount": 108,
-          "title": "国庆回家，空姐夸我呼噜打得真响。"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/cIIgKaBL3npDdLHBtNRGUA",
-          "author": null,
-          "description": "这款开源的免费软件，帮我省了一大笔钱！",
-          "link": "https://mp.weixin.qq.com/s/cIIgKaBL3npDdLHBtNRGUA",
-          "publishedOn": "2021-09-24T16:33:14.000Z",
-          "wordCount": 96,
-          "title": "这款开源的免费软件，帮我省了一大笔钱！"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/INNxBRX8P-U6FZcI6B02pg",
-          "author": null,
-          "description": "曾经的中国第二大搜索引擎，被腾讯用钞能力收购了。",
-          "link": "https://mp.weixin.qq.com/s/INNxBRX8P-U6FZcI6B02pg",
-          "publishedOn": "2021-09-24T16:33:14.000Z",
-          "wordCount": 160,
-          "title": "曾经的中国第二大搜索引擎，被腾讯用钞能力收购了。"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/OgOK6dubRoLmduzfaJLy3w",
-          "author": null,
-          "description": "华为将发布全新操作系统，欧盟提议所有移动设备使用C口，顺丰下架签收确认产品，小红书抖音处理佛媛相关内容，这就是今天的其他大新闻！",
-          "link": "https://mp.weixin.qq.com/s/OgOK6dubRoLmduzfaJLy3w",
-          "publishedOn": "2021-09-23T16:33:34.000Z",
-          "wordCount": 159,
-          "title": "华为将发布全新操作系统，欧盟提议所有移动设备使用C口，顺丰下架签收确认产品，小红书抖音处理佛媛相关内容，这就是今天的其他大新闻！"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/omNof9we3kfnHolRrGw_Yg",
-          "author": null,
-          "description": "聊一聊：有哪些你攒钱准备买的东西？",
-          "link": "https://mp.weixin.qq.com/s/omNof9we3kfnHolRrGw_Yg",
-          "publishedOn": "2021-09-23T16:33:34.000Z",
-          "wordCount": 53,
-          "title": "聊一聊：有哪些你攒钱准备买的东西？"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/1DjkIrJ0Jouw-Y0FEzMWZw",
-          "author": null,
-          "description": "今日最佳：论成长环境的重要性。",
-          "link": "https://mp.weixin.qq.com/s/1DjkIrJ0Jouw-Y0FEzMWZw",
-          "publishedOn": "2021-09-23T16:33:34.000Z",
-          "wordCount": 54,
-          "title": "今日最佳：论成长环境的重要性。"
         }
       ]
     },
@@ -998,6 +989,24 @@
       "feedUrl": "https://api.feeddd.org/feeds/611f8d8865d23936d94a4889",
       "siteUrl": "https://mp.weixin.qq.com",
       "articles": [
+        {
+          "id": "https://mp.weixin.qq.com/s/1KBpoxJ50f54dINCu2_lYQ",
+          "author": null,
+          "description": "《生物学哲学》教学大纲",
+          "link": "https://mp.weixin.qq.com/s/1KBpoxJ50f54dINCu2_lYQ",
+          "publishedOn": "2021-10-09T15:14:34.000Z",
+          "wordCount": 568,
+          "title": "《生物学哲学》教学大纲"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/O3hjr_OnO_k7XC35o-viAA",
+          "author": null,
+          "description": "跨性 / 跨性别，一种身体性的成为：重新思考多样而非二分的生物性（下）",
+          "link": "https://mp.weixin.qq.com/s/O3hjr_OnO_k7XC35o-viAA",
+          "publishedOn": "2021-10-09T15:14:34.000Z",
+          "wordCount": 456,
+          "title": "跨性 / 跨性别，一种身体性的成为：重新思考多样而非二分的生物性（下）"
+        },
         {
           "id": "https://mp.weixin.qq.com/s/4M3-1z7fatp1kIJEAl_GHw",
           "author": null,
