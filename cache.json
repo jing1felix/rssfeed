@@ -36,7 +36,7 @@
           "description": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。\n周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。\n封面图\n\n10月5日，俄罗斯宇宙飞船将一名女演员（左一）和一名导演（右一）送入了国际空间站。他们将在那里停留12天，拍摄一部电影。电影讲述一个宇航员突发疾病，生命垂危，地面控制中心决定紧急派遣一名医生去治疗。（via）\n本周话题：家庭太阳能发电的春天\n最近，全国供电紧张，很多省的工业用电不够了。\n我在想，会不会因为这件事，家庭太阳能发电就要流行了。\n\n理由是这样的，这一次的供电紧张，主要原因是煤价涨了，从2021年初到现在翻了一倍。大家看下图，最后一个月（刚刚过去的9月份）的价格简直是飞涨。\n\n但是，电价没涨，火力发电厂因此陷入亏损，每发一度电都会亏钱。偏偏又遇上用电量猛增，今年前八个月，全国用电量增加了13.8%，相比之下，这个数字去年是3.1%，前年是4.5%。用电量增长太快，电厂又无力多发电，所以电就不够了。\n有的同学可能会说，火电不行，不是还有风电和光电吗？问题是它们只是一个零头，不到全部发电量的10%，根本替代不了火电，火电是绝对的大头，占到70%以上。\n而且，风电和光电不稳定，英国的北海今年突然风停了，风电急剧减少，英国的能源就紧张到90%的加油站没有汽油了。\n\n总之，要解决供电紧张，还是离不开煤炭，最简单的方法就是让煤价下跌。但是这一次，煤价很可能不会下跌。\"碳达峰、碳中和\"是国家战略，这种背景下，政府不会大量投资去增产煤炭，煤炭供应不足可能会持续下去。\n另一方面，以后用电量肯定持续增长。别的不说，全国每年新增那么多电动车，都需要用电啊，单单一台特斯拉 Model 3 的功率（220kw）大约是家用空调的100倍。马斯克最近说，美…",
           "link": "http://www.ruanyifeng.com/blog/2021/10/weekly-issue-178.html",
           "publishedOn": "2021-10-08T00:38:02.000Z",
-          "wordCount": 903,
+          "wordCount": 932,
           "title": "科技爱好者周刊（第 178 期）：家庭太阳能发电的春天"
         },
         {
@@ -82,6 +82,60 @@
       "feedUrl": "https://api.feeddd.org/feeds/6110783449ef7514d0b91ae1",
       "siteUrl": "https://mp.weixin.qq.com",
       "articles": [
+        {
+          "id": "https://mp.weixin.qq.com/s/vM-QZP06HUu3pQPpCCXy9A",
+          "author": null,
+          "description": "美团App被曝不间断定位，三星Galaxy S22机模曝光，下一代显卡接口现身，顺丰赔付协议惹争议，这就是今天的其他大新闻！",
+          "link": "https://mp.weixin.qq.com/s/vM-QZP06HUu3pQPpCCXy9A",
+          "publishedOn": "2021-10-10T16:32:48.000Z",
+          "wordCount": 187,
+          "title": "美团App被曝不间断定位，三星Galaxy S22机模曝光，下一代显卡接口现身，顺丰赔付协议惹争议，这就是今天的其他大新闻！"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/mo1ncVT4sYXUasH1gJtgHg",
+          "author": null,
+          "description": "聊一聊：除了kindle，你有哪些一直在吃灰的东西？",
+          "link": "https://mp.weixin.qq.com/s/mo1ncVT4sYXUasH1gJtgHg",
+          "publishedOn": "2021-10-10T16:32:48.000Z",
+          "wordCount": 52,
+          "title": "聊一聊：除了kindle，你有哪些一直在吃灰的东西？"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/jcxyNvW_vZXWO2xbcw_VNQ",
+          "author": null,
+          "description": "今日最佳：外国人看的大熊猫好像不太一样。",
+          "link": "https://mp.weixin.qq.com/s/jcxyNvW_vZXWO2xbcw_VNQ",
+          "publishedOn": "2021-10-10T16:32:48.000Z",
+          "wordCount": 55,
+          "title": "今日最佳：外国人看的大熊猫好像不太一样。"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/fsdYe2fZtGWhqL9OE0jxtQ",
+          "author": null,
+          "description": "2021下半年降噪蓝牙耳机怎么选？我直呼「卷得好」！",
+          "link": "https://mp.weixin.qq.com/s/fsdYe2fZtGWhqL9OE0jxtQ",
+          "publishedOn": "2021-10-10T16:32:48.000Z",
+          "wordCount": 274,
+          "title": "2021下半年降噪蓝牙耳机怎么选？我直呼「卷得好」！"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/rxG3VsuuFofiHN6TfMXAVg",
+          "author": null,
+          "description": "体验了LOL手游，我觉得这个10年老游戏又回来了。",
+          "link": "https://mp.weixin.qq.com/s/rxG3VsuuFofiHN6TfMXAVg",
+          "publishedOn": "2021-10-10T16:32:48.000Z",
+          "wordCount": 149,
+          "title": "体验了LOL手游，我觉得这个10年老游戏又回来了。"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/b2ICiK2jK40eErsOR-kqBw",
+          "author": null,
+          "description": "这个万字处罚书，不仅罚了美团34亿，还扒开了它的秘密。。。",
+          "link": "https://mp.weixin.qq.com/s/b2ICiK2jK40eErsOR-kqBw",
+          "publishedOn": "2021-10-10T16:32:48.000Z",
+          "wordCount": 258,
+          "title": "这个万字处罚书，不仅罚了美团34亿，还扒开了它的秘密。。。"
+        },
         {
           "id": "https://mp.weixin.qq.com/s/28Qy-4j0lsKXBlF2tQvRSA",
           "author": null,
@@ -927,60 +981,6 @@
           "publishedOn": "2021-09-25T21:38:53.000Z",
           "wordCount": 74,
           "title": "今日最佳：925来了，咱们简单粗暴点。"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/iOr785d7uvbFRRgXNfUcMg",
-          "author": null,
-          "description": "国庆住酒店，别让坏人钻了空子偷拍。",
-          "link": "https://mp.weixin.qq.com/s/iOr785d7uvbFRRgXNfUcMg",
-          "publishedOn": "2021-09-25T21:38:53.000Z",
-          "wordCount": 75,
-          "title": "国庆住酒店，别让坏人钻了空子偷拍。"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/RcYea3iILdMJ5GrK7vGFHg",
-          "author": null,
-          "description": "让数万人等了五年的国产像素游戏，究竟好玩在哪里？",
-          "link": "https://mp.weixin.qq.com/s/RcYea3iILdMJ5GrK7vGFHg",
-          "publishedOn": "2021-09-25T21:38:53.000Z",
-          "wordCount": 201,
-          "title": "让数万人等了五年的国产像素游戏，究竟好玩在哪里？"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/LVVCTpdbtxGURQEoUHf_CA",
-          "author": null,
-          "description": "44岁就当上总统的微博大V，竟然还是“联合国科学院”的一把手？",
-          "link": "https://mp.weixin.qq.com/s/LVVCTpdbtxGURQEoUHf_CA",
-          "publishedOn": "2021-09-25T21:38:53.000Z",
-          "wordCount": 287,
-          "title": "44岁就当上总统的微博大V，竟然还是“联合国科学院”的一把手？"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/4QUTMDOIVshrKnIB42oK7Q",
-          "author": null,
-          "description": "用二氧化碳合成淀粉？中国科学家今天靠这技术霸榜了科技圈！",
-          "link": "https://mp.weixin.qq.com/s/4QUTMDOIVshrKnIB42oK7Q",
-          "publishedOn": "2021-09-25T00:01:49.000Z",
-          "wordCount": 190,
-          "title": "用二氧化碳合成淀粉？中国科学家今天靠这技术霸榜了科技圈！"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/Q65HHa3JJoCgkGn4CLogMA",
-          "author": null,
-          "description": "微信PC自动登录开启灰度测试，数字亚运会火炬被下架，迪迦奥特曼被全网下架，欧盟将立法推动取消标配充电器，这就是今天的其他大新闻！",
-          "link": "https://mp.weixin.qq.com/s/Q65HHa3JJoCgkGn4CLogMA",
-          "publishedOn": "2021-09-24T16:33:14.000Z",
-          "wordCount": 128,
-          "title": "微信PC自动登录开启灰度测试，数字亚运会火炬被下架，迪迦奥特曼被全网下架，欧盟将立法推动取消标配充电器，这就是今天的其他大新闻！"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/izdyvfnTluUZi18cMYkYPQ",
-          "author": null,
-          "description": "聊一聊：哪个角色的去世最让你难过？",
-          "link": "https://mp.weixin.qq.com/s/izdyvfnTluUZi18cMYkYPQ",
-          "publishedOn": "2021-09-24T16:33:14.000Z",
-          "wordCount": 53,
-          "title": "聊一聊：哪个角色的去世最让你难过？"
         }
       ]
     },
