@@ -45,7 +45,7 @@
           "description": "有时候，前端网页需要知道，用户使用的是手机浏览器还是桌面浏览器。\n本文根据 StackOverflow，整理了 JavaScript 侦测手机浏览器的五种方法。\n\n一、navigator.userAgent\n最简单的方法就是分析浏览器的 user agent 字符串，它包含了设备信息。\nJS 通过navigator.userAgent属性拿到这个字符串，只要里面包含mobi、android、iphone等关键字，就可以认定是移动设备。\n\nif (/Mobi|Android|iPhone/i.test(navigator.userAgent)) {\n  // 当前设备是移动设备\n}\n\n// 另一种写法\nif (\n  navigator.userAgent.match(/Mobi/i) ||\n  navigator.userAgent.match(/Android/i) ||\n  navigator.userAgent.match(/iPhone/i)\n) {\n  // 当前设备是移动设备\n}\n\n\n\n这种方法的优点是简单方便，缺点是不可靠，因为用户可以修改这个字符串，让手机浏览器伪装成桌面浏览器。\nChromium 系的浏览器，还有一个navigator.userAgentData属性，也是类似的作用。不同之处是它将 user agent 字符串解析为一个对象，该对象的mobile属性，返回一个布尔值，表示用户是否使用移动设备。\n\nconst isMobile = navigator.userAgentData.mobile; \n\n\n\n注意，苹果的 Safari 浏览器和 Firefox 浏览器都不支持这个属性，具体情况可以查看 Caniuse 网站。\n此外，还有一个已经废除的navigator.platform属性，所有浏览器都支持，所以也可以用。它返回一个字符串，表示用户的…",
           "link": "http://www.ruanyifeng.com/blog/2021/09/detecting-mobile-browser.html",
           "publishedOn": "2021-09-29T01:19:08.000Z",
-          "wordCount": 488,
+          "wordCount": 497,
           "title": "JavaScript 侦测手机浏览器的五种方法"
         },
         {
@@ -82,6 +82,69 @@
       "feedUrl": "https://api.feeddd.org/feeds/6110783449ef7514d0b91ae1",
       "siteUrl": "https://mp.weixin.qq.com",
       "articles": [
+        {
+          "id": "https://mp.weixin.qq.com/s/4HfGX6w9k5A0tQE5dfNqpg",
+          "author": null,
+          "description": "大众点评回应王思聪手机号被改绑，特斯拉回应车主花圈维权，微信取消外链卡片式转发，钉钉打卡作弊制作者被判，这就是今天的其他大新闻！",
+          "link": "https://mp.weixin.qq.com/s/4HfGX6w9k5A0tQE5dfNqpg",
+          "publishedOn": "2021-10-11T16:32:58.000Z",
+          "wordCount": 150,
+          "title": "大众点评回应王思聪手机号被改绑，特斯拉回应车主花圈维权，微信取消外链卡片式转发，钉钉打卡作弊制作者被判，这就是今天的其他大新闻！"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/vn5YZ3ESziT55wMxBcyoQg",
+          "author": null,
+          "description": "聊一聊：你有过什么冲动消费？",
+          "link": "https://mp.weixin.qq.com/s/vn5YZ3ESziT55wMxBcyoQg",
+          "publishedOn": "2021-10-11T16:32:58.000Z",
+          "wordCount": 53,
+          "title": "聊一聊：你有过什么冲动消费？"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/Nnh91-gCDP_kl4iZsIwQ9Q",
+          "author": null,
+          "description": "今日最佳：别用你的爱好挑战我的饭碗。",
+          "link": "https://mp.weixin.qq.com/s/Nnh91-gCDP_kl4iZsIwQ9Q",
+          "publishedOn": "2021-10-11T16:32:58.000Z",
+          "wordCount": 55,
+          "title": "今日最佳：别用你的爱好挑战我的饭碗。"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/tJeT_Ur6kBTrNRhTSNvMzA",
+          "author": null,
+          "description": "老司机用什么姿势开车最舒服？",
+          "link": "https://mp.weixin.qq.com/s/tJeT_Ur6kBTrNRhTSNvMzA",
+          "publishedOn": "2021-10-11T16:32:58.000Z",
+          "wordCount": 73,
+          "title": "老司机用什么姿势开车最舒服？"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/rQrU49eEE8YYXsbLEBMaJg",
+          "author": null,
+          "description": "我们上手了龙芯电脑，这个国产自研处理器现在好用吗？",
+          "link": "https://mp.weixin.qq.com/s/rQrU49eEE8YYXsbLEBMaJg",
+          "publishedOn": "2021-10-11T16:32:58.000Z",
+          "wordCount": 399,
+          "title": "我们上手了龙芯电脑，这个国产自研处理器现在好用吗？"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/4Rj338GI300aSY6GHB3-bw",
+          "author": null,
+          "description": "微信偷偷访问相册，这些App真的有那么叛逆吗？",
+          "link": "https://mp.weixin.qq.com/s/4Rj338GI300aSY6GHB3-bw",
+          "publishedOn": "2021-10-11T16:32:58.000Z",
+          "wordCount": 203,
+          "title": "微信偷偷访问相册，这些App真的有那么叛逆吗？"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/mZ5av2TVXdMX0jnzE62p6w",
+          "author": null,
+          "description": "种草这件事，在数码爱好者身上就会变成科工研究。。。",
+          "link": "https://mp.weixin.qq.com/s/mZ5av2TVXdMX0jnzE62p6w",
+          "publishedOn": "2021-10-11T16:32:58.000Z",
+          "wordCount": 133,
+          "title": "种草这件事，在数码爱好者身上就会变成科工研究。。。"
+        },
         {
           "id": "https://mp.weixin.qq.com/s/vM-QZP06HUu3pQPpCCXy9A",
           "author": null,
@@ -124,7 +187,7 @@
           "description": "体验了LOL手游，我觉得这个10年老游戏又回来了。",
           "link": "https://mp.weixin.qq.com/s/rxG3VsuuFofiHN6TfMXAVg",
           "publishedOn": "2021-10-10T16:32:48.000Z",
-          "wordCount": 149,
+          "wordCount": 150,
           "title": "体验了LOL手游，我觉得这个10年老游戏又回来了。"
         },
         {
@@ -918,69 +981,6 @@
           "publishedOn": "2021-09-26T16:36:50.000Z",
           "wordCount": 54,
           "title": "今日最佳：阿姨！！！！！"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/b5iBrIXdfeGcUqqDdA8dvw",
-          "author": null,
-          "description": "有话好好说，能不能别调休。。。",
-          "link": "https://mp.weixin.qq.com/s/b5iBrIXdfeGcUqqDdA8dvw",
-          "publishedOn": "2021-09-26T16:36:50.000Z",
-          "wordCount": 97,
-          "title": "有话好好说，能不能别调休。。。"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/1Ch5oKwT00hnEznW7_aoyg",
-          "author": null,
-          "description": "微信这波更新，终于可以屏蔽群聊了。",
-          "link": "https://mp.weixin.qq.com/s/1Ch5oKwT00hnEznW7_aoyg",
-          "publishedOn": "2021-09-26T16:36:50.000Z",
-          "wordCount": 116,
-          "title": "微信这波更新，终于可以屏蔽群聊了。"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/-KlcbB1BfDpRiq1B3yz-5g",
-          "author": null,
-          "description": "今年最值得买的平板，可能是这台8.3寸的iPad mini 6。",
-          "link": "https://mp.weixin.qq.com/s/-KlcbB1BfDpRiq1B3yz-5g",
-          "publishedOn": "2021-09-26T16:36:50.000Z",
-          "wordCount": 345,
-          "title": "今年最值得买的平板，可能是这台8.3寸的iPad mini 6。"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/9FJJ_7wz2ADT3mf7zI5vpQ",
-          "author": null,
-          "description": "我们买了十个行李箱，然后骑着它们在公司楼下飙车。",
-          "link": "https://mp.weixin.qq.com/s/9FJJ_7wz2ADT3mf7zI5vpQ",
-          "publishedOn": "2021-09-26T16:36:50.000Z",
-          "wordCount": 197,
-          "title": "我们买了十个行李箱，然后骑着它们在公司楼下飙车。"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/uHEDvFKUY9ZbGepZ9i9cHw",
-          "author": null,
-          "description": "孟晚舟抵深圳，部分iPhone 13手表解锁失灵，马斯克突然宣布与女友分手，华为明年推出自研编程语言，这就是今天的其他大新闻！",
-          "link": "https://mp.weixin.qq.com/s/uHEDvFKUY9ZbGepZ9i9cHw",
-          "publishedOn": "2021-09-25T21:38:53.000Z",
-          "wordCount": 174,
-          "title": "孟晚舟抵深圳，部分iPhone 13手表解锁失灵，马斯克突然宣布与女友分手，华为明年推出自研编程语言，这就是今天的其他大新闻！"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/eT10IAHgGPhula4sMZWAJw",
-          "author": null,
-          "description": "聊一聊：你犯过什么因为记性差而导致的乌龙？",
-          "link": "https://mp.weixin.qq.com/s/eT10IAHgGPhula4sMZWAJw",
-          "publishedOn": "2021-09-25T21:38:53.000Z",
-          "wordCount": 52,
-          "title": "聊一聊：你犯过什么因为记性差而导致的乌龙？"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/q3EuK2AzaCgWfNKOMED81g",
-          "author": null,
-          "description": "今日最佳：925来了，咱们简单粗暴点。",
-          "link": "https://mp.weixin.qq.com/s/q3EuK2AzaCgWfNKOMED81g",
-          "publishedOn": "2021-09-25T21:38:53.000Z",
-          "wordCount": 74,
-          "title": "今日最佳：925来了，咱们简单粗暴点。"
         }
       ]
     },
