@@ -36,7 +36,7 @@
           "description": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。\n周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。\n封面图\n\n10月5日，俄罗斯宇宙飞船将一名女演员（左一）和一名导演（右一）送入了国际空间站。他们将在那里停留12天，拍摄一部电影。电影讲述一个宇航员突发疾病，生命垂危，地面控制中心决定紧急派遣一名医生去治疗。（via）\n本周话题：家庭太阳能发电的春天\n最近，全国供电紧张，很多省的工业用电不够了。\n我在想，会不会因为这件事，家庭太阳能发电就要流行了。\n\n理由是这样的，这一次的供电紧张，主要原因是煤价涨了，从2021年初到现在翻了一倍。大家看下图，最后一个月（刚刚过去的9月份）的价格简直是飞涨。\n\n但是，电价没涨，火力发电厂因此陷入亏损，每发一度电都会亏钱。偏偏又遇上用电量猛增，今年前八个月，全国用电量增加了13.8%，相比之下，这个数字去年是3.1%，前年是4.5%。用电量增长太快，电厂又无力多发电，所以电就不够了。\n有的同学可能会说，火电不行，不是还有风电和光电吗？问题是它们只是一个零头，不到全部发电量的10%，根本替代不了火电，火电是绝对的大头，占到70%以上。\n而且，风电和光电不稳定，英国的北海今年突然风停了，风电急剧减少，英国的能源就紧张到90%的加油站没有汽油了。\n\n总之，要解决供电紧张，还是离不开煤炭，最简单的方法就是让煤价下跌。但是这一次，煤价很可能不会下跌。\"碳达峰、碳中和\"是国家战略，这种背景下，政府不会大量投资去增产煤炭，煤炭供应不足可能会持续下去。\n另一方面，以后用电量肯定持续增长。别的不说，全国每年新增那么多电动车，都需要用电啊，单单一台特斯拉 Model 3 的功率（220kw）大约是家用空调的100倍。马斯克最近说，美…",
           "link": "http://www.ruanyifeng.com/blog/2021/10/weekly-issue-178.html",
           "publishedOn": "2021-10-08T00:38:02.000Z",
-          "wordCount": 932,
+          "wordCount": 966,
           "title": "科技爱好者周刊（第 178 期）：家庭太阳能发电的春天"
         },
         {
@@ -45,7 +45,7 @@
           "description": "有时候，前端网页需要知道，用户使用的是手机浏览器还是桌面浏览器。\n本文根据 StackOverflow，整理了 JavaScript 侦测手机浏览器的五种方法。\n\n一、navigator.userAgent\n最简单的方法就是分析浏览器的 user agent 字符串，它包含了设备信息。\nJS 通过navigator.userAgent属性拿到这个字符串，只要里面包含mobi、android、iphone等关键字，就可以认定是移动设备。\n\nif (/Mobi|Android|iPhone/i.test(navigator.userAgent)) {\n  // 当前设备是移动设备\n}\n\n// 另一种写法\nif (\n  navigator.userAgent.match(/Mobi/i) ||\n  navigator.userAgent.match(/Android/i) ||\n  navigator.userAgent.match(/iPhone/i)\n) {\n  // 当前设备是移动设备\n}\n\n\n\n这种方法的优点是简单方便，缺点是不可靠，因为用户可以修改这个字符串，让手机浏览器伪装成桌面浏览器。\nChromium 系的浏览器，还有一个navigator.userAgentData属性，也是类似的作用。不同之处是它将 user agent 字符串解析为一个对象，该对象的mobile属性，返回一个布尔值，表示用户是否使用移动设备。\n\nconst isMobile = navigator.userAgentData.mobile; \n\n\n\n注意，苹果的 Safari 浏览器和 Firefox 浏览器都不支持这个属性，具体情况可以查看 Caniuse 网站。\n此外，还有一个已经废除的navigator.platform属性，所有浏览器都支持，所以也可以用。它返回一个字符串，表示用户的…",
           "link": "http://www.ruanyifeng.com/blog/2021/09/detecting-mobile-browser.html",
           "publishedOn": "2021-09-29T01:19:08.000Z",
-          "wordCount": 497,
+          "wordCount": 488,
           "title": "JavaScript 侦测手机浏览器的五种方法"
         },
         {
@@ -54,7 +54,7 @@
           "description": "这里记录每周值得分享的科技内容，周五发布。（[通知] 下周五是十一假期，周刊暂停一期。）\n本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。\n周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。\n封面图\n\n23岁的宁夏青年董书畅，今年6月份在西藏阿里地区，拍到了一张完美的日环食照片。最近获得了英国格林威治天文台评选的2021年天文摄影冠军照片。（via）\n本周话题：iPad 的真正用途\n大家的平板电脑，都用来干嘛？\n根据我的观察，第一位的用途都是看视频，其次是玩游戏。\n\n如果有人说，平板电脑是生产力工具，那属于胡说。无论是学习和工作，它远远不如笔记本电脑好用和强大。\n我曾经幻想，外出时使用平板电脑开发。结果发现根本不可行，要什么缺什么，开发体验极差，最多只能紧急时登录服务器，或者偶尔改一下仓库代码。\n但是，我最近发现有一个用途，平板电脑大大强于笔记本，几乎可以说，是为这种用途量身定制的工具。\n那就是普通人的视频处理。\n\n专业级别的视频处理，平板电脑肯定是不行的。但是，普通人偶尔剪剪视频，它真的是利器，尤其是 iPad pro。\n我使用 GoPro 拍摄旅游视频，每次要导入桌面设备处理，非常麻烦。要是身边没有笔记本电脑，就只能等到旅行结束再说。手机倒是可以剪视频，但是对于 2K 或 4K 分辨率，处理起来很慢。\n\n今年上半年，苹果公司发布了新的 M1 架构的 iPad Pro。我眼前一亮，这个硬件配置跟 Mac mini 是一样的，而我们已经知道，后者的视频处理能力很强。\n而且，iPad Pro 采用 Type-C 接口，可以直接连移动硬盘，导出文件。它的大屏也适合视频预览。总之，种种特点都表明这个设备特别适合视频处理。\n\n入手以后，经过几个月的试用，它的表现跟我预想的基本一样，现场拍完就能剪…",
           "link": "http://www.ruanyifeng.com/blog/2021/09/weekly-issue-177.html",
           "publishedOn": "2021-09-24T00:31:18.000Z",
-          "wordCount": 968,
+          "wordCount": 979,
           "title": "科技爱好者周刊（第 177 期）：iPad 的真正用途"
         },
         {
@@ -82,6 +82,69 @@
       "feedUrl": "https://api.feeddd.org/feeds/6110783449ef7514d0b91ae1",
       "siteUrl": "https://mp.weixin.qq.com",
       "articles": [
+        {
+          "id": "https://mp.weixin.qq.com/s/-8hvWPw331DIAWpH2_wUVg",
+          "author": null,
+          "description": "金山毒霸就内容推送问题致歉，荣耀谷歌恢复合作，俞敏洪回应搞钱视频，12306称抢票加速包无优先抢票权，这就是今天的其他大新闻！",
+          "link": "https://mp.weixin.qq.com/s/-8hvWPw331DIAWpH2_wUVg",
+          "publishedOn": "2021-10-12T16:33:07.000Z",
+          "wordCount": 134,
+          "title": "金山毒霸就内容推送问题致歉，荣耀谷歌恢复合作，俞敏洪回应搞钱视频，12306称抢票加速包无优先抢票权，这就是今天的其他大新闻！"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/fr498Zp21kANOn1mD-FolA",
+          "author": null,
+          "description": "聊一聊：你参加过什么东西的预购？",
+          "link": "https://mp.weixin.qq.com/s/fr498Zp21kANOn1mD-FolA",
+          "publishedOn": "2021-10-12T16:33:07.000Z",
+          "wordCount": 53,
+          "title": "聊一聊：你参加过什么东西的预购？"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/6a_Oms1rPExIUFtJVi_v3g",
+          "author": null,
+          "description": "今日最佳：嫌弃，懂？",
+          "link": "https://mp.weixin.qq.com/s/6a_Oms1rPExIUFtJVi_v3g",
+          "publishedOn": "2021-10-12T16:33:07.000Z",
+          "wordCount": 55,
+          "title": "今日最佳：嫌弃，懂？"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/iRjXBYyjKiY6vIXLhf3zaw",
+          "author": null,
+          "description": "刮了刮我脸上的油，老妈说能炒三盘菜。",
+          "link": "https://mp.weixin.qq.com/s/iRjXBYyjKiY6vIXLhf3zaw",
+          "publishedOn": "2021-10-12T16:33:07.000Z",
+          "wordCount": 70,
+          "title": "刮了刮我脸上的油，老妈说能炒三盘菜。"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/wJP2Tp_BXUN9QedxQcm2Vw",
+          "author": null,
+          "description": "摄影大赛结果出炉！这届差友越来越会拍了！",
+          "link": "https://mp.weixin.qq.com/s/wJP2Tp_BXUN9QedxQcm2Vw",
+          "publishedOn": "2021-10-12T16:33:07.000Z",
+          "wordCount": 155,
+          "title": "摄影大赛结果出炉！这届差友越来越会拍了！"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/1PsrRL8F1zV5OO8ojTRPzw",
+          "author": null,
+          "description": "这个国庆，让我深刻地意识到，电动车为什么是「爹」。",
+          "link": "https://mp.weixin.qq.com/s/1PsrRL8F1zV5OO8ojTRPzw",
+          "publishedOn": "2021-10-12T16:33:07.000Z",
+          "wordCount": 190,
+          "title": "这个国庆，让我深刻地意识到，电动车为什么是「爹」。"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/Gv7Ec2O8rwX7KmspkXjF5A",
+          "author": null,
+          "description": "消防车屁股上的导弹，原来真的可以发射出去？",
+          "link": "https://mp.weixin.qq.com/s/Gv7Ec2O8rwX7KmspkXjF5A",
+          "publishedOn": "2021-10-12T16:33:07.000Z",
+          "wordCount": 155,
+          "title": "消防车屁股上的导弹，原来真的可以发射出去？"
+        },
         {
           "id": "https://mp.weixin.qq.com/s/4HfGX6w9k5A0tQE5dfNqpg",
           "author": null,
@@ -918,69 +981,6 @@
           "publishedOn": "2021-09-27T16:33:36.000Z",
           "wordCount": 54,
           "title": "今日最佳：如何收获一些同事。"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/OKeCG1-aEeP-mSqg99EXrw",
-          "author": null,
-          "description": "果然没有一个男人，能抵挡住挖掘机的诱惑！",
-          "link": "https://mp.weixin.qq.com/s/OKeCG1-aEeP-mSqg99EXrw",
-          "publishedOn": "2021-09-27T16:33:36.000Z",
-          "wordCount": 109,
-          "title": "果然没有一个男人，能抵挡住挖掘机的诱惑！"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/O7BkQFH0jKQiisuXT7ZhSw",
-          "author": null,
-          "description": "没想到我被一群野生动物，承包了一年的笑点。",
-          "link": "https://mp.weixin.qq.com/s/O7BkQFH0jKQiisuXT7ZhSw",
-          "publishedOn": "2021-09-27T16:33:36.000Z",
-          "wordCount": 161,
-          "title": "没想到我被一群野生动物，承包了一年的笑点。"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/ExJx1G6l4NhPpcZkK6k4qA",
-          "author": null,
-          "description": "一个只会麻烦你的APP，为什么能感动那么多网友？",
-          "link": "https://mp.weixin.qq.com/s/ExJx1G6l4NhPpcZkK6k4qA",
-          "publishedOn": "2021-09-27T16:33:36.000Z",
-          "wordCount": 148,
-          "title": "一个只会麻烦你的APP，为什么能感动那么多网友？"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/mYngUMCshsELTPIgI-os7g",
-          "author": null,
-          "description": "为了玩《原神》，一些老外居然开始学中国话了？",
-          "link": "https://mp.weixin.qq.com/s/mYngUMCshsELTPIgI-os7g",
-          "publishedOn": "2021-09-27T16:33:36.000Z",
-          "wordCount": 327,
-          "title": "为了玩《原神》，一些老外居然开始学中国话了？"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/flLnqbhMqzRQEJSJG2z-uw",
-          "author": null,
-          "description": "国家电网回应东北停电，四平台回应下架迪迦，客服回应iPad mini 6果冻屏，火币将清退中国大陆用户，这就是今天的其他大新闻！",
-          "link": "https://mp.weixin.qq.com/s/flLnqbhMqzRQEJSJG2z-uw",
-          "publishedOn": "2021-09-26T16:36:50.000Z",
-          "wordCount": 135,
-          "title": "国家电网回应东北停电，四平台回应下架迪迦，客服回应iPad mini 6果冻屏，火币将清退中国大陆用户，这就是今天的其他大新闻！"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/QpiVbA5oE_a2RhrLxBV6gw",
-          "author": null,
-          "description": "聊一聊：你觉得手头的外设，哪个性价比最高？",
-          "link": "https://mp.weixin.qq.com/s/QpiVbA5oE_a2RhrLxBV6gw",
-          "publishedOn": "2021-09-26T16:36:50.000Z",
-          "wordCount": 53,
-          "title": "聊一聊：你觉得手头的外设，哪个性价比最高？"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/unC8rcZmbNmjc6h7UFX9iQ",
-          "author": null,
-          "description": "今日最佳：阿姨！！！！！",
-          "link": "https://mp.weixin.qq.com/s/unC8rcZmbNmjc6h7UFX9iQ",
-          "publishedOn": "2021-09-26T16:36:50.000Z",
-          "wordCount": 54,
-          "title": "今日最佳：阿姨！！！！！"
         }
       ]
     },
