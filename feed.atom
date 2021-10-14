@@ -1,10 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-10-13T00:59:35.898Z</id>
+    <id>urn:2021-10-14T00:56:49.918Z</id>
     <title>osmos::feed</title>
-    <updated>2021-10-13T00:59:35.898Z</updated>
+    <updated>2021-10-14T00:56:49.918Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[阿伦特与阿尔多诺：虚假普遍性与本雅明时刻 / 翻译]]></title>
+        <id>https://mp.weixin.qq.com/s/U25Sx9wQ4wDo_5JKebjF8w</id>
+        <link href="https://mp.weixin.qq.com/s/U25Sx9wQ4wDo_5JKebjF8w"/>
+        <updated>2021-10-13T16:38:29.000Z</updated>
+        <summary type="html"><![CDATA[阿伦特与阿尔多诺：虚假普遍性与本雅明时刻 / 翻译]]></summary>
+        <author>
+            <name>Philosophia 哲学社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英雄联盟回应手游小程序被封，苹果发布会官宣，蔚来回应导航界面弹广告，第二批电子驾驶证上线，这就是今天的其他大新闻！]]></title>
+        <id>https://mp.weixin.qq.com/s/uovXuM4B8odNqHH9vXZQqQ</id>
+        <link href="https://mp.weixin.qq.com/s/uovXuM4B8odNqHH9vXZQqQ"/>
+        <updated>2021-10-13T16:33:15.000Z</updated>
+        <summary type="html"><![CDATA[英雄联盟回应手游小程序被封，苹果发布会官宣，蔚来回应导航界面弹广告，第二批电子驾驶证上线，这就是今天的其他大新闻！]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[聊一聊：你有没有什么皮一下，结果皮出事的经历？]]></title>
+        <id>https://mp.weixin.qq.com/s/Ta7-c6NNFr7tvcMTqddFSw</id>
+        <link href="https://mp.weixin.qq.com/s/Ta7-c6NNFr7tvcMTqddFSw"/>
+        <updated>2021-10-13T16:33:15.000Z</updated>
+        <summary type="html"><![CDATA[聊一聊：你有没有什么皮一下，结果皮出事的经历？]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今日最佳：如何一个字气死别人。]]></title>
+        <id>https://mp.weixin.qq.com/s/ktj2ToU9nSOUJ5YK9W80bg</id>
+        <link href="https://mp.weixin.qq.com/s/ktj2ToU9nSOUJ5YK9W80bg"/>
+        <updated>2021-10-13T16:33:14.000Z</updated>
+        <summary type="html"><![CDATA[今日最佳：如何一个字气死别人。]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吃肉俱乐部，秘密会员们请进。]]></title>
+        <id>https://mp.weixin.qq.com/s/7dKH-nWvQPhI-_qZh-2UlQ</id>
+        <link href="https://mp.weixin.qq.com/s/7dKH-nWvQPhI-_qZh-2UlQ"/>
+        <updated>2021-10-13T16:33:14.000Z</updated>
+        <summary type="html"><![CDATA[吃肉俱乐部，秘密会员们请进。]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一天三场的手机发布会，真的把我看累了。]]></title>
+        <id>https://mp.weixin.qq.com/s/_6Fs7VBWwLxH5vNPTXBHDw</id>
+        <link href="https://mp.weixin.qq.com/s/_6Fs7VBWwLxH5vNPTXBHDw"/>
+        <updated>2021-10-13T16:33:14.000Z</updated>
+        <summary type="html"><![CDATA[一天三场的手机发布会，真的把我看累了。]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[门票免费领，这场干货满满的科技盛会让人一本满足。]]></title>
+        <id>https://mp.weixin.qq.com/s/R_sMmCHtClGlu1qPnvmqCw</id>
+        <link href="https://mp.weixin.qq.com/s/R_sMmCHtClGlu1qPnvmqCw"/>
+        <updated>2021-10-13T16:33:14.000Z</updated>
+        <summary type="html"><![CDATA[门票免费领，这场干货满满的科技盛会让人一本满足。]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为了反抗“996”，四个95后年轻人做了个“公司作息表”]]></title>
+        <id>https://mp.weixin.qq.com/s/tlGXW_LD9M9RIuzCDtNeFg</id>
+        <link href="https://mp.weixin.qq.com/s/tlGXW_LD9M9RIuzCDtNeFg"/>
+        <updated>2021-10-13T16:33:14.000Z</updated>
+        <summary type="html"><![CDATA[为了反抗“996”，四个95后年轻人做了个“公司作息表”]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[金山毒霸就内容推送问题致歉，荣耀谷歌恢复合作，俞敏洪回应搞钱视频，12306称抢票加速包无优先抢票权，这就是今天的其他大新闻！]]></title>
         <id>https://mp.weixin.qq.com/s/-8hvWPw331DIAWpH2_wUVg</id>
@@ -1050,76 +1130,6 @@ const isMobile = navigator.userAgentData.mobile;
         <link href="https://mp.weixin.qq.com/s/-nJmTwq9iuL5bMsH-ZYCXA"/>
         <updated>2021-09-28T22:03:41.000Z</updated>
         <summary type="html"><![CDATA[今日最佳：咖啡提神的原理。]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「淘宝丑东西评选赛」提名的它，居然还能俘获萌妹的心？]]></title>
-        <id>https://mp.weixin.qq.com/s/OloPDUPrY4lAm88IsGymqw</id>
-        <link href="https://mp.weixin.qq.com/s/OloPDUPrY4lAm88IsGymqw"/>
-        <updated>2021-09-28T22:03:41.000Z</updated>
-        <summary type="html"><![CDATA[「淘宝丑东西评选赛」提名的它，居然还能俘获萌妹的心？]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[救助车祸遇难者的时候，我被“撞死”了好几次，这河里吗？]]></title>
-        <id>https://mp.weixin.qq.com/s/yK17PHMgDTqkySFEMmQqtQ</id>
-        <link href="https://mp.weixin.qq.com/s/yK17PHMgDTqkySFEMmQqtQ"/>
-        <updated>2021-09-28T22:03:41.000Z</updated>
-        <summary type="html"><![CDATA[救助车祸遇难者的时候，我被“撞死”了好几次，这河里吗？]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧盟对充电接口打出了一招制裁，苹果可能要身受重伤。。。]]></title>
-        <id>https://mp.weixin.qq.com/s/RYdwSyOMIVsnoJNEZXs2Aw</id>
-        <link href="https://mp.weixin.qq.com/s/RYdwSyOMIVsnoJNEZXs2Aw"/>
-        <updated>2021-09-28T22:03:41.000Z</updated>
-        <summary type="html"><![CDATA[欧盟对充电接口打出了一招制裁，苹果可能要身受重伤。。。]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用了5天iPhone 13 Pro以后，我想和你聊聊感受。]]></title>
-        <id>https://mp.weixin.qq.com/s/QD1C2iVx8RApKSqey7t4Iw</id>
-        <link href="https://mp.weixin.qq.com/s/QD1C2iVx8RApKSqey7t4Iw"/>
-        <updated>2021-09-28T22:03:41.000Z</updated>
-        <summary type="html"><![CDATA[用了5天iPhone 13 Pro以后，我想和你聊聊感受。]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国家电网称会保障民生用电，迪迦恢复上架，第三方换iPhone 13屏幕影响面容识别，C口将支持240W，这就是今天的其他大新闻！]]></title>
-        <id>https://mp.weixin.qq.com/s/Nh3X8uS1o39dxBp0989KtA</id>
-        <link href="https://mp.weixin.qq.com/s/Nh3X8uS1o39dxBp0989KtA"/>
-        <updated>2021-09-27T16:33:36.000Z</updated>
-        <summary type="html"><![CDATA[国家电网称会保障民生用电，迪迦恢复上架，第三方换iPhone 13屏幕影响面容识别，C口将支持240W，这就是今天的其他大新闻！]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[聊一聊：芯片短缺有对你带来直接影响吗？]]></title>
-        <id>https://mp.weixin.qq.com/s/rWAu0GdstNNKAbVUl2jiEQ</id>
-        <link href="https://mp.weixin.qq.com/s/rWAu0GdstNNKAbVUl2jiEQ"/>
-        <updated>2021-09-27T16:33:36.000Z</updated>
-        <summary type="html"><![CDATA[聊一聊：芯片短缺有对你带来直接影响吗？]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今日最佳：如何收获一些同事。]]></title>
-        <id>https://mp.weixin.qq.com/s/DiE6bKH9BW8CRlosMl9Srw</id>
-        <link href="https://mp.weixin.qq.com/s/DiE6bKH9BW8CRlosMl9Srw"/>
-        <updated>2021-09-27T16:33:36.000Z</updated>
-        <summary type="html"><![CDATA[今日最佳：如何收获一些同事。]]></summary>
         <author>
             <name>差评</name>
         </author>

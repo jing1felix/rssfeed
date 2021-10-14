@@ -36,7 +36,7 @@
           "description": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。\n周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。\n封面图\n\n10月5日，俄罗斯宇宙飞船将一名女演员（左一）和一名导演（右一）送入了国际空间站。他们将在那里停留12天，拍摄一部电影。电影讲述一个宇航员突发疾病，生命垂危，地面控制中心决定紧急派遣一名医生去治疗。（via）\n本周话题：家庭太阳能发电的春天\n最近，全国供电紧张，很多省的工业用电不够了。\n我在想，会不会因为这件事，家庭太阳能发电就要流行了。\n\n理由是这样的，这一次的供电紧张，主要原因是煤价涨了，从2021年初到现在翻了一倍。大家看下图，最后一个月（刚刚过去的9月份）的价格简直是飞涨。\n\n但是，电价没涨，火力发电厂因此陷入亏损，每发一度电都会亏钱。偏偏又遇上用电量猛增，今年前八个月，全国用电量增加了13.8%，相比之下，这个数字去年是3.1%，前年是4.5%。用电量增长太快，电厂又无力多发电，所以电就不够了。\n有的同学可能会说，火电不行，不是还有风电和光电吗？问题是它们只是一个零头，不到全部发电量的10%，根本替代不了火电，火电是绝对的大头，占到70%以上。\n而且，风电和光电不稳定，英国的北海今年突然风停了，风电急剧减少，英国的能源就紧张到90%的加油站没有汽油了。\n\n总之，要解决供电紧张，还是离不开煤炭，最简单的方法就是让煤价下跌。但是这一次，煤价很可能不会下跌。\"碳达峰、碳中和\"是国家战略，这种背景下，政府不会大量投资去增产煤炭，煤炭供应不足可能会持续下去。\n另一方面，以后用电量肯定持续增长。别的不说，全国每年新增那么多电动车，都需要用电啊，单单一台特斯拉 Model 3 的功率（220kw）大约是家用空调的100倍。马斯克最近说，美…",
           "link": "http://www.ruanyifeng.com/blog/2021/10/weekly-issue-178.html",
           "publishedOn": "2021-10-08T00:38:02.000Z",
-          "wordCount": 966,
+          "wordCount": 989,
           "title": "科技爱好者周刊（第 178 期）：家庭太阳能发电的春天"
         },
         {
@@ -63,7 +63,7 @@
           "description": "9月1日是俄罗斯的知识节，因为这一天是各级学校的开学日，象征进入知识宝库的日子。\n今年的知识节，俄罗斯总理米哈伊尔·米舒斯京（Mikhail Mishustin）来到莫斯科物理技术学院（MIPT）视察。该校是俄罗斯顶级的理工科大学，出过许多诺贝尔奖得主和著名科学家。\n\n米舒斯京总理来到新生的教室，给学生们讲话。他看到黑板上写满了数学公式，一时兴起，就上前写了一道数学题，要求大家当场解答。\n\n根据维基百科，米舒斯京生于1966年，大学专业是系统工程，主修计算机辅助设计。工作以后，还读过一个经济学博士。在担任总理之前，他是俄罗斯联邦税务局长。\n\n他出的是一道几何题，题目如下。\n给定圆上的一个点和一条直径，你能否找到一种方法，画出从该点到直径的垂直线（下图的绿线）。\n\n这道题的难点在于，你不能使用任何测量工具，唯一可以用的就是一把不带有标记的直尺。\n大家可以思考一下，这道题怎么解。\n虽然它用不到高深的数学知识，初中的几何学课程就可以解答，但也不算容易。你必须知道两个基本的几何定理，才能想出答案。\n第一个是泰勒斯定理，欧几里得《几何原本》提到过： 圆上任意一点与直径组成的三角形，是直角三角形。\n\n第二个定理是： 锐角三角形的三条高交于一点。\n\n如果你已经忘了这两个定理，可以再去看一下初中几何课本，这里就不给出证明了。\n下面我根据一个数学家写给英国《卫报》的文章，介绍如何解答这道题。\n如果你还想再思考一下，自己找到答案，那就暂时不要往下看了。我要讲答案了。\n\n第一步，在相同的半圆上，任意再找一个点。将这两个点，与直径的相邻端点连起来，连线延长后可以形成一个三角形。\n上图中，圆周上的两个点与直径组成的，都是直角三角形。它们可以看作直径的两个端点到绿边的两条高。\n\n第二步，上一步的两条高产生了一个交点，将这个交点与三角形的外部顶点连起来，延长后与直径相交。\n根据三角形的三条高交于一点，可以知道，上图的绿线是直径的一条垂直线。后面只需要找到它的平行线，穿过红点即可。\n\n第三步，上一步的绿线与圆周有一个交点，将这个交点与红点连起来，延长后与直径相交（上图的第一个绿点）。\n同时，将上一步的垂直线延长，与另一侧的圆周相交，产生一个交点（上图的第二个绿点）。\n\n第四步，将上一步的两个绿点连起来，这条线会与圆周产生一个交点（上图的绿点）。\n再将绿点与红点连起来（上图的黄线），这就是我们所要寻找的答案：红点到直径的垂直线。\n这是因为上图的两条绿边与第二步的垂直线，形成了一个等腰三角形，原始的那条直径就是等腰三角形顶点到底边的高。这意味着，红点与绿点是对称的，它们的连线平行于底边，所以垂直于高（直径）。\n至此，整道题解答完毕。\n\n\n米舒斯京总理在黑板上画完解题过程后，对学生们说：\n\"你们会在大学里面，学到数学、物理、化学知识，但是不要忘了那些基础知识。基础知识与专业知识结合起来，你就能解决任何问题，不仅是科学问题，也包括商业问题。\"\n（完）\n文档信息\n版权声明：自由转载-非商用-非衍生-保持署名（创意共享3.0许可证）\n发表日期： 2021年9月22日",
           "link": "http://www.ruanyifeng.com/blog/2021/09/geometry-puzzle.html",
           "publishedOn": "2021-09-22T00:16:25.000Z",
-          "wordCount": 409,
+          "wordCount": 418,
           "title": "俄罗斯总理的几何题"
         },
         {
@@ -82,6 +82,69 @@
       "feedUrl": "https://api.feeddd.org/feeds/6110783449ef7514d0b91ae1",
       "siteUrl": "https://mp.weixin.qq.com",
       "articles": [
+        {
+          "id": "https://mp.weixin.qq.com/s/uovXuM4B8odNqHH9vXZQqQ",
+          "author": null,
+          "description": "英雄联盟回应手游小程序被封，苹果发布会官宣，蔚来回应导航界面弹广告，第二批电子驾驶证上线，这就是今天的其他大新闻！",
+          "link": "https://mp.weixin.qq.com/s/uovXuM4B8odNqHH9vXZQqQ",
+          "publishedOn": "2021-10-13T16:33:15.000Z",
+          "wordCount": 150,
+          "title": "英雄联盟回应手游小程序被封，苹果发布会官宣，蔚来回应导航界面弹广告，第二批电子驾驶证上线，这就是今天的其他大新闻！"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/Ta7-c6NNFr7tvcMTqddFSw",
+          "author": null,
+          "description": "聊一聊：你有没有什么皮一下，结果皮出事的经历？",
+          "link": "https://mp.weixin.qq.com/s/Ta7-c6NNFr7tvcMTqddFSw",
+          "publishedOn": "2021-10-13T16:33:15.000Z",
+          "wordCount": 53,
+          "title": "聊一聊：你有没有什么皮一下，结果皮出事的经历？"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/ktj2ToU9nSOUJ5YK9W80bg",
+          "author": null,
+          "description": "今日最佳：如何一个字气死别人。",
+          "link": "https://mp.weixin.qq.com/s/ktj2ToU9nSOUJ5YK9W80bg",
+          "publishedOn": "2021-10-13T16:33:14.000Z",
+          "wordCount": 54,
+          "title": "今日最佳：如何一个字气死别人。"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/7dKH-nWvQPhI-_qZh-2UlQ",
+          "author": null,
+          "description": "吃肉俱乐部，秘密会员们请进。",
+          "link": "https://mp.weixin.qq.com/s/7dKH-nWvQPhI-_qZh-2UlQ",
+          "publishedOn": "2021-10-13T16:33:14.000Z",
+          "wordCount": 117,
+          "title": "吃肉俱乐部，秘密会员们请进。"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/_6Fs7VBWwLxH5vNPTXBHDw",
+          "author": null,
+          "description": "一天三场的手机发布会，真的把我看累了。",
+          "link": "https://mp.weixin.qq.com/s/_6Fs7VBWwLxH5vNPTXBHDw",
+          "publishedOn": "2021-10-13T16:33:14.000Z",
+          "wordCount": 279,
+          "title": "一天三场的手机发布会，真的把我看累了。"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/R_sMmCHtClGlu1qPnvmqCw",
+          "author": null,
+          "description": "门票免费领，这场干货满满的科技盛会让人一本满足。",
+          "link": "https://mp.weixin.qq.com/s/R_sMmCHtClGlu1qPnvmqCw",
+          "publishedOn": "2021-10-13T16:33:14.000Z",
+          "wordCount": 123,
+          "title": "门票免费领，这场干货满满的科技盛会让人一本满足。"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/tlGXW_LD9M9RIuzCDtNeFg",
+          "author": null,
+          "description": "为了反抗“996”，四个95后年轻人做了个“公司作息表”",
+          "link": "https://mp.weixin.qq.com/s/tlGXW_LD9M9RIuzCDtNeFg",
+          "publishedOn": "2021-10-13T16:33:14.000Z",
+          "wordCount": 221,
+          "title": "为了反抗“996”，四个95后年轻人做了个“公司作息表”"
+        },
         {
           "id": "https://mp.weixin.qq.com/s/-8hvWPw331DIAWpH2_wUVg",
           "author": null,
@@ -918,69 +981,6 @@
           "publishedOn": "2021-09-28T22:03:41.000Z",
           "wordCount": 54,
           "title": "今日最佳：咖啡提神的原理。"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/OloPDUPrY4lAm88IsGymqw",
-          "author": null,
-          "description": "「淘宝丑东西评选赛」提名的它，居然还能俘获萌妹的心？",
-          "link": "https://mp.weixin.qq.com/s/OloPDUPrY4lAm88IsGymqw",
-          "publishedOn": "2021-09-28T22:03:41.000Z",
-          "wordCount": 118,
-          "title": "「淘宝丑东西评选赛」提名的它，居然还能俘获萌妹的心？"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/yK17PHMgDTqkySFEMmQqtQ",
-          "author": null,
-          "description": "救助车祸遇难者的时候，我被“撞死”了好几次，这河里吗？",
-          "link": "https://mp.weixin.qq.com/s/yK17PHMgDTqkySFEMmQqtQ",
-          "publishedOn": "2021-09-28T22:03:41.000Z",
-          "wordCount": 93,
-          "title": "救助车祸遇难者的时候，我被“撞死”了好几次，这河里吗？"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/RYdwSyOMIVsnoJNEZXs2Aw",
-          "author": null,
-          "description": "欧盟对充电接口打出了一招制裁，苹果可能要身受重伤。。。",
-          "link": "https://mp.weixin.qq.com/s/RYdwSyOMIVsnoJNEZXs2Aw",
-          "publishedOn": "2021-09-28T22:03:41.000Z",
-          "wordCount": 223,
-          "title": "欧盟对充电接口打出了一招制裁，苹果可能要身受重伤。。。"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/QD1C2iVx8RApKSqey7t4Iw",
-          "author": null,
-          "description": "用了5天iPhone 13 Pro以后，我想和你聊聊感受。",
-          "link": "https://mp.weixin.qq.com/s/QD1C2iVx8RApKSqey7t4Iw",
-          "publishedOn": "2021-09-28T22:03:41.000Z",
-          "wordCount": 365,
-          "title": "用了5天iPhone 13 Pro以后，我想和你聊聊感受。"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/Nh3X8uS1o39dxBp0989KtA",
-          "author": null,
-          "description": "国家电网称会保障民生用电，迪迦恢复上架，第三方换iPhone 13屏幕影响面容识别，C口将支持240W，这就是今天的其他大新闻！",
-          "link": "https://mp.weixin.qq.com/s/Nh3X8uS1o39dxBp0989KtA",
-          "publishedOn": "2021-09-27T16:33:36.000Z",
-          "wordCount": 137,
-          "title": "国家电网称会保障民生用电，迪迦恢复上架，第三方换iPhone 13屏幕影响面容识别，C口将支持240W，这就是今天的其他大新闻！"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/rWAu0GdstNNKAbVUl2jiEQ",
-          "author": null,
-          "description": "聊一聊：芯片短缺有对你带来直接影响吗？",
-          "link": "https://mp.weixin.qq.com/s/rWAu0GdstNNKAbVUl2jiEQ",
-          "publishedOn": "2021-09-27T16:33:36.000Z",
-          "wordCount": 53,
-          "title": "聊一聊：芯片短缺有对你带来直接影响吗？"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/DiE6bKH9BW8CRlosMl9Srw",
-          "author": null,
-          "description": "今日最佳：如何收获一些同事。",
-          "link": "https://mp.weixin.qq.com/s/DiE6bKH9BW8CRlosMl9Srw",
-          "publishedOn": "2021-09-27T16:33:36.000Z",
-          "wordCount": 54,
-          "title": "今日最佳：如何收获一些同事。"
         }
       ]
     },
@@ -989,6 +989,15 @@
       "feedUrl": "https://api.feeddd.org/feeds/611f8d8865d23936d94a4889",
       "siteUrl": "https://mp.weixin.qq.com",
       "articles": [
+        {
+          "id": "https://mp.weixin.qq.com/s/U25Sx9wQ4wDo_5JKebjF8w",
+          "author": null,
+          "description": "阿伦特与阿尔多诺：虚假普遍性与本雅明时刻 / 翻译",
+          "link": "https://mp.weixin.qq.com/s/U25Sx9wQ4wDo_5JKebjF8w",
+          "publishedOn": "2021-10-13T16:38:29.000Z",
+          "wordCount": 94,
+          "title": "阿伦特与阿尔多诺：虚假普遍性与本雅明时刻 / 翻译"
+        },
         {
           "id": "https://mp.weixin.qq.com/s/1KBpoxJ50f54dINCu2_lYQ",
           "author": null,
