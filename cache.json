@@ -31,12 +31,21 @@
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
         {
+          "id": "http://www.ruanyifeng.com/blog/2021/10/weekly-issue-179.html",
+          "author": null,
+          "description": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。\n周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。\n封面图\n\n济宁市美术馆2019年建成，由日本建筑师设计。上图中，上方的不规则白色屋顶，就是美术馆的展厅。下方是一个公园，左侧是一个回廊步道，右侧是咖啡馆。（via）\n本周话题：AR 技术的正确打开方式\n前两天，我看到一条新闻，德国杜塞尔多夫开张了一家 AR 公园（增强现实公园）。\n表面上，这就是一家普通的公园，草地、绿树、小溪流......\n\n但是，当你打开手机 App，使用摄像头，就会看到所有场景上面，都叠加了一个虚拟层。\n天空漂浮着奇怪的生物。\n\n道路上有充气路障。\n\n长椅上坐着一个不存在的人。\n\n游客可以探索这些虚拟对象，也可以根据提示，完成指定任务，解锁关卡。\n新闻说，这个公园一共部署了35个 AR 应用，其中13个是免费作品，其余22个必须付费4.99欧元才能激活，相当于公园门票了。\n我觉得，这个主意太好了，值得借鉴。\n城市公园改建为 AR 游戏场，这才是 AR 技术的正确打开方式。 公园还是那个公园，什么都没变，但是加入了电子游戏的成分。这里最关键的一点是，AR 就是应该在室外玩。\n仔细想一下，你会发现，绝大多数电子游戏只适合在室内玩，但是 AR 可以在室外玩，而且室外比室内好玩得多。\n这是因为 AR 是部分虚拟、部分现实，虚拟层需要叠加在现实层之上，如果现实空间太小、太单调，就不可能设计出好玩的 AR 应用。目前，国内影响最大的 AR 应用，就是支付宝\"集五福\"的室内找\"福\"字，这个游戏非常乏味，原因就在这里，室内很难想出好玩的玩法。\n\n相反的，室外可以叠加寻宝、解谜、打卡等多种手段，还能跟虚拟对象互动，可玩性大大增强。国外的 A…",
+          "link": "http://www.ruanyifeng.com/blog/2021/10/weekly-issue-179.html",
+          "publishedOn": "2021-10-15T00:37:00.000Z",
+          "wordCount": 506,
+          "title": "科技爱好者周刊（第 179 期）：AR 技术的打开方式"
+        },
+        {
           "id": "http://www.ruanyifeng.com/blog/2021/10/weekly-issue-178.html",
           "author": null,
           "description": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。\n周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。\n封面图\n\n10月5日，俄罗斯宇宙飞船将一名女演员（左一）和一名导演（右一）送入了国际空间站。他们将在那里停留12天，拍摄一部电影。电影讲述一个宇航员突发疾病，生命垂危，地面控制中心决定紧急派遣一名医生去治疗。（via）\n本周话题：家庭太阳能发电的春天\n最近，全国供电紧张，很多省的工业用电不够了。\n我在想，会不会因为这件事，家庭太阳能发电就要流行了。\n\n理由是这样的，这一次的供电紧张，主要原因是煤价涨了，从2021年初到现在翻了一倍。大家看下图，最后一个月（刚刚过去的9月份）的价格简直是飞涨。\n\n但是，电价没涨，火力发电厂因此陷入亏损，每发一度电都会亏钱。偏偏又遇上用电量猛增，今年前八个月，全国用电量增加了13.8%，相比之下，这个数字去年是3.1%，前年是4.5%。用电量增长太快，电厂又无力多发电，所以电就不够了。\n有的同学可能会说，火电不行，不是还有风电和光电吗？问题是它们只是一个零头，不到全部发电量的10%，根本替代不了火电，火电是绝对的大头，占到70%以上。\n而且，风电和光电不稳定，英国的北海今年突然风停了，风电急剧减少，英国的能源就紧张到90%的加油站没有汽油了。\n\n总之，要解决供电紧张，还是离不开煤炭，最简单的方法就是让煤价下跌。但是这一次，煤价很可能不会下跌。\"碳达峰、碳中和\"是国家战略，这种背景下，政府不会大量投资去增产煤炭，煤炭供应不足可能会持续下去。\n另一方面，以后用电量肯定持续增长。别的不说，全国每年新增那么多电动车，都需要用电啊，单单一台特斯拉 Model 3 的功率（220kw）大约是家用空调的100倍。马斯克最近说，美…",
           "link": "http://www.ruanyifeng.com/blog/2021/10/weekly-issue-178.html",
           "publishedOn": "2021-10-08T00:38:02.000Z",
-          "wordCount": 989,
+          "wordCount": 1018,
           "title": "科技爱好者周刊（第 178 期）：家庭太阳能发电的春天"
         },
         {
@@ -63,7 +72,7 @@
           "description": "9月1日是俄罗斯的知识节，因为这一天是各级学校的开学日，象征进入知识宝库的日子。\n今年的知识节，俄罗斯总理米哈伊尔·米舒斯京（Mikhail Mishustin）来到莫斯科物理技术学院（MIPT）视察。该校是俄罗斯顶级的理工科大学，出过许多诺贝尔奖得主和著名科学家。\n\n米舒斯京总理来到新生的教室，给学生们讲话。他看到黑板上写满了数学公式，一时兴起，就上前写了一道数学题，要求大家当场解答。\n\n根据维基百科，米舒斯京生于1966年，大学专业是系统工程，主修计算机辅助设计。工作以后，还读过一个经济学博士。在担任总理之前，他是俄罗斯联邦税务局长。\n\n他出的是一道几何题，题目如下。\n给定圆上的一个点和一条直径，你能否找到一种方法，画出从该点到直径的垂直线（下图的绿线）。\n\n这道题的难点在于，你不能使用任何测量工具，唯一可以用的就是一把不带有标记的直尺。\n大家可以思考一下，这道题怎么解。\n虽然它用不到高深的数学知识，初中的几何学课程就可以解答，但也不算容易。你必须知道两个基本的几何定理，才能想出答案。\n第一个是泰勒斯定理，欧几里得《几何原本》提到过： 圆上任意一点与直径组成的三角形，是直角三角形。\n\n第二个定理是： 锐角三角形的三条高交于一点。\n\n如果你已经忘了这两个定理，可以再去看一下初中几何课本，这里就不给出证明了。\n下面我根据一个数学家写给英国《卫报》的文章，介绍如何解答这道题。\n如果你还想再思考一下，自己找到答案，那就暂时不要往下看了。我要讲答案了。\n\n第一步，在相同的半圆上，任意再找一个点。将这两个点，与直径的相邻端点连起来，连线延长后可以形成一个三角形。\n上图中，圆周上的两个点与直径组成的，都是直角三角形。它们可以看作直径的两个端点到绿边的两条高。\n\n第二步，上一步的两条高产生了一个交点，将这个交点与三角形的外部顶点连起来，延长后与直径相交。\n根据三角形的三条高交于一点，可以知道，上图的绿线是直径的一条垂直线。后面只需要找到它的平行线，穿过红点即可。\n\n第三步，上一步的绿线与圆周有一个交点，将这个交点与红点连起来，延长后与直径相交（上图的第一个绿点）。\n同时，将上一步的垂直线延长，与另一侧的圆周相交，产生一个交点（上图的第二个绿点）。\n\n第四步，将上一步的两个绿点连起来，这条线会与圆周产生一个交点（上图的绿点）。\n再将绿点与红点连起来（上图的黄线），这就是我们所要寻找的答案：红点到直径的垂直线。\n这是因为上图的两条绿边与第二步的垂直线，形成了一个等腰三角形，原始的那条直径就是等腰三角形顶点到底边的高。这意味着，红点与绿点是对称的，它们的连线平行于底边，所以垂直于高（直径）。\n至此，整道题解答完毕。\n\n\n米舒斯京总理在黑板上画完解题过程后，对学生们说：\n\"你们会在大学里面，学到数学、物理、化学知识，但是不要忘了那些基础知识。基础知识与专业知识结合起来，你就能解决任何问题，不仅是科学问题，也包括商业问题。\"\n（完）\n文档信息\n版权声明：自由转载-非商用-非衍生-保持署名（创意共享3.0许可证）\n发表日期： 2021年9月22日",
           "link": "http://www.ruanyifeng.com/blog/2021/09/geometry-puzzle.html",
           "publishedOn": "2021-09-22T00:16:25.000Z",
-          "wordCount": 418,
+          "wordCount": 427,
           "title": "俄罗斯总理的几何题"
         },
         {
@@ -82,6 +91,69 @@
       "feedUrl": "https://api.feeddd.org/feeds/6110783449ef7514d0b91ae1",
       "siteUrl": "https://mp.weixin.qq.com",
       "articles": [
+        {
+          "id": "https://mp.weixin.qq.com/s/YbbEih-gSAUlitC3hY_h5g",
+          "author": null,
+          "description": "微信内测深度清理功能，抖音否认进入外卖行业，我国发射首颗太阳探测试验卫星，《崩坏3》登陆Steam中国，这就是今天的其他大新闻！",
+          "link": "https://mp.weixin.qq.com/s/YbbEih-gSAUlitC3hY_h5g",
+          "publishedOn": "2021-10-14T16:33:19.000Z",
+          "wordCount": 124,
+          "title": "微信内测深度清理功能，抖音否认进入外卖行业，我国发射首颗太阳探测试验卫星，《崩坏3》登陆Steam中国，这就是今天的其他大新闻！"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/rnAcY1z-r4c68NpZeyRfCw",
+          "author": null,
+          "description": "聊一聊：如何看待李国庆把当当公章别腰上？",
+          "link": "https://mp.weixin.qq.com/s/rnAcY1z-r4c68NpZeyRfCw",
+          "publishedOn": "2021-10-14T16:33:19.000Z",
+          "wordCount": 53,
+          "title": "聊一聊：如何看待李国庆把当当公章别腰上？"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/DC02x3kYw_hv2UTnjAQRZQ",
+          "author": null,
+          "description": "今日最佳：一下骗了两座城。",
+          "link": "https://mp.weixin.qq.com/s/DC02x3kYw_hv2UTnjAQRZQ",
+          "publishedOn": "2021-10-14T16:33:19.000Z",
+          "wordCount": 54,
+          "title": "今日最佳：一下骗了两座城。"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/yyuMz4Me6uDg6Bll_l0XFQ",
+          "author": null,
+          "description": "程序员，咋就那么爱穿冲锋衣？",
+          "link": "https://mp.weixin.qq.com/s/yyuMz4Me6uDg6Bll_l0XFQ",
+          "publishedOn": "2021-10-14T16:33:19.000Z",
+          "wordCount": 92,
+          "title": "程序员，咋就那么爱穿冲锋衣？"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/Qiiz_Xa9J5YNZcxz0YofjQ",
+          "author": null,
+          "description": "知道我的手环可以换第三方表盘后，我一下午都在玩这个！",
+          "link": "https://mp.weixin.qq.com/s/Qiiz_Xa9J5YNZcxz0YofjQ",
+          "publishedOn": "2021-10-14T16:33:19.000Z",
+          "wordCount": 141,
+          "title": "知道我的手环可以换第三方表盘后，我一下午都在玩这个！"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/XxK5zDTkkgpHLSaVV9w8hg",
+          "author": null,
+          "description": "会玩王者荣耀的AI，真的有用么？",
+          "link": "https://mp.weixin.qq.com/s/XxK5zDTkkgpHLSaVV9w8hg",
+          "publishedOn": "2021-10-14T16:33:19.000Z",
+          "wordCount": 323,
+          "title": "会玩王者荣耀的AI，真的有用么？"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/bR7xCm4Qdv2Q8ZKEvIqMkA",
+          "author": null,
+          "description": "服务器才炸完，世界第一社交软件又被曝出无底线操纵用户？",
+          "link": "https://mp.weixin.qq.com/s/bR7xCm4Qdv2Q8ZKEvIqMkA",
+          "publishedOn": "2021-10-14T16:33:19.000Z",
+          "wordCount": 216,
+          "title": "服务器才炸完，世界第一社交软件又被曝出无底线操纵用户？"
+        },
         {
           "id": "https://mp.weixin.qq.com/s/uovXuM4B8odNqHH9vXZQqQ",
           "author": null,
@@ -124,7 +196,7 @@
           "description": "一天三场的手机发布会，真的把我看累了。",
           "link": "https://mp.weixin.qq.com/s/_6Fs7VBWwLxH5vNPTXBHDw",
           "publishedOn": "2021-10-13T16:33:14.000Z",
-          "wordCount": 279,
+          "wordCount": 280,
           "title": "一天三场的手机发布会，真的把我看累了。"
         },
         {
@@ -918,69 +990,6 @@
           "publishedOn": "2021-09-29T16:33:24.000Z",
           "wordCount": 54,
           "title": "今日最佳：一听就是好车。"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/hMLIzOcdoZmwtFK5HJtlFg",
-          "author": null,
-          "description": "你要说上色，我可就不困了！",
-          "link": "https://mp.weixin.qq.com/s/hMLIzOcdoZmwtFK5HJtlFg",
-          "publishedOn": "2021-09-29T16:33:24.000Z",
-          "wordCount": 101,
-          "title": "你要说上色，我可就不困了！"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/BNHqh3qPMRAHI7qFZ5_F4Q",
-          "author": null,
-          "description": "买个冰箱放广告，这事把我给整乐了。",
-          "link": "https://mp.weixin.qq.com/s/BNHqh3qPMRAHI7qFZ5_F4Q",
-          "publishedOn": "2021-09-29T16:33:24.000Z",
-          "wordCount": 124,
-          "title": "买个冰箱放广告，这事把我给整乐了。"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/yKJYa7068d31AckSlcMDng",
-          "author": null,
-          "description": "能上天，能入地，华为开源的欧拉到底是干啥的？",
-          "link": "https://mp.weixin.qq.com/s/yKJYa7068d31AckSlcMDng",
-          "publishedOn": "2021-09-29T16:33:24.000Z",
-          "wordCount": 150,
-          "title": "能上天，能入地，华为开源的欧拉到底是干啥的？"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/elZysPz-xWfJkk71XGUtqw",
-          "author": null,
-          "description": "拉闸限电，炸出来多少反智的大棋论和阴谋论？",
-          "link": "https://mp.weixin.qq.com/s/elZysPz-xWfJkk71XGUtqw",
-          "publishedOn": "2021-09-29T16:33:24.000Z",
-          "wordCount": 172,
-          "title": "拉闸限电，炸出来多少反智的大棋论和阴谋论？"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/tfSEgj--RJA8yuoeSkwv6Q",
-          "author": null,
-          "description": "阿里回应将接入微信支付，吉利宣布进军手机领域，微信语音通话时可展示好友动态，客服回应云米冰箱强制广告，这就是今天的其他大新闻！",
-          "link": "https://mp.weixin.qq.com/s/tfSEgj--RJA8yuoeSkwv6Q",
-          "publishedOn": "2021-09-28T22:03:41.000Z",
-          "wordCount": 82,
-          "title": "阿里回应将接入微信支付，吉利宣布进军手机领域，微信语音通话时可展示好友动态，客服回应云米冰箱强制广告，这就是今天的其他大新闻！"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/IBHjcslMteG-h5XcuFL8qw",
-          "author": null,
-          "description": "聊一聊：你手上有什么很稀有的电子设备？",
-          "link": "https://mp.weixin.qq.com/s/IBHjcslMteG-h5XcuFL8qw",
-          "publishedOn": "2021-09-28T22:03:41.000Z",
-          "wordCount": 53,
-          "title": "聊一聊：你手上有什么很稀有的电子设备？"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/-nJmTwq9iuL5bMsH-ZYCXA",
-          "author": null,
-          "description": "今日最佳：咖啡提神的原理。",
-          "link": "https://mp.weixin.qq.com/s/-nJmTwq9iuL5bMsH-ZYCXA",
-          "publishedOn": "2021-09-28T22:03:41.000Z",
-          "wordCount": 54,
-          "title": "今日最佳：咖啡提神的原理。"
         }
       ]
     },
