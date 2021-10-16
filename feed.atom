@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-10-15T01:01:38.865Z</id>
+    <id>urn:2021-10-16T01:02:27.823Z</id>
     <title>osmos::feed</title>
-    <updated>2021-10-15T01:01:38.865Z</updated>
-    <generator>osmosfeed 1.11.2</generator>
+    <updated>2021-10-16T01:02:27.823Z</updated>
+    <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[v1.11.3]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.3</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.3"/>
+        <updated>2021-10-16T00:01:47.000Z</updated>
+        <summary type="html"><![CDATA[Fixed: broken links in documentation
+Chore: Dependency updates
+Thank you: @hirdot]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 179 期）：AR 技术的打开方式]]></title>
         <id>http://www.ruanyifeng.com/blog/2021/10/weekly-issue-179.html</id>
@@ -1293,37 +1305,6 @@ Thank you: @CaptNo1]]></summary>
 罗盒科技起诉的理由，不是对方违反 GPL，没有开源"点心桌面"，而是对方没有付款，就将代码用于商业用…]]></summary>
         <author>
             <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[恐怖之声：无人机袭击的现象学]]></title>
-        <id>https://mp.weixin.qq.com/s/7CHLLQIfGDebsQ7hIVdR5Q</id>
-        <link href="https://mp.weixin.qq.com/s/7CHLLQIfGDebsQ7hIVdR5Q"/>
-        <updated>2021-09-16T10:39:06.000Z</updated>
-        <summary type="html"><![CDATA[恐怖之声：无人机袭击的现象学]]></summary>
-        <author>
-            <name>Philosophia 哲学社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[皮平访谈：黑格尔之后、艺术与资产阶级社会 / 翻译]]></title>
-        <id>https://mp.weixin.qq.com/s/-P14mmYdALWQeQKFh7icQg</id>
-        <link href="https://mp.weixin.qq.com/s/-P14mmYdALWQeQKFh7icQg"/>
-        <updated>2021-09-16T10:39:06.000Z</updated>
-        <summary type="html"><![CDATA[皮平访谈：黑格尔之后、艺术与资产阶级社会 / 翻译]]></summary>
-        <author>
-            <name>Philosophia 哲学社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.11.1]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.1</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.1"/>
-        <updated>2021-09-16T06:39:32.000Z</updated>
-        <summary type="html"><![CDATA[Fixed: Unexpected nested element in author field crashes the parser
-Thank you @ad-m]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
         </author>
     </entry>
 </feed>
