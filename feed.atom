@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-10-16T01:02:27.823Z</id>
+    <id>urn:2021-10-17T00:58:34.006Z</id>
     <title>osmos::feed</title>
-    <updated>2021-10-16T01:02:27.823Z</updated>
+    <updated>2021-10-17T00:58:34.006Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[「实行一切与现实截然相反的」：欧洲哲学中的野蛮人形象（上）]]></title>
+        <id>https://mp.weixin.qq.com/s/uYfEPlT86NHoEkrvtzyNJw</id>
+        <link href="https://mp.weixin.qq.com/s/uYfEPlT86NHoEkrvtzyNJw"/>
+        <updated>2021-10-16T16:18:42.000Z</updated>
+        <summary type="html"><![CDATA[「实行一切与现实截然相反的」：欧洲哲学中的野蛮人形象（上）]]></summary>
+        <author>
+            <name>Philosophia 哲学社</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[v1.11.3]]></title>
         <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.3</id>
@@ -1272,37 +1282,6 @@ Thank you: @CaptNo1]]></summary>
 文档信息
 版权声明：自由转载-非商用-非衍生-保持署名（创意共享3.0许可证）
 发表日期： 2021年9月22日]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 176 期）：中国法院承认 GPL 吗？]]></title>
-        <id>http://www.ruanyifeng.com/blog/2021/09/weekly-issue-176.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2021/09/weekly-issue-176.html"/>
-        <updated>2021-09-17T00:34:58.000Z</updated>
-        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。
-本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。
-周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。
-封面图
-
-2021 世界机器人大会在北京举行，一家公司展出了"爱因斯坦"人形机器人，使用中文向学生"授课"。（via）
-本周话题：中国法院承认 GPL 吗？
-开源软件通常带有许可证。大家一直很想知道，如果国内用户不遵守许可证，可以去法院告他吗？
-上周有一条新闻，深圳市中级人民法院一审判决，被告违反了 GPL 许可证，赔偿侵权费50万元。
-
-很多程序员很兴奋，认为这代表 GPL 许可证得到中国法院的认可。
-我仔细读了判决书，觉得跟大家想的不一样，这个案件很复杂，得不出法院认可 GPL 的结论。
-
-我简单说一下案情。
-济宁市罗盒网络科技有限公司（以下简称"罗盒科技"）在 GitHub 开源了软件 VirtualApp，使用了 GPL 许可证。但是，他同时又声明，不得用于商业用途，除非购买商业授权。
-大家觉得，这个声明有问题吗？ 可以既采用 GPL 许可证，又不许用于商业用途吗？
-回答是，这个声明有很大问题。GPL 许可证允许商用，只要你用了这个许可证，别人就可以把你的代码用于商业用途。
-[开源小知识] 
-如果想禁止商用，就不能使用 Copyleft 许可证（比如 GPL），而是要添加一个自己的许可声明，比如"源码只供个人学习，不得商用，除非购买商业许可证"。
-因此，罗盒科技一开始的许可证选择，就有问题，后来果然出了问题。
-有一个叫做"点心桌面"的商业 App，使用了 VirtualApp。罗盒科技就控告开发商福建风灵公司侵权，要求赔偿2000万元。
-罗盒科技起诉的理由，不是对方违反 GPL，没有开源"点心桌面"，而是对方没有付款，就将代码用于商业用…]]></summary>
         <author>
             <name>阮一峰的网络日志</name>
         </author>
