@@ -1,10 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-10-19T01:01:41.959Z</id>
+    <id>urn:2021-10-20T01:01:29.854Z</id>
     <title>osmos::feed</title>
-    <updated>2021-10-19T01:01:41.959Z</updated>
+    <updated>2021-10-20T01:01:29.854Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[微信测试一个号码注册两个账号，索尼违反广告法被罚百万，《英雄联盟》手游国服第一被封，郭美美获刑两年半，这就是今天的其他大新闻！]]></title>
+        <id>https://mp.weixin.qq.com/s/WrlaOzjugJIoRB6uy6eIOg</id>
+        <link href="https://mp.weixin.qq.com/s/WrlaOzjugJIoRB6uy6eIOg"/>
+        <updated>2021-10-19T14:24:20.000Z</updated>
+        <summary type="html"><![CDATA[微信测试一个号码注册两个账号，索尼违反广告法被罚百万，《英雄联盟》手游国服第一被封，郭美美获刑两年半，这就是今天的其他大新闻！]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[聊一聊：你对苹果的新品有什么期待？]]></title>
+        <id>https://mp.weixin.qq.com/s/zoTT_qpjEYvI1M9zBvW0PQ</id>
+        <link href="https://mp.weixin.qq.com/s/zoTT_qpjEYvI1M9zBvW0PQ"/>
+        <updated>2021-10-19T14:24:20.000Z</updated>
+        <summary type="html"><![CDATA[聊一聊：你对苹果的新品有什么期待？]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今日最佳：突然懂了小学老师对我的夸奖。]]></title>
+        <id>https://mp.weixin.qq.com/s/Tlm91gMdA_9hgK9N-3zsrg</id>
+        <link href="https://mp.weixin.qq.com/s/Tlm91gMdA_9hgK9N-3zsrg"/>
+        <updated>2021-10-19T14:24:20.000Z</updated>
+        <summary type="html"><![CDATA[今日最佳：突然懂了小学老师对我的夸奖。]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果又开发布会了？不如先来看看刚到手的充电新品！]]></title>
+        <id>https://mp.weixin.qq.com/s/qquf8Ma3U81ifXrFippurQ</id>
+        <link href="https://mp.weixin.qq.com/s/qquf8Ma3U81ifXrFippurQ"/>
+        <updated>2021-10-19T14:24:20.000Z</updated>
+        <summary type="html"><![CDATA[苹果又开发布会了？不如先来看看刚到手的充电新品！]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[这部非人类拍出的恐怖片，竟然让我笑了一下午。]]></title>
+        <id>https://mp.weixin.qq.com/s/ulvRlYO1bdij6kJGlzLufg</id>
+        <link href="https://mp.weixin.qq.com/s/ulvRlYO1bdij6kJGlzLufg"/>
+        <updated>2021-10-19T14:24:20.000Z</updated>
+        <summary type="html"><![CDATA[这部非人类拍出的恐怖片，竟然让我笑了一下午。]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[手机平板不好用么？为什么非得花1000多买音箱？]]></title>
+        <id>https://mp.weixin.qq.com/s/eZ3Hr9dqqznrrwl7-0Cq4w</id>
+        <link href="https://mp.weixin.qq.com/s/eZ3Hr9dqqznrrwl7-0Cq4w"/>
+        <updated>2021-10-19T14:24:20.000Z</updated>
+        <summary type="html"><![CDATA[手机平板不好用么？为什么非得花1000多买音箱？]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DOTA 2又上热搜了，为什么这次大家到处刷“猛犸”？]]></title>
+        <id>https://mp.weixin.qq.com/s/GF_2QPrsF7cNoT_eLK6OZg</id>
+        <link href="https://mp.weixin.qq.com/s/GF_2QPrsF7cNoT_eLK6OZg"/>
+        <updated>2021-10-19T14:24:20.000Z</updated>
+        <summary type="html"><![CDATA[DOTA 2又上热搜了，为什么这次大家到处刷“猛犸”？]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「实行一切与现实截然相反的」：欧洲哲学中的野蛮人形象（上）]]></title>
         <id>https://mp.weixin.qq.com/s/uYfEPlT86NHoEkrvtzyNJw</id>
@@ -1076,76 +1146,6 @@ Thank you: @hirdot]]></summary>
         <link href="https://mp.weixin.qq.com/s/aneIZbFduMFx52-96H6f1A"/>
         <updated>2021-09-30T17:37:06.000Z</updated>
         <summary type="html"><![CDATA[今日最佳：手机淹死了。]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么这届打工人，年纪轻轻腰就不好了？]]></title>
-        <id>https://mp.weixin.qq.com/s/SMdpZwkZ-9mQ4bQHC84GkQ</id>
-        <link href="https://mp.weixin.qq.com/s/SMdpZwkZ-9mQ4bQHC84GkQ"/>
-        <updated>2021-09-30T17:37:06.000Z</updated>
-        <summary type="html"><![CDATA[为什么这届打工人，年纪轻轻腰就不好了？]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果、安卓，还有 Windows 设备的隔阂终于被这软件打通了！]]></title>
-        <id>https://mp.weixin.qq.com/s/Jh8zLpKpPqmrLIEW_nHNRw</id>
-        <link href="https://mp.weixin.qq.com/s/Jh8zLpKpPqmrLIEW_nHNRw"/>
-        <updated>2021-09-30T17:37:06.000Z</updated>
-        <summary type="html"><![CDATA[苹果、安卓，还有 Windows 设备的隔阂终于被这软件打通了！]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone 13 出来后，闲鱼上的二手 iPhone 简直不要太香！]]></title>
-        <id>https://mp.weixin.qq.com/s/sc_cRPr87MvR1ZGHQfmYrg</id>
-        <link href="https://mp.weixin.qq.com/s/sc_cRPr87MvR1ZGHQfmYrg"/>
-        <updated>2021-09-30T17:37:06.000Z</updated>
-        <summary type="html"><![CDATA[iPhone 13 出来后，闲鱼上的二手 iPhone 简直不要太香！]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你的听歌方式，也许就要被这个音乐软件改变了]]></title>
-        <id>https://mp.weixin.qq.com/s/f6C9djwnsQV-893wPX-GkA</id>
-        <link href="https://mp.weixin.qq.com/s/f6C9djwnsQV-893wPX-GkA"/>
-        <updated>2021-09-30T17:37:06.000Z</updated>
-        <summary type="html"><![CDATA[你的听歌方式，也许就要被这个音乐软件改变了]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[浙江立法规范快递业，苹果称果冻屏是正常表现，抖音支持外放音量过高提醒，淘宝及部分小程序支持云闪付，这就是今天的其他大新闻！]]></title>
-        <id>https://mp.weixin.qq.com/s/gr6BQavLWMPiV3UJFNIBLg</id>
-        <link href="https://mp.weixin.qq.com/s/gr6BQavLWMPiV3UJFNIBLg"/>
-        <updated>2021-09-29T16:33:24.000Z</updated>
-        <summary type="html"><![CDATA[浙江立法规范快递业，苹果称果冻屏是正常表现，抖音支持外放音量过高提醒，淘宝及部分小程序支持云闪付，这就是今天的其他大新闻！]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[聊一聊：你有被地图软件带进坑的故事吗？]]></title>
-        <id>https://mp.weixin.qq.com/s/O_J1dDvCysb7b7YdcoAT7Q</id>
-        <link href="https://mp.weixin.qq.com/s/O_J1dDvCysb7b7YdcoAT7Q"/>
-        <updated>2021-09-29T16:33:24.000Z</updated>
-        <summary type="html"><![CDATA[聊一聊：你有被地图软件带进坑的故事吗？]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今日最佳：一听就是好车。]]></title>
-        <id>https://mp.weixin.qq.com/s/PewhjXGJLCn7EgZHwlY1Hg</id>
-        <link href="https://mp.weixin.qq.com/s/PewhjXGJLCn7EgZHwlY1Hg"/>
-        <updated>2021-09-29T16:33:24.000Z</updated>
-        <summary type="html"><![CDATA[今日最佳：一听就是好车。]]></summary>
         <author>
             <name>差评</name>
         </author>
