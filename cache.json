@@ -36,7 +36,7 @@
           "description": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。\n周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。\n封面图\n\n香港摄影师李海涛拍摄的广州岑村玄武山公园。（via）\n本周话题：你想住在中国哪里？\n很多人不喜欢一线城市\"北上广深\"，觉得生活压力大，房价奇高，空间局促嘈杂，想要离开。\n但是离开以后，去哪里呢？哪个城市能够提供令人满意的生活方式，以及良好的社会经济状况？\n\n我最近读到时事评论家宁南山的一篇文章，觉得很有启发，跟大家分享一下。\n他说，考虑未来的居住城市时，应该对中国的三个宏观趋势有所认知。\n首先，中国各地的基础设施，都是差不多的。 我们是统一的国家，各省的高铁、高速公路、电力网、无线通信、宽带网等等，基本都是一样的，同样的标准、同样的材料、同样的施工、同样的管理，不会有某个省的基础设施特别好、另一个省特别差这种情况。\n\n其次，各省的发展速度最终会逐渐趋同。沿海省份的增速会降下来，内地省份会赶上来，不会有某个省一直高速发展，另一个省一直低速发展这种情况。长远来看，各省的社会经济和发展状况，最终都会达到一个基本的现代化水平，不会有某个省显著落后于全国平均水平。\n再次， 各省的真正差异来自于产业。 比如，广东的电子业、上海的金融业、北京的政治中心、西部的能源产业等等，都是有地域性的，这个很难改变。产业的兴盛决定了收入的差异，这才是地域差异未来的主要来源。\n\n基于上面三点看法，可以预测，如果中国人均 GDP 继续增长，到了2035年比现在增长一倍，那么中国各地的生活条件都会达到一个相当不错的水平。\n目前，全国的人均 GDP 大概是1万美元，一线城市是2万多美元。到了2035年，如果全国人均 GDP 能够达到2万美元，一线城市达到五万美元，这就意…",
           "link": "http://www.ruanyifeng.com/blog/2021/10/weekly-issue-180.html",
           "publishedOn": "2021-10-22T00:35:24.000Z",
-          "wordCount": 814,
+          "wordCount": 823,
           "title": "科技爱好者周刊（第 180 期）：你想住在中国哪里？"
         },
         {
@@ -45,7 +45,7 @@
           "description": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。\n周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。\n封面图\n\n济宁市美术馆2019年建成，由日本建筑师设计。上图中，上方的不规则白色屋顶，就是美术馆的展厅。下方是一个公园，左侧是一个回廊步道，右侧是咖啡馆。（via）\n本周话题：AR 技术的正确打开方式\n前两天，我看到一条新闻，德国杜塞尔多夫开张了一家 AR 公园（增强现实公园）。\n表面上，这就是一家普通的公园，草地、绿树、小溪流......\n\n但是，当你打开手机 App，使用摄像头，就会看到所有场景上面，都叠加了一个虚拟层。\n天空漂浮着奇怪的生物。\n\n道路上有充气路障。\n\n长椅上坐着一个不存在的人。\n\n游客可以探索这些虚拟对象，也可以根据提示，完成指定任务，解锁关卡。\n新闻说，这个公园一共部署了35个 AR 应用，其中13个是免费作品，其余22个必须付费4.99欧元才能激活，相当于公园门票了。\n我觉得，这个主意太好了，值得借鉴。\n城市公园改建为 AR 游戏场，这才是 AR 技术的正确打开方式。 公园还是那个公园，什么都没变，但是加入了电子游戏的成分。这里最关键的一点是，AR 就是应该在室外玩。\n仔细想一下，你会发现，绝大多数电子游戏只适合在室内玩，但是 AR 可以在室外玩，而且室外比室内好玩得多。\n这是因为 AR 是部分虚拟、部分现实，虚拟层需要叠加在现实层之上，如果现实空间太小、太单调，就不可能设计出好玩的 AR 应用。目前，国内影响最大的 AR 应用，就是支付宝\"集五福\"的室内找\"福\"字，这个游戏非常乏味，原因就在这里，室内很难想出好玩的玩法。\n\n相反的，室外可以叠加寻宝、解谜、打卡等多种手段，还能跟虚拟对象互动，可玩性大大增强。国外的 A…",
           "link": "http://www.ruanyifeng.com/blog/2021/10/weekly-issue-179.html",
           "publishedOn": "2021-10-15T00:37:00.000Z",
-          "wordCount": 1073,
+          "wordCount": 1082,
           "title": "科技爱好者周刊（第 179 期）：AR 技术的打开方式"
         },
         {
@@ -73,6 +73,114 @@
       "feedUrl": "https://api.feeddd.org/feeds/6110783449ef7514d0b91ae1",
       "siteUrl": "https://mp.weixin.qq.com",
       "articles": [
+        {
+          "id": "https://mp.weixin.qq.com/s/nHXZUrnKQGaoAHNoMn7ODg",
+          "author": null,
+          "description": "小鹏飞行汽车 2024 年量产，台积电向美国提交机密数据 ，英特尔最新酷睿跑分超M1 Max，这就是今天的其他大新闻！",
+          "link": "https://mp.weixin.qq.com/s/nHXZUrnKQGaoAHNoMn7ODg",
+          "publishedOn": "2021-10-24T18:50:57.000Z",
+          "wordCount": 185,
+          "title": "小鹏飞行汽车 2024 年量产，台积电向美国提交机密数据 ，英特尔最新酷睿跑分超M1 Max，这就是今天的其他大新闻！"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/ZE2drnC0ivPbqK1vCrNW5Q",
+          "author": null,
+          "description": "聊一聊：你遇到过最糟糕的bug是什么？",
+          "link": "https://mp.weixin.qq.com/s/ZE2drnC0ivPbqK1vCrNW5Q",
+          "publishedOn": "2021-10-24T18:50:57.000Z",
+          "wordCount": 53,
+          "title": "聊一聊：你遇到过最糟糕的bug是什么？"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/VGZ2aX77m54vZpIapWO1bA",
+          "author": null,
+          "description": "今日最佳：世纪对话",
+          "link": "https://mp.weixin.qq.com/s/VGZ2aX77m54vZpIapWO1bA",
+          "publishedOn": "2021-10-24T18:50:57.000Z",
+          "wordCount": 54,
+          "title": "今日最佳：世纪对话"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/PL14WUJB0IMYgdx6Vacy-Q",
+          "author": null,
+          "description": "在公司摸鱼，都开始内卷了？",
+          "link": "https://mp.weixin.qq.com/s/PL14WUJB0IMYgdx6Vacy-Q",
+          "publishedOn": "2021-10-24T18:50:57.000Z",
+          "wordCount": 64,
+          "title": "在公司摸鱼，都开始内卷了？"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/Ae4wfwK_V8lncOFqhl__ow",
+          "author": null,
+          "description": "程序员到了35岁就会失业吗？我找了三位程序员UP主聊了聊。",
+          "link": "https://mp.weixin.qq.com/s/Ae4wfwK_V8lncOFqhl__ow",
+          "publishedOn": "2021-10-24T18:50:57.000Z",
+          "wordCount": 157,
+          "title": "程序员到了35岁就会失业吗？我找了三位程序员UP主聊了聊。"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/O-d5uReMx-j39m-J1VPw7Q",
+          "author": null,
+          "description": "躺赚深圳一套房？价格暴涨20倍的集装箱，其实还改变过世界。",
+          "link": "https://mp.weixin.qq.com/s/O-d5uReMx-j39m-J1VPw7Q",
+          "publishedOn": "2021-10-24T18:50:57.000Z",
+          "wordCount": 143,
+          "title": "躺赚深圳一套房？价格暴涨20倍的集装箱，其实还改变过世界。"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/Ytlx-XdexgSa0BdiNH6ENg",
+          "author": null,
+          "description": "聊一聊：你的手机系统里，哪个功能最实用？",
+          "link": "https://mp.weixin.qq.com/s/Ytlx-XdexgSa0BdiNH6ENg",
+          "publishedOn": "2021-10-24T14:31:52.000Z",
+          "wordCount": 53,
+          "title": "聊一聊：你的手机系统里，哪个功能最实用？"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/WJb_SVM6tFyMLwu3xCDipQ",
+          "author": null,
+          "description": "今日最佳：跑800米小技巧。",
+          "link": "https://mp.weixin.qq.com/s/WJb_SVM6tFyMLwu3xCDipQ",
+          "publishedOn": "2021-10-24T14:31:52.000Z",
+          "wordCount": 56,
+          "title": "今日最佳：跑800米小技巧。"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/MCIAGEP3MbmgSSSWilpXZQ",
+          "author": null,
+          "description": "认为「在家躺着才算放假」的，进来报到！",
+          "link": "https://mp.weixin.qq.com/s/MCIAGEP3MbmgSSSWilpXZQ",
+          "publishedOn": "2021-10-24T14:31:52.000Z",
+          "wordCount": 163,
+          "title": "认为「在家躺着才算放假」的，进来报到！"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/_tEo3OfX8dhhLBoAteSWgQ",
+          "author": null,
+          "description": "能让残疾人走起来，这个热搜视频背后是千万人的希望。",
+          "link": "https://mp.weixin.qq.com/s/_tEo3OfX8dhhLBoAteSWgQ",
+          "publishedOn": "2021-10-24T14:31:52.000Z",
+          "wordCount": 100,
+          "title": "能让残疾人走起来，这个热搜视频背后是千万人的希望。"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/79iuFQ7P9KcV8aoy2Z5N0A",
+          "author": null,
+          "description": "就因为微信误删了几行字，公众号文章能被别家搜到了？",
+          "link": "https://mp.weixin.qq.com/s/79iuFQ7P9KcV8aoy2Z5N0A",
+          "publishedOn": "2021-10-24T14:31:52.000Z",
+          "wordCount": 228,
+          "title": "就因为微信误删了几行字，公众号文章能被别家搜到了？"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/IitzajpwTQmLYlxmILFASg",
+          "author": null,
+          "description": "多家App签署不杀熟等承诺书，上海消保委呼吁公布茅台投放数，反电信网络诈骗法（草案）征求意见，这就是今天的其他大新闻！",
+          "link": "https://mp.weixin.qq.com/s/IitzajpwTQmLYlxmILFASg",
+          "publishedOn": "2021-10-24T14:31:52.000Z",
+          "wordCount": 127,
+          "title": "多家App签署不杀熟等承诺书，上海消保委呼吁公布茅台投放数，反电信网络诈骗法（草案）征求意见，这就是今天的其他大新闻！"
+        },
         {
           "id": "https://mp.weixin.qq.com/s/WrlaOzjugJIoRB6uy6eIOg",
           "author": null,
@@ -864,114 +972,6 @@
           "publishedOn": "2021-10-03T03:12:28.000Z",
           "wordCount": 55,
           "title": "今日最佳：霍格沃茨中国交换生。"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/JdzC0F5hZ9oqTXzZjAdixQ",
-          "author": null,
-          "description": "灵魂提取器，究竟让多少路人石乐志？",
-          "link": "https://mp.weixin.qq.com/s/JdzC0F5hZ9oqTXzZjAdixQ",
-          "publishedOn": "2021-10-03T03:12:28.000Z",
-          "wordCount": 93,
-          "title": "灵魂提取器，究竟让多少路人石乐志？"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/vQpQSRwe2YIepzkKfeGDPg",
-          "author": null,
-          "description": "为了验证商场测体温是不是形式，油管博主把脑门捂到48度。",
-          "link": "https://mp.weixin.qq.com/s/vQpQSRwe2YIepzkKfeGDPg",
-          "publishedOn": "2021-10-03T03:12:28.000Z",
-          "wordCount": 151,
-          "title": "为了验证商场测体温是不是形式，油管博主把脑门捂到48度。"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/GcziLSgna3cIUaexh4MK_A",
-          "author": null,
-          "description": "跟爱因斯坦谈笑风生的诺奖大佬，年轻的时候差点就毕不了业。。。",
-          "link": "https://mp.weixin.qq.com/s/GcziLSgna3cIUaexh4MK_A",
-          "publishedOn": "2021-10-03T03:12:28.000Z",
-          "wordCount": 157,
-          "title": "跟爱因斯坦谈笑风生的诺奖大佬，年轻的时候差点就毕不了业。。。"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/X40TM9bTCDnDSDWAx0rUjQ",
-          "author": null,
-          "description": "携程被实名举报涉嫌“二选一”，防未成年游戏沉迷举报平台上线，TikTok 进军 NFT 市场，这就是今天的其他大新闻！",
-          "link": "https://mp.weixin.qq.com/s/X40TM9bTCDnDSDWAx0rUjQ",
-          "publishedOn": "2021-10-01T16:32:39.000Z",
-          "wordCount": 126,
-          "title": "携程被实名举报涉嫌“二选一”，防未成年游戏沉迷举报平台上线，TikTok 进军 NFT 市场，这就是今天的其他大新闻！"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/jv7N5Z-LKAV-uTgUkWshMw",
-          "author": null,
-          "description": "聊一聊：国庆假期都有啥安排？",
-          "link": "https://mp.weixin.qq.com/s/jv7N5Z-LKAV-uTgUkWshMw",
-          "publishedOn": "2021-10-01T16:32:39.000Z",
-          "wordCount": 53,
-          "title": "聊一聊：国庆假期都有啥安排？"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/hzpwPiBPt98RqAIWyxwlaA",
-          "author": null,
-          "description": "今日最佳：躲过了硬装，躲不过软装。",
-          "link": "https://mp.weixin.qq.com/s/hzpwPiBPt98RqAIWyxwlaA",
-          "publishedOn": "2021-10-01T16:32:39.000Z",
-          "wordCount": 54,
-          "title": "今日最佳：躲过了硬装，躲不过软装。"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/KcjV8t1DluOLqVgnrWfe2A",
-          "author": null,
-          "description": "有哪些曾经你觉得很贵，现在却贼便宜的好东西？",
-          "link": "https://mp.weixin.qq.com/s/KcjV8t1DluOLqVgnrWfe2A",
-          "publishedOn": "2021-10-01T16:32:39.000Z",
-          "wordCount": 110,
-          "title": "有哪些曾经你觉得很贵，现在却贼便宜的好东西？"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/2fW--IFvqOCyTFhGqYqX0A",
-          "author": null,
-          "description": "如果你也忘记过密码，那微软这波操作可太赞了！",
-          "link": "https://mp.weixin.qq.com/s/2fW--IFvqOCyTFhGqYqX0A",
-          "publishedOn": "2021-10-01T16:32:39.000Z",
-          "wordCount": 151,
-          "title": "如果你也忘记过密码，那微软这波操作可太赞了！"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/SVKGHG10ul0AszRYhvN9Iw",
-          "author": null,
-          "description": "一年退役10万吨电池，这个370亿的市场为啥只有27家公司？",
-          "link": "https://mp.weixin.qq.com/s/SVKGHG10ul0AszRYhvN9Iw",
-          "publishedOn": "2021-10-01T16:32:39.000Z",
-          "wordCount": 189,
-          "title": "一年退役10万吨电池，这个370亿的市场为啥只有27家公司？"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/tEUIf1Wug0hDTAeCixHn0Q",
-          "author": null,
-          "description": "中国卖家集体诉讼亚马逊，微信支付云闪付互通合作，豆瓣关停部分娱乐小组，法院系统发布首例王者荣耀租号禁令，这就是今天的其他大新闻！",
-          "link": "https://mp.weixin.qq.com/s/tEUIf1Wug0hDTAeCixHn0Q",
-          "publishedOn": "2021-09-30T17:37:06.000Z",
-          "wordCount": 148,
-          "title": "中国卖家集体诉讼亚马逊，微信支付云闪付互通合作，豆瓣关停部分娱乐小组，法院系统发布首例王者荣耀租号禁令，这就是今天的其他大新闻！"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/VJdpwcA0gVMp96G3F8OlAA",
-          "author": null,
-          "description": "聊一聊：来讲一个暴露年龄的梗。",
-          "link": "https://mp.weixin.qq.com/s/VJdpwcA0gVMp96G3F8OlAA",
-          "publishedOn": "2021-09-30T17:37:06.000Z",
-          "wordCount": 53,
-          "title": "聊一聊：来讲一个暴露年龄的梗。"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/aneIZbFduMFx52-96H6f1A",
-          "author": null,
-          "description": "今日最佳：手机淹死了。",
-          "link": "https://mp.weixin.qq.com/s/aneIZbFduMFx52-96H6f1A",
-          "publishedOn": "2021-09-30T17:37:06.000Z",
-          "wordCount": 54,
-          "title": "今日最佳：手机淹死了。"
         }
       ]
     },
@@ -980,6 +980,24 @@
       "feedUrl": "https://api.feeddd.org/feeds/611f8d8865d23936d94a4889",
       "siteUrl": "https://mp.weixin.qq.com",
       "articles": [
+        {
+          "id": "https://mp.weixin.qq.com/s/BEfnXugs94zgbJ4wgGz-QQ",
+          "author": null,
+          "description": "国家的唤问：从晚清到新中国的女性解放叙事",
+          "link": "https://mp.weixin.qq.com/s/BEfnXugs94zgbJ4wgGz-QQ",
+          "publishedOn": "2021-10-24T05:13:13.000Z",
+          "wordCount": 92,
+          "title": "国家的唤问：从晚清到新中国的女性解放叙事"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/gI6WwzlJhkyNqrmu_WtC0g",
+          "author": null,
+          "description": "「实行一切与现实截然相反的」：欧洲哲学中的野蛮人形象（下）",
+          "link": "https://mp.weixin.qq.com/s/gI6WwzlJhkyNqrmu_WtC0g",
+          "publishedOn": "2021-10-24T05:13:13.000Z",
+          "wordCount": 605,
+          "title": "「实行一切与现实截然相反的」：欧洲哲学中的野蛮人形象（下）"
+        },
         {
           "id": "https://mp.weixin.qq.com/s/uYfEPlT86NHoEkrvtzyNJw",
           "author": null,
