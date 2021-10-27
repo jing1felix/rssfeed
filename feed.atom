@@ -1,10 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-10-26T00:55:38.453Z</id>
+    <id>urn:2021-10-27T00:55:19.733Z</id>
     <title>osmos::feed</title>
-    <updated>2021-10-26T00:55:38.453Z</updated>
+    <updated>2021-10-27T00:55:19.733Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[元气森林回应被薅羊毛，iOS 15.1正式版发布，支付宝内测“生活”底栏，杭州网辟谣罗永浩任形象大使，这就是今天的其他大新闻！]]></title>
+        <id>https://mp.weixin.qq.com/s/cKeluN5FusKYXO6I9I-naA</id>
+        <link href="https://mp.weixin.qq.com/s/cKeluN5FusKYXO6I9I-naA"/>
+        <updated>2021-10-26T18:51:29.000Z</updated>
+        <summary type="html"><![CDATA[元气森林回应被薅羊毛，iOS 15.1正式版发布，支付宝内测“生活”底栏，杭州网辟谣罗永浩任形象大使，这就是今天的其他大新闻！]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[聊一聊：你买过什么老被人嫌贵的产品？]]></title>
+        <id>https://mp.weixin.qq.com/s/OFdBymAkPakwJphM0Zw4hQ</id>
+        <link href="https://mp.weixin.qq.com/s/OFdBymAkPakwJphM0Zw4hQ"/>
+        <updated>2021-10-26T18:51:29.000Z</updated>
+        <summary type="html"><![CDATA[聊一聊：你买过什么老被人嫌贵的产品？]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今日最佳：看把孩子逼成啥样了。]]></title>
+        <id>https://mp.weixin.qq.com/s/LtJibiuHhV8qulA-LQD-1A</id>
+        <link href="https://mp.weixin.qq.com/s/LtJibiuHhV8qulA-LQD-1A"/>
+        <updated>2021-10-26T18:51:29.000Z</updated>
+        <summary type="html"><![CDATA[今日最佳：看把孩子逼成啥样了。]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[智能穿戴设备，现在已经NB到什么程度了？]]></title>
+        <id>https://mp.weixin.qq.com/s/BDpr69A6UXGlSUmvN-L94Q</id>
+        <link href="https://mp.weixin.qq.com/s/BDpr69A6UXGlSUmvN-L94Q"/>
+        <updated>2021-10-26T18:51:29.000Z</updated>
+        <summary type="html"><![CDATA[智能穿戴设备，现在已经NB到什么程度了？]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AirPods 3 上手体验：你买我推荐，我买我不买？]]></title>
+        <id>https://mp.weixin.qq.com/s/c46ituwRLtcCAEIwMCpgJg</id>
+        <link href="https://mp.weixin.qq.com/s/c46ituwRLtcCAEIwMCpgJg"/>
+        <updated>2021-10-26T18:51:29.000Z</updated>
+        <summary type="html"><![CDATA[AirPods 3 上手体验：你买我推荐，我买我不买？]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[索尼这台10999元的新手机，竟然装了个相机传感器。]]></title>
+        <id>https://mp.weixin.qq.com/s/3An4rftb9wX5s2BtrTt5gw</id>
+        <link href="https://mp.weixin.qq.com/s/3An4rftb9wX5s2BtrTt5gw"/>
+        <updated>2021-10-26T18:51:29.000Z</updated>
+        <summary type="html"><![CDATA[索尼这台10999元的新手机，竟然装了个相机传感器。]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[啥样的黑科技，连地板上的非牛顿流体都能搞定？]]></title>
+        <id>https://mp.weixin.qq.com/s/vGdE25rUhQmk2jR1DLWafA</id>
+        <link href="https://mp.weixin.qq.com/s/vGdE25rUhQmk2jR1DLWafA"/>
+        <updated>2021-10-26T18:51:29.000Z</updated>
+        <summary type="html"><![CDATA[啥样的黑科技，连地板上的非牛顿流体都能搞定？]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[学生造出了1度电跑273公里的车？这还真不是伪科学。]]></title>
+        <id>https://mp.weixin.qq.com/s/KuWoO7VzzyQBCELB0OeMmg</id>
+        <link href="https://mp.weixin.qq.com/s/KuWoO7VzzyQBCELB0OeMmg"/>
+        <updated>2021-10-26T18:51:29.000Z</updated>
+        <summary type="html"><![CDATA[学生造出了1度电跑273公里的车？这还真不是伪科学。]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[知乎回应虚拟币退款难，台积电辟谣提交机密，支付宝测试关闭首页栏目卡片，奥林匹克频道CCTV 16开播，这就是今天的其他大新闻！]]></title>
         <id>https://mp.weixin.qq.com/s/KWi_yKgStM23OPDgRO2NyQ</id>
@@ -1107,66 +1187,6 @@ Thank you: @hirdot]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[多家视频网站取消超前点播，诺贝尔生理学或医学奖揭晓，华为支付试水，三星称移动游戏将支持光线追踪，这就是今天的其他大新闻！]]></title>
-        <id>https://mp.weixin.qq.com/s/YylJ3nVjODdOaikJpdOYBg</id>
-        <link href="https://mp.weixin.qq.com/s/YylJ3nVjODdOaikJpdOYBg"/>
-        <updated>2021-10-04T16:32:46.000Z</updated>
-        <summary type="html"><![CDATA[多家视频网站取消超前点播，诺贝尔生理学或医学奖揭晓，华为支付试水，三星称移动游戏将支持光线追踪，这就是今天的其他大新闻！]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[聊一聊：你用过最短命的电子产品是什么？]]></title>
-        <id>https://mp.weixin.qq.com/s/aTRh1vGVZCLMTKvh72PCaA</id>
-        <link href="https://mp.weixin.qq.com/s/aTRh1vGVZCLMTKvh72PCaA"/>
-        <updated>2021-10-04T16:32:46.000Z</updated>
-        <summary type="html"><![CDATA[聊一聊：你用过最短命的电子产品是什么？]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今日最佳：练习科目二的你。]]></title>
-        <id>https://mp.weixin.qq.com/s/3Vs7el0f53a6bHh03lHKDA</id>
-        <link href="https://mp.weixin.qq.com/s/3Vs7el0f53a6bHh03lHKDA"/>
-        <updated>2021-10-04T16:32:46.000Z</updated>
-        <summary type="html"><![CDATA[今日最佳：练习科目二的你。]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你知道长期裸睡的人，最后都怎么样了吗？]]></title>
-        <id>https://mp.weixin.qq.com/s/xC-wEL0P96gkfs7DGn7Afg</id>
-        <link href="https://mp.weixin.qq.com/s/xC-wEL0P96gkfs7DGn7Afg"/>
-        <updated>2021-10-04T16:32:46.000Z</updated>
-        <summary type="html"><![CDATA[你知道长期裸睡的人，最后都怎么样了吗？]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[当年红遍网吧的暗黑2，重制之后把暴雪服务器炸了。]]></title>
-        <id>https://mp.weixin.qq.com/s/54ZDh41r5yQic4gftm7szQ</id>
-        <link href="https://mp.weixin.qq.com/s/54ZDh41r5yQic4gftm7szQ"/>
-        <updated>2021-10-04T16:32:46.000Z</updated>
-        <summary type="html"><![CDATA[当年红遍网吧的暗黑2，重制之后把暴雪服务器炸了。]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全世界宅男最爱的网站，快要被版权炮给轰成渣了。]]></title>
-        <id>https://mp.weixin.qq.com/s/rh0ud0yg35Bpb--0hILxIw</id>
-        <link href="https://mp.weixin.qq.com/s/rh0ud0yg35Bpb--0hILxIw"/>
-        <updated>2021-10-04T16:32:46.000Z</updated>
-        <summary type="html"><![CDATA[全世界宅男最爱的网站，快要被版权炮给轰成渣了。]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[90年前的今天，美国「新实用主义」哲学家理查德·罗蒂出生。
 #PhilosophiaQuotes]]></title>
         <id>https://mp.weixin.qq.com/s/W86hu4sNtaBR0tsZUj16TA</id>
@@ -1176,26 +1196,6 @@ Thank you: @hirdot]]></summary>
 #PhilosophiaQuotes]]></summary>
         <author>
             <name>Philosophia 哲学社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第三方破解苹果换屏限制，浙江卫视就弄错雷军名字道歉，WeGame开放Mac端，开源鸿蒙Github上线，这就是今天的其他大新闻！]]></title>
-        <id>https://mp.weixin.qq.com/s/EFPQ7iWhXH4iENDtjR-s-Q</id>
-        <link href="https://mp.weixin.qq.com/s/EFPQ7iWhXH4iENDtjR-s-Q"/>
-        <updated>2021-10-03T16:32:39.000Z</updated>
-        <summary type="html"><![CDATA[第三方破解苹果换屏限制，浙江卫视就弄错雷军名字道歉，WeGame开放Mac端，开源鸿蒙Github上线，这就是今天的其他大新闻！]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[聊一聊：你怎么看二手潮玩市场的离谱溢价？]]></title>
-        <id>https://mp.weixin.qq.com/s/xyW2DVf-zdO2BfRmGEu5QA</id>
-        <link href="https://mp.weixin.qq.com/s/xyW2DVf-zdO2BfRmGEu5QA"/>
-        <updated>2021-10-03T16:32:39.000Z</updated>
-        <summary type="html"><![CDATA[聊一聊：你怎么看二手潮玩市场的离谱溢价？]]></summary>
-        <author>
-            <name>差评</name>
         </author>
     </entry>
     <entry>
@@ -1236,20 +1236,6 @@ const isMobile = navigator.userAgentData.mobile;
 此外，还有一个已经废除的navigator.platform属性，所有浏览器都支持，所以也可以用。它返回一个字符串，表示用户的…]]></summary>
         <author>
             <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.11.2]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.2</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.2"/>
-        <updated>2021-09-26T18:45:39.000Z</updated>
-        <summary type="html"><![CDATA[Fixed: unicode characters in URL caused download error
-Fixed: project root npm install error
-Added: unit test library
-Chore: Dependency updates
-Thank you: @CaptNo1]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
         </author>
     </entry>
 </feed>
