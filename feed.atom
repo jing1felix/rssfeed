@@ -1,10 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-10-27T00:55:19.733Z</id>
+    <id>urn:2021-10-28T00:56:19.592Z</id>
     <title>osmos::feed</title>
-    <updated>2021-10-27T00:55:19.733Z</updated>
+    <updated>2021-10-28T00:56:19.592Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[高通发布四款芯片，豆瓣回应删除用户相册图片，暴雪取消线上嘉年华，微博新增炸毁评论功能，这就是今天的其他大新闻！]]></title>
+        <id>https://mp.weixin.qq.com/s/NnqEUchPQLzYMvaWhcmUTw</id>
+        <link href="https://mp.weixin.qq.com/s/NnqEUchPQLzYMvaWhcmUTw"/>
+        <updated>2021-10-27T18:51:13.000Z</updated>
+        <summary type="html"><![CDATA[高通发布四款芯片，豆瓣回应删除用户相册图片，暴雪取消线上嘉年华，微博新增炸毁评论功能，这就是今天的其他大新闻！]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[聊一聊：你下过最大的文件是什么？]]></title>
+        <id>https://mp.weixin.qq.com/s/DBiacWECKXYSIuOR1BVs-Q</id>
+        <link href="https://mp.weixin.qq.com/s/DBiacWECKXYSIuOR1BVs-Q"/>
+        <updated>2021-10-27T18:51:13.000Z</updated>
+        <summary type="html"><![CDATA[聊一聊：你下过最大的文件是什么？]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今日最佳：是闪耀的光头！]]></title>
+        <id>https://mp.weixin.qq.com/s/mpM9OaiyXBMDvVxTJ1gJ6g</id>
+        <link href="https://mp.weixin.qq.com/s/mpM9OaiyXBMDvVxTJ1gJ6g"/>
+        <updated>2021-10-27T18:51:13.000Z</updated>
+        <summary type="html"><![CDATA[今日最佳：是闪耀的光头！]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[能抵御严寒的，唯有火锅！]]></title>
+        <id>https://mp.weixin.qq.com/s/8QhWhHdlTQQuCb1nnVPmiw</id>
+        <link href="https://mp.weixin.qq.com/s/8QhWhHdlTQQuCb1nnVPmiw"/>
+        <updated>2021-10-27T18:51:13.000Z</updated>
+        <summary type="html"><![CDATA[能抵御严寒的，唯有火锅！]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[体验了一天iOS 15.1后，我觉得这才是真正的iOS 15正式版。]]></title>
+        <id>https://mp.weixin.qq.com/s/kuYvjF4tFpNKdZAefUBzRQ</id>
+        <link href="https://mp.weixin.qq.com/s/kuYvjF4tFpNKdZAefUBzRQ"/>
+        <updated>2021-10-27T18:51:13.000Z</updated>
+        <summary type="html"><![CDATA[体验了一天iOS 15.1后，我觉得这才是真正的iOS 15正式版。]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大疆新品又来了，这样的模块化运动相机你肯定从未见过！]]></title>
+        <id>https://mp.weixin.qq.com/s/AXMY3Yc3ykCiUM9GDltclQ</id>
+        <link href="https://mp.weixin.qq.com/s/AXMY3Yc3ykCiUM9GDltclQ"/>
+        <updated>2021-10-27T18:51:13.000Z</updated>
+        <summary type="html"><![CDATA[大疆新品又来了，这样的模块化运动相机你肯定从未见过！]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你用到的性价比手机，可能是这家千亿市值代工厂做的。]]></title>
+        <id>https://mp.weixin.qq.com/s/dOG5wfNQEUwVqc2Ew7leyA</id>
+        <link href="https://mp.weixin.qq.com/s/dOG5wfNQEUwVqc2Ew7leyA"/>
+        <updated>2021-10-27T18:51:13.000Z</updated>
+        <summary type="html"><![CDATA[你用到的性价比手机，可能是这家千亿市值代工厂做的。]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[元气森林回应被薅羊毛，iOS 15.1正式版发布，支付宝内测“生活”底栏，杭州网辟谣罗永浩任形象大使，这就是今天的其他大新闻！]]></title>
         <id>https://mp.weixin.qq.com/s/cKeluN5FusKYXO6I9I-naA</id>
@@ -1112,76 +1182,6 @@ Thank you: @hirdot]]></summary>
         <link href="https://mp.weixin.qq.com/s/xsGEA910JbXVvEHKssn4vg"/>
         <updated>2021-10-06T16:32:47.000Z</updated>
         <summary type="html"><![CDATA[这个印度人成为CEO后，微软的市值开始直逼苹果。]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[封锁南极是为了掩盖真相？地平说的这些套路把我看傻了。。。]]></title>
-        <id>https://mp.weixin.qq.com/s/3Al2EBExQ-CqZ2dVOkK4cw</id>
-        <link href="https://mp.weixin.qq.com/s/3Al2EBExQ-CqZ2dVOkK4cw"/>
-        <updated>2021-10-06T16:32:47.000Z</updated>
-        <summary type="html"><![CDATA[封锁南极是为了掩盖真相？地平说的这些套路把我看傻了。。。]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Facebook史上最严重宕机，微软正式发布Win11，2021诺贝尔物理学奖揭晓，乔布斯去世十周年，这就是今天的其他大新闻！]]></title>
-        <id>https://mp.weixin.qq.com/s/sqZf_xjZfUWiRU2YczisYw</id>
-        <link href="https://mp.weixin.qq.com/s/sqZf_xjZfUWiRU2YczisYw"/>
-        <updated>2021-10-05T16:32:48.000Z</updated>
-        <summary type="html"><![CDATA[Facebook史上最严重宕机，微软正式发布Win11，2021诺贝尔物理学奖揭晓，乔布斯去世十周年，这就是今天的其他大新闻！]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[聊一聊：见过什么离谱的请假理由？]]></title>
-        <id>https://mp.weixin.qq.com/s/QZfkBu2_wlGfydcTDf5Vtg</id>
-        <link href="https://mp.weixin.qq.com/s/QZfkBu2_wlGfydcTDf5Vtg"/>
-        <updated>2021-10-05T16:32:48.000Z</updated>
-        <summary type="html"><![CDATA[聊一聊：见过什么离谱的请假理由？]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今日最佳：禁止外放！]]></title>
-        <id>https://mp.weixin.qq.com/s/1RyMkZuExuWT6HBFkngkOw</id>
-        <link href="https://mp.weixin.qq.com/s/1RyMkZuExuWT6HBFkngkOw"/>
-        <updated>2021-10-05T16:32:48.000Z</updated>
-        <summary type="html"><![CDATA[今日最佳：禁止外放！]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5年搬了7次家，合租房的恶臭冰箱我真受够了！]]></title>
-        <id>https://mp.weixin.qq.com/s/HGJlzcNgVyjY9eSf64dxgA</id>
-        <link href="https://mp.weixin.qq.com/s/HGJlzcNgVyjY9eSf64dxgA"/>
-        <updated>2021-10-05T16:32:48.000Z</updated>
-        <summary type="html"><![CDATA[5年搬了7次家，合租房的恶臭冰箱我真受够了！]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[离开苹果就破产？苹果的供应链能力到底有多逆天？]]></title>
-        <id>https://mp.weixin.qq.com/s/nmcyg7iuWD4k_vhqVuoj-A</id>
-        <link href="https://mp.weixin.qq.com/s/nmcyg7iuWD4k_vhqVuoj-A"/>
-        <updated>2021-10-05T16:32:48.000Z</updated>
-        <summary type="html"><![CDATA[离开苹果就破产？苹果的供应链能力到底有多逆天？]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这个大佬把价格打下来后，有几百万人用上了电脑。]]></title>
-        <id>https://mp.weixin.qq.com/s/MWrx5VGa1hdgva2xwQHHqQ</id>
-        <link href="https://mp.weixin.qq.com/s/MWrx5VGa1hdgva2xwQHHqQ"/>
-        <updated>2021-10-05T16:32:48.000Z</updated>
-        <summary type="html"><![CDATA[这个大佬把价格打下来后，有几百万人用上了电脑。]]></summary>
         <author>
             <name>差评</name>
         </author>
