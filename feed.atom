@@ -1,10 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-10-28T00:56:19.592Z</id>
+    <id>urn:2021-10-29T00:54:43.222Z</id>
     <title>osmos::feed</title>
-    <updated>2021-10-28T00:56:19.592Z</updated>
+    <updated>2021-10-29T00:54:43.222Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[爱奇艺腾讯回应会员仍有广告，《王者荣耀》回应海报用原神素材，苹果回应应用商店故障，微博回应炸毁评论功能，这就是今天的其他大新闻！]]></title>
+        <id>https://mp.weixin.qq.com/s/X8zsMwlKwF4ygu3wMWRaww</id>
+        <link href="https://mp.weixin.qq.com/s/X8zsMwlKwF4ygu3wMWRaww"/>
+        <updated>2021-10-28T18:51:13.000Z</updated>
+        <summary type="html"><![CDATA[爱奇艺腾讯回应会员仍有广告，《王者荣耀》回应海报用原神素材，苹果回应应用商店故障，微博回应炸毁评论功能，这就是今天的其他大新闻！]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[聊一聊：手游的哪些设计最让你烦躁？]]></title>
+        <id>https://mp.weixin.qq.com/s/mhFn5sFrKpSImv8PneJ2-A</id>
+        <link href="https://mp.weixin.qq.com/s/mhFn5sFrKpSImv8PneJ2-A"/>
+        <updated>2021-10-28T18:51:13.000Z</updated>
+        <summary type="html"><![CDATA[聊一聊：手游的哪些设计最让你烦躁？]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今日最佳：一些文学规律。]]></title>
+        <id>https://mp.weixin.qq.com/s/ChqFU16ETy1dZzvmF-rL7Q</id>
+        <link href="https://mp.weixin.qq.com/s/ChqFU16ETy1dZzvmF-rL7Q"/>
+        <updated>2021-10-28T18:51:13.000Z</updated>
+        <summary type="html"><![CDATA[今日最佳：一些文学规律。]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[成年人下班后，最爽的瞬间是什么？]]></title>
+        <id>https://mp.weixin.qq.com/s/g2UJQSvl6cMaVQUkzOuLvQ</id>
+        <link href="https://mp.weixin.qq.com/s/g2UJQSvl6cMaVQUkzOuLvQ"/>
+        <updated>2021-10-28T18:51:13.000Z</updated>
+        <summary type="html"><![CDATA[成年人下班后，最爽的瞬间是什么？]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PS又㕛叒更新了，看完我再也不相信自己的眼睛了。。。]]></title>
+        <id>https://mp.weixin.qq.com/s/E59PBFljLbTmecjcoS2abQ</id>
+        <link href="https://mp.weixin.qq.com/s/E59PBFljLbTmecjcoS2abQ"/>
+        <updated>2021-10-28T18:51:13.000Z</updated>
+        <summary type="html"><![CDATA[PS又㕛叒更新了，看完我再也不相信自己的眼睛了。。。]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3.5元一箱，元气森林被薅了上千万羊毛，这个钱该让谁出？]]></title>
+        <id>https://mp.weixin.qq.com/s/bTwMTvhbq5cqELEp54pR7w</id>
+        <link href="https://mp.weixin.qq.com/s/bTwMTvhbq5cqELEp54pR7w"/>
+        <updated>2021-10-28T18:51:13.000Z</updated>
+        <summary type="html"><![CDATA[3.5元一箱，元气森林被薅了上千万羊毛，这个钱该让谁出？]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[冬天，为啥总是伴随大规模emo事件？]]></title>
+        <id>https://mp.weixin.qq.com/s/r5JtrJ1sS9GgNK3ipdIjNA</id>
+        <link href="https://mp.weixin.qq.com/s/r5JtrJ1sS9GgNK3ipdIjNA"/>
+        <updated>2021-10-28T18:51:13.000Z</updated>
+        <summary type="html"><![CDATA[冬天，为啥总是伴随大规模emo事件？]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[高通发布四款芯片，豆瓣回应删除用户相册图片，暴雪取消线上嘉年华，微博新增炸毁评论功能，这就是今天的其他大新闻！]]></title>
         <id>https://mp.weixin.qq.com/s/NnqEUchPQLzYMvaWhcmUTw</id>
@@ -1117,76 +1187,6 @@ Thank you: @hirdot]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[主人教会了狗狗说话，可怕的事情发生了。。。]]></title>
-        <id>https://mp.weixin.qq.com/s/Z11gU2t-jQRqqqChFq9YHw</id>
-        <link href="https://mp.weixin.qq.com/s/Z11gU2t-jQRqqqChFq9YHw"/>
-        <updated>2021-10-07T16:32:49.000Z</updated>
-        <summary type="html"><![CDATA[主人教会了狗狗说话，可怕的事情发生了。。。]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苏联的三进制电脑，为什么被二进制干掉了？]]></title>
-        <id>https://mp.weixin.qq.com/s/FrjXkrPPcNuZIVjG9lT2tQ</id>
-        <link href="https://mp.weixin.qq.com/s/FrjXkrPPcNuZIVjG9lT2tQ"/>
-        <updated>2021-10-07T16:32:49.000Z</updated>
-        <summary type="html"><![CDATA[苏联的三进制电脑，为什么被二进制干掉了？]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AirPods终于支持查找功能，B站内测校园同城，2021诺贝尔化学奖揭晓，欧盟将指控苹果NFC垄断，这就是今天的其他大新闻！]]></title>
-        <id>https://mp.weixin.qq.com/s/8RvWvYgcJ48lBbghXW3xng</id>
-        <link href="https://mp.weixin.qq.com/s/8RvWvYgcJ48lBbghXW3xng"/>
-        <updated>2021-10-06T16:32:47.000Z</updated>
-        <summary type="html"><![CDATA[AirPods终于支持查找功能，B站内测校园同城，2021诺贝尔化学奖揭晓，欧盟将指控苹果NFC垄断，这就是今天的其他大新闻！]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[聊一聊：你对你的手机有什么不满？]]></title>
-        <id>https://mp.weixin.qq.com/s/jEiobsGw05LkSxtaEXRbCA</id>
-        <link href="https://mp.weixin.qq.com/s/jEiobsGw05LkSxtaEXRbCA"/>
-        <updated>2021-10-06T16:32:47.000Z</updated>
-        <summary type="html"><![CDATA[聊一聊：你对你的手机有什么不满？]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今日最佳：你搁这搁这搁这搁这呢。]]></title>
-        <id>https://mp.weixin.qq.com/s/eLg-VgqW7lGmn7oRMDxXhw</id>
-        <link href="https://mp.weixin.qq.com/s/eLg-VgqW7lGmn7oRMDxXhw"/>
-        <updated>2021-10-06T16:32:47.000Z</updated>
-        <summary type="html"><![CDATA[今日最佳：你搁这搁这搁这搁这呢。]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[半夜看美食节目，这个爆汁肠直接把我馋哭了。。]]></title>
-        <id>https://mp.weixin.qq.com/s/qOMmRtJGh2yE21jiayAJaw</id>
-        <link href="https://mp.weixin.qq.com/s/qOMmRtJGh2yE21jiayAJaw"/>
-        <updated>2021-10-06T16:32:47.000Z</updated>
-        <summary type="html"><![CDATA[半夜看美食节目，这个爆汁肠直接把我馋哭了。。]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这个印度人成为CEO后，微软的市值开始直逼苹果。]]></title>
-        <id>https://mp.weixin.qq.com/s/xsGEA910JbXVvEHKssn4vg</id>
-        <link href="https://mp.weixin.qq.com/s/xsGEA910JbXVvEHKssn4vg"/>
-        <updated>2021-10-06T16:32:47.000Z</updated>
-        <summary type="html"><![CDATA[这个印度人成为CEO后，微软的市值开始直逼苹果。]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[90年前的今天，美国「新实用主义」哲学家理查德·罗蒂出生。
 #PhilosophiaQuotes]]></title>
         <id>https://mp.weixin.qq.com/s/W86hu4sNtaBR0tsZUj16TA</id>
@@ -1196,46 +1196,6 @@ Thank you: @hirdot]]></summary>
 #PhilosophiaQuotes]]></summary>
         <author>
             <name>Philosophia 哲学社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript 侦测手机浏览器的五种方法]]></title>
-        <id>http://www.ruanyifeng.com/blog/2021/09/detecting-mobile-browser.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2021/09/detecting-mobile-browser.html"/>
-        <updated>2021-09-29T01:19:08.000Z</updated>
-        <summary type="html"><![CDATA[有时候，前端网页需要知道，用户使用的是手机浏览器还是桌面浏览器。
-本文根据 StackOverflow，整理了 JavaScript 侦测手机浏览器的五种方法。
-
-一、navigator.userAgent
-最简单的方法就是分析浏览器的 user agent 字符串，它包含了设备信息。
-JS 通过navigator.userAgent属性拿到这个字符串，只要里面包含mobi、android、iphone等关键字，就可以认定是移动设备。
-
-if (/Mobi|Android|iPhone/i.test(navigator.userAgent)) {
-  // 当前设备是移动设备
-}
-
-// 另一种写法
-if (
-  navigator.userAgent.match(/Mobi/i) ||
-  navigator.userAgent.match(/Android/i) ||
-  navigator.userAgent.match(/iPhone/i)
-) {
-  // 当前设备是移动设备
-}
-
-
-
-这种方法的优点是简单方便，缺点是不可靠，因为用户可以修改这个字符串，让手机浏览器伪装成桌面浏览器。
-Chromium 系的浏览器，还有一个navigator.userAgentData属性，也是类似的作用。不同之处是它将 user agent 字符串解析为一个对象，该对象的mobile属性，返回一个布尔值，表示用户是否使用移动设备。
-
-const isMobile = navigator.userAgentData.mobile; 
-
-
-
-注意，苹果的 Safari 浏览器和 Firefox 浏览器都不支持这个属性，具体情况可以查看 Caniuse 网站。
-此外，还有一个已经废除的navigator.platform属性，所有浏览器都支持，所以也可以用。它返回一个字符串，表示用户的…]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
         </author>
     </entry>
 </feed>
