@@ -1,10 +1,120 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-10-29T00:54:43.222Z</id>
+    <id>urn:2021-10-30T00:54:35.683Z</id>
     <title>osmos::feed</title>
-    <updated>2021-10-29T00:54:43.222Z</updated>
+    <updated>2021-10-30T00:54:35.683Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[微信小范围上线欠费不停机，工信部规范PC端弹窗，极兔收购百世国内业务，市监总局明确互联网平台分级标准，这就是今天的其他大新闻！]]></title>
+        <id>https://mp.weixin.qq.com/s/XETp_gzwvmBNtxwDbk1Olg</id>
+        <link href="https://mp.weixin.qq.com/s/XETp_gzwvmBNtxwDbk1Olg"/>
+        <updated>2021-10-29T18:51:20.000Z</updated>
+        <summary type="html"><![CDATA[微信小范围上线欠费不停机，工信部规范PC端弹窗，极兔收购百世国内业务，市监总局明确互联网平台分级标准，这就是今天的其他大新闻！]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[聊一聊：出现在哪的广告最烦人？]]></title>
+        <id>https://mp.weixin.qq.com/s/vQsasMJUP_9u-ZOxepd4kw</id>
+        <link href="https://mp.weixin.qq.com/s/vQsasMJUP_9u-ZOxepd4kw"/>
+        <updated>2021-10-29T18:51:20.000Z</updated>
+        <summary type="html"><![CDATA[聊一聊：出现在哪的广告最烦人？]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今日最佳：如何得体地回复消息？]]></title>
+        <id>https://mp.weixin.qq.com/s/2b4kcHjwyRAdWAuUp09TAw</id>
+        <link href="https://mp.weixin.qq.com/s/2b4kcHjwyRAdWAuUp09TAw"/>
+        <updated>2021-10-29T18:51:20.000Z</updated>
+        <summary type="html"><![CDATA[今日最佳：如何得体地回复消息？]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[床品好的青年，都啥样啊？]]></title>
+        <id>https://mp.weixin.qq.com/s/y4vkqWD6RhZF7KVJALLf-Q</id>
+        <link href="https://mp.weixin.qq.com/s/y4vkqWD6RhZF7KVJALLf-Q"/>
+        <updated>2021-10-29T18:51:20.000Z</updated>
+        <summary type="html"><![CDATA[床品好的青年，都啥样啊？]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reddit这个宝藏小组，做了我小时候最想干的事。]]></title>
+        <id>https://mp.weixin.qq.com/s/01EIj73ONFQIAxFeN1g80w</id>
+        <link href="https://mp.weixin.qq.com/s/01EIj73ONFQIAxFeN1g80w"/>
+        <updated>2021-10-29T18:51:20.000Z</updated>
+        <summary type="html"><![CDATA[Reddit这个宝藏小组，做了我小时候最想干的事。]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[脸书换Logo了，大家最关心的居然它是长得像微信视频号。]]></title>
+        <id>https://mp.weixin.qq.com/s/XEEhj4m7ZbcGz0G4iK61ag</id>
+        <link href="https://mp.weixin.qq.com/s/XEEhj4m7ZbcGz0G4iK61ag"/>
+        <updated>2021-10-29T18:51:20.000Z</updated>
+        <summary type="html"><![CDATA[脸书换Logo了，大家最关心的居然它是长得像微信视频号。]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[这个有股山寨味的“行星防御大会”，竟然真的在保卫地球？]]></title>
+        <id>https://mp.weixin.qq.com/s/zxDMw2wlJ1f0WQa6owFd0g</id>
+        <link href="https://mp.weixin.qq.com/s/zxDMw2wlJ1f0WQa6owFd0g"/>
+        <updated>2021-10-29T18:51:19.000Z</updated>
+        <summary type="html"><![CDATA[这个有股山寨味的“行星防御大会”，竟然真的在保卫地球？]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4年前的今天，Philosophia哲学社成立。生日快乐！]]></title>
+        <id>https://mp.weixin.qq.com/s/04HcGdj1MjWShTlCqlChCg</id>
+        <link href="https://mp.weixin.qq.com/s/04HcGdj1MjWShTlCqlChCg"/>
+        <updated>2021-10-29T09:36:49.000Z</updated>
+        <summary type="html"><![CDATA[4年前的今天，Philosophia哲学社成立。生日快乐！]]></summary>
+        <author>
+            <name>Philosophia 哲学社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 181 期）：移动支付应该怎么设计？]]></title>
+        <id>http://www.ruanyifeng.com/blog/2021/10/weekly-issue-181.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2021/10/weekly-issue-181.html"/>
+        <updated>2021-10-29T01:02:26.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。
+本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。
+周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。
+封面图
+
+日本东京有一家专门生产电梯按钮的公司，该公司把生产过的1000多种电梯按钮，做成了一面展示墙，按上去每个都会亮。孩子们和大人都很喜欢。（via）
+本周话题：移动支付应该怎么设计？
+支付宝和微信支付，垄断了中国的移动支付，两家合计的市场份额超过90%。
+虽然它们用起来非常方便，可以说完美解决了手机付款，但是，作为整个国家移动支付的解决方案，我总觉得，现在的状况是有问题的。
+
+支付宝和微信支付的最大问题，就是把用户锁在它们的体系里面。 支付体系本应该是开放的，只要有手机就能支付，但是现在你首先必须是支付宝和微信的会员，然后才能支付。
+理想情况下，在银行开户后就应该可以付款，但是现在多了一个步骤，就是必须将银行账户与支付宝和微信绑定。没有这一步，用户实际上无法手机支付。
+此外，至少还有其他三个缺点。
+（1）二维码不通用，只能用自家的应用打开，导致商户必须张贴多个二维码。
+（2）不能互相转账，支付宝不能转给微信，反之亦然。同时，也不能转给他人的银行账户，只能先提款到自己的开户行。
+（3）余额提现要收手续费，虽然这可能不是支付宝和微信的问题。
+那么，有没有更好的移动支付方案呢？答案是有的，有一个国家已经做到了。
+
+前不久，我读到彭博社的一篇报道，惊奇地发现，巴西有了一个更好的移动支付系统，胜过支付宝和微信支付。
+2020年11月，巴西政府为了解决手机支付问题，推出了 Pix 系统。
+它的设计很简单。首先，你到银行开户时，选定一个或多个个人标识，可以是手机号码、电子邮件、银行卡号、用户名等等，只要能够唯一识别你即可。然后，你下载政府开发的 App…]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[爱奇艺腾讯回应会员仍有广告，《王者荣耀》回应海报用原神素材，苹果回应应用商店故障，微博回应炸毁评论功能，这就是今天的其他大新闻！]]></title>
         <id>https://mp.weixin.qq.com/s/X8zsMwlKwF4ygu3wMWRaww</id>
@@ -1090,36 +1200,6 @@ Thank you: @hirdot]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[B站上的这些经典课文续写，把我童年都毁了。]]></title>
-        <id>https://mp.weixin.qq.com/s/10zOSwSzulaJW8JHCbDrqQ</id>
-        <link href="https://mp.weixin.qq.com/s/10zOSwSzulaJW8JHCbDrqQ"/>
-        <updated>2021-10-08T16:33:13.000Z</updated>
-        <summary type="html"><![CDATA[B站上的这些经典课文续写，把我童年都毁了。]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[去年卖的最好的十款手机，居然有一半不到1000块？]]></title>
-        <id>https://mp.weixin.qq.com/s/r5iIMxlXcQ1ArYDPVFHwmQ</id>
-        <link href="https://mp.weixin.qq.com/s/r5iIMxlXcQ1ArYDPVFHwmQ"/>
-        <updated>2021-10-08T16:33:13.000Z</updated>
-        <summary type="html"><![CDATA[去年卖的最好的十款手机，居然有一半不到1000块？]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我玩了快十年的DOTA 2，就没受过这样的委屈！]]></title>
-        <id>https://mp.weixin.qq.com/s/ceDmrxiL2gXnH7BbN3EIvQ</id>
-        <link href="https://mp.weixin.qq.com/s/ceDmrxiL2gXnH7BbN3EIvQ"/>
-        <updated>2021-10-08T16:33:13.000Z</updated>
-        <summary type="html"><![CDATA[我玩了快十年的DOTA 2，就没受过这样的委屈！]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 178 期）：家庭太阳能发电的春天]]></title>
         <id>http://www.ruanyifeng.com/blog/2021/10/weekly-issue-178.html</id>
         <link href="http://www.ruanyifeng.com/blog/2021/10/weekly-issue-178.html"/>
@@ -1144,46 +1224,6 @@ Thank you: @hirdot]]></summary>
 另一方面，以后用电量肯定持续增长。别的不说，全国每年新增那么多电动车，都需要用电啊，单单一台特斯拉 Model 3 的功率（220kw）大约是家用空调的100倍。马斯克最近说，美…]]></summary>
         <author>
             <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[锐龙芯片在Win11性能大幅下降，苹果App必须提供账号删除功能，2021诺贝尔文学奖揭晓，这就是今天的其他大新闻！]]></title>
-        <id>https://mp.weixin.qq.com/s/DabnXJCXZBvoAY_pJiWwFw</id>
-        <link href="https://mp.weixin.qq.com/s/DabnXJCXZBvoAY_pJiWwFw"/>
-        <updated>2021-10-07T16:32:49.000Z</updated>
-        <summary type="html"><![CDATA[锐龙芯片在Win11性能大幅下降，苹果App必须提供账号删除功能，2021诺贝尔文学奖揭晓，这就是今天的其他大新闻！]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[聊一聊：你在什么情况下会陷入消费主义的陷阱？]]></title>
-        <id>https://mp.weixin.qq.com/s/1uOPx6WTLRswLNO6m5m3RA</id>
-        <link href="https://mp.weixin.qq.com/s/1uOPx6WTLRswLNO6m5m3RA"/>
-        <updated>2021-10-07T16:32:49.000Z</updated>
-        <summary type="html"><![CDATA[聊一聊：你在什么情况下会陷入消费主义的陷阱？]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今日最佳：煮个鸡蛋出现了宇航员？]]></title>
-        <id>https://mp.weixin.qq.com/s/YYH6UZd3kjG1bBghAAfAlQ</id>
-        <link href="https://mp.weixin.qq.com/s/YYH6UZd3kjG1bBghAAfAlQ"/>
-        <updated>2021-10-07T16:32:49.000Z</updated>
-        <summary type="html"><![CDATA[今日最佳：煮个鸡蛋出现了宇航员？]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国庆宅在家，不比去景点爽多了？]]></title>
-        <id>https://mp.weixin.qq.com/s/MWjAnEm4FVvTYI5fKVDtvA</id>
-        <link href="https://mp.weixin.qq.com/s/MWjAnEm4FVvTYI5fKVDtvA"/>
-        <updated>2021-10-07T16:32:49.000Z</updated>
-        <summary type="html"><![CDATA[国庆宅在家，不比去景点爽多了？]]></summary>
-        <author>
-            <name>差评</name>
         </author>
     </entry>
     <entry>
