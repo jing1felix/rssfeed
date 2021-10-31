@@ -1,10 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-10-30T00:54:35.683Z</id>
+    <id>urn:2021-10-31T00:58:48.719Z</id>
     <title>osmos::feed</title>
-    <updated>2021-10-30T00:54:35.683Z</updated>
+    <updated>2021-10-31T00:58:48.719Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[聊一聊：还记得第一次参加双十一的感受么？]]></title>
+        <id>https://mp.weixin.qq.com/s/lE1nnF3rFd5VPG68qQhnqw</id>
+        <link href="https://mp.weixin.qq.com/s/lE1nnF3rFd5VPG68qQhnqw"/>
+        <updated>2021-10-30T18:52:07.000Z</updated>
+        <summary type="html"><![CDATA[聊一聊：还记得第一次参加双十一的感受么？]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今日最佳：你们那边用剪刀判几年？]]></title>
+        <id>https://mp.weixin.qq.com/s/abwEsCo6bbQshIFGBdFSpA</id>
+        <link href="https://mp.weixin.qq.com/s/abwEsCo6bbQshIFGBdFSpA"/>
+        <updated>2021-10-30T18:52:07.000Z</updated>
+        <summary type="html"><![CDATA[今日最佳：你们那边用剪刀判几年？]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[除了玩火会尿床，小时候父母还说过哪些离谱的谎言？]]></title>
+        <id>https://mp.weixin.qq.com/s/CrltKun2RAvvu5jySGlfjQ</id>
+        <link href="https://mp.weixin.qq.com/s/CrltKun2RAvvu5jySGlfjQ"/>
+        <updated>2021-10-30T18:52:07.000Z</updated>
+        <summary type="html"><![CDATA[除了玩火会尿床，小时候父母还说过哪些离谱的谎言？]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软出了两款桌面美化工具，再也不用为换壁纸发愁了。]]></title>
+        <id>https://mp.weixin.qq.com/s/35v6gKun0UFYRj7Lml3BRQ</id>
+        <link href="https://mp.weixin.qq.com/s/35v6gKun0UFYRj7Lml3BRQ"/>
+        <updated>2021-10-30T18:52:07.000Z</updated>
+        <summary type="html"><![CDATA[微软出了两款桌面美化工具，再也不用为换壁纸发愁了。]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[时隔6年发售的仙剑7，又一次让玩家们失望了。]]></title>
+        <id>https://mp.weixin.qq.com/s/2FDza3LDASCbJLdfzFzf9Q</id>
+        <link href="https://mp.weixin.qq.com/s/2FDza3LDASCbJLdfzFzf9Q"/>
+        <updated>2021-10-30T18:52:07.000Z</updated>
+        <summary type="html"><![CDATA[时隔6年发售的仙剑7，又一次让玩家们失望了。]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[宿华卸任快手CEO，格力被曝在美国接受近6亿罚款，蔚来回应异地加电后车上出现呕吐物，就是今天的其他大新闻！]]></title>
+        <id>https://mp.weixin.qq.com/s/_ZqyfASa221795lbNvot4g</id>
+        <link href="https://mp.weixin.qq.com/s/_ZqyfASa221795lbNvot4g"/>
+        <updated>2021-10-30T18:52:07.000Z</updated>
+        <summary type="html"><![CDATA[宿华卸任快手CEO，格力被曝在美国接受近6亿罚款，蔚来回应异地加电后车上出现呕吐物，就是今天的其他大新闻！]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[城市史杂谈：《接管杭州》与革命认同的文化研究]]></title>
+        <id>https://mp.weixin.qq.com/s/M33dr22McFHOUcbM3f2oFQ</id>
+        <link href="https://mp.weixin.qq.com/s/M33dr22McFHOUcbM3f2oFQ"/>
+        <updated>2021-10-30T16:18:49.000Z</updated>
+        <summary type="html"><![CDATA[城市史杂谈：《接管杭州》与革命认同的文化研究]]></summary>
+        <author>
+            <name>Philosophia 哲学社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一种霍布斯式的叛乱权是可能的吗？/ 原创（上）]]></title>
+        <id>https://mp.weixin.qq.com/s/HRFrD5XSXUkfW4-QhGP_MA</id>
+        <link href="https://mp.weixin.qq.com/s/HRFrD5XSXUkfW4-QhGP_MA"/>
+        <updated>2021-10-30T16:18:49.000Z</updated>
+        <summary type="html"><![CDATA[一种霍布斯式的叛乱权是可能的吗？/ 原创（上）]]></summary>
+        <author>
+            <name>Philosophia 哲学社</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[微信小范围上线欠费不停机，工信部规范PC端弹窗，极兔收购百世国内业务，市监总局明确互联网平台分级标准，这就是今天的其他大新闻！]]></title>
         <id>https://mp.weixin.qq.com/s/XETp_gzwvmBNtxwDbk1Olg</id>
@@ -1100,26 +1180,6 @@ Thank you: @hirdot]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[退了休还能拿1亿薪酬？倍受争议的联想还是终止了上市。。。]]></title>
-        <id>https://mp.weixin.qq.com/s/j3b0k2z20fY0Vnjfw3QgSw</id>
-        <link href="https://mp.weixin.qq.com/s/j3b0k2z20fY0Vnjfw3QgSw"/>
-        <updated>2021-10-09T16:35:12.000Z</updated>
-        <summary type="html"><![CDATA[退了休还能拿1亿薪酬？倍受争议的联想还是终止了上市。。。]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在一堆旗舰智能手表中，我找到了一款续航能达到45天的。]]></title>
-        <id>https://mp.weixin.qq.com/s/0-azAwYna7IBsfcuwDAjqQ</id>
-        <link href="https://mp.weixin.qq.com/s/0-azAwYna7IBsfcuwDAjqQ"/>
-        <updated>2021-10-09T16:35:12.000Z</updated>
-        <summary type="html"><![CDATA[在一堆旗舰智能手表中，我找到了一款续航能达到45天的。]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[《生物学哲学》教学大纲]]></title>
         <id>https://mp.weixin.qq.com/s/1KBpoxJ50f54dINCu2_lYQ</id>
         <link href="https://mp.weixin.qq.com/s/1KBpoxJ50f54dINCu2_lYQ"/>
@@ -1157,46 +1217,6 @@ Thank you: @hirdot]]></summary>
         <summary type="html"><![CDATA[二维语义学：你会从两个维度理解表述吗？/ 哲普]]></summary>
         <author>
             <name>Philosophia 哲学社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美团回应垄断被罚34.42亿，微信回应读取用户相册，《英雄联盟手游》测试今日开启，淘特将接入微信支付，这就是今天的其他大新闻！]]></title>
-        <id>https://mp.weixin.qq.com/s/3oBq533fFSwDG7AD3rWTcA</id>
-        <link href="https://mp.weixin.qq.com/s/3oBq533fFSwDG7AD3rWTcA"/>
-        <updated>2021-10-08T16:33:13.000Z</updated>
-        <summary type="html"><![CDATA[美团回应垄断被罚34.42亿，微信回应读取用户相册，《英雄联盟手游》测试今日开启，淘特将接入微信支付，这就是今天的其他大新闻！]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[聊一聊：你的国庆假期按计划实施了吗？]]></title>
-        <id>https://mp.weixin.qq.com/s/FnPL-4Hi3QzPtsRhU8eKwQ</id>
-        <link href="https://mp.weixin.qq.com/s/FnPL-4Hi3QzPtsRhU8eKwQ"/>
-        <updated>2021-10-08T16:33:13.000Z</updated>
-        <summary type="html"><![CDATA[聊一聊：你的国庆假期按计划实施了吗？]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今日最佳：写完论文那一刻。]]></title>
-        <id>https://mp.weixin.qq.com/s/AxupObkWz9e-Dk05j5Dm3g</id>
-        <link href="https://mp.weixin.qq.com/s/AxupObkWz9e-Dk05j5Dm3g"/>
-        <updated>2021-10-08T16:33:13.000Z</updated>
-        <summary type="html"><![CDATA[今日最佳：写完论文那一刻。]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[方便面包装图，骗哭过多少小孩？]]></title>
-        <id>https://mp.weixin.qq.com/s/7XnxVG3xBKG80-ylkmu7KA</id>
-        <link href="https://mp.weixin.qq.com/s/7XnxVG3xBKG80-ylkmu7KA"/>
-        <updated>2021-10-08T16:33:13.000Z</updated>
-        <summary type="html"><![CDATA[方便面包装图，骗哭过多少小孩？]]></summary>
-        <author>
-            <name>差评</name>
         </author>
     </entry>
     <entry>

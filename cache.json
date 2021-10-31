@@ -27,7 +27,7 @@
           "description": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。\n周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。\n封面图\n\n日本东京有一家专门生产电梯按钮的公司，该公司把生产过的1000多种电梯按钮，做成了一面展示墙，按上去每个都会亮。孩子们和大人都很喜欢。（via）\n本周话题：移动支付应该怎么设计？\n支付宝和微信支付，垄断了中国的移动支付，两家合计的市场份额超过90%。\n虽然它们用起来非常方便，可以说完美解决了手机付款，但是，作为整个国家移动支付的解决方案，我总觉得，现在的状况是有问题的。\n\n支付宝和微信支付的最大问题，就是把用户锁在它们的体系里面。 支付体系本应该是开放的，只要有手机就能支付，但是现在你首先必须是支付宝和微信的会员，然后才能支付。\n理想情况下，在银行开户后就应该可以付款，但是现在多了一个步骤，就是必须将银行账户与支付宝和微信绑定。没有这一步，用户实际上无法手机支付。\n此外，至少还有其他三个缺点。\n（1）二维码不通用，只能用自家的应用打开，导致商户必须张贴多个二维码。\n（2）不能互相转账，支付宝不能转给微信，反之亦然。同时，也不能转给他人的银行账户，只能先提款到自己的开户行。\n（3）余额提现要收手续费，虽然这可能不是支付宝和微信的问题。\n那么，有没有更好的移动支付方案呢？答案是有的，有一个国家已经做到了。\n\n前不久，我读到彭博社的一篇报道，惊奇地发现，巴西有了一个更好的移动支付系统，胜过支付宝和微信支付。\n2020年11月，巴西政府为了解决手机支付问题，推出了 Pix 系统。\n它的设计很简单。首先，你到银行开户时，选定一个或多个个人标识，可以是手机号码、电子邮件、银行卡号、用户名等等，只要能够唯一识别你即可。然后，你下载政府开发的 App…",
           "link": "http://www.ruanyifeng.com/blog/2021/10/weekly-issue-181.html",
           "publishedOn": "2021-10-29T01:02:26.000Z",
-          "wordCount": 1031,
+          "wordCount": 1070,
           "title": "科技爱好者周刊（第 181 期）：移动支付应该怎么设计？"
         },
         {
@@ -64,6 +64,60 @@
       "feedUrl": "https://api.feeddd.org/feeds/6110783449ef7514d0b91ae1",
       "siteUrl": "https://mp.weixin.qq.com",
       "articles": [
+        {
+          "id": "https://mp.weixin.qq.com/s/lE1nnF3rFd5VPG68qQhnqw",
+          "author": null,
+          "description": "聊一聊：还记得第一次参加双十一的感受么？",
+          "link": "https://mp.weixin.qq.com/s/lE1nnF3rFd5VPG68qQhnqw",
+          "publishedOn": "2021-10-30T18:52:07.000Z",
+          "wordCount": 53,
+          "title": "聊一聊：还记得第一次参加双十一的感受么？"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/abwEsCo6bbQshIFGBdFSpA",
+          "author": null,
+          "description": "今日最佳：你们那边用剪刀判几年？",
+          "link": "https://mp.weixin.qq.com/s/abwEsCo6bbQshIFGBdFSpA",
+          "publishedOn": "2021-10-30T18:52:07.000Z",
+          "wordCount": 55,
+          "title": "今日最佳：你们那边用剪刀判几年？"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/CrltKun2RAvvu5jySGlfjQ",
+          "author": null,
+          "description": "除了玩火会尿床，小时候父母还说过哪些离谱的谎言？",
+          "link": "https://mp.weixin.qq.com/s/CrltKun2RAvvu5jySGlfjQ",
+          "publishedOn": "2021-10-30T18:52:07.000Z",
+          "wordCount": 89,
+          "title": "除了玩火会尿床，小时候父母还说过哪些离谱的谎言？"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/35v6gKun0UFYRj7Lml3BRQ",
+          "author": null,
+          "description": "微软出了两款桌面美化工具，再也不用为换壁纸发愁了。",
+          "link": "https://mp.weixin.qq.com/s/35v6gKun0UFYRj7Lml3BRQ",
+          "publishedOn": "2021-10-30T18:52:07.000Z",
+          "wordCount": 69,
+          "title": "微软出了两款桌面美化工具，再也不用为换壁纸发愁了。"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/2FDza3LDASCbJLdfzFzf9Q",
+          "author": null,
+          "description": "时隔6年发售的仙剑7，又一次让玩家们失望了。",
+          "link": "https://mp.weixin.qq.com/s/2FDza3LDASCbJLdfzFzf9Q",
+          "publishedOn": "2021-10-30T18:52:07.000Z",
+          "wordCount": 193,
+          "title": "时隔6年发售的仙剑7，又一次让玩家们失望了。"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/_ZqyfASa221795lbNvot4g",
+          "author": null,
+          "description": "宿华卸任快手CEO，格力被曝在美国接受近6亿罚款，蔚来回应异地加电后车上出现呕吐物，就是今天的其他大新闻！",
+          "link": "https://mp.weixin.qq.com/s/_ZqyfASa221795lbNvot4g",
+          "publishedOn": "2021-10-30T18:52:07.000Z",
+          "wordCount": 140,
+          "title": "宿华卸任快手CEO，格力被曝在美国接受近6亿罚款，蔚来回应异地加电后车上出现呕吐物，就是今天的其他大新闻！"
+        },
         {
           "id": "https://mp.weixin.qq.com/s/XETp_gzwvmBNtxwDbk1Olg",
           "author": null,
@@ -909,60 +963,6 @@
           "publishedOn": "2021-10-09T16:35:12.000Z",
           "wordCount": 171,
           "title": "苹果推出的这个软件，可能都被我们低估了。。。"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/j3b0k2z20fY0Vnjfw3QgSw",
-          "author": null,
-          "description": "退了休还能拿1亿薪酬？倍受争议的联想还是终止了上市。。。",
-          "link": "https://mp.weixin.qq.com/s/j3b0k2z20fY0Vnjfw3QgSw",
-          "publishedOn": "2021-10-09T16:35:12.000Z",
-          "wordCount": 143,
-          "title": "退了休还能拿1亿薪酬？倍受争议的联想还是终止了上市。。。"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/0-azAwYna7IBsfcuwDAjqQ",
-          "author": null,
-          "description": "在一堆旗舰智能手表中，我找到了一款续航能达到45天的。",
-          "link": "https://mp.weixin.qq.com/s/0-azAwYna7IBsfcuwDAjqQ",
-          "publishedOn": "2021-10-09T16:35:12.000Z",
-          "wordCount": 263,
-          "title": "在一堆旗舰智能手表中，我找到了一款续航能达到45天的。"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/3oBq533fFSwDG7AD3rWTcA",
-          "author": null,
-          "description": "美团回应垄断被罚34.42亿，微信回应读取用户相册，《英雄联盟手游》测试今日开启，淘特将接入微信支付，这就是今天的其他大新闻！",
-          "link": "https://mp.weixin.qq.com/s/3oBq533fFSwDG7AD3rWTcA",
-          "publishedOn": "2021-10-08T16:33:13.000Z",
-          "wordCount": 152,
-          "title": "美团回应垄断被罚34.42亿，微信回应读取用户相册，《英雄联盟手游》测试今日开启，淘特将接入微信支付，这就是今天的其他大新闻！"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/FnPL-4Hi3QzPtsRhU8eKwQ",
-          "author": null,
-          "description": "聊一聊：你的国庆假期按计划实施了吗？",
-          "link": "https://mp.weixin.qq.com/s/FnPL-4Hi3QzPtsRhU8eKwQ",
-          "publishedOn": "2021-10-08T16:33:13.000Z",
-          "wordCount": 53,
-          "title": "聊一聊：你的国庆假期按计划实施了吗？"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/AxupObkWz9e-Dk05j5Dm3g",
-          "author": null,
-          "description": "今日最佳：写完论文那一刻。",
-          "link": "https://mp.weixin.qq.com/s/AxupObkWz9e-Dk05j5Dm3g",
-          "publishedOn": "2021-10-08T16:33:13.000Z",
-          "wordCount": 55,
-          "title": "今日最佳：写完论文那一刻。"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/7XnxVG3xBKG80-ylkmu7KA",
-          "author": null,
-          "description": "方便面包装图，骗哭过多少小孩？",
-          "link": "https://mp.weixin.qq.com/s/7XnxVG3xBKG80-ylkmu7KA",
-          "publishedOn": "2021-10-08T16:33:13.000Z",
-          "wordCount": 93,
-          "title": "方便面包装图，骗哭过多少小孩？"
         }
       ]
     },
@@ -971,6 +971,24 @@
       "feedUrl": "https://api.feeddd.org/feeds/611f8d8865d23936d94a4889",
       "siteUrl": "https://mp.weixin.qq.com",
       "articles": [
+        {
+          "id": "https://mp.weixin.qq.com/s/M33dr22McFHOUcbM3f2oFQ",
+          "author": null,
+          "description": "城市史杂谈：《接管杭州》与革命认同的文化研究",
+          "link": "https://mp.weixin.qq.com/s/M33dr22McFHOUcbM3f2oFQ",
+          "publishedOn": "2021-10-30T16:18:49.000Z",
+          "wordCount": 338,
+          "title": "城市史杂谈：《接管杭州》与革命认同的文化研究"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/HRFrD5XSXUkfW4-QhGP_MA",
+          "author": null,
+          "description": "一种霍布斯式的叛乱权是可能的吗？/ 原创（上）",
+          "link": "https://mp.weixin.qq.com/s/HRFrD5XSXUkfW4-QhGP_MA",
+          "publishedOn": "2021-10-30T16:18:49.000Z",
+          "wordCount": 1268,
+          "title": "一种霍布斯式的叛乱权是可能的吗？/ 原创（上）"
+        },
         {
           "id": "https://mp.weixin.qq.com/s/04HcGdj1MjWShTlCqlChCg",
           "author": null,
