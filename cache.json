@@ -27,7 +27,7 @@
           "description": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。\n周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。\n封面图\n\n日本东京有一家专门生产电梯按钮的公司，该公司把生产过的1000多种电梯按钮，做成了一面展示墙，按上去每个都会亮。孩子们和大人都很喜欢。（via）\n本周话题：移动支付应该怎么设计？\n支付宝和微信支付，垄断了中国的移动支付，两家合计的市场份额超过90%。\n虽然它们用起来非常方便，可以说完美解决了手机付款，但是，作为整个国家移动支付的解决方案，我总觉得，现在的状况是有问题的。\n\n支付宝和微信支付的最大问题，就是把用户锁在它们的体系里面。 支付体系本应该是开放的，只要有手机就能支付，但是现在你首先必须是支付宝和微信的会员，然后才能支付。\n理想情况下，在银行开户后就应该可以付款，但是现在多了一个步骤，就是必须将银行账户与支付宝和微信绑定。没有这一步，用户实际上无法手机支付。\n此外，至少还有其他三个缺点。\n（1）二维码不通用，只能用自家的应用打开，导致商户必须张贴多个二维码。\n（2）不能互相转账，支付宝不能转给微信，反之亦然。同时，也不能转给他人的银行账户，只能先提款到自己的开户行。\n（3）余额提现要收手续费，虽然这可能不是支付宝和微信的问题。\n那么，有没有更好的移动支付方案呢？答案是有的，有一个国家已经做到了。\n\n前不久，我读到彭博社的一篇报道，惊奇地发现，巴西有了一个更好的移动支付系统，胜过支付宝和微信支付。\n2020年11月，巴西政府为了解决手机支付问题，推出了 Pix 系统。\n它的设计很简单。首先，你到银行开户时，选定一个或多个个人标识，可以是手机号码、电子邮件、银行卡号、用户名等等，只要能够唯一识别你即可。然后，你下载政府开发的 App…",
           "link": "http://www.ruanyifeng.com/blog/2021/10/weekly-issue-181.html",
           "publishedOn": "2021-10-29T01:02:26.000Z",
-          "wordCount": 1099,
+          "wordCount": 1159,
           "title": "科技爱好者周刊（第 181 期）：移动支付应该怎么设计？"
         },
         {
@@ -64,6 +64,69 @@
       "feedUrl": "https://api.feeddd.org/feeds/6110783449ef7514d0b91ae1",
       "siteUrl": "https://mp.weixin.qq.com",
       "articles": [
+        {
+          "id": "https://mp.weixin.qq.com/s/dhryq9_Lr7IOzoeoNhr58Q",
+          "author": null,
+          "description": "字节推行1075工作制，小米社区现严重Bug，工信部要求保障网盘免费用户下载速率，个人信息保护法实施，这就是今天的其他大新闻！",
+          "link": "https://mp.weixin.qq.com/s/dhryq9_Lr7IOzoeoNhr58Q",
+          "publishedOn": "2021-11-01T18:51:08.000Z",
+          "wordCount": 116,
+          "title": "字节推行1075工作制，小米社区现严重Bug，工信部要求保障网盘免费用户下载速率，个人信息保护法实施，这就是今天的其他大新闻！"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/FwOowiErKYxg_-NmgZ-Vwg",
+          "author": null,
+          "description": "聊一聊：双十一买到了什么很划算的东西？",
+          "link": "https://mp.weixin.qq.com/s/FwOowiErKYxg_-NmgZ-Vwg",
+          "publishedOn": "2021-11-01T18:51:08.000Z",
+          "wordCount": 53,
+          "title": "聊一聊：双十一买到了什么很划算的东西？"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/4PCNqfpvs_zwP6B7vKIRHw",
+          "author": null,
+          "description": "今日最佳：签收快递成精现场。",
+          "link": "https://mp.weixin.qq.com/s/4PCNqfpvs_zwP6B7vKIRHw",
+          "publishedOn": "2021-11-01T18:51:08.000Z",
+          "wordCount": 54,
+          "title": "今日最佳：签收快递成精现场。"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/j7vnJxxAEsLwgG502MjesA",
+          "author": null,
+          "description": "谁再说冷，我上去就是一个滑铲。",
+          "link": "https://mp.weixin.qq.com/s/j7vnJxxAEsLwgG502MjesA",
+          "publishedOn": "2021-11-01T18:51:08.000Z",
+          "wordCount": 137,
+          "title": "谁再说冷，我上去就是一个滑铲。"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/W3tFgMQxYcMMArNu54ALJw",
+          "author": null,
+          "description": "发售3天卖了10万份，这独立游戏好玩到让我通宵打牌。。。",
+          "link": "https://mp.weixin.qq.com/s/W3tFgMQxYcMMArNu54ALJw",
+          "publishedOn": "2021-11-01T18:51:08.000Z",
+          "wordCount": 194,
+          "title": "发售3天卖了10万份，这独立游戏好玩到让我通宵打牌。。。"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/jyXKjX5WeBFKQ5PZ6Po-Gw",
+          "author": null,
+          "description": "多到一块硬盘都存不下的小姐姐们，未来能直接刻进你的DNA?",
+          "link": "https://mp.weixin.qq.com/s/jyXKjX5WeBFKQ5PZ6Po-Gw",
+          "publishedOn": "2021-11-01T18:51:08.000Z",
+          "wordCount": 522,
+          "title": "多到一块硬盘都存不下的小姐姐们，未来能直接刻进你的DNA?"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/2sobALdQWHNd2J1rRKlTHA",
+          "author": null,
+          "description": "68亿让百世卖身，这个小老弟曾靠“蹭网”把大哥们都搞急了。。。",
+          "link": "https://mp.weixin.qq.com/s/2sobALdQWHNd2J1rRKlTHA",
+          "publishedOn": "2021-11-01T18:51:08.000Z",
+          "wordCount": 149,
+          "title": "68亿让百世卖身，这个小老弟曾靠“蹭网”把大哥们都搞急了。。。"
+        },
         {
           "id": "https://mp.weixin.qq.com/s/kILgYq6PUXy4D0L7AKkHeg",
           "author": null,
@@ -205,7 +268,7 @@
           "description": "Reddit这个宝藏小组，做了我小时候最想干的事。",
           "link": "https://mp.weixin.qq.com/s/01EIj73ONFQIAxFeN1g80w",
           "publishedOn": "2021-10-29T18:51:20.000Z",
-          "wordCount": 134,
+          "wordCount": 135,
           "title": "Reddit这个宝藏小组，做了我小时候最想干的事。"
         },
         {
@@ -900,69 +963,6 @@
           "publishedOn": "2021-10-11T16:32:58.000Z",
           "wordCount": 203,
           "title": "微信偷偷访问相册，这些App真的有那么叛逆吗？"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/mZ5av2TVXdMX0jnzE62p6w",
-          "author": null,
-          "description": "种草这件事，在数码爱好者身上就会变成科工研究。。。",
-          "link": "https://mp.weixin.qq.com/s/mZ5av2TVXdMX0jnzE62p6w",
-          "publishedOn": "2021-10-11T16:32:58.000Z",
-          "wordCount": 133,
-          "title": "种草这件事，在数码爱好者身上就会变成科工研究。。。"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/vM-QZP06HUu3pQPpCCXy9A",
-          "author": null,
-          "description": "美团App被曝不间断定位，三星Galaxy S22机模曝光，下一代显卡接口现身，顺丰赔付协议惹争议，这就是今天的其他大新闻！",
-          "link": "https://mp.weixin.qq.com/s/vM-QZP06HUu3pQPpCCXy9A",
-          "publishedOn": "2021-10-10T16:32:48.000Z",
-          "wordCount": 187,
-          "title": "美团App被曝不间断定位，三星Galaxy S22机模曝光，下一代显卡接口现身，顺丰赔付协议惹争议，这就是今天的其他大新闻！"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/mo1ncVT4sYXUasH1gJtgHg",
-          "author": null,
-          "description": "聊一聊：除了kindle，你有哪些一直在吃灰的东西？",
-          "link": "https://mp.weixin.qq.com/s/mo1ncVT4sYXUasH1gJtgHg",
-          "publishedOn": "2021-10-10T16:32:48.000Z",
-          "wordCount": 52,
-          "title": "聊一聊：除了kindle，你有哪些一直在吃灰的东西？"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/jcxyNvW_vZXWO2xbcw_VNQ",
-          "author": null,
-          "description": "今日最佳：外国人看的大熊猫好像不太一样。",
-          "link": "https://mp.weixin.qq.com/s/jcxyNvW_vZXWO2xbcw_VNQ",
-          "publishedOn": "2021-10-10T16:32:48.000Z",
-          "wordCount": 55,
-          "title": "今日最佳：外国人看的大熊猫好像不太一样。"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/fsdYe2fZtGWhqL9OE0jxtQ",
-          "author": null,
-          "description": "2021下半年降噪蓝牙耳机怎么选？我直呼「卷得好」！",
-          "link": "https://mp.weixin.qq.com/s/fsdYe2fZtGWhqL9OE0jxtQ",
-          "publishedOn": "2021-10-10T16:32:48.000Z",
-          "wordCount": 274,
-          "title": "2021下半年降噪蓝牙耳机怎么选？我直呼「卷得好」！"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/rxG3VsuuFofiHN6TfMXAVg",
-          "author": null,
-          "description": "体验了LOL手游，我觉得这个10年老游戏又回来了。",
-          "link": "https://mp.weixin.qq.com/s/rxG3VsuuFofiHN6TfMXAVg",
-          "publishedOn": "2021-10-10T16:32:48.000Z",
-          "wordCount": 150,
-          "title": "体验了LOL手游，我觉得这个10年老游戏又回来了。"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/b2ICiK2jK40eErsOR-kqBw",
-          "author": null,
-          "description": "这个万字处罚书，不仅罚了美团34亿，还扒开了它的秘密。。。",
-          "link": "https://mp.weixin.qq.com/s/b2ICiK2jK40eErsOR-kqBw",
-          "publishedOn": "2021-10-10T16:32:48.000Z",
-          "wordCount": 258,
-          "title": "这个万字处罚书，不仅罚了美团34亿，还扒开了它的秘密。。。"
         }
       ]
     },

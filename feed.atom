@@ -1,10 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-11-01T00:59:07.699Z</id>
+    <id>urn:2021-11-02T00:59:37.988Z</id>
     <title>osmos::feed</title>
-    <updated>2021-11-01T00:59:07.699Z</updated>
+    <updated>2021-11-02T00:59:37.988Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[字节推行1075工作制，小米社区现严重Bug，工信部要求保障网盘免费用户下载速率，个人信息保护法实施，这就是今天的其他大新闻！]]></title>
+        <id>https://mp.weixin.qq.com/s/dhryq9_Lr7IOzoeoNhr58Q</id>
+        <link href="https://mp.weixin.qq.com/s/dhryq9_Lr7IOzoeoNhr58Q"/>
+        <updated>2021-11-01T18:51:08.000Z</updated>
+        <summary type="html"><![CDATA[字节推行1075工作制，小米社区现严重Bug，工信部要求保障网盘免费用户下载速率，个人信息保护法实施，这就是今天的其他大新闻！]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[聊一聊：双十一买到了什么很划算的东西？]]></title>
+        <id>https://mp.weixin.qq.com/s/FwOowiErKYxg_-NmgZ-Vwg</id>
+        <link href="https://mp.weixin.qq.com/s/FwOowiErKYxg_-NmgZ-Vwg"/>
+        <updated>2021-11-01T18:51:08.000Z</updated>
+        <summary type="html"><![CDATA[聊一聊：双十一买到了什么很划算的东西？]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今日最佳：签收快递成精现场。]]></title>
+        <id>https://mp.weixin.qq.com/s/4PCNqfpvs_zwP6B7vKIRHw</id>
+        <link href="https://mp.weixin.qq.com/s/4PCNqfpvs_zwP6B7vKIRHw"/>
+        <updated>2021-11-01T18:51:08.000Z</updated>
+        <summary type="html"><![CDATA[今日最佳：签收快递成精现场。]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谁再说冷，我上去就是一个滑铲。]]></title>
+        <id>https://mp.weixin.qq.com/s/j7vnJxxAEsLwgG502MjesA</id>
+        <link href="https://mp.weixin.qq.com/s/j7vnJxxAEsLwgG502MjesA"/>
+        <updated>2021-11-01T18:51:08.000Z</updated>
+        <summary type="html"><![CDATA[谁再说冷，我上去就是一个滑铲。]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[发售3天卖了10万份，这独立游戏好玩到让我通宵打牌。。。]]></title>
+        <id>https://mp.weixin.qq.com/s/W3tFgMQxYcMMArNu54ALJw</id>
+        <link href="https://mp.weixin.qq.com/s/W3tFgMQxYcMMArNu54ALJw"/>
+        <updated>2021-11-01T18:51:08.000Z</updated>
+        <summary type="html"><![CDATA[发售3天卖了10万份，这独立游戏好玩到让我通宵打牌。。。]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[多到一块硬盘都存不下的小姐姐们，未来能直接刻进你的DNA?]]></title>
+        <id>https://mp.weixin.qq.com/s/jyXKjX5WeBFKQ5PZ6Po-Gw</id>
+        <link href="https://mp.weixin.qq.com/s/jyXKjX5WeBFKQ5PZ6Po-Gw"/>
+        <updated>2021-11-01T18:51:08.000Z</updated>
+        <summary type="html"><![CDATA[多到一块硬盘都存不下的小姐姐们，未来能直接刻进你的DNA?]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[68亿让百世卖身，这个小老弟曾靠“蹭网”把大哥们都搞急了。。。]]></title>
+        <id>https://mp.weixin.qq.com/s/2sobALdQWHNd2J1rRKlTHA</id>
+        <link href="https://mp.weixin.qq.com/s/2sobALdQWHNd2J1rRKlTHA"/>
+        <updated>2021-11-01T18:51:08.000Z</updated>
+        <summary type="html"><![CDATA[68亿让百世卖身，这个小老弟曾靠“蹭网”把大哥们都搞急了。。。]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[云鸟科技员工声讨CEO，金嗓子宣布退市，格力回应在美被罚款，Roblox暂时关闭，这就是今天的其他大新闻！]]></title>
         <id>https://mp.weixin.qq.com/s/kILgYq6PUXy4D0L7AKkHeg</id>
@@ -1105,76 +1175,6 @@ Thank you: @hirdot]]></summary>
         <link href="https://mp.weixin.qq.com/s/4Rj338GI300aSY6GHB3-bw"/>
         <updated>2021-10-11T16:32:58.000Z</updated>
         <summary type="html"><![CDATA[微信偷偷访问相册，这些App真的有那么叛逆吗？]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[种草这件事，在数码爱好者身上就会变成科工研究。。。]]></title>
-        <id>https://mp.weixin.qq.com/s/mZ5av2TVXdMX0jnzE62p6w</id>
-        <link href="https://mp.weixin.qq.com/s/mZ5av2TVXdMX0jnzE62p6w"/>
-        <updated>2021-10-11T16:32:58.000Z</updated>
-        <summary type="html"><![CDATA[种草这件事，在数码爱好者身上就会变成科工研究。。。]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美团App被曝不间断定位，三星Galaxy S22机模曝光，下一代显卡接口现身，顺丰赔付协议惹争议，这就是今天的其他大新闻！]]></title>
-        <id>https://mp.weixin.qq.com/s/vM-QZP06HUu3pQPpCCXy9A</id>
-        <link href="https://mp.weixin.qq.com/s/vM-QZP06HUu3pQPpCCXy9A"/>
-        <updated>2021-10-10T16:32:48.000Z</updated>
-        <summary type="html"><![CDATA[美团App被曝不间断定位，三星Galaxy S22机模曝光，下一代显卡接口现身，顺丰赔付协议惹争议，这就是今天的其他大新闻！]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[聊一聊：除了kindle，你有哪些一直在吃灰的东西？]]></title>
-        <id>https://mp.weixin.qq.com/s/mo1ncVT4sYXUasH1gJtgHg</id>
-        <link href="https://mp.weixin.qq.com/s/mo1ncVT4sYXUasH1gJtgHg"/>
-        <updated>2021-10-10T16:32:48.000Z</updated>
-        <summary type="html"><![CDATA[聊一聊：除了kindle，你有哪些一直在吃灰的东西？]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今日最佳：外国人看的大熊猫好像不太一样。]]></title>
-        <id>https://mp.weixin.qq.com/s/jcxyNvW_vZXWO2xbcw_VNQ</id>
-        <link href="https://mp.weixin.qq.com/s/jcxyNvW_vZXWO2xbcw_VNQ"/>
-        <updated>2021-10-10T16:32:48.000Z</updated>
-        <summary type="html"><![CDATA[今日最佳：外国人看的大熊猫好像不太一样。]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021下半年降噪蓝牙耳机怎么选？我直呼「卷得好」！]]></title>
-        <id>https://mp.weixin.qq.com/s/fsdYe2fZtGWhqL9OE0jxtQ</id>
-        <link href="https://mp.weixin.qq.com/s/fsdYe2fZtGWhqL9OE0jxtQ"/>
-        <updated>2021-10-10T16:32:48.000Z</updated>
-        <summary type="html"><![CDATA[2021下半年降噪蓝牙耳机怎么选？我直呼「卷得好」！]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[体验了LOL手游，我觉得这个10年老游戏又回来了。]]></title>
-        <id>https://mp.weixin.qq.com/s/rxG3VsuuFofiHN6TfMXAVg</id>
-        <link href="https://mp.weixin.qq.com/s/rxG3VsuuFofiHN6TfMXAVg"/>
-        <updated>2021-10-10T16:32:48.000Z</updated>
-        <summary type="html"><![CDATA[体验了LOL手游，我觉得这个10年老游戏又回来了。]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这个万字处罚书，不仅罚了美团34亿，还扒开了它的秘密。。。]]></title>
-        <id>https://mp.weixin.qq.com/s/b2ICiK2jK40eErsOR-kqBw</id>
-        <link href="https://mp.weixin.qq.com/s/b2ICiK2jK40eErsOR-kqBw"/>
-        <updated>2021-10-10T16:32:48.000Z</updated>
-        <summary type="html"><![CDATA[这个万字处罚书，不仅罚了美团34亿，还扒开了它的秘密。。。]]></summary>
         <author>
             <name>差评</name>
         </author>
