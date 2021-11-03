@@ -1,10 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-11-02T00:59:37.988Z</id>
+    <id>urn:2021-11-03T00:56:06.735Z</id>
     <title>osmos::feed</title>
-    <updated>2021-11-02T00:59:37.988Z</updated>
+    <updated>2021-11-03T00:56:06.735Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[雅虎停止中国产品及服务，头条西瓜等并入抖音，百度申请metaapp商标，完美世界因重售绝版道具被罚，这就是今天的其他大新闻！]]></title>
+        <id>https://mp.weixin.qq.com/s/zgK--wBGhMWMJjzW5HinBA</id>
+        <link href="https://mp.weixin.qq.com/s/zgK--wBGhMWMJjzW5HinBA"/>
+        <updated>2021-11-02T18:51:22.000Z</updated>
+        <summary type="html"><![CDATA[雅虎停止中国产品及服务，头条西瓜等并入抖音，百度申请metaapp商标，完美世界因重售绝版道具被罚，这就是今天的其他大新闻！]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[聊一聊：你们公司正在用什么工具办公？]]></title>
+        <id>https://mp.weixin.qq.com/s/eQfX1eMGfbfR9qO8YdpiDQ</id>
+        <link href="https://mp.weixin.qq.com/s/eQfX1eMGfbfR9qO8YdpiDQ"/>
+        <updated>2021-11-02T18:51:22.000Z</updated>
+        <summary type="html"><![CDATA[聊一聊：你们公司正在用什么工具办公？]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今日最佳：用中国魔法打败澳洲诈骗。]]></title>
+        <id>https://mp.weixin.qq.com/s/9ZWZEHvPKkuTVt2NynE1XQ</id>
+        <link href="https://mp.weixin.qq.com/s/9ZWZEHvPKkuTVt2NynE1XQ"/>
+        <updated>2021-11-02T18:51:22.000Z</updated>
+        <summary type="html"><![CDATA[今日最佳：用中国魔法打败澳洲诈骗。]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[南方人和北方人到底谁最怕冷？]]></title>
+        <id>https://mp.weixin.qq.com/s/iYu15stuAu4Zsf8rb-rgZw</id>
+        <link href="https://mp.weixin.qq.com/s/iYu15stuAu4Zsf8rb-rgZw"/>
+        <updated>2021-11-02T18:51:22.000Z</updated>
+        <summary type="html"><![CDATA[南方人和北方人到底谁最怕冷？]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[暴涨23倍后迅速归零，这个蹭了《鱿鱼游戏》的虚拟币有多离谱？]]></title>
+        <id>https://mp.weixin.qq.com/s/AuFGa-m9VFtPL4JdVvckuA</id>
+        <link href="https://mp.weixin.qq.com/s/AuFGa-m9VFtPL4JdVvckuA"/>
+        <updated>2021-11-02T18:51:22.000Z</updated>
+        <summary type="html"><![CDATA[暴涨23倍后迅速归零，这个蹭了《鱿鱼游戏》的虚拟币有多离谱？]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[买断变订阅，这个背刺老用户的应用从排名第一被骂成了热搜第一。]]></title>
+        <id>https://mp.weixin.qq.com/s/Gb4T0TyIIW51-Vm5ggdCCQ</id>
+        <link href="https://mp.weixin.qq.com/s/Gb4T0TyIIW51-Vm5ggdCCQ"/>
+        <updated>2021-11-02T18:51:22.000Z</updated>
+        <summary type="html"><![CDATA[买断变订阅，这个背刺老用户的应用从排名第一被骂成了热搜第一。]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在视频网站，有500万人通过看洗牙视频寻找“快感”。]]></title>
+        <id>https://mp.weixin.qq.com/s/qY02PflzFuwYbuQLsdTe8A</id>
+        <link href="https://mp.weixin.qq.com/s/qY02PflzFuwYbuQLsdTe8A"/>
+        <updated>2021-11-02T18:51:22.000Z</updated>
+        <summary type="html"><![CDATA[在视频网站，有500万人通过看洗牙视频寻找“快感”。]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国首钢用尾气合成出蛋白质，这个全球首次的技术为啥还被喷了？]]></title>
+        <id>https://mp.weixin.qq.com/s/dgEhUSPeWbec5XiZpY8j2g</id>
+        <link href="https://mp.weixin.qq.com/s/dgEhUSPeWbec5XiZpY8j2g"/>
+        <updated>2021-11-02T18:51:22.000Z</updated>
+        <summary type="html"><![CDATA[中国首钢用尾气合成出蛋白质，这个全球首次的技术为啥还被喷了？]]></summary>
+        <author>
+            <name>差评</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[字节推行1075工作制，小米社区现严重Bug，工信部要求保障网盘免费用户下载速率，个人信息保护法实施，这就是今天的其他大新闻！]]></title>
         <id>https://mp.weixin.qq.com/s/dhryq9_Lr7IOzoeoNhr58Q</id>
@@ -1095,86 +1175,6 @@ Thank you: @hirdot]]></summary>
         <link href="https://mp.weixin.qq.com/s/wJP2Tp_BXUN9QedxQcm2Vw"/>
         <updated>2021-10-12T16:33:07.000Z</updated>
         <summary type="html"><![CDATA[摄影大赛结果出炉！这届差友越来越会拍了！]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这个国庆，让我深刻地意识到，电动车为什么是「爹」。]]></title>
-        <id>https://mp.weixin.qq.com/s/1PsrRL8F1zV5OO8ojTRPzw</id>
-        <link href="https://mp.weixin.qq.com/s/1PsrRL8F1zV5OO8ojTRPzw"/>
-        <updated>2021-10-12T16:33:07.000Z</updated>
-        <summary type="html"><![CDATA[这个国庆，让我深刻地意识到，电动车为什么是「爹」。]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[消防车屁股上的导弹，原来真的可以发射出去？]]></title>
-        <id>https://mp.weixin.qq.com/s/Gv7Ec2O8rwX7KmspkXjF5A</id>
-        <link href="https://mp.weixin.qq.com/s/Gv7Ec2O8rwX7KmspkXjF5A"/>
-        <updated>2021-10-12T16:33:07.000Z</updated>
-        <summary type="html"><![CDATA[消防车屁股上的导弹，原来真的可以发射出去？]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大众点评回应王思聪手机号被改绑，特斯拉回应车主花圈维权，微信取消外链卡片式转发，钉钉打卡作弊制作者被判，这就是今天的其他大新闻！]]></title>
-        <id>https://mp.weixin.qq.com/s/4HfGX6w9k5A0tQE5dfNqpg</id>
-        <link href="https://mp.weixin.qq.com/s/4HfGX6w9k5A0tQE5dfNqpg"/>
-        <updated>2021-10-11T16:32:58.000Z</updated>
-        <summary type="html"><![CDATA[大众点评回应王思聪手机号被改绑，特斯拉回应车主花圈维权，微信取消外链卡片式转发，钉钉打卡作弊制作者被判，这就是今天的其他大新闻！]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[聊一聊：你有过什么冲动消费？]]></title>
-        <id>https://mp.weixin.qq.com/s/vn5YZ3ESziT55wMxBcyoQg</id>
-        <link href="https://mp.weixin.qq.com/s/vn5YZ3ESziT55wMxBcyoQg"/>
-        <updated>2021-10-11T16:32:58.000Z</updated>
-        <summary type="html"><![CDATA[聊一聊：你有过什么冲动消费？]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今日最佳：别用你的爱好挑战我的饭碗。]]></title>
-        <id>https://mp.weixin.qq.com/s/Nnh91-gCDP_kl4iZsIwQ9Q</id>
-        <link href="https://mp.weixin.qq.com/s/Nnh91-gCDP_kl4iZsIwQ9Q"/>
-        <updated>2021-10-11T16:32:58.000Z</updated>
-        <summary type="html"><![CDATA[今日最佳：别用你的爱好挑战我的饭碗。]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[老司机用什么姿势开车最舒服？]]></title>
-        <id>https://mp.weixin.qq.com/s/tJeT_Ur6kBTrNRhTSNvMzA</id>
-        <link href="https://mp.weixin.qq.com/s/tJeT_Ur6kBTrNRhTSNvMzA"/>
-        <updated>2021-10-11T16:32:58.000Z</updated>
-        <summary type="html"><![CDATA[老司机用什么姿势开车最舒服？]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我们上手了龙芯电脑，这个国产自研处理器现在好用吗？]]></title>
-        <id>https://mp.weixin.qq.com/s/rQrU49eEE8YYXsbLEBMaJg</id>
-        <link href="https://mp.weixin.qq.com/s/rQrU49eEE8YYXsbLEBMaJg"/>
-        <updated>2021-10-11T16:32:58.000Z</updated>
-        <summary type="html"><![CDATA[我们上手了龙芯电脑，这个国产自研处理器现在好用吗？]]></summary>
-        <author>
-            <name>差评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微信偷偷访问相册，这些App真的有那么叛逆吗？]]></title>
-        <id>https://mp.weixin.qq.com/s/4Rj338GI300aSY6GHB3-bw</id>
-        <link href="https://mp.weixin.qq.com/s/4Rj338GI300aSY6GHB3-bw"/>
-        <updated>2021-10-11T16:32:58.000Z</updated>
-        <summary type="html"><![CDATA[微信偷偷访问相册，这些App真的有那么叛逆吗？]]></summary>
         <author>
             <name>差评</name>
         </author>
